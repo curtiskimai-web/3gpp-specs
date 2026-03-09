@@ -4,104 +4,119 @@
     "no": "27.001",
     "title": "General on Terminal Adaptation Functions (TAF) for Mobile Stations (MS)",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/27001.htm"
+    "link": "https://www.3gpp.org/dynareport/27001.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/27_series/27.001/27001-j00.zip"
   },
   {
     "type": "TS",
     "no": "27.002",
     "title": "Terminal Adaptation Functions (TAF) for services using asynchronous bearer capabilities",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/27002.htm"
+    "link": "https://www.3gpp.org/dynareport/27002.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/27_series/27.002/27002_330.zip"
   },
   {
     "type": "TS",
     "no": "27.003",
     "title": "Terminal Adaptation Functions (TAF) for services using synchronous bearer capabilities",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/27003.htm"
+    "link": "https://www.3gpp.org/dynareport/27003.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/27_series/27.003/27003-j00.zip"
   },
   {
     "type": "TS",
     "no": "27.005",
     "title": "Use of Data Terminal Equipment - Data Circuit terminating Equipment (DTE - DCE) interface for Short Message Service (SMS) and Cell Broadcast Service (CBS)",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/27005.htm"
+    "link": "https://www.3gpp.org/dynareport/27005.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/27_series/27.005/27005-j00.zip"
   },
   {
     "type": "TS",
     "no": "27.007",
     "title": "AT command set for User Equipment (UE)",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/27007.htm"
+    "link": "https://www.3gpp.org/dynareport/27007.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/27_series/27.007/27007-j50.zip"
   },
   {
     "type": "TR",
     "no": "27.00",
     "title": "Principles for handling of data services in the UMTS",
     "withdrawn": true,
-    "link": "https://www.3gpp.org/dynareport/2700U.htm"
+    "link": "https://www.3gpp.org/dynareport/2700U.htm",
+    "ftp_latest": null
   },
   {
     "type": "TS",
     "no": "27.010",
     "title": "Terminal Equipment to User Equipment (TE-UE) multiplexer protocol",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/27010.htm"
+    "link": "https://www.3gpp.org/dynareport/27010.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/27_series/27.010/27010-j00.zip"
   },
   {
     "type": "TS",
     "no": "27.060",
     "title": "Packet domain;  Mobile Station (MS) supporting Packet Switched services",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/27060.htm"
+    "link": "https://www.3gpp.org/dynareport/27060.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/27_series/27.060/27060-j00.zip"
   },
   {
     "type": "TS",
     "no": "27.103",
     "title": "Wide Area Network Synchronization",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/27103.htm"
+    "link": "https://www.3gpp.org/dynareport/27103.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/27_series/27.103/27103-500.zip"
   },
   {
     "type": "TS",
     "no": "27.104",
     "title": "vObjects and other constructs for data synchronization",
     "withdrawn": true,
-    "link": "https://www.3gpp.org/dynareport/27104.htm"
+    "link": "https://www.3gpp.org/dynareport/27104.htm",
+    "ftp_latest": null
   },
   {
     "type": "TS",
     "no": "27.150",
     "title": "(Reserved for: \"Telecommunication management;  User Equipment Management (UEM);  UEM protocol specification; Stage 3\")",
     "withdrawn": true,
-    "link": "https://www.3gpp.org/dynareport/27150.htm"
+    "link": "https://www.3gpp.org/dynareport/27150.htm",
+    "ftp_latest": null
   },
   {
     "type": "TS",
     "no": "27.226",
     "title": "Global Text telephony (GTT);Terminal aspects",
     "withdrawn": true,
-    "link": "https://www.3gpp.org/dynareport/27226.htm"
+    "link": "https://www.3gpp.org/dynareport/27226.htm",
+    "ftp_latest": null
   },
   {
     "type": "TS",
     "no": "27.241",
     "title": "3GPP generic user profile requirements; Stage 3; Access; Common objects",
     "withdrawn": true,
-    "link": "https://www.3gpp.org/dynareport/27241.htm"
+    "link": "https://www.3gpp.org/dynareport/27241.htm",
+    "ftp_latest": null
   },
   {
     "type": "TR",
     "no": "27.901",
     "title": "Report on Terminal Interfaces - An Overview",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/27901.htm"
+    "link": "https://www.3gpp.org/dynareport/27901.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/27_series/27.901/27901-500.zip"
   },
   {
     "type": "TR",
     "no": "27.903",
     "title": "Discussion of synchronization standards",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/27903.htm"
+    "link": "https://www.3gpp.org/dynareport/27903.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/27_series/27.903/27903-400.zip"
   }
 ]

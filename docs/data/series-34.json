@@ -4,195 +4,223 @@
     "no": "34.01",
     "title": "Application integration and application programming interfaces",
     "withdrawn": true,
-    "link": "https://www.3gpp.org/dynareport/3401U.htm"
+    "link": "https://www.3gpp.org/dynareport/3401U.htm",
+    "ftp_latest": null
   },
   {
     "type": "TS",
     "no": "34.108",
     "title": "Common test environments for User Equipment (UE); Conformance testing",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/34108.htm"
+    "link": "https://www.3gpp.org/dynareport/34108.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/34_series/34.108/34108-f20.zip"
   },
   {
     "type": "TS",
     "no": "34.109",
     "title": "Terminal logical test interface; Special conformance testing functions",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/34109.htm"
+    "link": "https://www.3gpp.org/dynareport/34109.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/34_series/34.109/34109-j00.zip"
   },
   {
     "type": "TS",
     "no": "34.114",
     "title": "User Equipment (UE) / Mobile Station (MS) Over The Air (OTA) antenna performance; Conformance testing",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/34114.htm"
+    "link": "https://www.3gpp.org/dynareport/34114.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/34_series/34.114/34114-c20.zip"
   },
   {
     "type": "TS",
     "no": "34.121",
     "title": "Terminal conformance specification, Radio transmission and reception (FDD)",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/34121.htm"
+    "link": "https://www.3gpp.org/dynareport/34121.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/34_series/34.121/34121-640.zip"
   },
   {
     "type": "TS",
     "no": "34.121-1",
     "title": "User Equipment (UE) conformance specification; Radio transmission and reception (FDD); Part 1: Conformance specification",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/34121-1.htm"
+    "link": "https://www.3gpp.org/dynareport/34121-1.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/34_series/34.121-1/34121-1-g20.zip"
   },
   {
     "type": "TS",
     "no": "34.121-2",
     "title": "User Equipment (UE) conformance specification; Radio transmission and reception (FDD); Part 2: Implementation Conformance Statement (ICS)",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/34121-2.htm"
+    "link": "https://www.3gpp.org/dynareport/34121-2.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/34_series/34.121-2/34121-2-f10.zip"
   },
   {
     "type": "TS",
     "no": "34.122",
     "title": "Terminal conformance specification; Radio transmission and reception (TDD)",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/34122.htm"
+    "link": "https://www.3gpp.org/dynareport/34122.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/34_series/34.122/34122-bd0.zip"
   },
   {
     "type": "TS",
     "no": "34.123-1",
     "title": "User Equipment (UE) conformance specification; Part 1: Protocol conformance specification",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/34123-1.htm"
+    "link": "https://www.3gpp.org/dynareport/34123-1.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/34_series/34.123-1/34123-1-f80.zip"
   },
   {
     "type": "TS",
     "no": "34.123-2",
     "title": "User Equipment (UE) conformance specification; Part 2: Implementation conformance statement (ICS) proforma specification",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/34123-2.htm"
+    "link": "https://www.3gpp.org/dynareport/34123-2.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/34_series/34.123-2/34123-2-f70.zip"
   },
   {
     "type": "TS",
     "no": "34.123-3",
     "title": "User Equipment (UE) conformance specification; Part 3: Abstract test suite (ATS)",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/34123-3.htm"
+    "link": "https://www.3gpp.org/dynareport/34123-3.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/34_series/34.123-3/34123-3-i30.zip"
   },
   {
     "type": "TS",
     "no": "34.124",
     "title": "Electromagnetic compatibility (EMC) requirements for mobile terminals and ancillary equipment",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/34124.htm"
+    "link": "https://www.3gpp.org/dynareport/34124.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/34_series/34.124/34124-j00.zip"
   },
   {
     "type": "TS",
     "no": "34.131",
     "title": "Test Specification for C-language binding to (Universal) Subscriber Interface Module ((U)SIM) Application Programming Interface (API)",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/34131.htm"
+    "link": "https://www.3gpp.org/dynareport/34131.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/34_series/34.131/34131-j00.zip"
   },
   {
     "type": "TS",
     "no": "34.171",
     "title": "Terminal conformance specification; Assisted Global Positioning System (A-GPS); Frequency Division Duplex (FDD)",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/34171.htm"
+    "link": "https://www.3gpp.org/dynareport/34171.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/34_series/34.171/34171-940.zip"
   },
   {
     "type": "TS",
     "no": "34.172",
     "title": "Terminal conformance specification; Assisted Global Navigation Satellite Systems (A-GNSS); Frequency Division Duplex (FDD)",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/34172.htm"
+    "link": "https://www.3gpp.org/dynareport/34172.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/34_series/34.172/34172-a20.zip"
   },
   {
     "type": "TS",
     "no": "34.229-1",
     "title": "Internet Protocol (IP) multimedia call control protocol based on Session Initiation Protocol (SIP) and Session Description Protocol (SDP); User Equipment (UE) conformance specification; Part 1: Protocol conformance specification",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/34229-1.htm"
+    "link": "https://www.3gpp.org/dynareport/34229-1.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/34_series/34.229-1/34229-1-j40.zip"
   },
   {
     "type": "TS",
     "no": "34.229-2",
     "title": "Internet Protocol (IP) multimedia call control protocol based on Session Initiation Protocol (SIP) and Session Description Protocol (SDP); User Equipment (UE) conformance specification; Part 2: Implementation Conformance Statement (ICS) specification",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/34229-2.htm"
+    "link": "https://www.3gpp.org/dynareport/34229-2.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/34_series/34.229-2/34229-2-j30.zip"
   },
   {
     "type": "TS",
     "no": "34.229-3",
     "title": "Internet Protocol (IP) multimedia call control protocol based on Session Initiation Protocol (SIP) and Session Description Protocol (SDP); User Equipment (UE) conformance specification; Part 3: Abstract test suite (ATS)",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/34229-3.htm"
+    "link": "https://www.3gpp.org/dynareport/34229-3.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/34_series/34.229-3/34229-3-j20.zip"
   },
   {
     "type": "TS",
     "no": "34.229-4",
     "title": "Internet Protocol (IP) multimedia call control protocol based on Session Initiation Protocol (SIP) and Session Description Protocol (SDP); User Equipment (UE) conformance specification; Part 4: Enabler for IP multimedia applications testing",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/34229-4.htm"
+    "link": "https://www.3gpp.org/dynareport/34229-4.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/34_series/34.229-4/34229-4-b00.zip"
   },
   {
     "type": "TS",
     "no": "34.229-5",
     "title": "Internet Protocol (IP) multimedia call control protocol based on Session Initiation Protocol (SIP) and Session Description Protocol (SDP); User Equipment (UE) conformance specification; Part 5: Protocol conformance specification using 5G System (5GS)",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/34229-5.htm"
+    "link": "https://www.3gpp.org/dynareport/34229-5.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/34_series/34.229-5/34229-5-j30.zip"
   },
   {
     "type": "TR",
     "no": "34.801",
     "title": "(reserved for T1 RF group)",
     "withdrawn": true,
-    "link": "https://www.3gpp.org/dynareport/34801.htm"
+    "link": "https://www.3gpp.org/dynareport/34801.htm",
+    "ftp_latest": null
   },
   {
     "type": "TR",
     "no": "34.901",
     "title": "Test Time Optimisation based on statistical approaches; Statistical theory applied and evaluation of statistical significance",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/34901.htm"
+    "link": "https://www.3gpp.org/dynareport/34901.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/34_series/34.901/34901-300.zip"
   },
   {
     "type": "TR",
     "no": "34.902",
     "title": "Derivation of test tolerances for multi-cell Radio Resource Management (RRM) conformance tests",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/34902.htm"
+    "link": "https://www.3gpp.org/dynareport/34902.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/34_series/34.902/34902-b30.zip"
   },
   {
     "type": "TR",
     "no": "34.907",
     "title": "Report on electrical safety requirements and regulations",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/34907.htm"
+    "link": "https://www.3gpp.org/dynareport/34907.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/34_series/34.907/34907-300.zip"
   },
   {
     "type": "TR",
     "no": "34.910",
     "title": "Identification of test requirements for regulatory purposes in different regions/countries",
     "withdrawn": true,
-    "link": "https://www.3gpp.org/dynareport/34910.htm"
+    "link": "https://www.3gpp.org/dynareport/34910.htm",
+    "ftp_latest": null
   },
   {
     "type": "TR",
     "no": "34.925",
     "title": "Specific Absorption Rate (SAR) requirements and regulations in different regions",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/34925.htm"
+    "link": "https://www.3gpp.org/dynareport/34925.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/34_series/34.925/34925-300.zip"
   },
   {
     "type": "TR",
     "no": "34.926",
     "title": "Electromagnetic compatibility (EMC); Table of international requirements for mobile terminals and ancillary equipment",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/34926.htm"
+    "link": "https://www.3gpp.org/dynareport/34926.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/34_series/34.926/34926-j00.zip"
   },
   {
     "type": "TR",
     "no": "34.943",
     "title": "Analysis of difference between FDD and 1.28 Mcps TDD and corresponding effect on terminal conformance test in radio access stratum protocol aspects",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/34943.htm"
+    "link": "https://www.3gpp.org/dynareport/34943.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/34_series/34.943/34943-500.zip"
   }
 ]

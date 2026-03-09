@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-09T15:44:11Z",
+  "updated_at": "2026-03-09T16:02:02Z",
   "series": [
     {
       "series": 21,
@@ -7,7 +7,8 @@
       "total": 33,
       "ts": 12,
       "tr": 21,
-      "withdrawn": 11
+      "withdrawn": 11,
+      "ftp_found": 21
     },
     {
       "series": 22,
@@ -15,7 +16,8 @@
       "total": 270,
       "ts": 119,
       "tr": 151,
-      "withdrawn": 41
+      "withdrawn": 41,
+      "ftp_found": 229
     },
     {
       "series": 23,
@@ -23,7 +25,8 @@
       "total": 520,
       "ts": 188,
       "tr": 332,
-      "withdrawn": 82
+      "withdrawn": 82,
+      "ftp_found": 430
     },
     {
       "series": 24,
@@ -31,7 +34,8 @@
       "total": 215,
       "ts": 194,
       "tr": 21,
-      "withdrawn": 21
+      "withdrawn": 21,
+      "ftp_found": 193
     },
     {
       "series": 25,
@@ -39,7 +43,8 @@
       "total": 266,
       "ts": 101,
       "tr": 165,
-      "withdrawn": 50
+      "withdrawn": 50,
+      "ftp_found": 216
     },
     {
       "series": 26,
@@ -47,7 +52,8 @@
       "total": 249,
       "ts": 139,
       "tr": 110,
-      "withdrawn": 19
+      "withdrawn": 19,
+      "ftp_found": 227
     },
     {
       "series": 27,
@@ -55,7 +61,8 @@
       "total": 15,
       "ts": 12,
       "tr": 3,
-      "withdrawn": 5
+      "withdrawn": 5,
+      "ftp_found": 10
     },
     {
       "series": 28,
@@ -63,7 +70,8 @@
       "total": 248,
       "ts": 151,
       "tr": 97,
-      "withdrawn": 16
+      "withdrawn": 16,
+      "ftp_found": 230
     },
     {
       "series": 29,
@@ -71,7 +79,8 @@
       "total": 331,
       "ts": 263,
       "tr": 68,
-      "withdrawn": 26
+      "withdrawn": 26,
+      "ftp_found": 305
     },
     {
       "series": 31,
@@ -79,7 +88,8 @@
       "total": 42,
       "ts": 32,
       "tr": 10,
-      "withdrawn": 6
+      "withdrawn": 6,
+      "ftp_found": 35
     },
     {
       "series": 32,
@@ -87,7 +97,8 @@
       "total": 467,
       "ts": 388,
       "tr": 79,
-      "withdrawn": 75
+      "withdrawn": 75,
+      "ftp_found": 390
     },
     {
       "series": 33,
@@ -95,7 +106,8 @@
       "total": 275,
       "ts": 89,
       "tr": 186,
-      "withdrawn": 32
+      "withdrawn": 32,
+      "ftp_found": 240
     },
     {
       "series": 34,
@@ -103,7 +115,8 @@
       "total": 28,
       "ts": 20,
       "tr": 8,
-      "withdrawn": 3
+      "withdrawn": 3,
+      "ftp_found": 25
     },
     {
       "series": 35,
@@ -111,7 +124,8 @@
       "total": 41,
       "ts": 34,
       "tr": 7,
-      "withdrawn": 3
+      "withdrawn": 3,
+      "ftp_found": 38
     },
     {
       "series": 36,
@@ -119,7 +133,8 @@
       "total": 313,
       "ts": 90,
       "tr": 223,
-      "withdrawn": 35
+      "withdrawn": 35,
+      "ftp_found": 277
     },
     {
       "series": 37,
@@ -127,7 +142,8 @@
       "total": 142,
       "ts": 42,
       "tr": 100,
-      "withdrawn": 8
+      "withdrawn": 8,
+      "ftp_found": 134
     },
     {
       "series": 38,
@@ -135,7 +151,8 @@
       "total": 269,
       "ts": 96,
       "tr": 173,
-      "withdrawn": 5
+      "withdrawn": 5,
+      "ftp_found": 252
     }
   ]
 }

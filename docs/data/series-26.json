@@ -4,1742 +4,1991 @@
     "no": "26.071",
     "title": "Mandatory speech CODEC speech processing functions; AMR speech Codec; General description",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26071.htm"
+    "link": "https://www.3gpp.org/dynareport/26071.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.071/26071-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.073",
     "title": "ANSI-C code for the Adaptive Multi Rate (AMR) speech codec",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26073.htm"
+    "link": "https://www.3gpp.org/dynareport/26073.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.073/26073-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.074",
     "title": "Mandatory speech codec speech processing functions; Adaptive Multi-Rate (AMR) speech codec test sequences",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26074.htm"
+    "link": "https://www.3gpp.org/dynareport/26074.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.074/26074-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.075",
     "title": "Performance characterization of the Adaptive Multi-Rate (AMR) speech codec",
     "withdrawn": true,
-    "link": "https://www.3gpp.org/dynareport/26075.htm"
+    "link": "https://www.3gpp.org/dynareport/26075.htm",
+    "ftp_latest": null
   },
   {
     "type": "TS",
     "no": "26.077",
     "title": "Minimum performance requirements for Noise Suppresser; Application to the Adaptive Multi-Rate (AMR) speech encoder",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26077.htm"
+    "link": "https://www.3gpp.org/dynareport/26077.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.077/26077-j00.zip"
   },
   {
     "type": "TR",
     "no": "26.078",
     "title": "Results of the AMR noise suppression selection phase",
     "withdrawn": true,
-    "link": "https://www.3gpp.org/dynareport/26078.htm"
+    "link": "https://www.3gpp.org/dynareport/26078.htm",
+    "ftp_latest": null
   },
   {
     "type": "TS",
     "no": "26.090",
     "title": "Mandatory Speech Codec speech processing functions; Adaptive Multi-Rate (AMR) speech codec; Transcoding functions",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26090.htm"
+    "link": "https://www.3gpp.org/dynareport/26090.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.090/26090-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.091",
     "title": "Mandatory Speech Codec speech processing functions; Adaptive Multi-Rate (AMR) speech codec; Error concealment of lost frames",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26091.htm"
+    "link": "https://www.3gpp.org/dynareport/26091.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.091/26091-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.092",
     "title": "Mandatory speech codec speech processing functions; Adaptive Multi-Rate (AMR) speech codec; Comfort noise aspects",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26092.htm"
+    "link": "https://www.3gpp.org/dynareport/26092.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.092/26092-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.093",
     "title": "Mandatory speech codec speech processing functions Adaptive Multi-Rate (AMR) speech codec; Source controlled rate operation",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26093.htm"
+    "link": "https://www.3gpp.org/dynareport/26093.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.093/26093-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.094",
     "title": "Mandatory speech codec speech processing functions; Adaptive Multi-Rate (AMR) speech codec; Voice Activity Detector (VAD)",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26094.htm"
+    "link": "https://www.3gpp.org/dynareport/26094.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.094/26094-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.101",
     "title": "Mandatory speech codec speech processing functions; Adaptive Multi-Rate (AMR) speech codec frame structure",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26101.htm"
+    "link": "https://www.3gpp.org/dynareport/26101.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.101/26101-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.102",
     "title": "Mandatory speech codec; Adaptive Multi-Rate (AMR) speech codec; Interface to Iu, Uu and Nb",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26102.htm"
+    "link": "https://www.3gpp.org/dynareport/26102.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.102/26102-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.103",
     "title": "Speech codec list for GSM and UMTS",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26103.htm"
+    "link": "https://www.3gpp.org/dynareport/26103.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.103/26103-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.104",
     "title": "ANSI-C code for the floating-point Adaptive Multi-Rate (AMR) speech codec",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26104.htm"
+    "link": "https://www.3gpp.org/dynareport/26104.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.104/26104-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.110",
     "title": "Codec for circuit switched multimedia telephony service; General description",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26110.htm"
+    "link": "https://www.3gpp.org/dynareport/26110.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.110/26110-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.111",
     "title": "Codec for circuit switched multimedia telephony service; Modifications to H.324",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26111.htm"
+    "link": "https://www.3gpp.org/dynareport/26111.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.111/26111-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.112",
     "title": "Codec(s) for Circuit Switched Multimedia Telephony Service; Call Set-up Requirements",
     "withdrawn": true,
-    "link": "https://www.3gpp.org/dynareport/26112.htm"
+    "link": "https://www.3gpp.org/dynareport/26112.htm",
+    "ftp_latest": null
   },
   {
     "type": "TS",
     "no": "26.113",
     "title": "Real-Time Media Communication; Protocols and APIs",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26113.htm"
+    "link": "https://www.3gpp.org/dynareport/26113.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.113/26113-j10.zip"
   },
   {
     "type": "TS",
     "no": "26.114",
     "title": "IP Multimedia Subsystem (IMS); Multimedia Telephony; Media handling and interaction",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26114.htm"
+    "link": "https://www.3gpp.org/dynareport/26114.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.114/26114-j20.zip"
   },
   {
     "type": "TS",
     "no": "26.115",
     "title": "Echo control for speech and multimedia services",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26115.htm"
+    "link": "https://www.3gpp.org/dynareport/26115.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.115/26115d001.zip"
   },
   {
     "type": "TS",
     "no": "26.116",
     "title": "Television (TV) over 3GPP services; Video profiles",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26116.htm"
+    "link": "https://www.3gpp.org/dynareport/26116.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.116/26116-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.117",
     "title": "5G Media Streaming (5GMS); Speech and audio profiles",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26117.htm"
+    "link": "https://www.3gpp.org/dynareport/26117.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.117/26117-j10.zip"
   },
   {
     "type": "TS",
     "no": "26.118",
     "title": "Virtual Reality (VR) profiles for streaming applications",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26118.htm"
+    "link": "https://www.3gpp.org/dynareport/26118.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.118/26118-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.119",
     "title": "Media Capabilities for Augmented Reality",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26119.htm"
+    "link": "https://www.3gpp.org/dynareport/26119.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.119/26119-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.121",
     "title": "Technical Specification for Tandem Free Operation within 3G networks",
     "withdrawn": true,
-    "link": "https://www.3gpp.org/dynareport/26121.htm"
+    "link": "https://www.3gpp.org/dynareport/26121.htm",
+    "ftp_latest": null
   },
   {
     "type": "TS",
     "no": "26.122",
     "title": "Technical Specification for Tandem Free Operation between 3G and 2G networks",
     "withdrawn": true,
-    "link": "https://www.3gpp.org/dynareport/26122.htm"
+    "link": "https://www.3gpp.org/dynareport/26122.htm",
+    "ftp_latest": null
   },
   {
     "type": "TS",
     "no": "26.130",
     "title": "Speech/Audio Codec RTP Payload Format Conformance for UE Testing",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26130.htm"
+    "link": "https://www.3gpp.org/dynareport/26130.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.130/26130-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.131",
     "title": "Terminal acoustic characteristics for telephony; Requirements",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26131.htm"
+    "link": "https://www.3gpp.org/dynareport/26131.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.131/26131-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.132",
     "title": "Speech and video telephony terminal acoustic test specification",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26132.htm"
+    "link": "https://www.3gpp.org/dynareport/26132.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.132/26132d001_rev.zip"
   },
   {
     "type": "TS",
     "no": "26.133",
     "title": "Wide band speech telephony terminal acoustic characteristics",
     "withdrawn": true,
-    "link": "https://www.3gpp.org/dynareport/26133.htm"
+    "link": "https://www.3gpp.org/dynareport/26133.htm",
+    "ftp_latest": null
   },
   {
     "type": "TS",
     "no": "26.134",
     "title": "Wide band speech telephony terminal acoustic test specification",
     "withdrawn": true,
-    "link": "https://www.3gpp.org/dynareport/26134.htm"
+    "link": "https://www.3gpp.org/dynareport/26134.htm",
+    "ftp_latest": null
   },
   {
     "type": "TS",
     "no": "26.135",
     "title": "Terminal Display and Camera Characteristics for H.324 Narrow-band Video Telephony",
     "withdrawn": true,
-    "link": "https://www.3gpp.org/dynareport/26135.htm"
+    "link": "https://www.3gpp.org/dynareport/26135.htm",
+    "ftp_latest": null
   },
   {
     "type": "TS",
     "no": "26.136",
     "title": "Terminal Display and Camera Test Specifications for H.324 Narrow-band Video Telephony",
     "withdrawn": true,
-    "link": "https://www.3gpp.org/dynareport/26136.htm"
+    "link": "https://www.3gpp.org/dynareport/26136.htm",
+    "ftp_latest": null
   },
   {
     "type": "TS",
     "no": "26.137",
     "title": "Terminal Display and Camera Characteristics for H.323 Narrow-band Video Telephony",
     "withdrawn": true,
-    "link": "https://www.3gpp.org/dynareport/26137.htm"
+    "link": "https://www.3gpp.org/dynareport/26137.htm",
+    "ftp_latest": null
   },
   {
     "type": "TS",
     "no": "26.138",
     "title": "Terminal Display and Camera Test Specifications for H.323 Narrow-band Video Telephony",
     "withdrawn": true,
-    "link": "https://www.3gpp.org/dynareport/26138.htm"
+    "link": "https://www.3gpp.org/dynareport/26138.htm",
+    "ftp_latest": null
   },
   {
     "type": "TS",
     "no": "26.139",
     "title": "Real-time Transport Protocol (RTP) / RTP Control Protocol (RTCP) verification procedures",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26139.htm"
+    "link": "https://www.3gpp.org/dynareport/26139.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.139/26139-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.140",
     "title": "Multimedia Messaging Service (MMS); Media formats and codecs",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26140.htm"
+    "link": "https://www.3gpp.org/dynareport/26140.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.140/26140-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.141",
     "title": "IP Multimedia System (IMS) Messaging and Presence; Media formats and codecs",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26141.htm"
+    "link": "https://www.3gpp.org/dynareport/26141.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.141/26141-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.142",
     "title": "Dynamic and Interactive Multimedia Scenes (DIMS)",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26142.htm"
+    "link": "https://www.3gpp.org/dynareport/26142.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.142/26142-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.143",
     "title": "Messaging Media profiles",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26143.htm"
+    "link": "https://www.3gpp.org/dynareport/26143.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.143/26143-j10.zip"
   },
   {
     "type": "TS",
     "no": "26.150",
     "title": "Syndicated Feed Reception (SFR) within 3GPP environments; Protocols and codecs",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26150.htm"
+    "link": "https://www.3gpp.org/dynareport/26150.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.150/26150-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.15",
     "title": "Source coding aspects Aspects; Integration of audio visual coding into UMTS",
     "withdrawn": true,
-    "link": "https://www.3gpp.org/dynareport/2615U.htm"
+    "link": "https://www.3gpp.org/dynareport/2615U.htm",
+    "ftp_latest": null
   },
   {
     "type": "TS",
     "no": "26.171",
     "title": "Speech codec speech processing functions; Adaptive Multi-Rate - Wideband (AMR-WB) speech codec; General description",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26171.htm"
+    "link": "https://www.3gpp.org/dynareport/26171.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.171/26171-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.173",
     "title": "ANSI-C code for the Adaptive Multi-Rate - Wideband (AMR-WB) speech codec",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26173.htm"
+    "link": "https://www.3gpp.org/dynareport/26173.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.173/26173-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.174",
     "title": "Speech codec speech processing functions; Adaptive Multi-Rate - Wideband (AMR-WB) speech codec test sequences",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26174.htm"
+    "link": "https://www.3gpp.org/dynareport/26174.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.174/26174-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.177",
     "title": "Speech Enabled Services (SES); Distributed Speech Recognition (DSR) extended advanced front-end test sequences",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26177.htm"
+    "link": "https://www.3gpp.org/dynareport/26177.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.177/26177-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.179",
     "title": "Mission Critical Push To Talk (MCPTT); Codecs and media handling",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26179.htm"
+    "link": "https://www.3gpp.org/dynareport/26179.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.179/26179-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.190",
     "title": "Speech codec speech processing functions; Adaptive Multi-Rate - Wideband (AMR-WB) speech codec; Transcoding functions",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26190.htm"
+    "link": "https://www.3gpp.org/dynareport/26190.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.190/26190-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.191",
     "title": "Speech codec speech processing functions; Adaptive Multi-Rate - Wideband (AMR-WB) speech codec; Error concealment of erroneous or lost frames",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26191.htm"
+    "link": "https://www.3gpp.org/dynareport/26191.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.191/26191-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.192",
     "title": "Speech codec speech processing functions; Adaptive Multi-Rate - Wideband (AMR-WB) speech codec; Comfort noise aspects",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26192.htm"
+    "link": "https://www.3gpp.org/dynareport/26192.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.192/26192-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.193",
     "title": "Speech codec speech processing functions; Adaptive Multi-Rate - Wideband (AMR-WB) speech codec; Source controlled rate operation",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26193.htm"
+    "link": "https://www.3gpp.org/dynareport/26193.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.193/26193-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.194",
     "title": "Speech codec speech processing functions; Adaptive Multi-Rate - Wideband (AMR-WB) speech codec; Voice Activity Detector (VAD)",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26194.htm"
+    "link": "https://www.3gpp.org/dynareport/26194.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.194/26194-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.201",
     "title": "Speech codec speech processing functions; Adaptive Multi-Rate - Wideband (AMR-WB) speech codec; Frame structure",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26201.htm"
+    "link": "https://www.3gpp.org/dynareport/26201.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.201/26201-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.202",
     "title": "Speech codec speech processing functions; Adaptive Multi-Rate - Wideband (AMR-WB) speech codec; Interface to Iu, Uu and Nb",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26202.htm"
+    "link": "https://www.3gpp.org/dynareport/26202.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.202/26202-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.204",
     "title": "Speech codec speech processing functions; Adaptive Multi-Rate - Wideband (AMR-WB) speech codec; ANSI-C code",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26204.htm"
+    "link": "https://www.3gpp.org/dynareport/26204.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.204/26204-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.223",
     "title": "Telepresence using the IP Multimedia Subsystem (IMS); Media handling and interaction",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26223.htm"
+    "link": "https://www.3gpp.org/dynareport/26223.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.223/26223-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.226",
     "title": "Cellular text telephone modem; General description",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26226.htm"
+    "link": "https://www.3gpp.org/dynareport/26226.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.226/26226-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.230",
     "title": "Cellular text telephone modem; Transmitter bit exact C-code",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26230.htm"
+    "link": "https://www.3gpp.org/dynareport/26230.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.230/26230-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.231",
     "title": "Cellular text telephone modem; Minimum performance requirements",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26231.htm"
+    "link": "https://www.3gpp.org/dynareport/26231.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.231/26231-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.233",
     "title": "Transparent end-to-end Packet-switched Streaming service (PSS); General description",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26233.htm"
+    "link": "https://www.3gpp.org/dynareport/26233.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.233/26233-f00.zip"
   },
   {
     "type": "TS",
     "no": "26.234",
     "title": "Transparent end-to-end Packet-switched Streaming Service (PSS); Protocols and codecs",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26234.htm"
+    "link": "https://www.3gpp.org/dynareport/26234.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.234/26234-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.235",
     "title": "Packet switched conversational multimedia applications; Default codecs",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26235.htm"
+    "link": "https://www.3gpp.org/dynareport/26235.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.235/26235-c00.zip"
   },
   {
     "type": "TS",
     "no": "26.236",
     "title": "Packet switched conversational multimedia applications; Transport protocols",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26236.htm"
+    "link": "https://www.3gpp.org/dynareport/26236.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.236/26236-c00.zip"
   },
   {
     "type": "TS",
     "no": "26.237",
     "title": "IP Multimedia Subsystem (IMS) based Packet Switch Streaming (PSS) and Multimedia Broadcast/Multicast Service (MBMS) User Service; Protocols",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26237.htm"
+    "link": "https://www.3gpp.org/dynareport/26237.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.237/26237-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.238",
     "title": "Uplink streaming",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26238.htm"
+    "link": "https://www.3gpp.org/dynareport/26238.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.238/26238-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.243",
     "title": "ANSI-C code for the fixed-point distributed speech recognition extended advanced front-end",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26243.htm"
+    "link": "https://www.3gpp.org/dynareport/26243.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.243/26243-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.244",
     "title": "Transparent end-to-end packet switched streaming service (PSS); 3GPP file format (3GP)",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26244.htm"
+    "link": "https://www.3gpp.org/dynareport/26244.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.244/26244-j10.zip"
   },
   {
     "type": "TS",
     "no": "26.245",
     "title": "Transparent end-to-end Packet switched Streaming Service (PSS); Timed text format",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26245.htm"
+    "link": "https://www.3gpp.org/dynareport/26245.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.245/26245-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.246",
     "title": "Transparent end-to-end Packet-switched Streaming Service (PSS); 3GPP SMIL language profile",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26246.htm"
+    "link": "https://www.3gpp.org/dynareport/26246.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.246/26246-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.247",
     "title": "Transparent end-to-end Packet-switched Streaming Service (PSS); Progressive Download and Dynamic Adaptive Streaming over HTTP (3GP-DASH)",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26247.htm"
+    "link": "https://www.3gpp.org/dynareport/26247.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.247/26247-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.249",
     "title": "Immersive Audio for Split Rendering Scenarios; Detailed Algorithmic Description of Split Rendering Functions",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26249.htm"
+    "link": "https://www.3gpp.org/dynareport/26249.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.249/26249-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.250",
     "title": "Codec for Immersive Voice and Audio Services (IVAS); General overview",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26250.htm"
+    "link": "https://www.3gpp.org/dynareport/26250.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.250/26250-j10.zip"
   },
   {
     "type": "TS",
     "no": "26.251",
     "title": "Codec for Immersive Voice and Audio Services (IVAS); C code (fixed-point)",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26251.htm"
+    "link": "https://www.3gpp.org/dynareport/26251.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.251/26251-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.252",
     "title": "Codec for Immersive Voice and Audio Services (IVAS); Test sequences",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26252.htm"
+    "link": "https://www.3gpp.org/dynareport/26252.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.252/26252-j10.zip"
   },
   {
     "type": "TS",
     "no": "26.253",
     "title": "Codec for Immersive Voice and Audio Services (IVAS); Detailed Algorithmic Description including RTP payload format and SDP parameter definitions",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26253.htm"
+    "link": "https://www.3gpp.org/dynareport/26253.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.253/26253-j10.zip"
   },
   {
     "type": "TS",
     "no": "26.254",
     "title": "Codec for Immersive Voice and Audio Services (IVAS); Rendering",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26254.htm"
+    "link": "https://www.3gpp.org/dynareport/26254.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.254/26254-j10.zip"
   },
   {
     "type": "TS",
     "no": "26.255",
     "title": "Codec for Immersive Voice and Audio Services (IVAS); Error concealment of lost packets",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26255.htm"
+    "link": "https://www.3gpp.org/dynareport/26255.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.255/26255-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.256",
     "title": "Codec for Immersive Voice and Audio Services (IVAS); Jitter Buffer Management",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26256.htm"
+    "link": "https://www.3gpp.org/dynareport/26256.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.256/26256-j10.zip"
   },
   {
     "type": "TS",
     "no": "26.258",
     "title": "Codec for Immersive Voice and Audio Services (IVAS); C code (floating-point)",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26258.htm"
+    "link": "https://www.3gpp.org/dynareport/26258.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.258/26258-j10.zip"
   },
   {
     "type": "TS",
     "no": "26.259",
     "title": "Subjective test methodologies for the evaluation of immersive audio systems",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26259.htm"
+    "link": "https://www.3gpp.org/dynareport/26259.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.259/26259-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.260",
     "title": "Objective test methodologies for the evaluation of immersive audio systems",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26260.htm"
+    "link": "https://www.3gpp.org/dynareport/26260.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.260/26260-j10.zip"
   },
   {
     "type": "TS",
     "no": "26.261",
     "title": "Terminal audio quality performance requirements for immersive audio services",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26261.htm"
+    "link": "https://www.3gpp.org/dynareport/26261.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.261/26261-j10.zip"
   },
   {
     "type": "TS",
     "no": "26.264",
     "title": "IMS-based AR Real-Time Communication",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26264.htm"
+    "link": "https://www.3gpp.org/dynareport/26264.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.264/26264-j10.zip"
   },
   {
     "type": "TS",
     "no": "26.265",
     "title": "Media Delivery: Video Capabilities and Operation Points",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26265.htm"
+    "link": "https://www.3gpp.org/dynareport/26265.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.265/26265-j10.zip"
   },
   {
     "type": "TS",
     "no": "26.267",
     "title": "eCall data transfer; In-band modem solution; General description",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26267.htm"
+    "link": "https://www.3gpp.org/dynareport/26267.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.267/26267-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.268",
     "title": "eCall data transfer; In-band modem solution; ANSI-C reference code",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26268.htm"
+    "link": "https://www.3gpp.org/dynareport/26268.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.268/26268-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.269",
     "title": "eCall data transfer; In-band modem solution; Conformance testing",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26269.htm"
+    "link": "https://www.3gpp.org/dynareport/26269.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.269/26269-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.273",
     "title": "ANSI-C code for the fixed-point Extended Adaptive Multi-Rate - Wideband (AMR-WB+) speech codec",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26273.htm"
+    "link": "https://www.3gpp.org/dynareport/26273.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.273/26273-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.274",
     "title": "Audio codec processing functions; Extended Adaptive Multi-Rate - Wideband (AMR-WB+) speech codec; Conformance testing",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26274.htm"
+    "link": "https://www.3gpp.org/dynareport/26274.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.274/26274-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.281",
     "title": "Mission Critical Video (MCVideo); Codecs and media handling",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26281.htm"
+    "link": "https://www.3gpp.org/dynareport/26281.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.281/26281-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.290",
     "title": "Audio codec processing functions; Extended Adaptive Multi-Rate - Wideband (AMR-WB+) codec; Transcoding functions",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26290.htm"
+    "link": "https://www.3gpp.org/dynareport/26290.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.290/26290-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.304",
     "title": "Extended Adaptive Multi-Rate - Wideband (AMR-WB+) codec; Floating-point ANSI-C code",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26304.htm"
+    "link": "https://www.3gpp.org/dynareport/26304.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.304/26304-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.307",
     "title": "Presentation layer for 3GPP services",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26307.htm"
+    "link": "https://www.3gpp.org/dynareport/26307.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.307/26307-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.346",
     "title": "Multimedia Broadcast/Multicast Service (MBMS); Protocols and codecs",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26346.htm"
+    "link": "https://www.3gpp.org/dynareport/26346.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.346/26346-j30.zip"
   },
   {
     "type": "TS",
     "no": "26.347",
     "title": "Multimedia Broadcast/Multicast Service (MBMS); Application Programming Interface and URL",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26347.htm"
+    "link": "https://www.3gpp.org/dynareport/26347.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.347/26347-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.348",
     "title": "Northbound Application Programming Interface (API) for Multimedia Broadcast/Multicast Service (MBMS) at the xMB reference point",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26348.htm"
+    "link": "https://www.3gpp.org/dynareport/26348.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.348/26348-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.401",
     "title": "General audio codec audio processing functions; Enhanced aacPlus general audio codec; General description",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26401.htm"
+    "link": "https://www.3gpp.org/dynareport/26401.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.401/26401-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.402",
     "title": "General audio codec audio processing functions; Enhanced aacPlus general audio codec; Additional decoder tools",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26402.htm"
+    "link": "https://www.3gpp.org/dynareport/26402.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.402/26402-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.403",
     "title": "General audio codec audio processing functions; Enhanced aacPlus general audio codec; Encoder specification; Advanced Audio Coding (AAC) part",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26403.htm"
+    "link": "https://www.3gpp.org/dynareport/26403.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.403/26403-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.404",
     "title": "General audio codec audio processing functions; Enhanced aacPlus general audio codec; Enhanced aacPlus encoder Spectral Band Replication (SBR) part",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26404.htm"
+    "link": "https://www.3gpp.org/dynareport/26404.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.404/26404-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.405",
     "title": "General audio codec audio processing functions; Enhanced aacPlus general audio codec; Encoder specification parametric stereo part",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26405.htm"
+    "link": "https://www.3gpp.org/dynareport/26405.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.405/26405-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.406",
     "title": "General audio codec audio processing functions; Enhanced aacPlus general audio codec; Conformance testing",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26406.htm"
+    "link": "https://www.3gpp.org/dynareport/26406.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.406/26406-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.410",
     "title": "General audio codec audio processing functions; Enhanced aacPlus general audio codec; Floating-point ANSI-C code",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26410.htm"
+    "link": "https://www.3gpp.org/dynareport/26410.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.410/26410-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.411",
     "title": "General audio codec audio processing functions; Enhanced aacPlus general audio codec; Fixed-point ANSI-C code",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26411.htm"
+    "link": "https://www.3gpp.org/dynareport/26411.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.411/26411-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.412",
     "title": "Source code for 3GP file format",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26412.htm"
+    "link": "https://www.3gpp.org/dynareport/26412.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.412/26412-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.430",
     "title": "Timed graphics",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26430.htm"
+    "link": "https://www.3gpp.org/dynareport/26430.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.430/26430-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.441",
     "title": "Codec for Enhanced Voice Services (EVS); General overview",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26441.htm"
+    "link": "https://www.3gpp.org/dynareport/26441.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.441/26441-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.442",
     "title": "Codec for Enhanced Voice Services (EVS); ANSI C code (fixed-point)",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26442.htm"
+    "link": "https://www.3gpp.org/dynareport/26442.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.442/26442-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.443",
     "title": "Codec for Enhanced Voice Services (EVS); ANSI C code (floating-point)",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26443.htm"
+    "link": "https://www.3gpp.org/dynareport/26443.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.443/26443-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.444",
     "title": "Codec for Enhanced Voice Services (EVS); Test sequences",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26444.htm"
+    "link": "https://www.3gpp.org/dynareport/26444.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.444/26444-j01.zip"
   },
   {
     "type": "TS",
     "no": "26.445",
     "title": "Codec for Enhanced Voice Services (EVS); Detailed algorithmic description",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26445.htm"
+    "link": "https://www.3gpp.org/dynareport/26445.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.445/26445-j10.zip"
   },
   {
     "type": "TS",
     "no": "26.446",
     "title": "Codec for Enhanced Voice Services (EVS); Adaptive Multi-Rate - Wideband (AMR-WB) backward compatible functions",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26446.htm"
+    "link": "https://www.3gpp.org/dynareport/26446.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.446/26446-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.447",
     "title": "Codec for Enhanced Voice Services (EVS); Error concealment of lost packets",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26447.htm"
+    "link": "https://www.3gpp.org/dynareport/26447.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.447/26447-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.448",
     "title": "Codec for Enhanced Voice Services (EVS); Jitter Buffer Management",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26448.htm"
+    "link": "https://www.3gpp.org/dynareport/26448.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.448/26448-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.449",
     "title": "Codec for Enhanced Voice Services (EVS); Comfort Noise Generation (CNG) aspects",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26449.htm"
+    "link": "https://www.3gpp.org/dynareport/26449.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.449/26449-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.450",
     "title": "Codec for Enhanced Voice Services (EVS); Discontinuous Transmission (DTX)",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26450.htm"
+    "link": "https://www.3gpp.org/dynareport/26450.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.450/26450-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.451",
     "title": "Codec for Enhanced Voice Services (EVS); Voice Activity Detection (VAD)",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26451.htm"
+    "link": "https://www.3gpp.org/dynareport/26451.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.451/26451-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.452",
     "title": "Codec for Enhanced Voice Services (EVS); ANSI C code; Alternative fixed-point using updated basic operators",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26452.htm"
+    "link": "https://www.3gpp.org/dynareport/26452.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.452/26452-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.453",
     "title": "Codec for Enhanced Voice Services (EVS); Speech codec frame structure",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26453.htm"
+    "link": "https://www.3gpp.org/dynareport/26453.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.453/26453-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.454",
     "title": "Codec for Enhanced Voice Services (EVS); Interface to Iu, Uu, Nb and Mb",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26454.htm"
+    "link": "https://www.3gpp.org/dynareport/26454.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.454/26454-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.501",
     "title": "5G Media Streaming (5GMS); General description and architecture",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26501.htm"
+    "link": "https://www.3gpp.org/dynareport/26501.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.501/26501-j30.zip"
   },
   {
     "type": "TS",
     "no": "26.502",
     "title": "5G multicast-broadcast services; User service architecture",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26502.htm"
+    "link": "https://www.3gpp.org/dynareport/26502.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.502/26502-j30.zip"
   },
   {
     "type": "TS",
     "no": "26.506",
     "title": "5G Real-time Media Communication Architecture (Stage 2)",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26506.htm"
+    "link": "https://www.3gpp.org/dynareport/26506.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.506/26506-j20.zip"
   },
   {
     "type": "TS",
     "no": "26.510",
     "title": "Media delivery; interactions and APIs for provisioning and media session handling",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26510.htm"
+    "link": "https://www.3gpp.org/dynareport/26510.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.510/26510-j10.zip"
   },
   {
     "type": "TS",
     "no": "26.511",
     "title": "5G Media Streaming (5GMS); Profiles, codecs and formats",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26511.htm"
+    "link": "https://www.3gpp.org/dynareport/26511.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.511/26511-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.512",
     "title": "5G Media Streaming (5GMS); Protocols",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26512.htm"
+    "link": "https://www.3gpp.org/dynareport/26512.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.512/26512-j10.zip"
   },
   {
     "type": "TS",
     "no": "26.517",
     "title": "5G Multicast-Broadcast User Services; Protocols and Formats",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26517.htm"
+    "link": "https://www.3gpp.org/dynareport/26517.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.517/26517-j10.zip"
   },
   {
     "type": "TS",
     "no": "26.522",
     "title": "5G Real-time Media Transport Protocol Configurations",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26522.htm"
+    "link": "https://www.3gpp.org/dynareport/26522.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.522/26522-j30.zip"
   },
   {
     "type": "TS",
     "no": "26.531",
     "title": "Data Collection and Reporting; General Description and Architecture",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26531.htm"
+    "link": "https://www.3gpp.org/dynareport/26531.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.531/26531-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.532",
     "title": "Data Collection and Reporting; Protocols and Formats",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26532.htm"
+    "link": "https://www.3gpp.org/dynareport/26532.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.532/26532-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.565",
     "title": "Split Rendering Media Service Enabler",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26565.htm"
+    "link": "https://www.3gpp.org/dynareport/26565.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.565/26565-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.566",
     "title": "Immersive Audio for Split Rendering Scenarios",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26566.htm"
+    "link": "https://www.3gpp.org/dynareport/26566.htm",
+    "ftp_latest": null
   },
   {
     "type": "TS",
     "no": "26.567",
     "title": "Split rendering over IMS",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26567.htm"
+    "link": "https://www.3gpp.org/dynareport/26567.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.567/26567-j00.zip"
   },
   {
     "type": "TR",
     "no": "26.801",
     "title": "User Equipment (UE) supporting handset mode with non-traditional earpieces",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26801.htm"
+    "link": "https://www.3gpp.org/dynareport/26801.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.801/26801-j00.zip"
   },
   {
     "type": "TR",
     "no": "26.802",
     "title": "Multicast Architecture Enhancement for  5G Media Streaming",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26802.htm"
+    "link": "https://www.3gpp.org/dynareport/26802.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.802/26802-j20.zip"
   },
   {
     "type": "TR",
     "no": "26.803",
     "title": "Study on 5G Media Streaming Extensions for Edge Processing",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26803.htm"
+    "link": "https://www.3gpp.org/dynareport/26803.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.803/26803-h00.zip"
   },
   {
     "type": "TR",
     "no": "26.804",
     "title": "Study on 5G media streaming extensions",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26804.htm"
+    "link": "https://www.3gpp.org/dynareport/26804.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.804/26804-j10.zip"
   },
   {
     "type": "TR",
     "no": "26.805",
     "title": "Study on Media Production over 5G NPN Systems",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26805.htm"
+    "link": "https://www.3gpp.org/dynareport/26805.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.805/26805-h01.zip"
   },
   {
     "type": "TR",
     "no": "26.806",
     "title": "Study on Tethering AR Glasses – Architectures, QoS and Media Aspects",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26806.htm"
+    "link": "https://www.3gpp.org/dynareport/26806.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.806/26806-i00.zip"
   },
   {
     "type": "TR",
     "no": "26.812",
     "title": "QoE metrics for AR/MR services",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26812.htm"
+    "link": "https://www.3gpp.org/dynareport/26812.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.812/26812-i10.zip"
   },
   {
     "type": "TR",
     "no": "26.813",
     "title": "Avatar Representation and Communication",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26813.htm"
+    "link": "https://www.3gpp.org/dynareport/26813.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.813/26813-j10.zip"
   },
   {
     "type": "TS",
     "no": "26.814",
     "title": "Study on enhancements to IMS Data Channel",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26814.htm"
+    "link": "https://www.3gpp.org/dynareport/26814.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.814/26814-001.zip"
   },
   {
     "type": "TR",
     "no": "26.818",
     "title": "Virtual Reality (VR) streaming audio; Characterization test results",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26818.htm"
+    "link": "https://www.3gpp.org/dynareport/26818.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.818/26818-f00.zip"
   },
   {
     "type": "TR",
     "no": "26.819",
     "title": "Study on Spatial Computing for Augmented Reality (AR) Services",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26819.htm"
+    "link": "https://www.3gpp.org/dynareport/26819.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.819/26819-j00.zip"
   },
   {
     "type": "TR",
     "no": "26.822",
     "title": "Study on 5G Real-time Transport Protocol Configurations, Phase 2",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26822.htm"
+    "link": "https://www.3gpp.org/dynareport/26822.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.822/26822-j30.zip"
   },
   {
     "type": "TR",
     "no": "26.823",
     "title": "Study on usage of dynamically changing traffic characteristics and enhanced QoS support in 5GS for media applications and services",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26823.htm"
+    "link": "https://www.3gpp.org/dynareport/26823.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.823/26823-020.zip"
   },
   {
     "type": "TR",
     "no": "26.827",
     "title": "IP Multimedia Subsystem (IMS) based streaming and download delivery enhancements",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26827.htm"
+    "link": "https://www.3gpp.org/dynareport/26827.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.827/26827-c00.zip"
   },
   {
     "type": "TR",
     "no": "26.830",
     "title": "Study on the enhancement for Immersive Real-Time communication for WebRTC; Phase 2",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26830.htm"
+    "link": "https://www.3gpp.org/dynareport/26830.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.830/26830-j00.zip"
   },
   {
     "type": "TR",
     "no": "26.835",
     "title": "Study on evaluation of QUIC-based streaming protocols for on-demand and live video services",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26835.htm"
+    "link": "https://www.3gpp.org/dynareport/26835.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.835/26835-001.zip"
   },
   {
     "type": "TS",
     "no": "26.836",
     "title": "Study on QUIC-based media delivery solutions for real-time communication",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26836.htm"
+    "link": "https://www.3gpp.org/dynareport/26836.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.836/26836-001.zip"
   },
   {
     "type": "TR",
     "no": "26.841",
     "title": "Study on Media Messaging",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26841.htm"
+    "link": "https://www.3gpp.org/dynareport/26841.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.841/26841-j00.zip"
   },
   {
     "type": "TR",
     "no": "26.843",
     "title": "Codec for Enhanced Voice Services (EVS); Study on non-bit-exact conformance criteria and tools for floating-point EVS codec",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26843.htm"
+    "link": "https://www.3gpp.org/dynareport/26843.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.843/26843-g00.zip"
   },
   {
     "type": "TR",
     "no": "26.847",
     "title": "Evaluation of Artificial Intelligence and Machine learning in 5G media services",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26847.htm"
+    "link": "https://www.3gpp.org/dynareport/26847.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.847/26847-j00.zip"
   },
   {
     "type": "TR",
     "no": "26.848",
     "title": "Multimedia Broadcast/Multicast Service (MBMS); Enhanced MBMS operation",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26848.htm"
+    "link": "https://www.3gpp.org/dynareport/26848.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.848/26848-c00.zip"
   },
   {
     "type": "TR",
     "no": "26.849",
     "title": "Multimedia Broadcast/Multicast Service (MBMS) improvements; MBMS operation on demand",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26849.htm"
+    "link": "https://www.3gpp.org/dynareport/26849.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.849/26849-c10.zip"
   },
   {
     "type": "TR",
     "no": "26.850",
     "title": "MBMS for Internet of Things (IoT)",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26850.htm"
+    "link": "https://www.3gpp.org/dynareport/26850.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.850/26850-g00.zip"
   },
   {
     "type": "TR",
     "no": "26.851",
     "title": "Enhancements to Multimedia (EMM); Download Delivery Enhancements (DDE) and IMS-based PSS and MBMS streaming synchronization Enhancements (IPME) aspects",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26851.htm"
+    "link": "https://www.3gpp.org/dynareport/26851.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.851/26851-b20.zip"
   },
   {
     "type": "TR",
     "no": "26.852",
     "title": "Multimedia Broadcast/Multicast Service (MBMS); Extensions and profiling",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26852.htm"
+    "link": "https://www.3gpp.org/dynareport/26852.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.852/26852-e20.zip"
   },
   {
     "type": "TR",
     "no": "26.854",
     "title": "Study on Haptics in 5G Media Services",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26854.htm"
+    "link": "https://www.3gpp.org/dynareport/26854.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.854/26854-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.855",
     "title": "Study on Film Grain Synthesis",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26855.htm"
+    "link": "https://www.3gpp.org/dynareport/26855.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.855/26855-j00.zip"
   },
   {
     "type": "TR",
     "no": "26.857",
     "title": "5G Media Service Enablers",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26857.htm"
+    "link": "https://www.3gpp.org/dynareport/26857.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.857/26857-i00.zip"
   },
   {
     "type": "TR",
     "no": "26.858",
     "title": "Study on APIs for 3GPP Speech and Audio Codecs",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26858.htm"
+    "link": "https://www.3gpp.org/dynareport/26858.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.858/26858-100.zip"
   },
   {
     "type": "TR",
     "no": "26.861",
     "title": "Investigations on test methodologies for immersive audio systems",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26861.htm"
+    "link": "https://www.3gpp.org/dynareport/26861.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.861/26861-f00.zip"
   },
   {
     "type": "TR",
     "no": "26.862",
     "title": "Immersive Teleconferencing and Telepresence for Remote Terminals (ITT4RT) Use Cases, Requirements and Potential Solutions",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26862.htm"
+    "link": "https://www.3gpp.org/dynareport/26862.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.862/26862-h00.zip"
   },
   {
     "type": "TR",
     "no": "26.865",
     "title": "Immersive Audio for Split Rendering Scenarios; Requirements",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26865.htm"
+    "link": "https://www.3gpp.org/dynareport/26865.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.865/26865-i00.zip"
   },
   {
     "type": "TR",
     "no": "26.866",
     "title": "Immersive Audio for Split Rendering Scenarios; Performance characterization",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26866.htm"
+    "link": "https://www.3gpp.org/dynareport/26866.htm",
+    "ftp_latest": null
   },
   {
     "type": "TS",
     "no": "26.870",
     "title": "Study on Media Aspects for 6G System",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26870.htm"
+    "link": "https://www.3gpp.org/dynareport/26870.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.870/26870-021.zip"
   },
   {
     "type": "TR",
     "no": "26.879",
     "title": "Mission Critical Push To Talk (MCPTT); Media, codecs and Multimedia Broadcast/Multicast Service (MBMS) enhancements for MCPTT over LTE",
     "withdrawn": true,
-    "link": "https://www.3gpp.org/dynareport/26879.htm"
+    "link": "https://www.3gpp.org/dynareport/26879.htm",
+    "ftp_latest": null
   },
   {
     "type": "TR",
     "no": "26.880",
     "title": "Study on MBMS usage and codecs for  MC Video Service",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26880.htm"
+    "link": "https://www.3gpp.org/dynareport/26880.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.880/26880-e00.zip"
   },
   {
     "type": "TR",
     "no": "26.881",
     "title": "Forward Error Correction (FEC) for Mission Critical Services",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26881.htm"
+    "link": "https://www.3gpp.org/dynareport/26881.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.881/26881-f00.zip"
   },
   {
     "type": "TR",
     "no": "26.891",
     "title": "5G enhanced mobile broadband; Media distribution",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26891.htm"
+    "link": "https://www.3gpp.org/dynareport/26891.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.891/26891-g00.zip"
   },
   {
     "type": "TS",
     "no": "26.892",
     "title": "Study on advanced image formats",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26892.htm"
+    "link": "https://www.3gpp.org/dynareport/26892.htm",
+    "ftp_latest": null
   },
   {
     "type": "TR",
     "no": "26.901",
     "title": "Adaptive Multi-Rate Wideband (AMR-WB) speech codec; Feasibility study report",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26901.htm"
+    "link": "https://www.3gpp.org/dynareport/26901.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.901/26901-401.zip"
   },
   {
     "type": "TR",
     "no": "26.902",
     "title": "Video codec performance",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26902.htm"
+    "link": "https://www.3gpp.org/dynareport/26902.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.902/26902-j00.zip"
   },
   {
     "type": "TR",
     "no": "26.903",
     "title": "Improved video support for Packet Switched Streaming (PSS) and Multimedia Broadcast/Multicast Service (MBMS) Services",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26903.htm"
+    "link": "https://www.3gpp.org/dynareport/26903.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.903/26903-j00.zip"
   },
   {
     "type": "TR",
     "no": "26.904",
     "title": "Improved video coding support",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26904.htm"
+    "link": "https://www.3gpp.org/dynareport/26904.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.904/26904-j00.zip"
   },
   {
     "type": "TR",
     "no": "26.905",
     "title": "Mobile stereoscopic 3D video",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26905.htm"
+    "link": "https://www.3gpp.org/dynareport/26905.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.905/26905-j00.zip"
   },
   {
     "type": "TR",
     "no": "26.906",
     "title": "Evaluation of High Efficiency Video Coding (HEVC) for 3GPP services",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26906.htm"
+    "link": "https://www.3gpp.org/dynareport/26906.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.906/26906-j00.zip"
   },
   {
     "type": "TR",
     "no": "26.907",
     "title": "HTML5 for a new presentation layer in 3GPP services",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26907.htm"
+    "link": "https://www.3gpp.org/dynareport/26907.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.907/26907-j00.zip"
   },
   {
     "type": "TR",
     "no": "26.908",
     "title": "HTML5 Presentation layer",
     "withdrawn": true,
-    "link": "https://www.3gpp.org/dynareport/26908.htm"
+    "link": "https://www.3gpp.org/dynareport/26908.htm",
+    "ftp_latest": null
   },
   {
     "type": "TR",
     "no": "26.909",
     "title": "Study on improved streaming Quality of Experience (QoE) reporting in 3GPP services and networks",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26909.htm"
+    "link": "https://www.3gpp.org/dynareport/26909.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.909/26909-j00.zip"
   },
   {
     "type": "TR",
     "no": "26.910",
     "title": "Study on media handling aspects of Radio Access Network (RAN) delay budget reporting in Multimedia Telephony Service for Internet Protocol (IP) Multimedia Subsystem (IMS) (MTSI)",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26910.htm"
+    "link": "https://www.3gpp.org/dynareport/26910.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.910/26910-j00.zip"
   },
   {
     "type": "TR",
     "no": "26.911",
     "title": "Codec(s) for Circuit-Switched (CS) multimedia telephony service; Terminal implementor’s guide",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26911.htm"
+    "link": "https://www.3gpp.org/dynareport/26911.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.911/26911-j00.zip"
   },
   {
     "type": "TR",
     "no": "26.912",
     "title": "Codec for Circuit switched Multimedia Telephony Service; Quantitative performance evaluation of H.324 Annex C over 3G",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26912.htm"
+    "link": "https://www.3gpp.org/dynareport/26912.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.912/26912-400.zip"
   },
   {
     "type": "TR",
     "no": "26.913",
     "title": "Quantitative performance evaluation of real-time packet switched multimedia services over 3G",
     "withdrawn": true,
-    "link": "https://www.3gpp.org/dynareport/26913.htm"
+    "link": "https://www.3gpp.org/dynareport/26913.htm",
+    "ftp_latest": null
   },
   {
     "type": "TR",
     "no": "26.914",
     "title": "Multimedia telephony over IP Multimedia Subsystem (IMS); Optimization opportunities",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26914.htm"
+    "link": "https://www.3gpp.org/dynareport/26914.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.914/26914-j00.zip"
   },
   {
     "type": "TR",
     "no": "26.915",
     "title": "Echo Control For Speech and Multi-Media Services",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26915.htm"
+    "link": "https://www.3gpp.org/dynareport/26915.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.915/26915-300.zip"
   },
   {
     "type": "TR",
     "no": "26.916",
     "title": "Media handling and Quality aspects of SRVCC",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26916.htm"
+    "link": "https://www.3gpp.org/dynareport/26916.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.916/26916-e20.zip"
   },
   {
     "type": "TR",
     "no": "26.917",
     "title": "Multimedia Broadcast Multicast Services (MBMS) and Packet-switched Streaming Service (PSS) enhancements to support television services",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26917.htm"
+    "link": "https://www.3gpp.org/dynareport/26917.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.917/26917-j00.zip"
   },
   {
     "type": "TR",
     "no": "26.918",
     "title": "Virtual Reality (VR) media services over 3GPP",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26918.htm"
+    "link": "https://www.3gpp.org/dynareport/26918.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.918/26918-j00.zip"
   },
   {
     "type": "TR",
     "no": "26.919",
     "title": "Study on media handling aspects of conversational services in 5G systems",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26919.htm"
+    "link": "https://www.3gpp.org/dynareport/26919.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.919/26919-j00.zip"
   },
   {
     "type": "TR",
     "no": "26.920",
     "title": "Architectural Model for the 3G Transcoders",
     "withdrawn": true,
-    "link": "https://www.3gpp.org/dynareport/26920.htm"
+    "link": "https://www.3gpp.org/dynareport/26920.htm",
+    "ftp_latest": null
   },
   {
     "type": "TR",
     "no": "26.921",
     "title": "Investigations on ambient noise reproduction systems for acoustic testing of terminals",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26921.htm"
+    "link": "https://www.3gpp.org/dynareport/26921.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.921/26921-j00.zip"
   },
   {
     "type": "TR",
     "no": "26.922",
     "title": "Video telephony robustness improvements extensions; Performance evaluation",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26922.htm"
+    "link": "https://www.3gpp.org/dynareport/26922.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.922/26922-j00.zip"
   },
   {
     "type": "TR",
     "no": "26.923",
     "title": "Study on media handling aspects of IP Multimedia Subsystem (IMS) based telepresence",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26923.htm"
+    "link": "https://www.3gpp.org/dynareport/26923.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.923/26923-j00.zip"
   },
   {
     "type": "TR",
     "no": "26.924",
     "title": "Multimedia telephony over IP Multimedia Subsystem (IMS); Study on improved end-to-end Quality of Service (QoS) handling for Multimedia Telephony Service for IMS (MTSI)",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26924.htm"
+    "link": "https://www.3gpp.org/dynareport/26924.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.924/26924-j00.zip"
   },
   {
     "type": "TR",
     "no": "26.925",
     "title": "Typical traffic characteristics of media services on 3GPP networks",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26925.htm"
+    "link": "https://www.3gpp.org/dynareport/26925.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.925/26925-j00.zip"
   },
   {
     "type": "TR",
     "no": "26.926",
     "title": "Traffic Models and Quality Evaluation Methods for Media and XR Services in 5G Systems",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26926.htm"
+    "link": "https://www.3gpp.org/dynareport/26926.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.926/26926-j00.zip"
   },
   {
     "type": "TR",
     "no": "26.927",
     "title": "Study on Artificial Intelligence and Machine learning in 5G media services",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26927.htm"
+    "link": "https://www.3gpp.org/dynareport/26927.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.927/26927-j00.zip"
   },
   {
     "type": "TR",
     "no": "26.928",
     "title": "Extended Reality (XR) in 5G",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26928.htm"
+    "link": "https://www.3gpp.org/dynareport/26928.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.928/26928-j00.zip"
   },
   {
     "type": "TR",
     "no": "26.929",
     "title": "QoE parameters and metrics relevant to the Virtual Reality (VR) user experience",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26929.htm"
+    "link": "https://www.3gpp.org/dynareport/26929.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.929/26929-j00.zip"
   },
   {
     "type": "TR",
     "no": "26.930",
     "title": "Study on the enhancement for Immersive Real-Time communication for WebRTC",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26930.htm"
+    "link": "https://www.3gpp.org/dynareport/26930.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.930/26930-j00.zip"
   },
   {
     "type": "TR",
     "no": "26.931",
     "title": "Evaluation of Additional Acoustic Tests for Speech Telephony",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26931.htm"
+    "link": "https://www.3gpp.org/dynareport/26931.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.931/26931-j00.zip"
   },
   {
     "type": "TR",
     "no": "26.932",
     "title": "Study on User Equipment (UE) characteristics and performance for video telephony",
     "withdrawn": true,
-    "link": "https://www.3gpp.org/dynareport/26932.htm"
+    "link": "https://www.3gpp.org/dynareport/26932.htm",
+    "ftp_latest": null
   },
   {
     "type": "TR",
     "no": "26.933",
     "title": "Study on Diverse Audio Capturing system",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26933.htm"
+    "link": "https://www.3gpp.org/dynareport/26933.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.933/26933-j00.zip"
   },
   {
     "type": "TS",
     "no": "26.934",
     "title": "Test platform for media delivery technologies",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26934.htm"
+    "link": "https://www.3gpp.org/dynareport/26934.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.934/26934-001.zip"
   },
   {
     "type": "TR",
     "no": "26.935",
     "title": "Packet Switched (PS) conversational multimedia applications; Performance characterisation of default codecs",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26935.htm"
+    "link": "https://www.3gpp.org/dynareport/26935.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.935/26935-j00.zip"
   },
   {
     "type": "TR",
     "no": "26.936",
     "title": "Performance characterization of 3GPP audio codecs",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26936.htm"
+    "link": "https://www.3gpp.org/dynareport/26936.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.936/26936-j00.zip"
   },
   {
     "type": "TR",
     "no": "26.937",
     "title": "Transparent end-to-end Packet-switched Streaming Service (PSS); Real-time Transport Protocol (RTP) usage model",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26937.htm"
+    "link": "https://www.3gpp.org/dynareport/26937.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.937/26937-j00.zip"
   },
   {
     "type": "TR",
     "no": "26.938",
     "title": "Packet-switched Streaming Service (PSS); Improved support for dynamic adaptive streaming over HTTP in 3GPP",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26938.htm"
+    "link": "https://www.3gpp.org/dynareport/26938.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.938/26938-j00.zip"
   },
   {
     "type": "TR",
     "no": "26.939",
     "title": "Guidelines on the Framework for Live Uplink Streaming (FLUS)",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26939.htm"
+    "link": "https://www.3gpp.org/dynareport/26939.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.939/26939-j00.zip"
   },
   {
     "type": "TR",
     "no": "26.940",
     "title": "Study on Ultra Low Bit rate Speech Codecs",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26940.htm"
+    "link": "https://www.3gpp.org/dynareport/26940.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.940/26940-051.zip"
   },
   {
     "type": "TR",
     "no": "26.941",
     "title": "Network Slicing Extensions for 5G media services",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26941.htm"
+    "link": "https://www.3gpp.org/dynareport/26941.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.941/26941-j01.zip"
   },
   {
     "type": "TR",
     "no": "26.942",
     "title": "Study on Media enerGy consumption exposuRE and EvaluatioN framework",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26942.htm"
+    "link": "https://www.3gpp.org/dynareport/26942.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.942/26942-j00.zip"
   },
   {
     "type": "TR",
     "no": "26.943",
     "title": "Recognition performance evaluations of codecs for Speech Enabled Services (SES)",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26943.htm"
+    "link": "https://www.3gpp.org/dynareport/26943.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.943/26943-j00.zip"
   },
   {
     "type": "TR",
     "no": "26.944",
     "title": "End-to-end multimedia services performance metrics",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26944.htm"
+    "link": "https://www.3gpp.org/dynareport/26944.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.944/26944-j00.zip"
   },
   {
     "type": "TR",
     "no": "26.946",
     "title": "Multimedia Broadcast/Multicast Service (MBMS) user service guidelines",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26946.htm"
+    "link": "https://www.3gpp.org/dynareport/26946.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.946/26946-j00.zip"
   },
   {
     "type": "TR",
     "no": "26.947",
     "title": "Multimedia Broadcast/Multicast Service (MBMS); Selection and characterisation of application layer Forward Error Correction (FEC)",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26947.htm"
+    "link": "https://www.3gpp.org/dynareport/26947.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.947/26947-j00.zip"
   },
   {
     "type": "TR",
     "no": "26.948",
     "title": "Study on video enhancements in 3GPP multimedia services",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26948.htm"
+    "link": "https://www.3gpp.org/dynareport/26948.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.948/26948-j00.zip"
   },
   {
     "type": "TR",
     "no": "26.949",
     "title": "Video formats for 3GPP services",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26949.htm"
+    "link": "https://www.3gpp.org/dynareport/26949.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.949/26949-j00.zip"
   },
   {
     "type": "TR",
     "no": "26.950",
     "title": "Study on Surround Sound codec extension for Packet Switched Streaming (PSS) and Multimedia Broadcast/Multicast Service (MBMS)",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26950.htm"
+    "link": "https://www.3gpp.org/dynareport/26950.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.950/26950-j00.zip"
   },
   {
     "type": "TR",
     "no": "26.951",
     "title": "Enhancements to Multimedia (EMM); EMM, DDE and IPME Aspects",
     "withdrawn": true,
-    "link": "https://www.3gpp.org/dynareport/26951.htm"
+    "link": "https://www.3gpp.org/dynareport/26951.htm",
+    "ftp_latest": null
   },
   {
     "type": "TR",
     "no": "26.952",
     "title": "Codec for Enhanced Voice Services (EVS); Performance characterization",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26952.htm"
+    "link": "https://www.3gpp.org/dynareport/26952.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.952/26952-j00.zip"
   },
   {
     "type": "TR",
     "no": "26.953",
     "title": "Interactivity support for 3GPP-based streaming and download services",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26953.htm"
+    "link": "https://www.3gpp.org/dynareport/26953.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.953/26953-j00.zip"
   },
   {
     "type": "TR",
     "no": "26.954",
     "title": "Test plan for speech quality and delay through a headset electrical interface",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26954.htm"
+    "link": "https://www.3gpp.org/dynareport/26954.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.954/26954-j00.zip"
   },
   {
     "type": "TR",
     "no": "26.955",
     "title": "5G Video Codec Characteristics",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26955.htm"
+    "link": "https://www.3gpp.org/dynareport/26955.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.955/26955-j00.zip"
   },
   {
     "type": "TR",
     "no": "26.956",
     "title": "Evaluation and Characterization of Beyond 2D Video Formats and Codecs",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26956.htm"
+    "link": "https://www.3gpp.org/dynareport/26956.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.956/26956-j01.zip"
   },
   {
     "type": "TR",
     "no": "26.957",
     "title": "Study on Server And Network-assisted Dynamic Adaptive Streaming over HTTP (DASH) (SAND) for 3GPP multimedia services",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26957.htm"
+    "link": "https://www.3gpp.org/dynareport/26957.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.957/26957-j00.zip"
   },
   {
     "type": "TR",
     "no": "26.958",
     "title": "Study on 3D Gaussian splats for mobile",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26958.htm"
+    "link": "https://www.3gpp.org/dynareport/26958.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.958/26958-020.zip"
   },
   {
     "type": "TR",
     "no": "26.959",
     "title": "Study on enhanced Voice over LTE (VoLTE) performance",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26959.htm"
+    "link": "https://www.3gpp.org/dynareport/26959.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.959/26959-j00.zip"
   },
   {
     "type": "TR",
     "no": "26.962",
     "title": "Immersive Teleconferencing and Telepresence for Remote Terminals (ITT4RT) Operation and Usage Guidelines",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26962.htm"
+    "link": "https://www.3gpp.org/dynareport/26962.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.962/26962-j00.zip"
   },
   {
     "type": "TR",
     "no": "26.966",
     "title": "Evaluation of new HEVC coding tools",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26966.htm"
+    "link": "https://www.3gpp.org/dynareport/26966.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.966/26966-j00.zip"
   },
   {
     "type": "TR",
     "no": "26.967",
     "title": "eCall data transfer; In-band modem solution",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26967.htm"
+    "link": "https://www.3gpp.org/dynareport/26967.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.967/26967-j00.zip"
   },
   {
     "type": "TR",
     "no": "26.969",
     "title": "eCall data transfer; In-band modem solution; Characterization report",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26969.htm"
+    "link": "https://www.3gpp.org/dynareport/26969.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.969/26969-j00.zip"
   },
   {
     "type": "TR",
     "no": "26.973",
     "title": "Update to fixed-point basic operators",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26973.htm"
+    "link": "https://www.3gpp.org/dynareport/26973.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.973/26973-j00.zip"
   },
   {
     "type": "TR",
     "no": "26.975",
     "title": "Performance characterization of the Adaptive Multi-Rate (AMR) speech codec",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26975.htm"
+    "link": "https://www.3gpp.org/dynareport/26975.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.975/26975d110.zip"
   },
   {
     "type": "TR",
     "no": "26.976",
     "title": "Performance characterization of the Adaptive Multi-Rate Wideband (AMR-WB) speech codec",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26976.htm"
+    "link": "https://www.3gpp.org/dynareport/26976.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.976/26976-j00.zip"
   },
   {
     "type": "TR",
     "no": "26.978",
     "title": "Results of the Adaptive Multi-Rate (AMR) noise suppression selection phase",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26978.htm"
+    "link": "https://www.3gpp.org/dynareport/26978.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.978/26978-j00.zip"
   },
   {
     "type": "TR",
     "no": "26.979",
     "title": "Mission Critical Push To Talk; Media, codecs and MBMS enhancements for Mission Critical Push to Talk over LTE",
     "withdrawn": true,
-    "link": "https://www.3gpp.org/dynareport/26979.htm"
+    "link": "https://www.3gpp.org/dynareport/26979.htm",
+    "ftp_latest": null
   },
   {
     "type": "TR",
     "no": "26.980",
     "title": "Multimedia telephony over IP Multimedia Subsystem (IMS); Media handling aspects of multi-stream multiparty conferencing for Multimedia Telephony Service for IMS (MTSI)",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26980.htm"
+    "link": "https://www.3gpp.org/dynareport/26980.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.980/26980-j00.zip"
   },
   {
     "type": "TR",
     "no": "26.981",
     "title": "MBMS Extensions for Provisioning and Content Ingestion",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26981.htm"
+    "link": "https://www.3gpp.org/dynareport/26981.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.981/26981-j00.zip"
   },
   {
     "type": "TR",
     "no": "26.982",
     "title": "Implementation guidelines for Multiparty RTT",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26982.htm"
+    "link": "https://www.3gpp.org/dynareport/26982.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.982/26982-j00.zip"
   },
   {
     "type": "TR",
     "no": "26.985",
     "title": "Vehicle-to-everything (V2X); Media handling and interaction",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26985.htm"
+    "link": "https://www.3gpp.org/dynareport/26985.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.985/26985-j00.zip"
   },
   {
     "type": "TR",
     "no": "26.989",
     "title": "Mission Critical Push To Talk (MCPTT); Media, codecs and Multimedia Broadcast/Multicast Service (MBMS) enhancements for MCPTT over LTE",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26989.htm"
+    "link": "https://www.3gpp.org/dynareport/26989.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.989/26989-j00.zip"
   },
   {
     "type": "TR",
     "no": "26.996",
     "title": "Immersive Audio for Split Rendering Scenarios; Performance characterization",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26996.htm"
+    "link": "https://www.3gpp.org/dynareport/26996.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.996/26996-j10.zip"
   },
   {
     "type": "TR",
     "no": "26.997",
     "title": "Codec for Immersive Voice and Audio Services (IVAS); Performance characterization",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26997.htm"
+    "link": "https://www.3gpp.org/dynareport/26997.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.997/26997-j00.zip"
   },
   {
     "type": "TR",
     "no": "26.998",
     "title": "Support of 5G glass-type Augmented Reality / Mixed Reality (AR/MR) devices",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26998.htm"
+    "link": "https://www.3gpp.org/dynareport/26998.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.998/26998-j00.zip"
   },
   {
     "type": "TR",
     "no": "26.999",
     "title": "Virtual Reality (VR) streaming interoperability and characterization",
     "withdrawn": false,
-    "link": "https://www.3gpp.org/dynareport/26999.htm"
+    "link": "https://www.3gpp.org/dynareport/26999.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.999/26999-j00.zip"
   }
 ]
