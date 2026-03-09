@@ -417,10 +417,8 @@ function renderTable() {
       ? `<a href="${s.link}" target="_blank" rel="noopener" style="color:inherit;text-decoration:none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">${highlight(s.title, hlTerm)}</a>`
       : highlight(s.title, hlTerm);
     const wLabel = s.withdrawn ? `<span class="withdrawn-label">WITHDRAWN</span>` : '';
-    const ftpDir = `https://www.3gpp.org/ftp/Specs/archive/${currentSeries}_series/${s.no}/`;
-    const ftpLinks = s.withdrawn ? '' : `
-      <a class="link-btn link-btn-ftp" href="${ftpDir}" target="_blank" rel="noopener" title="FTP directory">FTP</a>${s.ftp_latest ? `
-      <a class="link-btn link-btn-zip" href="${s.ftp_latest}" target="_blank" rel="noopener" title="Latest ZIP">ZIP</a>` : ''}`;
+    const ftpLinks = s.withdrawn ? '' : (s.ftp_latest ? `
+      <a class="link-btn link-btn-zip" href="${s.ftp_latest}" target="_blank" rel="noopener" title="Latest ZIP">ZIP</a>` : '');
     return `<tr class="${s.withdrawn ? 'withdrawn' : ''}">
       <td><span class="badge ${badgeClass}">${s.type}</span></td>
       <td style="font-weight:600;font-size:13px;">${s.no}</td>
