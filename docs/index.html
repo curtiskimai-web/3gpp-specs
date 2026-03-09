@@ -196,9 +196,26 @@
     tbody tr.withdrawn { opacity: .45; }
     td { padding: 9px 14px; vertical-align: middle; }
 
-    .col-type { width: 64px; }
-    .col-no   { width: 130px; white-space: nowrap; }
+    .col-type  { width: 64px; }
+    .col-no    { width: 130px; white-space: nowrap; }
     .col-title { }
+    .col-links { width: 90px; white-space: nowrap; }
+
+    .link-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 3px;
+      padding: 2px 7px;
+      border-radius: 4px;
+      font-size: 11px;
+      font-weight: 600;
+      text-decoration: none;
+      border: 1px solid;
+      transition: opacity .12s;
+    }
+    .link-btn:hover { opacity: .75; }
+    .link-btn-ftp  { background: #f0fdf4; color: #166534; border-color: #86efac; }
+    .link-btn-zip  { background: #eff6ff; color: #1e40af; border-color: #93c5fd; }
 
     .badge {
       display: inline-block;
@@ -285,6 +302,7 @@
             <th class="col-type">Type</th>
             <th class="col-no">Spec No.</th>
             <th class="col-title">Title</th>
+            <th class="col-links">Links</th>
           </tr>
         </thead>
         <tbody id="tbody"></tbody>
@@ -344,7 +362,7 @@ async function loadSeries(n) {
     `Series ${n} <span>${meta?.desc ?? ''}</span>`;
 
   document.getElementById('tbody').innerHTML =
-    `<tr><td colspan="3"><div class="placeholder"><div class="icon">⏳</div>Loading...</div></td></tr>`;
+    `<tr><td colspan="4"><div class="placeholder"><div class="icon">⏳</div>Loading...</div></td></tr>`;
   document.getElementById('stats').textContent = '';
 
   try {
@@ -354,7 +372,7 @@ async function loadSeries(n) {
     renderTable();
   } catch (e) {
     document.getElementById('tbody').innerHTML =
-      `<tr><td colspan="3"><div class="placeholder"><div class="icon">⚠️</div>Failed to load data.<br><small>${e.message}</small></div></td></tr>`;
+      `<tr><td colspan="4"><div class="placeholder"><div class="icon">⚠️</div>Failed to load data.<br><small>${e.message}</small></div></td></tr>`;
   }
 }
 
@@ -388,21 +406,26 @@ function renderTable() {
 
   if (rows.length === 0) {
     document.getElementById('tbody').innerHTML =
-      `<tr><td colspan="3"><div class="placeholder"><div class="icon">🔍</div>No specs found.</div></td></tr>`;
+      `<tr><td colspan="4"><div class="placeholder"><div class="icon">🔍</div>No specs found.</div></td></tr>`;
     return;
   }
 
   document.getElementById('tbody').innerHTML = rows.map(s => {
     const badgeClass = s.type === 'TS' ? 'badge-ts' : 'badge-tr';
-    const specNoHtml = s.link
-      ? `<a class="spec-link" href="${s.link}" target="_blank" rel="noopener">${s.no}</a>`
-      : `<span class="spec-link">${s.no}</span>`;
-    const wLabel = s.withdrawn ? `<span class="withdrawn-label">WITHDRAWN</span>` : '';
     const hlTerm = (titleMatch || (!titleMatch && !noMatch)) ? query : '';
+    const titleHtml = s.link
+      ? `<a href="${s.link}" target="_blank" rel="noopener" style="color:inherit;text-decoration:none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">${highlight(s.title, hlTerm)}</a>`
+      : highlight(s.title, hlTerm);
+    const wLabel = s.withdrawn ? `<span class="withdrawn-label">WITHDRAWN</span>` : '';
+    const ftpDir = `https://www.3gpp.org/ftp/Specs/archive/${currentSeries}_series/${s.no}/`;
+    const ftpLinks = s.withdrawn ? '' : `
+      <a class="link-btn link-btn-ftp" href="${ftpDir}" target="_blank" rel="noopener" title="FTP directory">FTP</a>${s.ftp_latest ? `
+      <a class="link-btn link-btn-zip" href="${s.ftp_latest}" target="_blank" rel="noopener" title="Latest ZIP">ZIP</a>` : ''}`;
     return `<tr class="${s.withdrawn ? 'withdrawn' : ''}">
       <td><span class="badge ${badgeClass}">${s.type}</span></td>
-      <td>${specNoHtml}</td>
-      <td>${highlight(s.title, hlTerm)}${wLabel}</td>
+      <td style="font-weight:600;font-size:13px;">${s.no}</td>
+      <td>${titleHtml}${wLabel}</td>
+      <td style="text-align:center;">${ftpLinks}</td>
     </tr>`;
   }).join('');
 }
