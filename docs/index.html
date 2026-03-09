@@ -341,7 +341,7 @@ async function loadSeries(n) {
   document.getElementById('stats').textContent = '';
 
   try {
-    const resp = await fetch(`../data/series-${n}.json`);
+    const resp = await fetch(`data/series-${n}.json`);
     if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
     currentData = await resp.json();
     renderTable();
@@ -409,7 +409,7 @@ function toggleFilter(type) {
 // ── 마지막 업데이트 표시
 async function loadMeta() {
   try {
-    const resp = await fetch('../data/meta.json');
+    const resp = await fetch('data/meta.json');
     if (!resp.ok) return;
     const meta = await resp.json();
     const d = new Date(meta.updated_at);

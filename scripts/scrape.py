@@ -35,7 +35,7 @@ SERIES_DESC = {
 }
 
 BASE_URL = "https://www.3gpp.org/DynaReport/{series}-series.htm"
-DATA_DIR = Path(__file__).parent.parent / "data"
+DATA_DIR = Path(__file__).parent.parent / "docs" / "data"
 SLEEP_SEC = 2  # 서버 부하 방지
 
 
