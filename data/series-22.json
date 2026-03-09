@@ -1,0 +1,1892 @@
+[
+  {
+    "type": "TS",
+    "no": "22.001",
+    "title": "Principles of circuit telecommunication services supported by a Public Land Mobile Network (PLMN)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22001.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.002",
+    "title": "Circuit Bearer Services (BS) supported by a Public Land Mobile Network (PLMN)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22002.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.003",
+    "title": "Circuit Teleservices supported by a Public Land Mobile Network (PLMN)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22003.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.004",
+    "title": "General on supplementary services",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22004.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.00",
+    "title": "UMTS Phase 1",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/2200U.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.011",
+    "title": "Service accessibility",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22011.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.016",
+    "title": "International Mobile station Equipment Identities (IMEI)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22016.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.01",
+    "title": "Universal Mobile Telecommunications System (UMTS): Service aspects; Service principles",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/2201U.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.022",
+    "title": "Personalisation of Mobile Equipment (ME); Mobile functionality specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22022.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.024",
+    "title": "Description of Charge Advice Information (CAI)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22024.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.030",
+    "title": "Man-Machine Interface (MMI) of the User Equipment (UE)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22030.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.031",
+    "title": "3G Security; Fraud Information Gathering System (FIGS); Service description; Stage 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22031.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.032",
+    "title": "Immediate Service Termination (IST); Service description; Stage 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22032.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.034",
+    "title": "High Speed Circuit Switched Data (HSCSD); Stage 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22034.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.038",
+    "title": "(U)SIM Application Toolkit (USAT); Service description; Stage 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22038.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.041",
+    "title": "Operator Determined Barring (ODB)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22041.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.042",
+    "title": "Network Identity and TimeZone (NITZ); Service description; Stage 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22042.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.043",
+    "title": "Support of Localized Service Area (SoLSA); Service description; Stage 1",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/22043.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.048",
+    "title": "Security mechanisms for the (U)SIM application toolkit; Stage 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22048.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.053",
+    "title": "Tandem Free Operation (TFO); Service description; Stage 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22053.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.057",
+    "title": "Mobile Execution Environment (MExE); Service description; Stage 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22057.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.05",
+    "title": "Services and service capabilities",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/2205U.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.060",
+    "title": "General Packet Radio Service (GPRS); Service description; Stage 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22060.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.066",
+    "title": "Support of Mobile Number Portability (MNP); Service description; Stage 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22066.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.067",
+    "title": "enhanced Multi Level Precedence and Pre-emption service (eMLPP); Stage 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22067.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.071",
+    "title": "Location Services (LCS); Service description; Stage 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22071.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.072",
+    "title": "Call Deflection (CD) service description; Stage 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22072.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.076",
+    "title": "Noise suppression for the AMR codec; Service description; Stage 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22076.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.078",
+    "title": "Customised Applications for Mobile network Enhanced Logic (CAMEL); Service description; Stage 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22078.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.079",
+    "title": "Support of Optimal Routeing (SOR); Service definition; Stage 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22079.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.07",
+    "title": "UMTS terminal and smart card concepts",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/2207U.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.081",
+    "title": "Line Identification supplementary services; Stage 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22081.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.082",
+    "title": "Call Forwarding (CF) Supplementary Services; Stage 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22082.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.083",
+    "title": "Call Waiting (CW) and Call Holding (HOLD); Supplementary Services; Stage 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22083.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.084",
+    "title": "MultiParty (MPTY) supplementary service; Stage 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22084.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.085",
+    "title": "Closed User Group (CUG) supplementary services; Stage 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22085.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.086",
+    "title": "Advice of Charge (AoC) supplementary services; Stage 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22086.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.087",
+    "title": "User-to-User Signalling (UUS); Service description; Stage 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22087.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.088",
+    "title": "Call Barring (CB) supplementary services; Stage 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22088.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.090",
+    "title": "Unstructured Supplementary Service Data (USSD); Stage 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22090.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.091",
+    "title": "Explicit Call Transfer (ECT) supplementary service; Stage 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22091.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.093",
+    "title": "Completion of Calls to Busy Subscriber (CCBS); Service description, Stage 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22093.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.094",
+    "title": "Follow Me service description; Stage 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22094.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.096",
+    "title": "Name identification supplementary services; Stage 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22096.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.097",
+    "title": "Multiple Subscriber Profile (MSP) Phase 2; Service description; Stage 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22097.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.100",
+    "title": "UMTS Phase 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22100.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.101",
+    "title": "Service aspects; Service principles",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22101.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.104",
+    "title": "Service requirements for cyber-physical control applications in vertical domains",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22104.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.105",
+    "title": "Services and service capabilities",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22105.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.112",
+    "title": "USIM Application Toolkit (USAT) Interpreter; Stage 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22112.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.115",
+    "title": "Service aspects; Charging and billing",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22115.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.119",
+    "title": "Maritime communication services over 3GPP system",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22119.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.121",
+    "title": "Service aspects; The Virtual Home Environment (VHE); Stage 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22121.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.125",
+    "title": "Unmanned Aerial System (UAS) support in 3GPP",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22125.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.127",
+    "title": "Service requirement for the Open Services Access (OSA); Stage 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22127.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.129",
+    "title": "Service aspects; Handover requirements between UTRAN and GERAN or other radio systems",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22129.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.135",
+    "title": "Multicall; Service description; Stage 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22135.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.137",
+    "title": "Integrated Sensing and Communication",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22137.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.140",
+    "title": "Multimedia Messaging Service (MMS);  Stage 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22140.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.141",
+    "title": "Presence service; Stage 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22141.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.142",
+    "title": "Value Added Services (VAS)  for Short Message Service (SMS) requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22142.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.146",
+    "title": "Multimedia Broadcast/Multicast Service (MBMS); Stage 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22146.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.153",
+    "title": "Multimedia priority service",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22153.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.156",
+    "title": "Mobile Metaverse Services",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22156.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.167",
+    "title": "(reserved for: Internet Protocol (IP) based IP Multimedia Subsystem (IMS) emergency sessions; Stage 1)",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/22167.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.168",
+    "title": "Earthquake and Tsunami Warning System (ETWS) requirements; Stage 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22168.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.173",
+    "title": "IP Multimedia Core Network Subsystem (IMS) Multimedia Telephony Service and supplementary services; Stage 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22173.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.174",
+    "title": "Push Service; Service aspects; Stage 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22174.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.177",
+    "title": "Speech-enabled services; Stage 1",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/22177.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.179",
+    "title": "Mission Critical Push to Talk (MCPTT); Stage 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22179.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.182",
+    "title": "Customized Alerting Tones (CAT) requirements; Stage 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22182.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.183",
+    "title": "Customized Ringing Signal (CRS) requirements; Stage 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22183.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.185",
+    "title": "Service requirements for V2X services",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22185.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.186",
+    "title": "Service requirements for enhanced V2X scenarios",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22186.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.21",
+    "title": "Virtual Home Environment",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/2221U.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.220",
+    "title": "Service requirements for Home Node B (HNB) and Home eNode B (HeNB)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22220.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.226",
+    "title": "Global Text Telephony (GTT); Stage 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22226.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.227",
+    "title": "Service requirements for the Open Service Access (OSA)",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/22227.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.228",
+    "title": "Service requirements for the Internet Protocol (IP) multimedia core network subsystem (IMS); Stage 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22228.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.233",
+    "title": "Transparent end-to-end packet-switched streaming service; Stage 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22233.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.234",
+    "title": "Requirements on 3GPP system to Wireless Local Area Network (WLAN) interworking",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22234.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.240",
+    "title": "Service requirements for 3GPP Generic User Profile (GUP); Stage 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22240.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.242",
+    "title": "Digital Rights Management (DRM); Stage 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22242.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.243",
+    "title": "Speech recognition framework for automated voice services; Stage 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22243.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.246",
+    "title": "Multimedia Broadcast/Multicast Service (MBMS) user services; Stage 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22246.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.24",
+    "title": "Charging and Accounting Mechanism",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/2224U.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.250",
+    "title": "IP Multimedia Subsystem (IMS) Group Management; Stage 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22250.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.258",
+    "title": "Service requirements for an All-IP Network (AIPN); Stage 1",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/22258.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.259",
+    "title": "Service requirements for Personal Network Management (PNM); Stage 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22259.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.25",
+    "title": "Quality of Service (QoS) and network performance",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/2225U.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.261",
+    "title": "Service requirements for the 5G system",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22261.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.262",
+    "title": "Message service within the 5G System (5GS); Stage 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22262.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.263",
+    "title": "Service requirements for Video, Imaging and Audio for Professional Applications (VIAPA)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22263.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.268",
+    "title": "Public Warning System (PWS) requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22268.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.273",
+    "title": "TISPAN; Multimedia Telephony with PSTN/ISDN simulation services",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22273.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.278",
+    "title": "Service requirements for the Evolved Packet System (EPS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22278.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.279",
+    "title": "Combined Circuit Switched (CS) and IP Multimedia Subsystem (IMS) sessions; Stage 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22279.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.280",
+    "title": "Mission Critical Services Common Requirements (MCCoRe); Stage 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22280.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.281",
+    "title": "Mission Critical (MC) video",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22281.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.282",
+    "title": "Mission Critical (MC) data",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22282.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.289",
+    "title": "Mobile communication system for railways",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22289.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.29",
+    "title": "Handover Requirements between UMTS and GSM or other RadioSystems",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/2229U.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.30",
+    "title": "Service requirements on security",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/2230U.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.340",
+    "title": "IP Multimedia Subsystem (IMS) messaging; Stage 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22340.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.346",
+    "title": "Isolated Evolved Universal Terrestrial Radio Access Network (E-UTRAN) operation for public safety; Stage 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22346.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.35",
+    "title": "Service requirements on numbering, addressing and identities",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/2235U.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.368",
+    "title": "Service requirements for Machine-Type Communications (MTC); Stage 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22368.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.369",
+    "title": "Service requirements for Ambient power-enabled IoT",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22369.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.401",
+    "title": "TISPAN; Videotelephony over NGN Service Description",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22401.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.40",
+    "title": "Charging, billing and accounting principles",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/2240U.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.45",
+    "title": "Human Factors,service principles and their application to UMTS",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/2245U.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.468",
+    "title": "Group Communication System Enablers (GCSE)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22468.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.495",
+    "title": "TISPAN;Services and Capabilities Requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22495.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.50",
+    "title": "Subscriber and service profile requirements",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/2250U.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.519",
+    "title": "Business communication requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22519.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.55",
+    "title": "UMTS user identity modules",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/2255U.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.60",
+    "title": "Mobile multimedia services including mobile Intranet and Internet services",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/2260U.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.70",
+    "title": "Virtual Home Environment",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/2270U.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.71",
+    "title": "Service aspects; Automatic Establishment of Roaming Relationships",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/2271U.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.72",
+    "title": "Real Time Multimedia in UMTS",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/2272U.htm"
+  },
+  {
+    "type": "TS",
+    "no": "22.75",
+    "title": "Service aspects; Advanced addressing",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/2275U.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.800",
+    "title": "IP Multimedia Subsystem (IMS) subscription and access scenarios",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22800.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.801",
+    "title": "Study on non-MTC mobile data applications impacts",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22801.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.802",
+    "title": "Study on scenarios where multiple APNs are needed",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22802.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.803",
+    "title": "Feasibility study for Proximity Services (ProSe)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22803.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.804",
+    "title": "Study on Communication for Automation in Vertical domains (CAV)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22804.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.805",
+    "title": "Feasibility study on user plane congestion management",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22805.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.806",
+    "title": "Study on application-specific congestion control for data communication",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22806.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.807",
+    "title": "Study on enhancements for infrastructure-based data communication between devices",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22807.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.808",
+    "title": "Study on Flexible Mobile Service Steering (FMSS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22808.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.809",
+    "title": "Feasibility study on support for 3GPP voice interworking with enterprise IP-PBX (VINE)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22809.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.80",
+    "title": "UMTS Relationship to other Standards",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/2280U.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.810",
+    "title": "Study of enhanced call information presentation",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22810.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.811",
+    "title": "Review of network selection principles",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22811.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.812",
+    "title": "Study into network selection requirements for non-3GPP access",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/22812.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.813",
+    "title": "Study of use cases and requirements for enhanced voice codecs for the Evolved Packet System (EPS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22813.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.814",
+    "title": "Location Services (LCS) support in Evolved Packet Core (EPC) for non-3GPP accesses",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22814.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.815",
+    "title": "Study on Multimedia Broadcast Supplement for Public Warning System (MBSP)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22815.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.816",
+    "title": "3GPP enhancement for TV service",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22816.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.817",
+    "title": "Study on UICC/USIM enhancements",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/22817.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.818",
+    "title": "Feasibility Study on Control of Applications when Third party Servers encounter difficulties",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22818.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.819",
+    "title": "Feasibility Study on Maritime Communication Services over 3GPP system",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22819.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.820",
+    "title": "Study on Provision of Local Operator Services",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22820.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.821",
+    "title": "Feasibility Study on LAN Support in 5G",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22821.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.822",
+    "title": "Study on using satellite access in 5G",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22822.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.823",
+    "title": "Study on enhancements to IMS for new real time communication services",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22823.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.824",
+    "title": "Study on 5G message service for MIoT",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22824.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.825",
+    "title": "Study on Remote Identification of Unmanned Aerial Systems (UAS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22825.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.826",
+    "title": "Study on communication services for critical medical applications",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22826.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.827",
+    "title": "Study on Audio-Visual Service Production",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22827.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.828",
+    "title": "Study on co-ordinated Packet data network GateWay (PGW) Change for Selected IP Traffic Offload (CSIPTO)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22828.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.829",
+    "title": "Enhancement for Unmaned Aerial Vehicles (UAVs)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22829.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.830",
+    "title": "Study on business role models for network slicing",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22830.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.831",
+    "title": "Study on Support for Minimization of service Interruption",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22831.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.832",
+    "title": "Study on enhancements for cyber-physical control applications in vertical domains",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22832.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.833",
+    "title": "Study on Enhancement of LTE for Efficient delivery of Streaming Service",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22833.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.834",
+    "title": "Study on support for devices with multiple Universal Subscriber Identity Modules (USIMs)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22834.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.835",
+    "title": "Study on enhanced access to and support of network slices",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22835.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.836",
+    "title": "Study on asset tracking use cases",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22836.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.837",
+    "title": "Study on Integrated Sensing and Communication",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22837.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.838",
+    "title": "Paging policy enhancements and procedure optimizations in LTE",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22838.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.839",
+    "title": "Study on vehicle-mounted relays",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22839.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.840",
+    "title": "Study on Ambient power-enabled Internet of Things",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22840.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.841",
+    "title": "Study on Upper layer traffic steering, switching and split over dual 3GPP access",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22841.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.842",
+    "title": "Study on Network Controlled Interactive Service (NCIS) in the 5G System (5GS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22842.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.843",
+    "title": "Study on on Additional capabilities of mobile networks for drone operations and managements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22843.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.844",
+    "title": "Study on 5G Networks Providing Access to Localized Services",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22844.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.847",
+    "title": "Study on supporting tactile and multi-modality communication services",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22847.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.848",
+    "title": "Feasibility Study on Interconnect of SNPN",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22848.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.850",
+    "title": "Study on 3GPP AI/ML Consistency Alignment",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22850.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.851",
+    "title": "Study on Network Sharing Aspects",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22851.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.852",
+    "title": "Study on Radio Access Network (RAN) sharing enhancements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22852.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.853",
+    "title": "Study on Service Exposure and Enablement Support (SEES) requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22853.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.854",
+    "title": "Feasibility Study on Multimedia Priority Service (MPS) Phase 2",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22854.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.855",
+    "title": "Study on ranging-based services",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22855.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.856",
+    "title": "Study on Localized Mobile Metaverse Services",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22856.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.857",
+    "title": "Run-time independent framework feasibility study",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22857.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.858",
+    "title": "Study on enhancements for residential 5G",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22858.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.859",
+    "title": "Study on Personal Internet of Things (PIoT) networks",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22859.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.860",
+    "title": "Study on Requirements Simplification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22860.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.861",
+    "title": "Massive Internet of Things",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22861.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.862",
+    "title": "Feasibility study on new services and markets technology enablers for critical communications; Stage 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22862.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.863",
+    "title": "Feasibility study on new services and markets technology enablers for enhanced mobile broadband; Stage 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22863.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.864",
+    "title": "Feasibility study on new services and markets technology enablers for network operation; Stage 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22864.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.865",
+    "title": "Study on satellite access - Phase 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22865.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.866",
+    "title": "Enhanced relays for energy efficiency and extensive coverage",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22866.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.867",
+    "title": "Study on 5G smart energy and infrastructure",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22867.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.868",
+    "title": "Study on facilitating machine to machine communication in 3GPP systems",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22868.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.869",
+    "title": "Feasibility study on enhancements of Public Warning System (PWS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22869.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.870",
+    "title": "Study on 6G Use Cases and Service Requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22870.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.871",
+    "title": "Study on non-voice emergency services",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22871.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.872",
+    "title": "Study on positioning use cases",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22872.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.873",
+    "title": "Study on evolution of the IP Multimedia Subsystem (IMS) multimedia telephony service",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22873.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.874",
+    "title": "5G System (5GS); Study on traffic characteristics and performance requirements for AI/ML model transfer",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22874.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.875",
+    "title": "Study on AI/ML Model Transfer Phase 2",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/22875.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.876",
+    "title": "Study on AI/ML Model Transfer Phase2",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22876.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.877",
+    "title": "Study on roaming value added services",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22877.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.878",
+    "title": "Study on 5G timing resiliency system",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22878.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.879",
+    "title": "Feasibility study on Mission Critical (MC) video services over LTE",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22879.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.880",
+    "title": "Feasibility study on Mission Critical (MC) data communications",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22880.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.881",
+    "title": "Study on sharing administrative configuration information between interconnected Mission Critical (MCX) service systems",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22881.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.882",
+    "title": "Study on Energy Efficiency as service criteria",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22882.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.883",
+    "title": "Feasibility Study on Energy Efficiency as service criteria Phase 2",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22883.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.885",
+    "title": "Study on LTE support for Vehicle-to-Everything (V2X) services",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22885.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.886",
+    "title": "Study on enhancement of 3GPP support for 5G V2X services",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22886.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.887",
+    "title": "Feasibility Study on satellite access - Phase 4",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22887.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.888",
+    "title": "Study on enhancements  for Machine-Type Communications (MTC)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22888.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.889",
+    "title": "Study on Future Railway Mobile Communication System (FRMCS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22889.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.890",
+    "title": "Study on supporting railway smart station services",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22890.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.891",
+    "title": "Study on new services and markets technology enablers",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22891.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.892",
+    "title": "Study on IMS Centralized Services (ICS) requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22892.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.893",
+    "title": "Advanced requirements for IP interconnect",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22893.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.894",
+    "title": "Feasibility study on IP Multimedia Subsystem (IMS) network-independent public user identities",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22894.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.895",
+    "title": "Study on service aspects of integration of Single Sign-On (SSO) frameworks with 3GPP operator-controlled resources and mechanisms",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22895.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.896",
+    "title": "Study on continuity of data sessions to local networks",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22896.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.897",
+    "title": "Study on isolated Evolved Universal Terrestrial Radio Access Network (E-UTRAN) operation for public safety",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22897.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.898",
+    "title": "Study on user control dver spoofed calls",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22898.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.899",
+    "title": "Study on enhancements to user location reporting support",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22899.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.903",
+    "title": "Study on Videotelephony teleservice",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22903.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.904",
+    "title": "Study on user-centric identifiers and authentication",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22904.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.906",
+    "title": "Study on IMS based peer-to-peer content distribution services",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22906.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.907",
+    "title": "Terminal concepts",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/22907.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.908",
+    "title": "Study on Paging Permission with Access Control (PPAC)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22908.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.912",
+    "title": "Study into network selection requirements for non-3GPP access",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22912.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.913",
+    "title": "Location Services (LCS) support in Evolved Packet Core (EPC) for non-3GPP accesses",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/22913.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.916",
+    "title": "Study on Network of Service Robots with Ambient Intelligence",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22916.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.924",
+    "title": "Charging and accounting mechanisms",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/22924.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.925",
+    "title": "Quality of Service (QoS) and network performance",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/22925.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.926",
+    "title": "Guidelines for extraterritorial 5G Systems (5GS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22926.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.928",
+    "title": "IP-based multimedia services examples",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/22928.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.934",
+    "title": "Feasibility study on 3GPP system to Wireless Local Area Network (WLAN) interworking",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22934.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.935",
+    "title": "Feasibility study on Location Services (LCS) for Wireless Local Area Network (WLAN) interworking",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22935.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.936",
+    "title": "Multi-system terminals",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22936.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.937",
+    "title": "Requirements for service continuity between mobile and Wireless Local Area Network (WLAN) networks",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22937.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.940",
+    "title": "IP Multimedia Subsystem (IMS) messaging",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22940.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.941",
+    "title": "IP based multimedia framework; Stage 0",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/22941.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.942",
+    "title": "Study on Value Added Services (VAS)  for Short Message Service (SMS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22942.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.944",
+    "title": "Report on service requirements for UE functionality split",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22944.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.945",
+    "title": "Study of provision of fax service in GSM and UMTS",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22945.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.946",
+    "title": "Broadcast and multicast services",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/22946.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.947",
+    "title": "Study on Personal Broadcast Service (PBS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22947.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.948",
+    "title": "Study of requirements of IP-Multimedia Subsystem (IMS) convergent multimedia conferencing",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22948.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.949",
+    "title": "Study on a generalized privacy capability",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22949.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.950",
+    "title": "Priority service feasibility study",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22950.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.951",
+    "title": "Service aspects and requirements for network sharing",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22951.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.952",
+    "title": "Priority service guide",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22952.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.953",
+    "title": "Multimedia priority service feasibility study",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22953.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.960",
+    "title": "Mobile multimedia services",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/22960.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.967",
+    "title": "Transferring of emergency call data",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22967.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.968",
+    "title": "Study for requirements for a Public Warning System (PWS) service",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22968.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.969",
+    "title": "Feasibility study on enhancements of Public Warning System (PWS)",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/22969.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.970",
+    "title": "Virtual Home Environment (VHE) Report",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/22970.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.971",
+    "title": "Automatic establishment of roaming relationships",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22971.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.972",
+    "title": "Circuit-switched multimedia",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/22972.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.973",
+    "title": "IMS Multimedia Telephony service; and supplementary services",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22973.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.975",
+    "title": "Advanced addressing",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22975.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.976",
+    "title": "Study on PS domain services and capabilities",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/22976.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.977",
+    "title": "Feasibility study for speech-enabled services",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22977.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.978",
+    "title": "All-IP network (AIPN) feasibility study",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22978.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.979",
+    "title": "Feasibility study on combined Circuit Switched (CS) calls and IP Multimedia Subsystem (IMS) sessions",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22979.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.980",
+    "title": "Network composition feasibility study",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22980.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.982",
+    "title": "Study of Customised Alerting Tone (CAT) requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22982.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.983",
+    "title": "Services alignment and migration",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22983.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.984",
+    "title": "Unauthenticated Packet Switched (PS) emergency calls",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/22984.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.985",
+    "title": "Service requirements for the User Data Convergence (UDC)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22985.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.986",
+    "title": "Study on Service Specific Access Control",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22986.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.987",
+    "title": "Study of haptic services requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22987.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.988",
+    "title": "Study on alternatives to E.164 for Machine-Type Communications (MTC)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22988.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.989",
+    "title": "Study on Future Railway Mobile Communication System",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22989.htm"
+  },
+  {
+    "type": "TR",
+    "no": "22.990",
+    "title": "Study on off-network for rail",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22990.htm"
+  }
+]

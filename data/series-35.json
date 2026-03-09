@@ -1,0 +1,289 @@
+[
+  {
+    "type": "TS",
+    "no": "35.10",
+    "title": "UMTS Terminal aspects; Man Machine Interface (MMI)",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/3510U.htm"
+  },
+  {
+    "type": "TS",
+    "no": "35.201",
+    "title": "3G Security; Specification of the 3GPP confidentiality and integrity algorithms; Document 1: f8 and f9 specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/35201.htm"
+  },
+  {
+    "type": "TS",
+    "no": "35.202",
+    "title": "3G Security; Specification of the 3GPP confidentiality and integrity algorithms; Document 2: Kasumi  specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/35202.htm"
+  },
+  {
+    "type": "TS",
+    "no": "35.203",
+    "title": "3G Security; Specification of the 3GPP confidentiality and integrity algorithms; Document 3: Implementors' test data",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/35203.htm"
+  },
+  {
+    "type": "TS",
+    "no": "35.204",
+    "title": "3G Security; Specification of the 3GPP confidentiality and integrity algorithms; Document 4: Design conformance test data",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/35204.htm"
+  },
+  {
+    "type": "TS",
+    "no": "35.205",
+    "title": "3G Security; Specification of the MILENAGE algorithm set: An example algorithm set for the 3GPP authentication and key generation functions f1, f1*, f2, f3, f4, f5 and f5*; Document 1: General",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/35205.htm"
+  },
+  {
+    "type": "TS",
+    "no": "35.206",
+    "title": "3G Security; Specification of the MILENAGE algorithm set: An example algorithm set for the 3GPP authentication and key generation functions f1, f1*, f2, f3, f4, f5 and f5*; Document 2: Algorithm specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/35206.htm"
+  },
+  {
+    "type": "TS",
+    "no": "35.207",
+    "title": "3G Security; Specification of the MILENAGE algorithm set: An example algorithm set for the 3GPP authentication and key generation functions f1, f1*, f2, f3, f4, f5 and f5*; Document 3: Implementors' test data",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/35207.htm"
+  },
+  {
+    "type": "TS",
+    "no": "35.208",
+    "title": "3G Security; Specification of the MILENAGE algorithm set: An example algorithm set for the 3GPP authentication and key generation functions f1, f1*, f2, f3, f4, f5 and f5*; Document 4: Design conformance test data",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/35208.htm"
+  },
+  {
+    "type": "TS",
+    "no": "35.209",
+    "title": "3G Security; Specification of the MILENAGE algorithm set: An example algorithm set for the 3GPP authentication and key generation functions f1, f1*, f2, f3, f4, f5 and f5*; Document 5: Summary and results of design and evaluation",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/35209.htm"
+  },
+  {
+    "type": "TS",
+    "no": "35.215",
+    "title": "Specification of the 3GPP Confidentiality and Integrity Algorithms UEA2 & UIA2; Document 1: UEA2 and UIA2 specifications",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/35215.htm"
+  },
+  {
+    "type": "TS",
+    "no": "35.216",
+    "title": "Specification of the 3GPP Confidentiality and Integrity Algorithms UEA2 & UIA2; Document 2: SNOW 3G specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/35216.htm"
+  },
+  {
+    "type": "TS",
+    "no": "35.217",
+    "title": "Specification of the 3GPP Confidentiality and Integrity Algorithms UEA2 & UIA2; Document 3: Implementors' test data",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/35217.htm"
+  },
+  {
+    "type": "TS",
+    "no": "35.218",
+    "title": "Specification of the 3GPP Confidentiality and Integrity Algorithms UEA2 & UIA2; Document 4: Design conformance test data",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/35218.htm"
+  },
+  {
+    "type": "TS",
+    "no": "35.221",
+    "title": "Specification of the 3GPP Confidentiality and Integrity Algorithms EEA3 & EIA3; Document 1: EEA3 and EIA3 specifications",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/35221.htm"
+  },
+  {
+    "type": "TS",
+    "no": "35.222",
+    "title": "Specification of the 3GPP Confidentiality and Integrity Algorithms EEA3 & EIA3; Document 2: ZUC specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/35222.htm"
+  },
+  {
+    "type": "TS",
+    "no": "35.223",
+    "title": "Specification of the 3GPP Confidentiality and Integrity Algorithms EEA3 & EIA3; Document 3: Implementors' test data",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/35223.htm"
+  },
+  {
+    "type": "TS",
+    "no": "35.231",
+    "title": "Specification of the TUAK algorithm set: A second example algorithm set for the 3GPP authentication and key generation functions f1, f1*, f2, f3, f4, f5 and f5*; Document 1: Algorithm specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/35231.htm"
+  },
+  {
+    "type": "TS",
+    "no": "35.232",
+    "title": "Specification of the TUAK algorithm set: A second example algorithm set for the 3GPP authentication and key generation functions f1, f1*, f2, f3, f4, f5 and f5*; Document 2: Implementers’ test data",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/35232.htm"
+  },
+  {
+    "type": "TS",
+    "no": "35.233",
+    "title": "Specification of the TUAK algorithm set: A second example algorithm set for the 3GPP authentication and key generation functions f1, f1*, f2, f3, f4, f5 and f5*; Document 3: Design conformance test data",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/35233.htm"
+  },
+  {
+    "type": "TS",
+    "no": "35.234",
+    "title": "Specification of the MILENAGE-256 algorithm set; An example set of 256-bit 3GPP authentication and key generation functions f1, f1*, f2, f3, f4, f5, f5* and f5**; Document 1: General",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/35234.htm"
+  },
+  {
+    "type": "TS",
+    "no": "35.235",
+    "title": "Specification of the MILENAGE-256 algorithm set; An example set of 256-bit 3GPP authentication and key generation functions f1, f1*, f2, f3, f4, f5, f5* and f5**; Document 2: algorithm specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/35235.htm"
+  },
+  {
+    "type": "TS",
+    "no": "35.236",
+    "title": "Specification of the MILENAGE-256 algorithm set; An example set of 256-bit 3GPP authentication and key generation functions f1, f1*, f2, f3, f4, f5, f5* and f5**; Document 3: Implementors’ test data and design conformance test data",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/35236.htm"
+  },
+  {
+    "type": "TS",
+    "no": "35.237",
+    "title": "Specification of the MILENAGE-256 algorithm set: An example set of 256-bit 3GPP Authentication and Key Generation functions f1, f1*, f2, f3, f4, f5, f5* and f5**; Document 4: Summary and Results of Design and Evaluation",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/35237.htm"
+  },
+  {
+    "type": "TS",
+    "no": "35.240",
+    "title": "Specification of the Snow 5G based 256-bits algorithm set: specification of the 256-NEA4 encryption, the 256-NIA4 integrity, and the 256-NCA4 authenticated encryption algorithm for 5G; Document 1: algorithm specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/35240.htm"
+  },
+  {
+    "type": "TS",
+    "no": "35.241",
+    "title": "Specification of the Snow 5G based 256-bits algorithm set: Specification of the 256-NEA4 encryption, the 256-NIA4 integrity algorithm, and the 256-NCA4 authenticated encryption algorithm for 5G; Document 2: implementation test data",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/35241.htm"
+  },
+  {
+    "type": "TS",
+    "no": "35.242",
+    "title": "Specification of the Snow 5G based 256-bits algorithm set: Specification of the 256-NEA4 encryption, the 256-NIA4 integrity, and the 256-NCA4 authenticated encryption algorithm for 5G; Document 3: design conformance test data",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/35242.htm"
+  },
+  {
+    "type": "TS",
+    "no": "35.243",
+    "title": "Specification of the AES based 256-bits algorithm set: Specification of the 256-NEA5 encryption, the 256-NIA5 integrity, and the 256-NCA5 authenticated encryption algorithm for 5G; Document 1: algorithm specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/35243.htm"
+  },
+  {
+    "type": "TS",
+    "no": "35.244",
+    "title": "Specification of the AES based 256-bits algorithm set: Specification of the 256-NEA5 encryption, the 256-NIA5 integrity, and the 256-NCA5 authenticated encryption algorithm for 5G; Document 2: implementation test data",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/35244.htm"
+  },
+  {
+    "type": "TS",
+    "no": "35.245",
+    "title": "Specification of the AES based 256-bits algorithm set: Specification of the 256-NEA5 encryption, the 256-NIA5 integrity, and the 256-NCA5 authenticated encryption algorithm for 5G; Document 3: design conformance test data",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/35245.htm"
+  },
+  {
+    "type": "TS",
+    "no": "35.246",
+    "title": "Specification of the ZUC based 256-bits algorithm set: Specification of the 256-NEA6 encryption, the 256-NIA6 integrity, and the 256-NCA6 authenticated encryption algorithm for 5G; Document 1: algorithm specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/35246.htm"
+  },
+  {
+    "type": "TS",
+    "no": "35.247",
+    "title": "Specification of the ZUC based 256-bits algorithm set: Specification of the 256-NEA6 encryption, the 256-NIA6 integrity, and the 256-NCA6 authenticated encryption algorithm for 5G; Document 2: implementation test data",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/35247.htm"
+  },
+  {
+    "type": "TS",
+    "no": "35.248",
+    "title": "Specification of the ZUC based 256-bits algorithm set: Specification of the 256-NEA6 encryption, the 256-NIA6 integrity, and the 256-NCA6 authenticated encryption algorithm for 5G; Document 3: design conformance test data",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/35248.htm"
+  },
+  {
+    "type": "TS",
+    "no": "35.249",
+    "title": "Specification of an example algorithm for f5** function for MILENAGE and Tuak; Algorithm specification and test data",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/35249.htm"
+  },
+  {
+    "type": "TR",
+    "no": "35.909",
+    "title": "3G Security; Specification of the MILENAGE algorithm set: an example algorithm set for the 3GPP authentication and key generation functions f1, f1*, f2, f3, f4, f5 and f5*; Document 5: Summary and results of design and evaluation",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/35909.htm"
+  },
+  {
+    "type": "TR",
+    "no": "35.919",
+    "title": "Specification of the 3GPP Confidentiality and Integrity Algorithms UEA2 & UIA2; Document 5: Design and evaluation report",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/35919.htm"
+  },
+  {
+    "type": "TR",
+    "no": "35.924",
+    "title": "Specification of the 3GPP Confidentiality and Integrity Algorithms EEA3 & EIA3; Document 4: Design and Evaluation Report",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/35924.htm"
+  },
+  {
+    "type": "TR",
+    "no": "35.934",
+    "title": "Specification of the TUAK algorithm set: A second example algorithm set for the 3GPP authentication and key generation functions f1, f1*, f2, f3, f4, f5 and f5*; Document 4: Report on the design and evaluation",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/35934.htm"
+  },
+  {
+    "type": "TR",
+    "no": "35.935",
+    "title": "Specification of the TUAK algorithm set: A second example algorithm set for the 3GPP authentication and key generation functions f1, f1*, f2, f3, f4, f5 and f5*; Document 5: Performance evaluation",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/35935.htm"
+  },
+  {
+    "type": "TR",
+    "no": "35.936",
+    "title": "Specification of the TUAK algorithm set: A second example algorithm set for the 3GPP authentication and key generation functions f1, f1*, f2 ,f3, f4, f5 and f5*; Document 6: Security assessment",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/35936.htm"
+  },
+  {
+    "type": "TR",
+    "no": "35.937",
+    "title": "Specification of the MILENAGE-256 algorithm set; An example set of 256-bit 3GPP authentication and key generation functions f1, f1*, f2, f3, f4, f5, f5* and f5**; Document 4: summary and results of design and evaluation",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/35937.htm"
+  }
+]

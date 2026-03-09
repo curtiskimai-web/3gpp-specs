@@ -1,0 +1,3271 @@
+[
+  {
+    "type": "TS",
+    "no": "32.005",
+    "title": "Telecommunications management; Charging management; 3G call and event data for the Circuit Switched (CS) domain",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32005.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.008",
+    "title": "Subscriber and Equipment trace",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32008.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.015",
+    "title": "Telecommunications management; Charging management; 3G call and event data for the Packet Switched (PS) domain",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32015.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.01",
+    "title": "Overall principles of the OAM for the UMTS",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/3201U.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.101",
+    "title": "Telecommunication management; Principles and high level requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32101.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.102",
+    "title": "Telecommunication management; Architecture",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32102.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.103",
+    "title": "Telecommunication management; Integration Reference Point (IRP) overview and usage guide",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32103.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.104",
+    "title": "Telecommunication management; 3G Performance Management",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32104.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.105",
+    "title": "3G charging and billing; Stage 2 description",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32105.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.106",
+    "title": "Configuration Management",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32106.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.106-1",
+    "title": "Telecommunication management; Configuration Management (CM); Part 1: Concept and requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32106-1.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.106-2",
+    "title": "Telecommunication management; Configuration Management (CM); Part 2: Notification Integration Reference Point (IRP): Information Service (IS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32106-2.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.106-3",
+    "title": "Telecommunication management; Configuration Management (CM); Part 3: Notification Integration Reference Point (IRP); Common Object Request Broker Architecture (CORBA) Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32106-3.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.106-4",
+    "title": "Telecommunication management; Configuration Management (CM); Part 4: Notification Integration Reference Point (IRP); Common Management Information Protocol (CMIP) Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32106-4.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.106-5",
+    "title": "Telecommunication management; Configuration Management (CM); Part 5: Basic CM Integration Reference Point (IRP): Information model (including Network Resource Model (NRM)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32106-5.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.106-6",
+    "title": "Telecommunication management; Configuration Management (CM); Part 6: Basic CM Integration Reference Point (IRP): Common Object Request Broker Architecture (CORBA) Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32106-6.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.106-7",
+    "title": "Telecommunication management; Configuration Management (CM); Part 7: Basic CM Integration Reference Point (IRP): Common Management Information Protocol (CMIP) Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32106-7.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.106-8",
+    "title": "Telecommunication management; Configuration Management (CM); Part 8: Name convention for Managed Objects",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32106-8.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.107",
+    "title": "Telecommunication management; Fixed Mobile Convergence (FMC) Federated Network Information Model (FNIM)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32107.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.108",
+    "title": "Telecommunication management; Subscriber and equipment trace",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32108.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.111",
+    "title": "3G Fault Management",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32111.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.111-1",
+    "title": "Telecommunication management; Fault Management; Part 1: 3G fault management requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32111-1.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.111-2",
+    "title": "Telecommunication management; Fault Management; Part 2: Alarm Integration Reference Point (IRP): Information Service (IS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32111-2.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.111-3",
+    "title": "Telecommunication management; Fault Management; Part 3: Alarm Integration Reference Point (IRP): Common Object Request Broker Architecture (CORBA) Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32111-3.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.111-4",
+    "title": "Telecommunication management; Fault Management; Part 4: Alarm Integration Reference Point (IRP): Common Management Information Protocol (CMIP) Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32111-4.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.111-5",
+    "title": "Telecommunication management; Fault Management; Part 5: Alarm Integration Reference Point (IRP): eXtensible Markup Language (XML) definitions",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32111-5.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.111-6",
+    "title": "Telecommunication management; Fault Management; Part 6: Alarm Integration Reference Point (IRP): Solution Set (SS) definitions",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32111-6.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.111-7",
+    "title": "Telecommunication management; Fault Management; Part 7: Alarm IRP SOAP Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32111-7.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.112",
+    "title": "Telecommunication management; Fault Management; Alarm Integration Reference Point: Information Service",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32112.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.112-1",
+    "title": "Telecommunication management; Generic Integration Reference Point (IRP) management; Part 1: Requirements",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32112-1.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.112-2",
+    "title": "Telecommunication management; Generic Integration Reference Point (IRP) management; Part 2: Information service",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32112-2.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.113",
+    "title": "Telecommunication management; Fault Management; Alarm Integration Reference Point (IRP): Common Object Request Broker Architecture (CORBA) solution set",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32113.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.114",
+    "title": "Telecommunication management; Fault Management; Alarm Integration Reference Point (IRP): Common Management Information Protocol (CMIP) solution set",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32114.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.121",
+    "title": "Telecommunication management; Advanced Alarm Management (AAM) Integration Reference Point (IRP): Requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32121.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.122",
+    "title": "Telecommunication management; Advanced Alarm Management (AAM) Integration Reference Point (IRP): Information Service (IS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32122.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.123",
+    "title": "Telecommunication management; Advanced Alarm Management (AAM) Integration Reference Point (IRP); Common Object Request Broker Architecture (CORBA) Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32123.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.125",
+    "title": "Telecommunication management; Advanced Alarm Management (AAM) Integration Reference Point (IRP): eXtensible Markup Language (XML) file format definition",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32125.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.126",
+    "title": "Telecommunication management; Advanced Alarm Management (AAM) Integration Reference Point (IRP); Solution Set (SS) definitions",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32126.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.127",
+    "title": "Telecommunication management; Advanced Alarm Management (AAM) Integration Reference Point (IRP); SOAP Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32127.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.130",
+    "title": "Telecommunication management; Network sharing; Concepts and requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32130.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.140",
+    "title": "Telecommunication management; Subscription Management (SuM) requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32140.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.141",
+    "title": "Telecommunication management; Subscription Management (SuM) architecture",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32141.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.150",
+    "title": "Telecommunication management; Integration Reference Point (IRP) Concept and definitions",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32150.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.151",
+    "title": "Telecommunication management; Integration Reference Point (IRP) Information Service (IS) template",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32151.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.152",
+    "title": "Telecommunication management; Integration Reference Point (IRP) Information Service (IS) Unified Modelling Language (UML) repertoire",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32152.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.153",
+    "title": "Telecommunication management;  Integration Reference Point (IRP) technology specific templates, rules and guidelines",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32153.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.154",
+    "title": "Telecommunication management; Backward and Forward Compatibility (BFC); Concept and definitions",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32154.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.155",
+    "title": "Telecommunication management; Requirements template",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32155.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.156",
+    "title": "Telecommunication management; Fixed Mobile Convergence (FMC) model repertoire",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32156.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.157",
+    "title": "Telecommunication management; Integration Reference Point (IRP) Information Service (IS) template",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32157.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.158",
+    "title": "Management and orchestration;Design rules for REpresentational State Transfer (REST) Solution Sets (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32158.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.159",
+    "title": "TS template for stage 2 and stage 3 of management service definitions",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32159.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.160",
+    "title": "Management and orchestration; Management service template",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32160.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.161",
+    "title": "Management and orchestration; JSON expressions (Jex)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32161.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.171",
+    "title": "Telecommunication management; Subscription Management (SuM) Network Resource Model (NRM) Integration Reference Point (IRP); Requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32171.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.172",
+    "title": "Telecommunication management; Subscription Management (SuM) Network Resource Model (NRM) Integration Reference Point (IRP): Information Service (IS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32172.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.173",
+    "title": "Telecommunication management; Subscription Management (SuM) Network Resource Model (NRM) Integration Reference Point (IRP); Common Object Request Broker Architecture (CORBA) Solution Set (SS)",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32173.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.175",
+    "title": "Telecommunication management; Subscription Management (SuM) Network Resource Model (NRM) Integration Reference Point (IRP): eXtensible Markup Language (XML) definition",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32175.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.176",
+    "title": "Telecommunication management; Subscription Management (SuM) Network Resource Model (NRM) Integration Reference Point (IRP); Solution Set (SS) definitions",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32176.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.181",
+    "title": "Telecommunication management; User Data Convergence (UDC); Framework for Model Handling and Management",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32181.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.182",
+    "title": "Telecommunication management; User Data Convergence (UDC); Common baseline information model (CBIM)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32182.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.200",
+    "title": "Telecommunication management; Charging management; Charging principles",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32200.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.205",
+    "title": "Telecommunication management; Charging management; Charging data description for the Circuit Switched (CS) domain",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32205.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.215",
+    "title": "Telecommunication management; Charging management; Charging data description for the Packet Switched (PS) domain",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32215.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.225",
+    "title": "Telecommunication management; Charging management; Charging data description for the IP Multimedia Subsystem (IMS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32225.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.235",
+    "title": "Telecommunication management; Charging management; Charging data description for application services",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32235.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.240",
+    "title": "Telecommunication management; Charging management; Charging architecture and principles",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32240.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.250",
+    "title": "Telecommunication management; Charging management; Circuit Switched (CS) domain charging",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32250.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.251",
+    "title": "Telecommunication management;Charging management;Packet Switched (PS) domain charging",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32251.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.252",
+    "title": "Telecommunication management; Charging management; Wireless Local Area Network (WLAN) charging",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32252.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.253",
+    "title": "Telecommunication management; Charging management; Control Plane (CP) data transfer domain charging",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32253.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.254",
+    "title": "Telecommunication management; Charging management; Exposure function Northbound Application Program Interfaces (APIs) charging",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32254.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.255",
+    "title": "Telecommunication management; Charging management; 5G data connectivity domain charging; Stage 2",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32255.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.256",
+    "title": "Charging management; 5G connection and mobility domain charging; Stage 2",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32256.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.257",
+    "title": "Telecommunication management; Charging management; Edge computing domain charging",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32257.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.260",
+    "title": "Telecommunication management;Charging management;IP Multimedia Subsystem (IMS) charging",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32260.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.270",
+    "title": "Telecommunication management; Charging management; Multimedia Messaging Service (MMS) charging",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32270.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.271",
+    "title": "Telecommunication management; Charging management; Location Services (LCS) charging",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32271.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.272",
+    "title": "Telecommunication management; Charging management; Push-to-talk over Cellular (PoC) charging",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32272.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.273",
+    "title": "Telecommunication management; Charging management; Multimedia Broadcast and Multicast Service (MBMS) charging",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32273.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.274",
+    "title": "Telecommunication management; Charging management; Short Message Service (SMS) charging",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32274.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.275",
+    "title": "Telecommunication management; Charging management; MultiMedia Telephony (MMTel) charging",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32275.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.276",
+    "title": "Telecommunication management; Charging management; Voice Call Service (VCS) charging",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32276.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.277",
+    "title": "Telecommunication management; Charging management; Proximity-based Services (ProSe) charging",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32277.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.278",
+    "title": "Telecommunication management;Charging management;Monitoring event charging",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32278.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.279",
+    "title": "Charging management; 5G Multicast-broadcast Services charging",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32279.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.280",
+    "title": "Telecommunication management; Charging management; Advice of Charge (AoC) service",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32280.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.281",
+    "title": "Telecommunication management; Charging management; Announcement service",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32281.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.282",
+    "title": "Charging management; Time-Sensitive Networking (TSN) charging",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32282.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.290",
+    "title": "Telecommunication management; Charging management; 5G system; Services, operations and procedures of charging using Service Based Interface (SBI)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32290.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.291",
+    "title": "Telecommunication management; Charging management; 5G system, charging service; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32291.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.293",
+    "title": "Telecommunication management; Charging management; Proxy function",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32293.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.294",
+    "title": "Charging for QoS Control Based on Subscriber Spending Limits",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32294.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.295",
+    "title": "Telecommunication management; Charging management; Charging Data Record (CDR) transfer",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32295.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.296",
+    "title": "Telecommunication management; Charging management; Online Charging System (OCS): Applications and interfaces",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32296.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.297",
+    "title": "Telecommunication management; Charging management; Charging Data Record (CDR) file format and transfer",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32297.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.298",
+    "title": "Telecommunication management; Charging management; Charging Data Record (CDR) parameter description",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32298.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.299",
+    "title": "Telecommunication management; Charging management; Diameter charging applications",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32299.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.300",
+    "title": "Telecommunication management; Configuration Management (CM); Name convention for Managed Objects",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32300.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.301",
+    "title": "Telecommunication management; Configuration Management (CM); Notification Integration Reference Point (IRP); Requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32301.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.301-1",
+    "title": "Telecommunication management; Configuration Management (CM); Notification Integration Reference Point (IRP): requirements",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32301-1.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.301-2",
+    "title": "Telecommunication management; Configuration Management (CM); Part 2: Notification Integration Reference Point (IRP): Information Service",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32301-2.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.301-3",
+    "title": "Telecommunication management; Configuration Management (CM); Part 3: Notification Integration Reference Point (IRP): Common Object Request Broker Architecture (CORBA) solution set",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32301-3.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.301-4",
+    "title": "Telecommunication management; Configuration Management (CM); Part 4: Notification Integration Reference Point: Common Management Information Protocol (CMIP) solution",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32301-4.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.302",
+    "title": "Telecommunication management; Configuration Management (CM); Notification Integration Reference Point (IRP); Information Service (IS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32302.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.303",
+    "title": "Telecommunication management; Configuration Management (CM); Notification Integration Reference Point (IRP); Common Object Request Broker Architecture (CORBA) Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32303.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.304",
+    "title": "Telecommunication management; Configuration Management (CM); Notification Integration Reference Point (IRP): Common Management Information Protocol (CMIP) Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32304.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.305",
+    "title": "Telecommunication management; Configuration Management (CM); Notification Integration Reference Point (IRP); eXtensible Markup Language (XML) definition",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32305.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.306",
+    "title": "Telecommunication management; Configuration Management (CM); Notification Integration Reference Point (IRP): Solution Set (SS) definitions",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32306.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.307",
+    "title": "Telecommunication management; Configuration Management (CM); Notification Integration Reference Point (IRP); SOAP Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32307.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.311",
+    "title": "Telecommunication management; Generic Integration Reference Point (IRP) management; Requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32311.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.312",
+    "title": "Telecommunication management; Generic Integration Reference Point (IRP) management; Information Service (IS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32312.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.312-1",
+    "title": "Telecommunication management; Generic Integration Reference Point (IRP) management; Requirements",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32312-1.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.312-2",
+    "title": "Telecommunication management; Generic Integration Reference Point (IRP) management; Information service",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32312-2.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.313",
+    "title": "Telecommunication management; Generic Integration Reference Point (IRP) management; Common Object Request Broker Architecture (CORBA) Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32313.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.314",
+    "title": "Telecommunication management; Generic Integration Reference Point (IRP) management; Common Management Information Protocol (CMIP) Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32314.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.316",
+    "title": "Telecommunication management; Generic Integration Reference Point (IRP) management; Solution Set (SS) definitions",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32316.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.317",
+    "title": "Telecommunication management; Generic Integration Reference Point (IRP) management; SOAP Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32317.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.321",
+    "title": "Telecommunication management; Test management Integration Reference Point (IRP); Requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32321.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.322",
+    "title": "Telecommunication management; Test management Integration Reference Point (IRP); Information Service (IS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32322.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.323",
+    "title": "Telecommunication management; Test management Integration Reference Point (IRP); Common Object Request Broker Architecture (CORBA) Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32323.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.324",
+    "title": "Telecommunication management; Test management Integration Reference Point (IRP); Common Management Information Protocol (CMIP) Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32324.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.325",
+    "title": "Telecommunication management; Test management Integration Reference Point (IRP); eXtensible Markup Language (XML) definitions",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32325.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.326",
+    "title": "Telecommunication management; Test management Integration Reference Point (IRP): Solution Set (SS) definitions",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32326.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.327",
+    "title": "Telecommunication management; Test management Integration Reference Point (IRP); SOAP Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32327.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.331",
+    "title": "Telecommunication management; Notification Log (NL) Integration Reference Point (IRP); Requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32331.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.332",
+    "title": "Telecommunication management; Notification Log (NL) Integration Reference Point (IRP); Information Service (IS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32332.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.333",
+    "title": "Telecommunication management; Notification Log (NL) Integration Reference Point (IRP); Common Object Request Broker Architecture (CORBA) Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32333.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.334",
+    "title": "Telecommunication management; Notification Log (NL) Integration Reference Point (IRP); Common Management Information Protocol (CMIP) Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32334.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.335",
+    "title": "Telecommunication management; Notification Log (NL) Integration Reference Point (IRP); eXtensible Markup Language (XML) solution definitions",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32335.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.336",
+    "title": "Telecommunication management; Notification Log (NL) Integration Reference Point (IRP): Solution Set (SS) definitions",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32336.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.337",
+    "title": "Telecommunication management; Notification Log (NL) Integration Reference Point (IRP); SOAP Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32337.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.341",
+    "title": "Telecommunication management; File Transfer (FT) Integration Reference Point (IRP); Requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32341.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.342",
+    "title": "Telecommunication management; File Transfer (FT) Integration Reference Point (IRP); Information Service (IS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32342.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.343",
+    "title": "Telecommunication management; File Transfer (FT) Integration Reference Point (IRP); Common Object Request Broker Architecture (CORBA) Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32343.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.344",
+    "title": "Telecommunication management; File Transfer (FT) Integration Reference Point (IRP); Common Management Information Protocol (CMIP) Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32344.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.345",
+    "title": "Telecommunication management; File Transfer (FT) Integration Reference Point (IRP); eXtensible Markup Language (XML) definitions",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32345.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.346",
+    "title": "Telecommunication management; File Transfer (FT) Integration Reference Point (IRP): Solution Set (SS) definitions",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32346.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.347",
+    "title": "Telecommunication management; File Transfer (FT) Integration Reference Point (IRP); SOAP Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32347.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.350",
+    "title": "Telecommunication management; Communication Surveillance (CS) requirements",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32350.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.351",
+    "title": "Telecommunication management; Communication Surveillance (CS) Integration Reference Point (IRP); Requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32351.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.352",
+    "title": "Telecommunication management; Communication Surveillance (CS) Integration Reference Point (IRP); Information Service (IS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32352.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.353",
+    "title": "Telecommunication management; Communication Surveillance (CS) Integration Reference Point (IRP); Common Object Request Broker Architecture (CORBA) Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32353.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.354",
+    "title": "Telecommunication management; Communication Surveillance (CS) Integration Reference Point (IRP); Common Management Information Protocol (CMIP) Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32354.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.355",
+    "title": "Telecommunication management; Communication Surveillance (CS) Integration Reference Point (IRP); eXtensible Markup Language (XML) definitions",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32355.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.356",
+    "title": "Telecommunication management; Communication Surveillance (CS) Integration Reference Point (IRP); Solution Set (SS) definitions",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32356.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.357",
+    "title": "Telecommunication management; Communication Surveillance (CS) Integration Reference Point (IRP); SOAP Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32357.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.361",
+    "title": "Telecommunication management; Entry Point (EP) Integration Reference Point (IRP); Requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32361.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.362",
+    "title": "Telecommunication management; Entry Point (EP) Integration Reference Point (IRP); Information Service (IS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32362.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.363",
+    "title": "Telecommunication management; Entry Point (EP) Integration Reference Point (IRP); Common Object Request Broker Architecture (CORBA) Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32363.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.364",
+    "title": "Telecommunication Management; Entry Point (EP) Integration Reference Point (IRP); Common Management Information Protocol (CMIP) Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32364.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.365",
+    "title": "Telecommunication management; Entry Point (EP) Integration Reference Point (IRP); eXtensible Markup Language (XML) definitions",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32365.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.366",
+    "title": "Telecommunication management; Entry Point (EP) Integration Reference Point (IRP); Solution Set (SS) definitions",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32366.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.367",
+    "title": "Telecommunication management; Entry Point (EP) Integration Reference Point (IRP); SOAP Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32367.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.371",
+    "title": "Telecommunication management; Security Management concept and requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32371.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.372",
+    "title": "Telecommunication management; Security services for Integration Reference Point (IRP); Information Service (IS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32372.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.373",
+    "title": "Telecommunication management; Security services for Integration Reference Point (IRP); Common Object Request Broker Architecture (CORBA) solution",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32373.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.374",
+    "title": "Telecommunication management; Security Management  Integration Reference Point (IRP); Common Management Information Protocol (CMIP) Solution Set (SS)",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32374.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.375",
+    "title": "Telecommunication management; Security services for Integration Reference Point (IRP); File integrity solution",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32375.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.376",
+    "title": "Telecommunication management; Security services for Integration Reference Point (IRP); Solution Set (SS) definitions",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32376.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.381",
+    "title": "Telecommunication management; Partial Suspension of Itf-N Integration Reference Point (IRP); Requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32381.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.382",
+    "title": "Telecommunication management; Partial Suspension of Itf-N Integration Reference Point (IRP); Information Service (IS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32382.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.383",
+    "title": "Telecommunication management; Partial Suspension of Itf-N Integration Reference Point (IRP); Common Object Request Broker Architecture (CORBA) Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32383.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.385",
+    "title": "Telecommunication management; Partial Suspension of Itf-N Integration Reference Point (IRP): eXtensible Markup Language (XML) file format definition",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32385.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.386",
+    "title": "Telecommunication management; Partial Suspension of Itf-N Integration Reference Point (IRP); Solution Set (SS) definitions",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32386.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.387",
+    "title": "Telecommunication management; Partial Suspension of Itf-N Integration Reference Point (IRP); SOAP Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32387.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.391",
+    "title": "Telecommunication management; Delta synchronization Integration Reference Point (IRP); Requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32391.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.392",
+    "title": "Telecommunication management; Delta synchronization Integration Reference Point (IRP); Information Service (IS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32392.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.393",
+    "title": "Telecommunication management; Delta synchronization Integration Reference Point (IRP); Common Object Request Broker Architecture (CORBA) Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32393.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.395",
+    "title": "Telecommunication management; Delta synchronisation Integration Reference Point (IRP); eXtensible Markup Language (XML) file format definition",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32395.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.396",
+    "title": "Telecommunication management; Delta synchronization Integration Reference Point (IRP); Solution Set (SS) definitions",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32396.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.397",
+    "title": "Telecommunication management; Delta synchronization Integration Reference Point (IRP); SOAP Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32397.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.401",
+    "title": "Telecommunication management;Performance Management (PM);Concept and requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32401.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.402",
+    "title": "Telecommunication management; Performance Management (PM); Performance measurements - GSM",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32402.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.403",
+    "title": "Telecommunication management; Performance Management (PM); Performance measurements; UMTS and combined UMTS/GSM",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32403.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.404",
+    "title": "Telecommunication management; Performance Management (PM); Performance measurements; Definitions and template",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32404.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.405",
+    "title": "Telecommunication management; Performance Management (PM); Performance measurements; Universal Terrestrial Radio Access Network (UTRAN)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32405.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.406",
+    "title": "Telecommunication management; Performance Management (PM); Performance measurements; Core Network (CN) Packet Switched (PS) domain",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32406.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.407",
+    "title": "Telecommunication management; Performance Management (PM); Performance measurements; Core Network (CN) Circuit Switched (CS) domain; UMTS and combined UMTS/GSM",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32407.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.408",
+    "title": "Telecommunication management; Performance Management (PM); Performance measurements; Teleservice",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32408.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.409",
+    "title": "Telecommunication management; Performance Management (PM); Performance measurements; IP Multimedia Subsystem (IMS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32409.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.410",
+    "title": "Telecommunication management; Key Performance Indicators (KPI) for UMTS and GSM",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32410.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.411",
+    "title": "Telecommunication management; Performance Management (PM) Integration Reference Point (IRP): Requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32411.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.412",
+    "title": "Telecommunication management; Performance Management (PM) Integration Reference Point (IRP): Information Service (IS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32412.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.413",
+    "title": "Telecommunication management; Performance Management (PM) Integration Reference Point (IRP): Common Object Request Broker Architecture (CORBA) Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32413.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.414",
+    "title": "Telecommunication management; Performance Management (PM) Integration Reference Point (IRP): Common Management Information Protocol (CMIP) Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32414.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.415",
+    "title": "Telecommunication management; Performance Management (PM) Integration Reference Point (IRP); eXtensible Markup Language (XML) definitions",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32415.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.416",
+    "title": "Telecommunication management; Performance Management (PM) Integration Reference Point (IRP); Solution Set (SS) definitions",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32416.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.417",
+    "title": "Telecommunication management; Performance Management (PM) Integration Reference Point (IRP); SOAP Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32417.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.421",
+    "title": "Telecommunication management; Subscriber and equipment trace; Trace concepts and requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32421.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.422",
+    "title": "Telecommunication management; Subscriber and equipment trace; Trace control and configuration management",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32422.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.423",
+    "title": "Telecommunication management; Subscriber and equipment trace; Trace data definition and management",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32423.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.425",
+    "title": "Telecommunication management; Performance Management (PM); Performance measurements Evolved Universal Terrestrial Radio Access Network (E-UTRAN)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32425.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.426",
+    "title": "Telecommunication management; Performance Management (PM); Performance measurements Evolved Packet Core (EPC) network",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32426.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.431",
+    "title": "Telecommunication management; Performance measurement collection Integration Reference Point (IRP); Requirements",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32431.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.432",
+    "title": "Telecommunication management; Performance measurement: File format definition",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32432.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.433",
+    "title": "Telecommunication management; Performance measurement collection Integration Reference Point (IRP); eXtensible Markup Language (XML) file format definition",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32433.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.434",
+    "title": "Telecommunication management; Performance measurement collection Integration Reference Point (IRP); Abstract Syntax Notation 1 (ASN.1) file format definition",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32434.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.435",
+    "title": "Telecommunication management; Performance measurement; eXtensible Markup Language (XML) file format definition",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32435.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.436",
+    "title": "Telecommunication management; Performance measurement: Abstract Syntax Notation 1 (ASN.1) file format definition",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32436.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.441",
+    "title": "Telecommunication management; Trace Management Integration Reference Point (IRP); Requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32441.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.442",
+    "title": "Telecommunication management; Trace Management Integration Reference Point (IRP); Information Service (IS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32442.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.443",
+    "title": "Telecommunication management; Trace Management (Trace) Integration Reference Point (IRP): Common Object Request Broker Architecture (CORBA) Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32443.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.445",
+    "title": "Telecommunication management; Trace Management (Trace) Integration Reference Point (IRP): eXtensible Markup Language (XML) file format definition",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32445.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.446",
+    "title": "Telecommunication management; Trace Management Integration Reference Point (IRP); Solution Set (SS) definitions",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32446.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.447",
+    "title": "Telecommunication management; Trace Management Integration Reference Point (IRP): SOAP Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32447.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.450",
+    "title": "Telecommunication management; Key Performance Indicators (KPI) for Evolved Universal Terrestrial Radio Access Network (E-UTRAN): Definitions",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32450.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.451",
+    "title": "Telecommunication management; Key Performance Indicators (KPI) for Evolved Universal Terrestrial Radio Access Network (E-UTRAN); Requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32451.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.452",
+    "title": "Telecommunication management; Performance Management (PM); Performance measurements Home Node B (HNB) Subsystem (HNS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32452.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.453",
+    "title": "Telecommunication management; Performance Management (PM); Performance measurements Home enhanced Node B (HeNB) Subsystem (HeNS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32453.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.454",
+    "title": "Telecommunication management; Key Performance Indicators (KPI) for the IP Multimedia Subsystem (IMS); Definitions",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32454.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.455",
+    "title": "Telecommunication management; Key Performance Indicators (KPI) for the Evolved Packet Core (EPC); Definitions",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32455.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.500",
+    "title": "Telecommunication management; Self-Organizing Networks (SON); Concepts and requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32500.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.501",
+    "title": "Telecommunication management; Self-configuration of network elements; Concepts and requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32501.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.502",
+    "title": "Telecommunication management; Self-configuration of network elements Integration Reference Point (IRP); Information Service (IS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32502.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.503",
+    "title": "Telecommunication management; Self-configuration of network elements Integration Reference Point (IRP); Common Object Request Broker Architecture (CORBA) Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32503.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.505",
+    "title": "Telecommunication management; Self-configuration of network elements Integration Reference Point (IRP): eXtensible Markup Language (XML) file format definition",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32505.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.506",
+    "title": "Telecommunication management; Self-configuration of network elements Integration Reference Point (IRP); Solution Set (SS) definitions",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32506.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.507",
+    "title": "Telecommunication management; Self-configuration of network elements Integration Reference Point (IRP): SOAP Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32507.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.508",
+    "title": "Telecommunication management; Procedure flows for multi-vendor plug-and-play eNode B connection to the network",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32508.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.509",
+    "title": "Telecommunication management; Data formats for multi-vendor plug and play eNode B connection to the network",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32509.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.511",
+    "title": "Telecommunication management; Automatic Neighbour Relation (ANR) management; Concepts and requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32511.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.521",
+    "title": "Telecommunication management; Self-Organizing Networks (SON) Policy Network Resource Model (NRM) Integration Reference Point (IRP); Requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32521.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.522",
+    "title": "Telecommunication management; Self-Organizing Networks (SON) Policy Network Resource Model (NRM) Integration Reference Point (IRP); Information Service (IS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32522.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.523",
+    "title": "Telecommunication management; Self-Organizing Networks (SON); Policy Network Resource Model (NRM) Integration Reference Point (IRP); Common Object Request Broker Architecture (CORBA) Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32523.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.525",
+    "title": "Telecommunication management; Self-Organizing Networks (SON) Policy Network Resource Model (NRM) Integration Reference Point (IRP); eXtensible Markup Language (XML) file format definition",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32525.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.526",
+    "title": "Telecommunication management; Self-Organizing Networks (SON); Policy Network Resource Model (NRM) Integration Reference Point (IRP); Solution Set (SS) definitions",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32526.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.531",
+    "title": "Telecommunication management; Software management (SwM); Concepts and Integration Reference Point (IRP) Requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32531.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.532",
+    "title": "Telecommunication management; Software management (SwM); Integration Reference Point (IRP); Information Service (IS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32532.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.533",
+    "title": "Telecommunication management; Software management (SwM); Integration Reference Point (IRP); Common Object Request Broker Architecture (CORBA) Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32533.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.535",
+    "title": "Telecommunication management; Software Management Integration Reference Point (IRP); eXtensible Markup Language (XML) definitions",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32535.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.536",
+    "title": "Telecommunication management; Software management Integration Reference Point (IRP); Solution Set (SS) definitions",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32536.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.537",
+    "title": "Telecommunication management; Software management (SwM); Integration Reference Point (IRP); SOAP Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32537.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.541",
+    "title": "Telecommunication management; Self-Organizing Networks (SON); Self-healing concepts and requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32541.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.542",
+    "title": "Telecommunication management; Self-Organizing Networks (SON); Self-healing stage 2",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32542.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.543",
+    "title": "Telecommunication management; Self-Organizing Networks (SON); Self-healing stage 3",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32543.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.551",
+    "title": "Telecommunication management; Energy Saving Management (ESM); Concepts and requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32551.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.571",
+    "title": "Telecommunication management; Home Node B (HNB) and Home eNode B (HeNB) management; Type 2 interface concepts and requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32571.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.572",
+    "title": "Telecommunication management; Home Node B (HNB) and Home eNode B (HeNB) management; Type 2 interface models and mapping functions",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32572.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.581",
+    "title": "Telecommunication management; Home Node B (HNB) Operations, Administration, Maintenance and Provisioning (OAM&P); Concepts and requirements for Type 1 interface HNB to HNB Management System (HMS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32581.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.582",
+    "title": "Telecommunication management; Home Node B (HNB) Operations, Administration, Maintenance and Provisioning (OAM&P); Information model for Type 1 interface HNB to HNB Management System (HMS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32582.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.583",
+    "title": "Telecommunication management; Home Node B (HNB) Operations, Administration, Maintenance and Provisioning (OAM&P); Procedure flows for Type 1 interface HNB to HNB Management System (HMS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32583.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.584",
+    "title": "Telecommunication management; Home Node B (HNB) Operations, Administration, Maintenance and Provisioning (OAM&P); XML definitions for Type 1 interface HNB to HNB Management System (HMS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32584.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.591",
+    "title": "Telecommunication management; Home enhanced Node B (HeNB) Operations, Administration, Maintenance and Provisioning (OAM&P); Concepts and requirements for Type 1 interface HeNB to HeNB Management System (HeMS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32591.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.592",
+    "title": "Telecommunication management; Home enhanced Node B (HeNB) Operations, Administration, Maintenance and Provisioning (OAM&P); Information model for Type 1 interface HeNB to HeNB Management System (HeMS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32592.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.593",
+    "title": "Telecommunication management; Home enhanced Node B (HeNB) Operations, Administration, Maintenance and Provisioning (OAM&P); Procedure flows for Type 1 interface HeNB to HeNB Management System (HeMS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32593.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.594",
+    "title": "Telecommunication management; Home enhanced Node B (HeNB) Operations, Administration, Maintenance and Provisioning (OAM&P); XML definitions for Type 1 interface HeNB to HeNB Management System (HeMS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32594.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.600",
+    "title": "Telecommunication management; Configuration Management (CM); Concept and high-level requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32600.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.601",
+    "title": "Telecommunication management; Configuration Management (CM); Basic CM Integration Reference Point (IRP); Requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32601.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.601-1",
+    "title": "Telecommunication management; Configuration Management (CM); Part 1: Basic CM Integration Reference Point (IRP): requirements",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32601-1.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.601-2",
+    "title": "Telecommunication management; Configuration Management (CM); Part 2: Basic CM Integration Reference Point (IRP) information model",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32601-2.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.601-3",
+    "title": "Telecommunication management; Configuration Management (CM); Part 3: Basic CM Integration Reference Point (IRP): Common Object Request Broker Architecture (CORBA) solution set",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32601-3.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.601-4",
+    "title": "Telecommunication management; Configuration Management (CM); Part 4: Basic CM Integration Reference Point (IRP): Common Management Information Protocol (CMIP) solution set",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32601-4.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.602",
+    "title": "Telecommunication management; Configuration Management (CM); Basic CM Integration Reference Point (IRP); Information Service (IS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32602.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.602-1",
+    "title": "Telecommunication management; Configuration Management (CM); CMt: Bulk CM Integration Reference Point (IRP) requirements",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32602-1.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.602-2",
+    "title": "Telecommunication management; Configuration Management (CM); CMt: Bulk Configuration Management Integration Reference Point (IRP): Information service",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32602-2.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.602-3",
+    "title": "Telecommunication management; Configuration Management (CM); CM: Bulk Configuration Management Integration Reference Point (IRP): Common Object Request Broker Architecture (CORBA) solution set",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32602-3.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.602-4",
+    "title": "Telecommunication management; Configuration Management (CM); CM: Bulk Configuration Management Integration Reference Point (IRP): Common Management Information Protocol (CMIP) solution set",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32602-4.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.602-5",
+    "title": "Telecommunication management; Configuration Management (CM); CM: Bulk Configuration Management Integration Reference Point (IRP): XML file format definition",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32602-5.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.603",
+    "title": "Telecommunication management; Configuration Management (CM); Basic CM Integration Reference Point (IRP); Common Object Request Broker Architecture (CORBA) Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32603.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.604",
+    "title": "Telecommunication management; Configuration Management (CM); Basic CM Integration Reference Point (IRP) Common Management Information Protocol (CMIP) Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32604.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.606",
+    "title": "Telecommunication management; Configuration Management (CM); Basic CM Integration Reference Point (IRP); Solution Set (SS) definitions",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32606.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.607",
+    "title": "Telecommunication management; Configuration Management (CM); Basic CM Integration Reference Point (IRP); SOAP Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32607.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.611",
+    "title": "Telecommunication management; Configuration Management (CM); Bulk CM Integration Reference Point (IRP): Requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32611.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.612",
+    "title": "Telecommunication management; Configuration Management (CM); Bulk CM Integration Reference Point (IRP): Information Service (IS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32612.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.613",
+    "title": "Telecommunication management; Configuration Management (CM); Bulk CM Integration Reference Point (IRP): Common Object Request Broker Architecture (CORBA) Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32613.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.614",
+    "title": "Telecommunication management; Configuration Management (CM); Bulk CM Integration Reference Point (IRP): Common Management Information Protocol (CMIP) Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32614.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.615",
+    "title": "Telecommunication management; Configuration Management (CM); Bulk CM Integration Reference Point (IRP): eXtensible Markup Language (XML) file format definition",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32615.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.616",
+    "title": "Telecommunication management; Configuration Management (CM); Bulk CM Integration Reference Point (IRP); Solution Set (SS) definitions",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32616.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.617",
+    "title": "Telecommunication management; Configuration Management (CM); Bulk CM Integration Reference Point (IRP): Bulk CM IRP SOAP Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32617.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.620-1",
+    "title": "Telecommunication management; Configuration Management (CM); Part 1: Generic network resources Integration Reference Point (IRP): requirements",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32620-1.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.620-2",
+    "title": "Telecommunication management; Configuration Management (CM); Part 2: Generic network resources Integration Reference Point (IRP): Network Resource Model (NRM)",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32620-2.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.620-3",
+    "title": "Telecommunication management; Configuration Management (CM); Part 3: Generic network resources Integration Reference Point (IRP): Common Object Request Broker Architecture (CORBA) solution set",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32620-3.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.620-4",
+    "title": "Telecommunication management; Configuration Management (CM); Part 4: Generic network resources: Integration Reference Point (IRP) Common Management Information Protocol (CMIP) solution set",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32620-4.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.621",
+    "title": "Telecommunication management; Configuration Management (CM); Generic network resources Integration Reference Point (IRP); Requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32621.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.621-1",
+    "title": "Telecommunication management; Configuration Management (CM); Part 1: Core network resources Integration Reference Point (IRP): requirements",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32621-1.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.621-2",
+    "title": "Telecommunication management; Configuration Management (CM); Core Network Resources Integration Reference Point (IRP): Network Resource Model (NRM)",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32621-2.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.621-3",
+    "title": "Telecommunication management; Configuration Management (CM); Part 3: Core network resources Integration Reference Point (IRP): Common Object Request Broker Architecture (CORBA) solution set",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32621-3.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.621-4",
+    "title": "Telecommunication management; Configuration Management (CM); Part 4: Core network resources Integration Reference Point (IRP): Common Management Information Protocol (CMIP) solution set",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32621-4.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.622",
+    "title": "Telecommunication management; Configuration Management (CM); Generic network resources Integration Reference Point (IRP); Network Resource Model (NRM)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32622.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.622-1",
+    "title": "Telecommunication management; Configuration Management (CM); Part 1: UTRAN network resources Integration Reference Point (IRP): requirements",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32622-1.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.622-2",
+    "title": "Telecommunication management; Configuration Management (CM); Part 2: UTRAN network resources Integration Reference Point (IRP): Network Resource Model (NRM)",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32622-2.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.622-3",
+    "title": "Telecommunication management; Configuration Management (CM); Part 3: UTRAN network resources Integration Reference Point (IRP): Common Object Request Broker Architecture (CORBA) solution set",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32622-3.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.622-4",
+    "title": "Telecommunication management; Configuration Management (CM); Part 4: UTRAN network resources Integration Reference Point (IRP): Common Management Information Protocol (CMIP) solution set",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32622-4.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.623",
+    "title": "Telecommunication management; Configuration Management (CM); Generic network resources Integration Reference Point (IRP); Common Object Request Broker Architecture (CORBA) Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32623.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.623-1",
+    "title": "Telecommunication management; Configuration Management (CM); Part 1: GERAN network resources Integration Reference Point (IRP): requirements",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32623-1.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.623-2",
+    "title": "Telecommunication management; Configuration Management (CM); Part 2: GERAN network resources Integration Reference Point (IRP): Network Resource Model (NRM)",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32623-2.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.623-3",
+    "title": "Telecommunication management; Configuration Management (CM); Part 3: GERAN network resources Integration Reference Point (IRP): Common Object Request Broker Architecture (CORBA) solution set",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32623-3.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.623-4",
+    "title": "Telecommunication management; Configuration Management (CM); Part 4: GERAN network resources Integration Reference Point (IRP): Common Management Information Protocol (CMIP) solution set",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32623-4.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.624",
+    "title": "Telecommunication management; Configuration Management (CM); Generic network resources: Integration Reference Point (IRP): Common Management Information Protocol (CMIP) Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32624.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.625",
+    "title": "Telecommunication management; Configuration Management (CM); Generic network resources Integration Reference Point (IRP): Bulk CM eXtensible Markup Language (XML) file format definition",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32625.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.626",
+    "title": "Telecommunication management; Configuration Management (CM); Generic network resources Integration Reference Point (IRP); Solution Set (SS) definitions",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32626.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.627",
+    "title": "Telecommunication management; Configuration Management (CM); Generic network resources Integration Reference Point (IRP): SOAP Solution Set (SS)",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32627.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.631",
+    "title": "Telecommunication management; Configuration Management (CM); Core network resources Integration Reference Point (IRP); Requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32631.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.632",
+    "title": "Telecommunication management; Configuration Management (CM); Core Network Resources Integration Reference Point (IRP); Network Resource Model (NRM)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32632.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.633",
+    "title": "Telecommunication management; Configuration Management (CM); Core network resources Integration Reference Point (IRP); Common Object Request Broker Architecture (CORBA) Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32633.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.634",
+    "title": "Telecommunication management; Configuration Management (CM); Core network resources Integration Reference Point (IRP): Common Management Information Protocol (CMIP) Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32634.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.635",
+    "title": "Telecommunication management; Configuration Management (CM); Core network resources Integration Reference Point (IRP); Bulk CM eXtensible Markup Language (XML) file format definition",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32635.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.636",
+    "title": "Telecommunication management; Configuration Management (CM); Core network resources Integration Reference Point (IRP); Solution Set (SS) Definitions",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32636.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.637",
+    "title": "Telecommunication management; Configuration Management (CM); Core network resources Integration Reference Point (IRP); SOAP Solution Set (SS)",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32637.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.641",
+    "title": "Telecommunication management; Configuration Management (CM); UTRAN network resources Integration Reference Point (IRP); Requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32641.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.642",
+    "title": "Telecommunication management; Configuration Management (CM); UTRAN network resources Integration Reference Point (IRP); Network Resource Model (NRM)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32642.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.643",
+    "title": "Telecommunication management; Configuration Management (CM); UTRAN network resources Integration Reference Point (IRP); Common Object Request Broker Architecture (CORBA) Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32643.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.644",
+    "title": "Telecommunication management; Configuration Management (CM); UTRAN network resources Integration Reference Point (IRP): Common Management Information Protocol (CMIP) Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32644.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.645",
+    "title": "Telecommunication management; Configuration Management (CM); UTRAN network resources Integration Reference Point (IRP); Bulk CM eXtensible Markup Language (XML) file format definition",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32645.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.646",
+    "title": "Telecommunication management; Configuration Management (CM); UTRAN network resources Integration Reference Point (IRP); Solution Set (SS) definitions",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32646.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.647",
+    "title": "Telecommunication management; Configuration Management (CM); UTRAN network resources Integration Reference Point (IRP); SOAP Solution Set (SS)",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32647.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.651",
+    "title": "Telecommunication management; Configuration Management (CM); GERAN network resources Integration Reference Point (IRP); Requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32651.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.652",
+    "title": "Telecommunication management; Configuration Management (CM); GERAN network resources Integration Reference Point (IRP); Network Resource Model (NRM)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32652.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.653",
+    "title": "Telecommunication management; Configuration Management (CM); GERAN network resources Integration Reference Point (IRP); Common Object Request Broker Architecture (CORBA) Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32653.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.654",
+    "title": "Telecommunication management; Configuration Management (CM); GERAN network resources Integration Reference Point (IRP): Common Management Information Protocol (CMIP) Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32654.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.655",
+    "title": "Telecommunication management; Configuration Management (CM); GERAN network resources Integration Reference Point (IRP); Bulk CM eXtensible Markup Language (XML) file format definition",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32655.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.656",
+    "title": "Telecommunication management; Configuration Management (CM); GERAN network resources Integration Reference Point (IRP); Solution Set (SS) definitions",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32656.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.657",
+    "title": "Telecommunication management; Configuration Management (CM); GERAN network resources Integration Reference Point (IRP); SOAP Solution Set (SS)",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32657.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.661",
+    "title": "Telecommunication management; Configuration Management (CM); Kernel CM Requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32661.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.662",
+    "title": "Telecommunication management; Configuration Management (CM); Kernel CM Information Service (IS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32662.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.663",
+    "title": "Telecommunication management; Configuration Management (CM); Kernel CM Integration Reference Point (IRP); Common Object Request Broker Architecture (CORBA) Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32663.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.664",
+    "title": "Telecommunication management; Configuration Management (CM); Kernel CM Integration Reference Point (IRP); Common Management Information Protocol (CMIP) Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32664.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.665",
+    "title": "Telecommunication management; Configuration Management (CM); Kernel CM Integration Reference Point (IRP); eXtensible Markup Language (XML) definitions",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32665.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.666",
+    "title": "Telecommunication management; Configuration Management (CM); Kernel CM Integration Reference Point (IRP); Solution Set (SS) definitions",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32666.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.667",
+    "title": "Telecommunication management; Configuration Management (CM); Kernel CM Integration Reference Point (IRP); SOAP Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32667.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.671",
+    "title": "Telecommunication management; Configuration Management (CM); State Management Integration Reference Point (IRP); Requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32671.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.672",
+    "title": "Telecommunication management; Configuration Management (CM); State Management Integration Reference Point (IRP); Information Service (IS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32672.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.673",
+    "title": "Telecommunication management; Configuration Management (CM); State Management Integration Reference Point (IRP); Common Object Request Broker Architecture (CORBA) Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32673.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.674",
+    "title": "Telecommunication management; Configuration Management (CM); State Management Integration Reference Point (IRP): Common Management Information Protocol (CMIP) Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32674.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.675",
+    "title": "Telecommunication management; Configuration Management (CM); State Management Integration Reference Point (IRP); Bulk CM eXtensible Markup Language (XML) file format definition",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32675.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.676",
+    "title": "Telecommunication management; Configuration Management (CM); State Management Integration Reference Point (IRP); Solution Set (SS) definitions",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32676.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.677",
+    "title": "Telecommunication management; Configuration Management (CM); State Management Integration Reference Point (IRP); SOAP Solution Set (SS)",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32677.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.681",
+    "title": "Telecommunication management; Inventory Management (IM) Integration Reference Point (IRP): Requirements",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32681.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.682",
+    "title": "Telecommunication management; Inventory Management (IM) Integration Reference Point (IRP); Information Service (IS)",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32682.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.683",
+    "title": "Telecommunication management; Inventory Management (IM) Integration Reference Point (IRP): Common Object Request Broker Architecture (CORBA) Solution Set (SS)",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32683.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.684",
+    "title": "Telecommunication management; Inventory Management (IM) Integration Reference Point (IRP): Common Management Information Protocol (CMIP) Solution Set (SS)",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32684.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.690",
+    "title": "Telecommunication management; Inventory Management (IM); Requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32690.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.691",
+    "title": "Telecommunication management; Inventory Management (IM) network resources Integration Reference Point (IRP): Requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32691.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.692",
+    "title": "Telecommunication management; Inventory Management (IM) network resources Integration Reference Point (IRP); Network Resource Model (NRM)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32692.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.695",
+    "title": "Telecommunication management; Inventory Management (IM) network resources Integration Reference Point (IRP); Bulk Configuration Management (CM) eXtensible Markup Language (XML) file format definition",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32695.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.696",
+    "title": "Telecommunication management; Inventory Management (IM) Network Resource Model (NRM) Integration Reference Point (IRP); Solution Set (SS) definitions",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32696.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.697",
+    "title": "Telecommunication management; Inventory Management (IM) network resources Integration Reference Point (IRP); SOAP Solution Set (SS)",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32697.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.711",
+    "title": "Telecommunication management; Configuration Management (CM); Transport Network (TN) interface Network Resource Model (NRM) Integration Reference Point (IRP); Requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32711.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.712",
+    "title": "Telecommunication management; Configuration Management (CM); Transport Network (TN) interface Network Resource Model (NRM) Integration Reference Point (IRP); Information Service (IS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32712.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.713",
+    "title": "Telecommunication management; Configuration Management (CM); Transport Network (TN) Network Resource Model (NRM) Integration Reference Point (IRP); Common Object Request Broker Architecture (CORBA) Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32713.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.714",
+    "title": "Telecommunication management; Configuration Management (CM); Transport Network (TN) Network Resource Model (NRM) Integration Reference Point (IRP); Common Management Information Protocol (CMIP) Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32714.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.715",
+    "title": "Telecommunication management; Configuration Management (CM) Transport Network (TN); Network Resource Model (NRM) Integration Reference Point (IRP); Bulk CM eXtensible Markup Language (XML) file format definition",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32715.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.716",
+    "title": "Telecommunication management; Configuration Management (CM); Transport Network (TN) interface Network Resource Model (NRM) Integration Reference Point (IRP); Solution Set (SS) definitions",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32716.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.717",
+    "title": "Telecommunication management; Configuration Management (CM) Transport Network (TN) Network Resource Model (NRM) Integration Reference Point (IRP); SOAP Solution Set (SS)",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32717.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.721",
+    "title": "Telecommunication management; Configuration Management (CM); Repeater network resources Integration Reference Point (IRP); Requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32721.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.722",
+    "title": "Telecommunication management; Configuration Management (CM); Repeater network resources Integration Reference Point (IRP); information Service (IS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32722.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.723",
+    "title": "Telecommunication management; Configuration Management (CM); Repeater network resources Integration Reference Point (IRP); Common Object Request Broker Architecture (CORBA) Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32723.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.724",
+    "title": "Telecommunication management; Configuration Management (CM); Repeater network resources Integration Reference Point (IRP): Common Management Information Protocol (CMIP) Solution Set (SS)",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32724.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.725",
+    "title": "Telecommunication management; Configuration Management (CM); Repeater network resources Integration Reference Point (IRP); Bulk CM eXtensible Markup Language (XML) file format definition",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32725.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.726",
+    "title": "Telecommunication management; Configuration Management (CM); Repeater network resources Integration Reference Point (IRP); Solution Set (SS) definitions",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32726.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.727",
+    "title": "Telecommunication management; Configuration Management (CM); Repeater network resources Integration Reference Point (IRP); SOAP Solution Set (SS)",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32727.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.731",
+    "title": "Telecommunication management; IP Multimedia Subsystem (IMS) Network Resource Model (NRM) Integration Reference Point (IRP); Requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32731.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.732",
+    "title": "Telecommunication management; IP Multimedia Subsystem (IMS) Network Resource Model (NRM) Integration Reference Point (IRP); Information Service (IS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32732.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.733",
+    "title": "Telecommunication management; IP Multimedia Subsystem (IMS) Network Resource Model (NRM) Integration Reference Point (IRP); Common Object Request Broker Architecture (CORBA) Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32733.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.734",
+    "title": "Telecommunication management; Service Specific Core Network (CN) IP Multimedia Subsystem (IMS) Network Resource Model (NRM) Integration Reference Point (IRP): Common Management Information Protocol (CMIP) Solution Set (SS)",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32734.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.735",
+    "title": "Telecommunication management; IP Multimedia Subsystem (IMS) Network Resource Model (NRM) Integration Reference Point (IRP); Bulk CM eXtensible Markup Language (XML) file format definition",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32735.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.736",
+    "title": "Telecommunication management; IP Multimedia Subsystem (IMS) Network Resource Model (NRM) Integration Reference Point (IRP); Solution Set (SS) definitions",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32736.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.737",
+    "title": "Telecommunication management; IP Multimedia Subsystem (IMS) Network Resource Model (NRM) Integration Reference Point (IRP); SOAP Solution Set (SS)",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32737.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.741",
+    "title": "Telecommunication management; Configuration Management (CM); Signalling Transport Network (STN) interface Network Resource Model (NRM) Integration Reference Point (IRP); Requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32741.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.742",
+    "title": "Telecommunication management; Configuration Management (CM); Signalling Transport Network (STN) interface Network Resource Model (NRM) Integration Reference Point (IRP); Information Service (IS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32742.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.743",
+    "title": "Telecommunication management; Configuration Management (CM); Signalling Transport Network (STN) interface Network Resource Model (NRM) Integration Reference Point (IRP); Common Object Request Broker Architecture (CORBA) Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32743.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.744",
+    "title": "Telecommunication management; Configuration Management (CM); Signalling Transport Network (STN) interface Network Resource Model (NRM) Integration Reference Point (IRP): Common Management Information Protocol (CMIP) Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32744.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.745",
+    "title": "Telecommunication management; Configuration Management (CM); Signalling Transport Network (STN) interface Network Resource Model (NRM) Integration Reference Point (IRP); Bulk CM eXtensible Markup Language (XML) file format definition",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32745.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.746",
+    "title": "Telecommunication management; Configuration Management (CM); Signalling Transport Network (STN) interface Network Resource Model (NRM) Integration Reference Point (IRP); Solution Set (SS) definitions",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32746.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.747",
+    "title": "Telecommunication management; Configuration Management (CM); Signalling Transport Network (STN) interface Network Resource Model (NRM) Integration Reference Point (IRP); SOAP Solution Set (SS)",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32747.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.751",
+    "title": "Telecommunication management; Evolved Packet Core (EPC) Network Resource Model (NRM) Integration Reference Point (IRP); Requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32751.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.752",
+    "title": "Telecommunication management; Evolved Packet Core (EPC) Network Resource Model (NRM) Integration Reference Point (IRP); Information Service (IS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32752.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.753",
+    "title": "Telecommunication management; Evolved Packet Core (EPC) Network Resource Model (NRM) Integration Reference Point (IRP); Common Object Request Broker Architecture (CORBA) Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32753.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.755",
+    "title": "Telecommunication management; Evolved Packet Core (EPC) Network Resource Model (NRM) Integration Reference Point (IRP); eXtensible Markup Language (XML) definitions",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32755.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.756",
+    "title": "Telecommunication management; Evolved Packet Core (EPC) Network Resource Model (NRM) Integration Reference Point (IRP); Solution Set (SS) Definitions",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32756.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.761",
+    "title": "Telecommunication management; Evolved Universal Terrestrial Radio Access Network (E-UTRAN) Network Resource Model (NRM) Integration Reference Point (IRP); Requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32761.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.762",
+    "title": "Telecommunication management; Evolved Universal Terrestrial Radio Access Network (E-UTRAN) Network Resource Model (NRM) Integration Reference Point (IRP); Information Service (IS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32762.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.763",
+    "title": "Telecommunication management; Evolved Universal Terrestrial Radio Access Network (E-UTRAN) Network Resource Model (NRM) Integration Reference Point (IRP): Common Object Request Broker Architecture (CORBA) Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32763.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.765",
+    "title": "Telecommunication management; Evolved Universal Terrestrial Radio Access Network (E-UTRAN) Network Resource Model (NRM) Integration Reference Point (IRP); eXtensible Markup Language (XML) definitions",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32765.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.766",
+    "title": "Telecommunication management; Evolved Universal Terrestrial Radio Access Network (E-UTRAN) Network Resource Model (NRM) Integration Reference Point (IRP); Solution Set (SS) definitions",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32766.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.771",
+    "title": "Telecommunication management; Home Node B (HNB) Subsystem (HNS); Network Resource Model (NRM); Integration Reference Point (IRP); Requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32771.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.772",
+    "title": "Telecommunication management; Home Node B (HNB) Subsystem (HNS); Network Resource Model (NRM); Integration Reference Point (IRP); Information Service (IS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32772.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.773",
+    "title": "Telecommunication management; Home Node B (HNB) Subsystem (HNS); Network Resource Model (NRM); Integration Reference Point (IRP); Common Object Request Broker Architecture (CORBA) Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32773.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.775",
+    "title": "Telecommunication management; Home Node B (HNB) Subsystem (HNS); Network Resource Model (NRM); Integration Reference Point (IRP); eXtensible Markup Language (XML) file format definition",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32775.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.776",
+    "title": "Telecommunication management; Home Node B (HNB) Subsystem (HNS); Network Resource Model (NRM); Integration Reference Point (IRP); Solution Set (SS) definitions",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32776.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.781",
+    "title": "Telecommunication management; Home enhanced Node B (HeNB) Subsystem (HeNS); Network Resource Model (NRM); Integration Reference Point (IRP); Requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32781.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.782",
+    "title": "Telecommunication management; Home enhanced Node B (HeNB) Subsystem (HeNS); Network Resource Model (NRM); Integration Reference Point (IRP): Information Service (IS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32782.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.783",
+    "title": "Telecommunication management; Home enhanced Node B (HeNB) Subsystem (HeNS); Network Resource Model (NRM); Integration Reference Point (IRP); Common Object Request Broker Architecture (CORBA) Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32783.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.785",
+    "title": "Telecommunication management; Home enhanced Node B (HeNB) Subsystem (HeNS); Network Resource Model (NRM); Integration Reference Point (IRP); Bulk CM eXtensible Markup Language (XML) file format definition",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32785.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.786",
+    "title": "Telecommunication management; Home enhanced Node B (HeNB) Subsystem (HeNS); Network Resource Model (NRM); Integration Reference Point (IRP); Solution Set (SS) definitions",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32786.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.791",
+    "title": "Telecommunication management; Common Radio Access Technology (RAT) Network Resource Model (NRM) Integration Reference Point (IRP); Requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32791.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.792",
+    "title": "Telecommunication management; Generic Radio Access Network (RAN) Network Resource Model (NRM) Integration Reference Point (IRP); Information Service (IS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32792.htm"
+  },
+  {
+    "type": "TS",
+    "no": "32.796",
+    "title": "Telecommunication management; Generic Radio Access Network (RAN) Network Resource Model (NRM) Integration Reference Point (IRP); Solution Set (SS) definitions",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32796.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.800",
+    "title": "Telecommunication management; Management level procedures and interaction with UTRAN",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32800.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.801",
+    "title": "Performance management",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32801.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.801-01",
+    "title": "Study on 6G Management and Orchestration",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32801-01.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.801-02",
+    "title": "Study on Charging Aspects of 6G System",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32801-02.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.802",
+    "title": "Telecommunication management; User Equipment Management (UEM) feasibility study",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32802.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.803",
+    "title": "Telecommunication management; Process guide; Use cases in Unified Modelling Language (UML)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32803.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.804",
+    "title": "Telecommunication management; Control of Remote Electrical Tilting (RET) antennas; Requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32804.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.805",
+    "title": "Telecommunication management; Process guide; Backward compatibility recommendations",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32805.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.806",
+    "title": "Telecommunication management; Application guide for use of Integration Reference Points (IRPs) on peer-to-peer (p2p) interface",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32806.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.807",
+    "title": "Telecommunication management; Project scheduling and open issues for SA5, Release 7",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32807.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.808",
+    "title": "Telecommunication management; Study of Common Profile Storage (CPS) Framework of User Data for network services and management",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32808.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.809",
+    "title": "Telecommunication management; Feasibility study of XML-based (SOAP/HTTP) IRP solution sets",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32809.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.810",
+    "title": "Telecommunication management; Information model Integration Reference Point (IRP) Study",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32810.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.811",
+    "title": "Telecommunication management; Itf-N performance criteria: Requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32811.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.812",
+    "title": "Telecommunication management; Itf-N Implementation Conformance Statement (ICS) template",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32812.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.814",
+    "title": "Telecommunication management; UTRAN and GERAN Key Performance Indicators (KPI)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32814.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.815",
+    "title": "Telecommunication management; Charging management; Online Charging System (OCS) architecture study",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32815.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.816",
+    "title": "Telecommunication management; Study on management of Evolved Universal Terrestrial Radio Access Network (E-UTRAN) and Evolved Packet Core (EPC)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32816.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.817",
+    "title": "Study on management of measurement collection in network sharing context",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32817.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.818",
+    "title": "Telecommunication management; Study on 3GPP SA5 / MTOSI XML harmonization",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32818.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.819",
+    "title": "Telecommunications management; Element management layer - Operation System Function (E-OSF)  definition",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32819.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.820",
+    "title": "Telecommunication management; Study on charging management; 3GPP Evolved Packet Core (EPC): Charging aspects",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32820.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.821",
+    "title": "Telecommunication management; Study of Self-Organizing Networks (SON) related Operations, Administration and Maintenance (OAM)  for Home Node B (HNB)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32821.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.822",
+    "title": "Telecommunication  management; Study on System Maintenance over Itf-N",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32822.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.823",
+    "title": "Telecommunication management; Self-Organizing Networks (SON); Study on self-healing",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32823.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.824",
+    "title": "Telecommunication management; Service Oriented Architecture (SOA) Integration Reference Point (IRP) study",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32824.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.825",
+    "title": "Telecommunication management; Charging management; Rc reference point study",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32825.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.826",
+    "title": "Telecommunication management; Study on Energy Savings Management (ESM)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32826.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.827",
+    "title": "Telecommunication management; Integration of device management information with Itf-N",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32827.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.828",
+    "title": "Telecommunication management; Study on alignment of 3GPP generic Network Resource Model (NRM) Integration Reference Point (IRP) and the TeleManagement Forum (TMF) Shared Information/Data (SID) model",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32828.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.829",
+    "title": "Telecommunication management; Study on alignment of 3GPP alarm Integration Reference Point (IRP) and TeleManagement Forum (TMF) Interface Program (TIP) fault management",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32829.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.830",
+    "title": "Telecommunication management; Study on version handling over Itf-N",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32830.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.831",
+    "title": "Telecommunication management; Study on alignment of 3GPP Performance Management (PM) and TeleManagement Forum (TMF) Interface Program (TIP) Performance Management",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32831.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.832",
+    "title": "Telecommunication management; Study on alarm correlation and alarm root cause analysis",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32832.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.833",
+    "title": "Telecommunication management; Study on management of converged networks",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32833.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.834",
+    "title": "Study on Operations, Administration and Maintenance (OAM) aspects of inter-Radio-Access-Technology (RAT) energy saving",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32834.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.835",
+    "title": "Telecommunication management; Study of heterogeneous networks management",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32835.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.836",
+    "title": "Telecommunication management; Study on Network Management (NM) centralized Coverage and Capacity Optimization (CCO) Self-Organizing Networks (SON) function",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32836.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.837",
+    "title": "Gap analysis between 3GPP SA5 specifications and Next Generation Mobile Networks (NGMN) Next Generation Operations Requirements (NGCOR)",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32837.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.838",
+    "title": "Telecommunication management; Gap analysis between 3GPP SA5 specifications and NGMN Top Operational Efficiency (OPE) recommendations",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32838.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.839",
+    "title": "Management Specification Tooling Environment",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32839.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.840",
+    "title": "Management Specification Testing Recommendations",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32840.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.841",
+    "title": "Telecommunication management; Study on Wireless Local Area Network (WLAN) management",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32841.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.842",
+    "title": "Telecommunication management; Study on network management of virtualized networks",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32842.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.843",
+    "title": "Telecommunication management; Charging management; Study on Inter-Public-Land-Mobile-Network (PLMN) Packet Switched (PS) domain online charging",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32843.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.844",
+    "title": "Study of charging support of Proximity-based Services (ProSe) direct communication for public safety use",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32844.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.845",
+    "title": "Charging management; Study on charging aspects of network slicing",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32845.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.846",
+    "title": "Charging management; Study on charging aspects of Proximity-based Services (ProSe) in 5GS",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32846.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.847",
+    "title": "Study on Charging Aspects for Network Slicing Phase 2",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32847.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.848",
+    "title": "Study on Volume based charging aspects for Voice Over LTE (VoLTE)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32848.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.849",
+    "title": "Study on Charging aspects of Roaming End-to-end scenarios with VoLTE IMS and interconnecting networks",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32849.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.850",
+    "title": "Study  on determination of completeness of charging information in IMS",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32850.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.851",
+    "title": "Telecommunication management; Study on Operations, Administration and Maintenance (OAM) aspects of Network Sharing",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32851.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.852",
+    "title": "Study on OAM aspects of inter-RAT Energy Saving",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/32852.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.853",
+    "title": "Telecommunication management; Final report from the 3GPP - TM Forum Joint Work Group (JWG) on fault management harmonization",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32853.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.854",
+    "title": "Telecommunication management; Fixed Mobile Convergence (FMC) 3GPP / TM Forum concrete model relationships and use cases",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32854.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.855",
+    "title": "Study on OAM support for Licensed Shared Access (LSA)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32855.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.856",
+    "title": "Study on Operations, Administration and Maintenance (OAM) support for assessment of energy efficiency in mobile access networks",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32856.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.857",
+    "title": "Study on management aspects of selected Internet of Things (IoT)-related features",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32857.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.858",
+    "title": "Usage Monitoring Control OCS enhancement",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32858.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.859",
+    "title": "Telecommunication management; Study on Alarm Management",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32859.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.860",
+    "title": "Telecommunication management; Study on enhancements of Operations, Administration and Maintenance (OAM) aspects of distributed Self-Organizing Networks (SON) functions",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32860.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.861",
+    "title": "Telecommunication management; Study on application and partitioning of Interface N (Itf-N)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32861.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.862",
+    "title": "Study on Key Quality Indicators (KQIs) for service experience",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32862.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.863",
+    "title": "Telecommunication management; Fixed Mobile Convergence (FMC) metadefinitions for measurements and Key Performance Indicators (KPIs)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32863.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.864",
+    "title": "Telecommunication management;Study on management aspects of virtualized network functions that are part of the New Radio (NR)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32864.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.865",
+    "title": "Study on Operations, Administration and Maintenance (OAM) aspects of Self-Organizing Network (SON)  for Active Antenna System (AAS) based deployments",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32865.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.866",
+    "title": "Telecommunication management;Study on a REST(REpresentational State Transfer)-ful HTTP-based Solution Set (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32866.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.867",
+    "title": "Telecommunication management;Study on management enhancement of Control and User Plane Split (CUPS) of Evolved Packet Core (EPC) nodes",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32867.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.868",
+    "title": "Telecommunication management;Study on Operations, Administration and Maintenance (OAM) aspects of Long Term Evolution (LTE) and Wireless LAN (WLAN) integration",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32868.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.869",
+    "title": "Telecommunication management; Charging management; Study on Overload Control for Diameter Charging Applications",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32869.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.870",
+    "title": "Telecommunication management;Charging management;Study on forward compatibility for 3GPP Diameter charging applications",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32870.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.871",
+    "title": "Study on policy management for mobile networks based on Network Function Virtualization (NFV) scenarios",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32871.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.872",
+    "title": "Study on 5GA roaming charging reliability enhancement",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32872.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.880",
+    "title": "Telecommunication management;Study on implementation for the partitioning of Itf-N",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32880.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.899",
+    "title": "Telecommunication management; Charging management;Study on charging aspects of 5G system architecture phase 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32899.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.901",
+    "title": "Telecommunication management; Study on User Data Convergence (UDC) information model handling and provisioning: Example use cases",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32901.htm"
+  },
+  {
+    "type": "TR",
+    "no": "32.972",
+    "title": "Telecommunication management;Study on system and functional aspects of energy efficiency in 5G networks",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32972.htm"
+  }
+]

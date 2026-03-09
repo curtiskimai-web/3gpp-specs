@@ -1,0 +1,432 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>3GPP Specifications</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg: #f5f6f8;
+      --surface: #ffffff;
+      --border: #e2e4e8;
+      --primary: #1a6e2e;
+      --primary-light: #e8f5ec;
+      --text: #1a1c1e;
+      --muted: #6b7280;
+      --ts-bg: #dbeafe;
+      --ts-color: #1d4ed8;
+      --tr-bg: #fef3c7;
+      --tr-color: #92400e;
+      --withdrawn-color: #9ca3af;
+      --sidebar-w: 220px;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      font-size: 14px;
+      line-height: 1.5;
+    }
+
+    /* ── Header ── */
+    header {
+      background: var(--primary);
+      color: #fff;
+      padding: 0 24px;
+      height: 52px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      box-shadow: 0 1px 4px rgba(0,0,0,.2);
+    }
+    header h1 { font-size: 17px; font-weight: 600; letter-spacing: .3px; }
+    #updated-at { font-size: 12px; opacity: .75; }
+
+    /* ── Layout ── */
+    .layout { display: flex; min-height: calc(100vh - 52px); }
+
+    /* ── Sidebar ── */
+    aside {
+      width: var(--sidebar-w);
+      background: var(--surface);
+      border-right: 1px solid var(--border);
+      padding: 12px 0;
+      position: sticky;
+      top: 52px;
+      height: calc(100vh - 52px);
+      overflow-y: auto;
+      flex-shrink: 0;
+    }
+    .sidebar-title {
+      font-size: 11px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: .6px;
+      color: var(--muted);
+      padding: 4px 16px 8px;
+    }
+    .series-btn {
+      display: flex;
+      align-items: baseline;
+      gap: 8px;
+      width: 100%;
+      padding: 7px 16px;
+      border: none;
+      background: none;
+      cursor: pointer;
+      text-align: left;
+      color: var(--text);
+      font-size: 13px;
+      transition: background .12s;
+    }
+    .series-btn:hover { background: var(--bg); }
+    .series-btn.active {
+      background: var(--primary-light);
+      color: var(--primary);
+      font-weight: 600;
+    }
+    .series-btn .num { font-weight: 700; min-width: 24px; }
+    .series-btn .desc { color: var(--muted); font-size: 11.5px; line-height: 1.3; }
+    .series-btn.active .desc { color: var(--primary); opacity: .8; }
+
+    /* ── Main ── */
+    main {
+      flex: 1;
+      padding: 20px 24px;
+      min-width: 0;
+    }
+
+    /* ── Toolbar ── */
+    .toolbar {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 16px;
+      flex-wrap: wrap;
+    }
+    .series-heading {
+      font-size: 18px;
+      font-weight: 700;
+      flex: 1;
+      min-width: 0;
+    }
+    .series-heading span { color: var(--muted); font-weight: 400; font-size: 14px; margin-left: 6px; }
+
+    #search {
+      padding: 7px 12px;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      font-size: 13px;
+      width: 220px;
+      outline: none;
+      transition: border-color .15s;
+    }
+    #search:focus { border-color: var(--primary); }
+
+    .filter-group {
+      display: flex;
+      gap: 8px;
+      align-items: center;
+    }
+    .filter-btn {
+      padding: 5px 12px;
+      border-radius: 20px;
+      border: 1px solid var(--border);
+      background: var(--surface);
+      font-size: 12px;
+      cursor: pointer;
+      transition: all .12s;
+      font-weight: 500;
+    }
+    .filter-btn:hover { border-color: #aaa; }
+    .filter-btn.active-ts { background: var(--ts-bg); color: var(--ts-color); border-color: var(--ts-color); }
+    .filter-btn.active-tr { background: var(--tr-bg); color: var(--tr-color); border-color: var(--tr-color); }
+
+    label.withdrawn-toggle {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 12px;
+      color: var(--muted);
+      cursor: pointer;
+      user-select: none;
+    }
+
+    /* ── Stats bar ── */
+    .stats {
+      font-size: 12px;
+      color: var(--muted);
+      margin-bottom: 10px;
+    }
+
+    /* ── Table ── */
+    .table-wrap {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      overflow: hidden;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+    thead th {
+      background: #f0f1f3;
+      padding: 9px 14px;
+      text-align: left;
+      font-size: 12px;
+      font-weight: 600;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: .4px;
+      border-bottom: 1px solid var(--border);
+    }
+    tbody tr {
+      border-bottom: 1px solid var(--border);
+      transition: background .1s;
+    }
+    tbody tr:last-child { border-bottom: none; }
+    tbody tr:hover { background: var(--bg); }
+    tbody tr.withdrawn { opacity: .45; }
+    td { padding: 9px 14px; vertical-align: middle; }
+
+    .col-type { width: 64px; }
+    .col-no   { width: 130px; white-space: nowrap; }
+    .col-title { }
+
+    .badge {
+      display: inline-block;
+      padding: 2px 7px;
+      border-radius: 4px;
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: .3px;
+    }
+    .badge-ts { background: var(--ts-bg); color: var(--ts-color); }
+    .badge-tr { background: var(--tr-bg); color: var(--tr-color); }
+
+    .spec-link {
+      color: var(--primary);
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 13px;
+    }
+    .spec-link:hover { text-decoration: underline; }
+
+    .withdrawn-label {
+      font-size: 10px;
+      color: #ef4444;
+      font-weight: 600;
+      letter-spacing: .3px;
+      margin-left: 6px;
+      vertical-align: middle;
+    }
+
+    /* ── Empty / Loading ── */
+    .placeholder {
+      text-align: center;
+      padding: 60px 20px;
+      color: var(--muted);
+    }
+    .placeholder .icon { font-size: 36px; margin-bottom: 10px; }
+
+    /* ── Responsive ── */
+    @media (max-width: 680px) {
+      :root { --sidebar-w: 180px; }
+      main { padding: 12px; }
+      #search { width: 160px; }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>3GPP Specifications</h1>
+  <span id="updated-at">Loading...</span>
+</header>
+
+<div class="layout">
+  <aside>
+    <div class="sidebar-title">Series</div>
+    <div id="series-list"></div>
+  </aside>
+
+  <main>
+    <div class="toolbar">
+      <div class="series-heading" id="series-heading">Select a series</div>
+      <input id="search" type="search" placeholder="Search spec / title..." oninput="renderTable()">
+      <div class="filter-group">
+        <button class="filter-btn" id="btn-ts" onclick="toggleFilter('ts')">TS</button>
+        <button class="filter-btn" id="btn-tr" onclick="toggleFilter('tr')">TR</button>
+        <label class="withdrawn-toggle">
+          <input type="checkbox" id="show-withdrawn" onchange="renderTable()">
+          Show withdrawn
+        </label>
+      </div>
+    </div>
+    <div class="stats" id="stats"></div>
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th class="col-type">Type</th>
+            <th class="col-no">Spec No.</th>
+            <th class="col-title">Title</th>
+          </tr>
+        </thead>
+        <tbody id="tbody"></tbody>
+      </table>
+    </div>
+  </main>
+</div>
+
+<script>
+const SERIES_META = [
+  { n: 21, desc: "Vocabulary & terminology" },
+  { n: 22, desc: "Service aspects (Stage 1)" },
+  { n: 23, desc: "Technical realization (Stage 2)" },
+  { n: 24, desc: "Signalling – UE to network (Stage 3)" },
+  { n: 25, desc: "Radio Access Network (UMTS)" },
+  { n: 26, desc: "Codecs" },
+  { n: 27, desc: "Data" },
+  { n: 28, desc: "Telecom management (OAM)" },
+  { n: 29, desc: "Signalling (MAP & related)" },
+  { n: 31, desc: "SIM / UICC" },
+  { n: 32, desc: "OAM&P & Charging" },
+  { n: 33, desc: "Security aspects" },
+  { n: 34, desc: "UE & SIM test specs" },
+  { n: 35, desc: "Security algorithms" },
+  { n: 36, desc: "LTE (E-UTRA)" },
+  { n: 37, desc: "Multiple RAT" },
+  { n: 38, desc: "NR (5G New Radio)" },
+];
+
+let currentSeries = null;
+let currentData = [];
+let filterTs = false;
+let filterTr = false;
+
+// ── 사이드바 렌더링
+function renderSidebar() {
+  const list = document.getElementById('series-list');
+  list.innerHTML = SERIES_META.map(s => `
+    <button class="series-btn" id="sb-${s.n}" onclick="loadSeries(${s.n})">
+      <span class="num">${s.n}</span>
+      <span class="desc">${s.desc}</span>
+    </button>
+  `).join('');
+}
+
+// ── 시리즈 데이터 로드
+async function loadSeries(n) {
+  if (currentSeries === n) return;
+  currentSeries = n;
+
+  // 사이드바 활성화
+  document.querySelectorAll('.series-btn').forEach(b => b.classList.remove('active'));
+  document.getElementById(`sb-${n}`)?.classList.add('active');
+
+  const meta = SERIES_META.find(s => s.n === n);
+  document.getElementById('series-heading').innerHTML =
+    `Series ${n} <span>${meta?.desc ?? ''}</span>`;
+
+  document.getElementById('tbody').innerHTML =
+    `<tr><td colspan="3"><div class="placeholder"><div class="icon">⏳</div>Loading...</div></td></tr>`;
+  document.getElementById('stats').textContent = '';
+
+  try {
+    const resp = await fetch(`../data/series-${n}.json`);
+    if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+    currentData = await resp.json();
+    renderTable();
+  } catch (e) {
+    document.getElementById('tbody').innerHTML =
+      `<tr><td colspan="3"><div class="placeholder"><div class="icon">⚠️</div>Failed to load data.<br><small>${e.message}</small></div></td></tr>`;
+  }
+}
+
+// ── 테이블 렌더링 (검색 + 필터 적용)
+function renderTable() {
+  const query = document.getElementById('search').value.toLowerCase();
+  const showWithdrawn = document.getElementById('show-withdrawn').checked;
+
+  let rows = currentData.filter(s => {
+    if (!showWithdrawn && s.withdrawn) return false;
+    if (filterTs && s.type !== 'TS') return false;
+    if (filterTr && s.type !== 'TR') return false;
+    if (query && !s.no.toLowerCase().includes(query) && !s.title.toLowerCase().includes(query)) return false;
+    return true;
+  });
+
+  const total = currentData.length;
+  const shown = rows.length;
+  const wCount = currentData.filter(s => s.withdrawn).length;
+  document.getElementById('stats').textContent =
+    `Showing ${shown} of ${total} specs` + (wCount ? ` · ${wCount} withdrawn` : '');
+
+  if (rows.length === 0) {
+    document.getElementById('tbody').innerHTML =
+      `<tr><td colspan="3"><div class="placeholder"><div class="icon">🔍</div>No specs found.</div></td></tr>`;
+    return;
+  }
+
+  document.getElementById('tbody').innerHTML = rows.map(s => {
+    const badgeClass = s.type === 'TS' ? 'badge-ts' : 'badge-tr';
+    const specNoHtml = s.link
+      ? `<a class="spec-link" href="${s.link}" target="_blank" rel="noopener">${s.no}</a>`
+      : `<span class="spec-link">${s.no}</span>`;
+    const wLabel = s.withdrawn ? `<span class="withdrawn-label">WITHDRAWN</span>` : '';
+    return `<tr class="${s.withdrawn ? 'withdrawn' : ''}">
+      <td><span class="badge ${badgeClass}">${s.type}</span></td>
+      <td>${specNoHtml}</td>
+      <td>${escHtml(s.title)}${wLabel}</td>
+    </tr>`;
+  }).join('');
+}
+
+// ── TS/TR 필터 토글
+function toggleFilter(type) {
+  if (type === 'ts') {
+    filterTs = !filterTs;
+    if (filterTs) filterTr = false;
+    document.getElementById('btn-ts').className = 'filter-btn' + (filterTs ? ' active-ts' : '');
+    document.getElementById('btn-tr').className = 'filter-btn';
+  } else {
+    filterTr = !filterTr;
+    if (filterTr) filterTs = false;
+    document.getElementById('btn-tr').className = 'filter-btn' + (filterTr ? ' active-tr' : '');
+    document.getElementById('btn-ts').className = 'filter-btn';
+  }
+  renderTable();
+}
+
+// ── 마지막 업데이트 표시
+async function loadMeta() {
+  try {
+    const resp = await fetch('../data/meta.json');
+    if (!resp.ok) return;
+    const meta = await resp.json();
+    const d = new Date(meta.updated_at);
+    document.getElementById('updated-at').textContent =
+      'Updated: ' + d.toISOString().slice(0, 10);
+  } catch (_) {}
+}
+
+function escHtml(s) {
+  return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+}
+
+// ── 초기화
+renderSidebar();
+loadMeta();
+// 기본 시리즈 38 로드
+loadSeries(38);
+</script>
+</body>
+</html>

@@ -1,0 +1,296 @@
+[
+  {
+    "type": "TS",
+    "no": "31.048",
+    "title": "Security mechanisms for the (U)SIM application toolkit; Test specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/31048.htm"
+  },
+  {
+    "type": "TS",
+    "no": "31.101",
+    "title": "UICC-terminal interface; Physical and logical characteristics",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/31101.htm"
+  },
+  {
+    "type": "TS",
+    "no": "31.102",
+    "title": "Characteristics of the Universal Subscriber Identity Module (USIM) application",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/31102.htm"
+  },
+  {
+    "type": "TS",
+    "no": "31.103",
+    "title": "Characteristics of the IP Multimedia Services Identity Module (ISIM) application",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/31103.htm"
+  },
+  {
+    "type": "TS",
+    "no": "31.104",
+    "title": "Characteristics of the Hosting Party Subscription Identity Module (HPSIM) application",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/31104.htm"
+  },
+  {
+    "type": "TS",
+    "no": "31.105",
+    "title": "Characteristics of the Slice Subscriber Identity Module application",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/31105.htm"
+  },
+  {
+    "type": "TS",
+    "no": "31.110",
+    "title": "Numbering system for telecommunication IC card applications",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/31110.htm"
+  },
+  {
+    "type": "TS",
+    "no": "31.111",
+    "title": "Universal Subscriber Identity Module (USIM) Application Toolkit (USAT)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/31111.htm"
+  },
+  {
+    "type": "TS",
+    "no": "31.112",
+    "title": "Universal Subscriber Identity Module Application Toolkit (USAT) interpreter architecture description",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/31112.htm"
+  },
+  {
+    "type": "TS",
+    "no": "31.113",
+    "title": "Universal Subscriber Identity Module Application Toolkit (USAT) interpreter byte codes",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/31113.htm"
+  },
+  {
+    "type": "TS",
+    "no": "31.114",
+    "title": "Universal Subscriber Identity Module Application Toolkit (USAT) interpreter protocol and administration",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/31114.htm"
+  },
+  {
+    "type": "TS",
+    "no": "31.115",
+    "title": "Secured packet structure for (Universal) Subscriber Identity Module (U)SIM Toolkit applications",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/31115.htm"
+  },
+  {
+    "type": "TS",
+    "no": "31.116",
+    "title": "Remote APDU Structure for (U)SIM Toolkit applications",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/31116.htm"
+  },
+  {
+    "type": "TS",
+    "no": "31.117",
+    "title": "Universal Subscriber Identity Module Application Toolkit (USAT) application behavioural test specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/31117.htm"
+  },
+  {
+    "type": "TS",
+    "no": "31.120",
+    "title": "UICC-terminal interface; Physical, electrical and logical test specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/31120.htm"
+  },
+  {
+    "type": "TS",
+    "no": "31.121",
+    "title": "UICC-terminal interface; Universal Subscriber Identity Module (USIM) application test specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/31121.htm"
+  },
+  {
+    "type": "TS",
+    "no": "31.122",
+    "title": "Universal Subscriber Identity Module (USIM) conformance test specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/31122.htm"
+  },
+  {
+    "type": "TS",
+    "no": "31.123",
+    "title": "(Universal) Subscriber Interface Module ((U)SIM) toolkit interpreter test",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/31123.htm"
+  },
+  {
+    "type": "TS",
+    "no": "31.124",
+    "title": "Mobile Equipment (ME) conformance test specification; Universal Subscriber Identity Module Application Toolkit (USAT) conformance test specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/31124.htm"
+  },
+  {
+    "type": "TS",
+    "no": "31.127",
+    "title": "UICC-terminal interaction; non-removable Universal Subscriber Identity Module (nrUSIM) application behavioural test specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/31127.htm"
+  },
+  {
+    "type": "TS",
+    "no": "31.130",
+    "title": "(U)SIM Application Programming Interface (API); (U)SIM API for Java™ Card",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/31130.htm"
+  },
+  {
+    "type": "TS",
+    "no": "31.131",
+    "title": "C-language binding to (U)SIM API",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/31131.htm"
+  },
+  {
+    "type": "TS",
+    "no": "31.133",
+    "title": "IP Multimedia Services Identity Module (ISIM) Application Programming Interface (API); ISIM API for Java Card™",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/31133.htm"
+  },
+  {
+    "type": "TS",
+    "no": "31.134",
+    "title": "Mobile Equipment (ME) conformance test specification; IP Multimedia Services Identity Module (ISIM) interworking with IP Multimedia Subsystem (IMS) test specification",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/31134.htm"
+  },
+  {
+    "type": "TS",
+    "no": "31.213",
+    "title": "Test specification for (U)SIM; Application Programming Interface (API) for Java Card™",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/31213.htm"
+  },
+  {
+    "type": "TS",
+    "no": "31.220",
+    "title": "Characteristics of the Contact Manager for 3GPP UICC applications",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/31220.htm"
+  },
+  {
+    "type": "TS",
+    "no": "31.221",
+    "title": "Contact Manager Application Programming Interface (API); Contact Manager API for Java Card",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/31221.htm"
+  },
+  {
+    "type": "TS",
+    "no": "31.222",
+    "title": "GBA_U Based APIs",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/31222.htm"
+  },
+  {
+    "type": "TS",
+    "no": "31.320",
+    "title": "Contact Manager for 3GPP UICC applications test specifications",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/31320.htm"
+  },
+  {
+    "type": "TS",
+    "no": "31.321",
+    "title": "Contact Manager API for Java™ Card test specification",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/31321.htm"
+  },
+  {
+    "type": "TS",
+    "no": "31.50",
+    "title": "Essential requirements for UMTS Mobile Stations (ME) operating within frequency bands 1885-1980, 2010-2025 and 2110-2200 MHz",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/3150U.htm"
+  },
+  {
+    "type": "TS",
+    "no": "31.60",
+    "title": "Essential requirements for UMTS Mobile Earth Stations (MES) operating within frequency bands 1980- 2010 and 2170-2200 MHz",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/3160U.htm"
+  },
+  {
+    "type": "TR",
+    "no": "31.801",
+    "title": "Technical requirements for the secure platform for 3GPP applications",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/31801.htm"
+  },
+  {
+    "type": "TR",
+    "no": "31.822",
+    "title": "Study on GBA_U Based APIs",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/31822.htm"
+  },
+  {
+    "type": "TR",
+    "no": "31.826",
+    "title": "Study on new UICC application for NSSA",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/31826.htm"
+  },
+  {
+    "type": "TR",
+    "no": "31.828",
+    "title": "UICC access to IMS",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/31828.htm"
+  },
+  {
+    "type": "TR",
+    "no": "31.829",
+    "title": "Conformance requirements for IP Multimedia Services Identity Module (ISIM) application test specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/31829.htm"
+  },
+  {
+    "type": "TR",
+    "no": "31.890",
+    "title": "CT WG6 aspects of 5G System Phase 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/31890.htm"
+  },
+  {
+    "type": "TR",
+    "no": "31.900",
+    "title": "SIM/USIM internal and external interworking aspects",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/31900.htm"
+  },
+  {
+    "type": "TR",
+    "no": "31.901",
+    "title": "Review of dedicated 3GPP UICC features (Red_UCe)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/31901.htm"
+  },
+  {
+    "type": "TR",
+    "no": "31.919",
+    "title": "2G/3G Java Card™ Application Programming Interface (API) based applet interworking",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/31919.htm"
+  },
+  {
+    "type": "TR",
+    "no": "31.970",
+    "title": "UICC power optimisation for Machine-Type Communication (MTC)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/31970.htm"
+  }
+]

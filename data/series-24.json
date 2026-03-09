@@ -1,0 +1,1507 @@
+[
+  {
+    "type": "TS",
+    "no": "24.002",
+    "title": "GSM - UMTS Public Land Mobile Network (PLMN) Access Reference Configuration",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24002.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.004",
+    "title": "Layer 1 - General Requirements",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/24004.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.007",
+    "title": "Mobile radio interface signalling layer 3; General Aspects",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24007.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.008",
+    "title": "Mobile radio interface Layer 3 specification; Core network protocols; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24008.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.010",
+    "title": "Mobile radio interface  layer 3; Supplementary services specification; General aspects",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24010.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.011",
+    "title": "Point-to-Point  (PP) Short Message Service (SMS) support on mobile radio interface",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24011.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.012",
+    "title": "Short Message Service Cell Broadcast (SMSCB) Support on the Mobile Radio Interface",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/24012.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.022",
+    "title": "Radio Link Protocol (RLP) for circuit switched bearer and teleservices",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24022.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.030",
+    "title": "Location Services (LCS); Supplementary service operations; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24030.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.04",
+    "title": "UMTS Interworking and internetworking signalling aspects; Interworking of UMTS with other systems",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/2404U.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.05",
+    "title": "UMTS Interworking and internetworking signalling aspects; Interworking of UMTS with other systems",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/2405U.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.065",
+    "title": "General Packet Radio Service (GPRS); Mobile Station (MS) - Serving GPRS Support Node (SGSN); Subnetwork Dependent Convergence Protocol (SNDCP)",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/24065.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.067",
+    "title": "Enhanced Multi-Level Precedence and Pre-emption service (eMLPP); Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24067.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.068",
+    "title": "Group Call Control (GCC) Protocol",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/24068.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.069",
+    "title": "Broadcast Call Control (BCC) protocol",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/24069.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.072",
+    "title": "Call Deflection (CD) supplementary service; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24072.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.080",
+    "title": "Mobile radio interface layer 3 supplementary services specification; Formats and coding",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24080.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.081",
+    "title": "Line Identification supplementary services; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24081.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.082",
+    "title": "Call Forwarding (CF) supplementary services; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24082.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.083",
+    "title": "Call Waiting (CW) and Call Hold (HOLD) supplementary services; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24083.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.084",
+    "title": "Multi Party (MPTY) supplementary service; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24084.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.085",
+    "title": "Closed User Group (CUG) supplementary service; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24085.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.086",
+    "title": "Advice of Charge (AoC) supplementary services; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24086.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.087",
+    "title": "User-to-User Signalling (UUS) Supplementary Service; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24087.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.088",
+    "title": "Call Barring (CB) supplementary service; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24088.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.090",
+    "title": "Unstructured Supplementary Service Data (USSD); Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24090.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.091",
+    "title": "Explicit Call Transfer (ECT) supplementary service; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24091.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.093",
+    "title": "Completion of Calls to Busy Subscriber (CCBS); Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24093.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.094",
+    "title": "Follow Me; Stage 3",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/24094.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.096",
+    "title": "Name Identification supplementary services; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24096.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.103",
+    "title": "Telepresence using the IP Multimedia (IM) Core Network (CN) Subsystem (IMS); Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24103.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.105",
+    "title": "Application specific Congestion control for Data Communication (ACDC) Management Object (MO)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24105.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.109",
+    "title": "Bootstrapping interface (Ub) and network application function interface (Ua); Protocol details",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24109.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.10",
+    "title": "UMTS Interworking and internetworking signalling aspects; Requirements for provision of UMTS services via satellite access",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/2410U.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.116",
+    "title": "Stage 3 aspects of system architecture enhancements for TV services",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24116.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.117",
+    "title": "TV service configuration Management Object (MO)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24117.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.135",
+    "title": "Multicall supplementary service; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24135.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.139",
+    "title": "3GPP system - fixed broadband access network interworking;  Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24139.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.141",
+    "title": "Presence service using the IP Multimedia (IM) Core Network (CN) subsystem; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24141.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.147",
+    "title": "Conferencing using the IP Multimedia (IM) Core Network (CN) subsystem; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24147.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.161",
+    "title": "Network-Based IP Flow Mobility (NBIFOM); Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24161.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.166",
+    "title": "3GPP IP Multimedia Subsystem (IMS) conferencing Management Object (MO)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24166.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.167",
+    "title": "3GPP IMS Management Object (MO); Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24167.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.171",
+    "title": "Control Plane Location Services (LCS) procedures in the Evolved Packet System (EPS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24171.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.173",
+    "title": "IMS Multimedia telephony communication service and supplementary services; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24173.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.174",
+    "title": "Support of multi-device and multi-identity in the IP Multimedia Subsystem (IMS); Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24174.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.175",
+    "title": "Management Object (MO) for multi-device and multi-identity in the IP Multimedia Subsystem (IMS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24175.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.182",
+    "title": "IP Multimedia Subsystem (IMS) Customized Alerting Tones (CAT); Protocol specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24182.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.183",
+    "title": "IP Multimedia Subsystem (IMS) Customized Ringing Signal (CRS); Protocol specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24183.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.186",
+    "title": "IMS Data Channel applications; Protocol specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24186.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.193",
+    "title": "5G System;Access Traffic Steering, Switching and Splitting (ATSSS); Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24193.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.196",
+    "title": "Enhanced Calling Name (eCNAM)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24196.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.206",
+    "title": "Voice call continuity between Circuit Switched (CS) and IP Multimedia Subsystem (IMS); Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24206.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.216",
+    "title": "Communication Continuity Management Object (MO)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24216.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.228",
+    "title": "Signalling flows for the IP multimedia call control based on Session Initiation Protocol (SIP) and Session Description Protocol (SDP); Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24228.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.229",
+    "title": "IP multimedia call control protocol based on Session Initiation Protocol (SIP) and Session Description Protocol (SDP); Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24229.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.234",
+    "title": "3GPP system to Wireless Local Area Network (WLAN) interworking; WLAN User Equipment (WLAN UE) to network protocols; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24234.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.235",
+    "title": "3GPP System to Wireless Local Area Network (WLAN) interworking Management Object (MO)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24235.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.237",
+    "title": "IP Multimedia (IM) Core Network (CN) subsystem IP Multimedia Subsystem (IMS) service continuity; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24237.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.238",
+    "title": "Session Initiation Protocol (SIP) based user configuration; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24238.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.239",
+    "title": "Flexible Alerting (FA) using IP Multimedia (IM) Core Network (CN) subsystem; Protocol specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24239.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.241",
+    "title": "3GPP Generic User Profile (GUP) Common objects; Stage 3",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/24241.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.244",
+    "title": "Wireless LAN control plane protocol for trusted WLAN access to EPC; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24244.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.247",
+    "title": "Messaging service using the IP Multimedia (IM) Core Network (CN) subsystem; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24247.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.250",
+    "title": "Protocol for Reliable Data Service; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24250.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.257",
+    "title": "Uncrewed Aerial System (UAS) Application Enabler (UAE) layer; Protocol aspects; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24257.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.259",
+    "title": "Personal Network Management (PNM); Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24259.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.268",
+    "title": "Warning Systems Management Object (MO)",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/24268.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.275",
+    "title": "Management Object (MO) for Basic Communication Part (BCP) of IMS Multimedia Telephony (MMTEL) communication service",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24275.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.279",
+    "title": "Combining Circuit Switched (CS) and IP Multimedia Subsystem (IMS) services; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24279.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.281",
+    "title": "Mission Critical Video (MCVideo) signalling control; Protocol specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24281.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.282",
+    "title": "Mission Critical Data (MCData) signalling control; Protocol specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24282.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.283",
+    "title": "Mission Critical Location Management (MCLoc); Protocol Specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24283.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.285",
+    "title": "Allowed Closed Subscriber Group (CSG) list; Management Object (MO)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24285.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.286",
+    "title": "IP Multimedia (IM) Core Network (CN) subsystem Centralized Services (ICS); Management Object (MO)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24286.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.292",
+    "title": "IP Multimedia (IM) Core Network (CN) subsystem Centralized Services (ICS); Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24292.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.293",
+    "title": "ICS Protocol over USSD bearer",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/24293.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.294",
+    "title": "IP Multimedia Subsystem (IMS) Centralized Services (ICS) protocol via I1 interface",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24294.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.301",
+    "title": "Non-Access-Stratum (NAS) protocol for Evolved Packet System (EPS); Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24301.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.302",
+    "title": "Access to the 3GPP Evolved Packet Core (EPC) via non-3GPP access networks; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24302.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.303",
+    "title": "Mobility management based on Dual-Stack Mobile IPv6; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24303.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.304",
+    "title": "Mobility management based on Mobile IPv4; User Equipment (UE) - foreign agent interface; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24304.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.305",
+    "title": "Selective Disabling of 3GPP User Equipment Capabilities (SDoUE) Management Object (MO)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24305.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.312",
+    "title": "Access Network Discovery and Selection Function (ANDSF) Management Object (MO)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24312.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.315",
+    "title": "IP Multimedia Subsystem (IMS) Operator Determined Barring (ODB); Stage 3: protocol specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24315.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.322",
+    "title": "Tunnelling of IP Multimedia Subsystem (IMS) services over restrictive access networks; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24322.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.323",
+    "title": "3GPP IP Multimedia Subsystem (IMS) service level tracing Management Object (MO)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24323.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.327",
+    "title": "Mobility between 3GPP Wireless Local Area Network (WLAN) interworking (I-WLAN) and 3GPP systems; General Packet Radio System (GPRS) and 3GPP I-WLAN aspects; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24327.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.333",
+    "title": "Proximity-services (ProSe) Management Objects (MO)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24333.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.334",
+    "title": "Proximity-services (ProSe) User Equipment (UE) to ProSe function protocol aspects; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24334.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.337",
+    "title": "IP Multimedia (IM) Core Network (CN) subsystem IP Multimedia Subsystem (IMS) inter-UE transfer; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24337.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.341",
+    "title": "Support of SMS over IP networks; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24341.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.368",
+    "title": "Non-Access Stratum (NAS) configuration Management Object (MO)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24368.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.369",
+    "title": "Ambient IoT Non-Access-Stratum (AIoT NAS) protocol for 5G System (5GS); Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24369.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.371",
+    "title": "Web Real-Time Communications (WebRTC) access to the IP Multimedia (IM) Core Network (CN) subsystem (IMS); Stage 3; Protocol specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24371.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.379",
+    "title": "Mission Critical Push To Talk (MCPTT) call control; Protocol specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24379.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.380",
+    "title": "Mission Critical Push To Talk (MCPTT) media plane control; Protocol specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24380.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.381",
+    "title": "Mission Critical Push To Talk (MCPTT) group management; Protocol specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24381.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.382",
+    "title": "Mission Critical Push To Talk (MCPTT) identity management; Protocol specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24382.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.383",
+    "title": "Mission Critical Push To Talk (MCPTT) Management Object (MO)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24383.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.384",
+    "title": "Mission Critical Push To Talk (MCPTT) configuration management; Protocol specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24384.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.385",
+    "title": "V2X services Management Object (MO)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24385.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.386",
+    "title": "User Equipment (UE) to V2X control function; protocol aspects; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24386.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.390",
+    "title": "Unstructured Supplementary Service Data (USSD) using IP Multimedia (IM) Core Network (CN) subsystem IMS; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24390.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.391",
+    "title": "Unstructured Supplementary Service Data (USSD) using IP Multimedia (IM) Core Network (CN) subsystem (IMS) Management Object (MO)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24391.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.392",
+    "title": "Application enablement aspects for MMTel; Protocol specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24392.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.403",
+    "title": "TISPAN; IP Multimedia Call Control Protocol based on Session Initiation Protocol (SIP) and Session Description Protocol (SDP) Stage 3 [3GPP TS 24.229 (Release 7), modified]",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24403.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.404",
+    "title": "TISPAN; PSTN/ISDN simulation services: Communication Diversion (CDIV); Protocol specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24404.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.405",
+    "title": "TISPAN; PSTN/ISDN simulation services: Conference (CONF); Protocol specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24405.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.406",
+    "title": "TISPAN; PSTN/ISDN simulation services; Message Waiting Indication (MWI): Protocol specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24406.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.407",
+    "title": "TISPAN; PSTN/ISDN simulation services; Originating Identification Presentation (OIP) and Originating Identification Restriction (OIR); Protocol specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24407.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.408",
+    "title": "TISPAN; PSTN/ISDN simulation services Terminating Identification Presentation (TIP) and Terminating Identification Restriction (TIR); Protocol specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24408.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.410",
+    "title": "TISPAN; NGN Signalling Control Protocol; Communication HOLD (HOLD) PSTN/ISDN simulation services; Protocol specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24410.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.411",
+    "title": "TISPAN; PSTN/ISDN simulation services: Anonymous Communication Rejection (ACR) and Communication Barring (CB); Protocol specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24411.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.412",
+    "title": "TISPAN; Interworking; Trunking Gateway Control Procedures for interworking between NGN and external CS networks",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/24412.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.416",
+    "title": "TISPAN; PSTN/ISDN simulation services; Malicious Communication Identification (MCID); Protocol specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24416.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.417",
+    "title": "Management Object (MO) for Originating Identification Presentation (OIP) and Originating Identification Restriction (OIR) using IP Multimedia (IM) Core Network (CN) subsystem",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24417.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.423",
+    "title": "TISPAN; PSTN/ISDN simulation services; Extensible Markup Language (XML) Configuration Access Protocol (XCAP) over the Ut interface for Manipulating NGN PSTN/ISDN Simulation Services",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24423.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.424",
+    "title": "Management Object (MO) for Extensible Markup Language (XML) Configuration Access Protocol (XCAP) over the Ut interface for Manipulating Supplementary Services (SS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24424.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.428",
+    "title": "TISPAN; Common Basic Communication procedures; Protocol specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24428.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.429",
+    "title": "TISPAN; PSTN/ISDN simulation services: Explicit Communication Transfer (ECT); Protocol specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24429.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.430",
+    "title": "TISPAN; Presence Service Capability; Protocol Specification [3GPP TS 24.141 V7.0.0, modified and OMA-TS-Presence_SIMPLE-V1_0, modified]",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24430.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.437",
+    "title": "Digital asset, Spatial mapping and Spatial anchors server - Service Enabler Architecture Layer for Verticals (SEAL); Protocol specification;",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/24437.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.441",
+    "title": "TISPAN; Messaging service using the IP Multimedia (IM) Core Network (CN) subsystem; Stage 3: Protocol specifications [Endorsement of 3GPP TS 24.247 Release 6]",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24441.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.447",
+    "title": "TISPAN; NGN IMS Supplementary Services; Advice Of Charge (AOC)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24447.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.451",
+    "title": "TISPAN; Support of SMS and MMS over NGN IMS subsystem; Stage 3 [Endorsement of 3GPP TS 24.341 Release 7]",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24451.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.454",
+    "title": "TISPAN; PSTN/ISDN simulation services; Protocol specification Closed User Group (CUG)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24454.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.458",
+    "title": "TISPAN; SIP Transfer of IP Multimedia Service Tariff Information; Protocol specification",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/24458.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.481",
+    "title": "Mission Critical Services (MCS) group management; Protocol specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24481.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.482",
+    "title": "Mission Critical Services (MCS) identity management; Protocol specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24482.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.483",
+    "title": "Mission Critical Services (MCS) Management Object (MO)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24483.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.484",
+    "title": "Mission Critical Services (MCS) configuration management; Protocol specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24484.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.486",
+    "title": "Vehicle-to-Everything (V2X) Application Enabler (VAE) layer; Protocol aspects; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24486.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.501",
+    "title": "Non-Access-Stratum (NAS) protocol for 5G System (5GS); Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24501.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.502",
+    "title": "Access to the 3GPP 5G Core Network (5GCN) via non-3GPP access networks",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24502.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.503",
+    "title": "TISPAN; IP Multimedia Call Control Protocol based on Session Initiation Protocol (SIP) and Session Description Protocol (SDP) Stage 3 [3GPP TS 24.229 (Release 7), modified]",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24503.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.504",
+    "title": "TISPAN; PSTN/ISDN simulation services: Communication Diversion (CDIV); Protocol specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24504.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.505",
+    "title": "TISPAN; PSTN/ISDN simulation services: Conference (CONF); Protocol specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24505.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.508",
+    "title": "TISPAN; PSTN/ISDN simulation services Terminating Identification Presentation (TIP) and Terminating Identification Restriction (TIR); Protocol specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24508.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.514",
+    "title": "Ranging based services and sidelink positioning in 5G system(5GS); Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24514.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.516",
+    "title": "TISPAN; PSTN/ISDN simulation services; Malicious Communication Identification (MCID); Protocol specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24516.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.519",
+    "title": "5G System (5GS); Time-Sensitive Networking (TSN) Application Function (AF) to Device-Side TSN Translator (DS-TT) and Network-Side TSN Translator (NW-TT) protocol aspects; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24519.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.523",
+    "title": "Core and enterprise Next Generation Network (NGN) interaction scenarios; Architecture and functional description",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24523.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.524",
+    "title": "Hosted enterprise services; Architecture, functional description and signalling",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24524.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.525",
+    "title": "Business trunking; Architecture and functional description",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24525.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.526",
+    "title": "User Equipment (UE) policies for 5G System (5GS); Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24526.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.528",
+    "title": "TISPAN; Common Basic Communication procedures; Protocol specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24528.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.529",
+    "title": "TISPAN; PSTN/ISDN simulation services: Explicit Communication Transfer (ECT); Protocol specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24529.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.534",
+    "title": "User Equipment (UE) – Time-Sensitive Networking (TSN) Translator N60 interface specification",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/24534.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.535",
+    "title": "5G System (5GS); Device-Side Time Sensitive Networking (TSN) Translator (DS-TT) to Network-Side TSN Translator (NW-TT) protocol aspects; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24535.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.538",
+    "title": "Enabling MSGin5G Service; Protocol specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24538.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.539",
+    "title": "5G System (5GS); Network to TSN translator (TT) protocol aspects; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24539.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.542",
+    "title": "Notification management - Service Enabler Architecture Layer for Verticals (SEAL); Protocol specification;",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24542.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.543",
+    "title": "Data delivery management - Service Enabler Architecture Layer for Verticals (SEAL); Protocol Specification;",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24543.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.544",
+    "title": "Group Management - Service Enabler Architecture Layer for Verticals (SEAL); Protocol specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24544.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.545",
+    "title": "Location Management - Service Enabler Architecture Layer for Verticals (SEAL); Protocol specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24545.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.546",
+    "title": "Configuration management - Service Enabler Architecture Layer for Verticals (SEAL); Protocol specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24546.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.547",
+    "title": "Identity management - Service Enabler Architecture Layer for Verticals (SEAL); Protocol specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24547.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.548",
+    "title": "Network Resource Management - Service Enabler Architecture Layer for Verticals (SEAL); Protocol specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24548.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.549",
+    "title": "Network slice capability enablement- Service Enabler Architecture Layer for Verticals (SEAL); Protocol specification; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24549.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.550",
+    "title": "Digital asset, Spatial mapping and Spatial anchors server - Service Enabler Architecture Layer for Verticals (SEAL); Protocol specification;",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24550.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.554",
+    "title": "Proximity-services (ProSe) in 5G System (5GS) protocol aspects; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24554.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.555",
+    "title": "Proximity-services (ProSe) in 5G System (5GS); User Equipment (UE) policies; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24555.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.558",
+    "title": "Enabling Edge Applications; Protocol specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24558.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.559",
+    "title": "Application Data Analytics Enablement Service (ADAES); Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24559.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.560",
+    "title": "Artificial Intelligence Machine Learning (AIML) Services - Service Enabler Architecture Layer for Verticals (SEAL); Protocol Specification; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24560.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.568",
+    "title": "WLAN connectivity for 5GS Management Object (MO)",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/24568.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.571",
+    "title": "5G System (5GS); Control plane Location Services (LCS) procedures; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24571.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.572",
+    "title": "5G System (5GS); User plane Location Services (LCS) protocols and procedures; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24572.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.575",
+    "title": "5G System; Multicast/Broadcast UE pre-configuration Management Object (MO)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24575.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.577",
+    "title": "Aircraft-to-Everything (A2X) services in 5G System (5GS) protocol aspects; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24577.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.578",
+    "title": "Aircraft-to-Everything (A2X) services in 5G System (5GS); UE policies",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24578.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.581",
+    "title": "Mission Critical Video (MCVideo) media plane control; Protocol specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24581.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.582",
+    "title": "Mission Critical Data (MCData) media plane control; Protocol specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24582.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.583",
+    "title": "Application layer support for Personal IoT Network (PINAPP); Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24583.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.587",
+    "title": "Vehicle-to-Everything (V2X) services in 5G System (5GS); Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24587.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.588",
+    "title": "Vehicle-to-Everything (V2X) services in 5G System (5GS); User Equipment (UE) policies; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24588.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.604",
+    "title": "Communication Diversion (CDIV) using IP Multimedia (IM) Core Network (CN) subsystem;  Protocol specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24604.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.605",
+    "title": "Conference (CONF) using IP Multimedia (IM) Core Network (CN) subsystem; Protocol specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24605.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.606",
+    "title": "Message Waiting Indication (MWI) using IP Multimedia (IM) Core Network (CN) subsystem; Protocol specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24606.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.607",
+    "title": "Originating Identification Presentation (OIP) and Originating Identification Restriction (OIR) using IP Multimedia (IM)  Core Network (CN) subsystem; Protocol specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24607.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.608",
+    "title": "Terminating Identification Presentation (TIP) and Terminating Identification Restriction (TIR) using IP Multimedia (IM)  Core Network (CN) subsystem; Protocol specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24608.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.610",
+    "title": "Communication HOLD (HOLD) using IP Multimedia (IM) Core Network (CN) subsystem; Protocol specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24610.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.611",
+    "title": "Anonymous Communication Rejection (ACR) and Communication Barring (CB) using IP Multimedia (IM)  Core Network (CN) subsystem; Protocol specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24611.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.612",
+    "title": "TISPAN; Interworking; Trunking Gateway Control Procedures for interworking between NGN and external CS networks",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/24612.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.615",
+    "title": "Communication Waiting (CW) using IP Multimedia (IM) Core Network (CN) subsystem; Protocol Specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24615.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.616",
+    "title": "Malicious Communication Identification (MCID) using IP Multimedia (IM) Core Network (CN) subsystem; Protocol specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24616.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.623",
+    "title": "Extensible Markup Language (XML) Configuration Access Protocol (XCAP) over the Ut interface for Manipulating Supplementary Services",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24623.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.628",
+    "title": "Common Basic Communication procedures using IP Multimedia (IM) Core Network (CN) subsystem; Protocol specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24628.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.629",
+    "title": "Explicit Communication Transfer (ECT) using IP Multimedia (IM) Core Network (CN) subsystem; Protocol specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24629.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.642",
+    "title": "Completion of Communications to Busy Subscriber (CCBS) and Completion of Communications by No Reply (CCNR) using IP Multimedia (IM) Core Network (CN) subsystem; Protocol specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24642.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.647",
+    "title": "Advice Of Charge (AOC) using IP Multimedia (IM) Core Network (CN) subsystem",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24647.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.654",
+    "title": "Closed User Group (CUG) using IP Multimedia (IM) Core Network (CN) subsystem, Protocol Specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24654.htm"
+  },
+  {
+    "type": "TS",
+    "no": "24.658",
+    "title": "TISPAN; SIP Transfer of IP Multimedia Service Tariff Information; Protocol specification",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/24658.htm"
+  },
+  {
+    "type": "TR",
+    "no": "24.801",
+    "title": "3GPP System Architecture Evolution (SAE); CT WG1 aspects",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24801.htm"
+  },
+  {
+    "type": "TR",
+    "no": "24.802",
+    "title": "Study on Indication of Network to Network Interface (NNI) routeing scenarios in Session Initiation Protocol (SIP) requests in the IP Multimedia Subsystem (IMS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24802.htm"
+  },
+  {
+    "type": "TR",
+    "no": "24.803",
+    "title": "Study on telepresence using the IP Multimedia (IM) Core Network (CN) Subsystem (IMS); Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24803.htm"
+  },
+  {
+    "type": "TR",
+    "no": "24.811",
+    "title": "Study on the support for minimization of service interruption",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24811.htm"
+  },
+  {
+    "type": "TR",
+    "no": "24.812",
+    "title": "Study on MINT support in EPS for 5G-only national roaming UE",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24812.htm"
+  },
+  {
+    "type": "TR",
+    "no": "24.819",
+    "title": "Protocol impact from providing IMS services via fixed broadband; Stage-3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24819.htm"
+  },
+  {
+    "type": "TR",
+    "no": "24.820",
+    "title": "3GPP system to fixed broadband access network interworking",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24820.htm"
+  },
+  {
+    "type": "TR",
+    "no": "24.821",
+    "title": "Study on PLMN selection for satellite access",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24821.htm"
+  },
+  {
+    "type": "TR",
+    "no": "24.826",
+    "title": "Study on impacts on signalling between User Equipment (UE) and core network from energy saving",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24826.htm"
+  },
+  {
+    "type": "TR",
+    "no": "24.837",
+    "title": "IP Multimedia (IM) Core Network (CN) subsystem inter-UE transfer enhancements; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24837.htm"
+  },
+  {
+    "type": "TR",
+    "no": "24.841",
+    "title": "Presence service based on Session Initiation Protocol (SIP); Functional models, information flows and protocol details",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24841.htm"
+  },
+  {
+    "type": "TR",
+    "no": "24.879",
+    "title": "Combining Circuit-Switched (CS) calls and IP Multimedia Subsystem  (IMS) sessions",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24879.htm"
+  },
+  {
+    "type": "TR",
+    "no": "24.880",
+    "title": "Media server control using the IP Multimedia (IM) Core Network (CN) subsystem; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24880.htm"
+  },
+  {
+    "type": "TR",
+    "no": "24.883",
+    "title": "Mission Critical (MC) systems connection to  Land Mobile Radio (LMR) systems; Stage-3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24883.htm"
+  },
+  {
+    "type": "TR",
+    "no": "24.885",
+    "title": "Mission Critical (MC) system migration and interconnection",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24885.htm"
+  },
+  {
+    "type": "TR",
+    "no": "24.890",
+    "title": "CT WG1 aspects of 5G; System Phase 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24890.htm"
+  },
+  {
+    "type": "TR",
+    "no": "24.930",
+    "title": "Signalling flows for the session setup in the IP Multimedia core network Subsystem (IMS) based on Session Initiation Protocol (SIP)  and Session Description Protocol (SDP); Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24930.htm"
+  },
+  {
+    "type": "TR",
+    "no": "24.946",
+    "title": "reserved",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/24946.htm"
+  },
+  {
+    "type": "TR",
+    "no": "24.969",
+    "title": "Business trunking; Next Generation Corporate Network (NGCN) - Next Generation Network (NGN) interfaces implementation guide",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24969.htm"
+  },
+  {
+    "type": "TR",
+    "no": "24.979",
+    "title": "Combining Circuit-Switched (CS) calls and IP Multimedia Subsystem  (IMS) sessions",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/24979.htm"
+  },
+  {
+    "type": "TR",
+    "no": "24.980",
+    "title": "Minimum requirements for support of MCPTT service over the Gm reference point",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24980.htm"
+  }
+]

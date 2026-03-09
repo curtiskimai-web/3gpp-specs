@@ -1,0 +1,996 @@
+[
+  {
+    "type": "TS",
+    "no": "37.104",
+    "title": "NR, E-UTRA, UTRA and GSM/EDGE; Multi-Standard Radio (MSR) Base Station (BS) radio transmission and reception",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37104.htm"
+  },
+  {
+    "type": "TS",
+    "no": "37.105",
+    "title": "Active Antenna System (AAS) Base Station (BS) transmission and reception",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37105.htm"
+  },
+  {
+    "type": "TS",
+    "no": "37.106",
+    "title": "User Equipment (UE) requirements for shared spectrum channel access",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37106.htm"
+  },
+  {
+    "type": "TS",
+    "no": "37.107",
+    "title": "Base Station (BS) requirements and conformance tests for shared spectrum channel access",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37107.htm"
+  },
+  {
+    "type": "TS",
+    "no": "37.113",
+    "title": "NR, E-UTRA, UTRA and GSM/EDGE; Multi-Standard Radio (MSR) Base Station (BS) Electromagnetic Compatibility (EMC)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37113.htm"
+  },
+  {
+    "type": "TS",
+    "no": "37.114",
+    "title": "Active Antenna System (AAS) Base Station (BS) Electromagnetic Compatibility (EMC)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37114.htm"
+  },
+  {
+    "type": "TS",
+    "no": "37.141",
+    "title": "NR, E-UTRA, UTRA and GSM/EDGE; Multi-Standard Radio (MSR) Base Station (BS) conformance testing",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37141.htm"
+  },
+  {
+    "type": "TS",
+    "no": "37.142",
+    "title": "Active Antenna System (AAS) Base Station (BS) transmission and reception",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/37142.htm"
+  },
+  {
+    "type": "TS",
+    "no": "37.144",
+    "title": "User Equipment (UE) and Mobile Station (MS) GSM, UTRA and E-UTRA over the air performance requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37144.htm"
+  },
+  {
+    "type": "TS",
+    "no": "37.145",
+    "title": "E-UTRA, UTRA, Active Antenna System (AAS) Base Station (BS): conformance testing",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/37145.htm"
+  },
+  {
+    "type": "TS",
+    "no": "37.145-1",
+    "title": "Active Antenna System (AAS) Base Station (BS) conformance testing;  Part 1: conducted conformance testing",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37145-1.htm"
+  },
+  {
+    "type": "TS",
+    "no": "37.145-2",
+    "title": "Active Antenna System (AAS) Base Station (BS) conformance testing;  Part 2: radiated conformance testing",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37145-2.htm"
+  },
+  {
+    "type": "TS",
+    "no": "37.171",
+    "title": "Universal Terrestrial Radio Access (UTRA) and Evolved UTRA (E-UTRA); User Equipment (UE) performance requirements for Radio Access Technology (RAT) Independent Positioning Enhancements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37171.htm"
+  },
+  {
+    "type": "TS",
+    "no": "37.213",
+    "title": "Physical layer procedures for shared spectrum channel access",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37213.htm"
+  },
+  {
+    "type": "TS",
+    "no": "37.320",
+    "title": "Radio measurement collection for Minimization of Drive Tests (MDT); Overall description; Stage 2",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37320.htm"
+  },
+  {
+    "type": "TS",
+    "no": "37.324",
+    "title": "Evolved Universal Terrestrial Radio Access (E-UTRA) and NR; Service Data Adaptation Protocol (SDAP) specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37324.htm"
+  },
+  {
+    "type": "TS",
+    "no": "37.340",
+    "title": "Evolved Universal Terrestrial Radio Access (E-UTRA) and NR; Multi-connectivity; Overall Description; Stage-2",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37340.htm"
+  },
+  {
+    "type": "TS",
+    "no": "37.355",
+    "title": "LTE Positioning Protocol (LPP)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37355.htm"
+  },
+  {
+    "type": "TS",
+    "no": "37.460",
+    "title": "Iuant interface: General aspects and principles",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37460.htm"
+  },
+  {
+    "type": "TS",
+    "no": "37.461",
+    "title": "Iuant interface: Layer 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37461.htm"
+  },
+  {
+    "type": "TS",
+    "no": "37.462",
+    "title": "Iuant interface: Signalling transport",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37462.htm"
+  },
+  {
+    "type": "TS",
+    "no": "37.466",
+    "title": "Iuant interface: Application part",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37466.htm"
+  },
+  {
+    "type": "TS",
+    "no": "37.470",
+    "title": "W1 interface; General aspects and principles",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37470.htm"
+  },
+  {
+    "type": "TS",
+    "no": "37.471",
+    "title": "W1 interface; Layer 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37471.htm"
+  },
+  {
+    "type": "TS",
+    "no": "37.472",
+    "title": "W1 interface; Signalling transport",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37472.htm"
+  },
+  {
+    "type": "TS",
+    "no": "37.473",
+    "title": "W1 interface; Application Protocol (W1AP)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37473.htm"
+  },
+  {
+    "type": "TS",
+    "no": "37.480",
+    "title": "E1 general aspects and principles",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37480.htm"
+  },
+  {
+    "type": "TS",
+    "no": "37.481",
+    "title": "E1 layer 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37481.htm"
+  },
+  {
+    "type": "TS",
+    "no": "37.482",
+    "title": "E1 signalling transport",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37482.htm"
+  },
+  {
+    "type": "TS",
+    "no": "37.483",
+    "title": "E1 Application Protocol (E1AP)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37483.htm"
+  },
+  {
+    "type": "TS",
+    "no": "37.544",
+    "title": "Universal Terrestrial Radio Access (UTRA) and Evolved UTRA (E-UTRA); User Equipment (UE) Over The Air (OTA) performance; Conformance testing",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37544.htm"
+  },
+  {
+    "type": "TS",
+    "no": "37.571-1",
+    "title": "User Equipment (UE) conformance specification for UE positioning; Part 1: Conformance test specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37571-1.htm"
+  },
+  {
+    "type": "TS",
+    "no": "37.571-2",
+    "title": "User Equipment (UE) conformance specification for UE positioning; Part 2: Protocol conformance",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37571-2.htm"
+  },
+  {
+    "type": "TS",
+    "no": "37.571-3",
+    "title": "User Equipment (UE) conformance specification for UE positioning; Part 3: Implementation Conformance Statement (ICS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37571-3.htm"
+  },
+  {
+    "type": "TS",
+    "no": "37.571-4",
+    "title": "User Equipment (UE) conformance specification for UE positioning; Part 4: Test suites",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37571-4.htm"
+  },
+  {
+    "type": "TS",
+    "no": "37.571-5",
+    "title": "User Equipment (UE) conformance specification for UE positioning; Part 5: Test scenarios and assistance data",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37571-5.htm"
+  },
+  {
+    "type": "TS",
+    "no": "37.579-1",
+    "title": "Mission Critical (MC) services; Part 1: Common test environment",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37579-1.htm"
+  },
+  {
+    "type": "TS",
+    "no": "37.579-2",
+    "title": "Mission Critical (MC) services; Part 2: Mission Critical Push To Talk (MCPTT) User Equipment (UE) Protocol conformance specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37579-2.htm"
+  },
+  {
+    "type": "TS",
+    "no": "37.579-4",
+    "title": "Mission Critical (MC) services; Part 4: Test Applicability and Implementation Conformance Statement (ICS) proforma specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37579-4.htm"
+  },
+  {
+    "type": "TS",
+    "no": "37.579-5",
+    "title": "Mission Critical (MC) services; Part 5: Abstract test suite (ATS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37579-5.htm"
+  },
+  {
+    "type": "TS",
+    "no": "37.579-6",
+    "title": "Mission Critical (MC) services; Part 6: Mission Critical Video (MCVideo) User Equipment (UE) Protocol conformance specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37579-6.htm"
+  },
+  {
+    "type": "TS",
+    "no": "37.579-7",
+    "title": "Mission Critical (MC) services; Part 7: Mission Critical Data (MCData) User Equipment (UE) Protocol conformance specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37579-7.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.716-00-00",
+    "title": "Band combinations for Stand-Alone (SA) NR Supplementary UpLink (SUL), Non-Stand-Alone (NSA) NR SUL, NSA NR SUL with UL sharing from the UE perspective (ULSUP)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37716-00-00.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.716-11-11",
+    "title": "E-UTRA (Evolved Universal Terrestrial Radio Access) - NR Dual Connectivity (EN-DC) of 1 band  LTE (1 Down Link (DL) / 1 Up Link (UL)) and 1 NR band (1 DL / 1 UL)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37716-11-11.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.716-21-11",
+    "title": "E-UTRA (Evolved Universal Terrestrial Radio Access) - NR Dual Connectivity (EN-DC) of 2 bands LTE inter-band Carrier aggregation (CA) (2 Down Link (DL) / 1 Up Link (UL)) and 1 NR band (1 DL / 1 UL)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37716-21-11.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.716-21-21",
+    "title": "E-UTRA (Evolved Universal Terrestrial Radio Access) - NR Dual Connectivity (EN-DC) of x bands (x=1, 2, 3, 4) LTE inter-band Carrier aggregation (CA) (x Down Link (DL) / 1 Up Link (UL)) and 2 NR bands NR inter-band CA (2 DL / 1 UL)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37716-21-21.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.716-31-11",
+    "title": "E-UTRA (Evolved Universal Terrestrial Radio Access) - NR Dual Connectivity (EN-DC) of 3 bands LTE inter-band Carrier aggregation (CA) (3 Down Link (DL) / 1 Up Link (UL)) and 1 NR band (1 DL / 1 UL)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37716-31-11.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.716-33",
+    "title": "E-UTRA (Evolved Universal Terrestrial Radio Access) - NR Dual Connectivity (EN-DC) of 3 bands Down Link (DL) and 3 band Up Link (UL)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37716-33.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.716-41-11",
+    "title": "E-UTRA (Evolved Universal Terrestrial Radio Access) - NR Dual Connectivity (EN-DC) of 4 bands LTE inter-band Carrier aggregation (CA) (4 Down Link (DL) / 1 Up Link (UL)) and 1 NR band (1 DL / 1 UL)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37716-41-11.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.716-41-22",
+    "title": "Dual Connectivity (EN-DC) of LTE inter-band CA xDL/1UL bands (x=2,3,4) and NR FR1 1DL/1UL band and NR FR2 1DL/1UL band",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37716-41-22.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.716-51-11",
+    "title": "E-UTRA (Evolved Universal Terrestrial Radio Access) - NR Dual Connectivity (EN-DC) of 5 bands LTE inter-band Carrier aggregation (CA) (5 Down Link (DL) / 1 Up Link (UL)) and 1 NR band (1 DL / 1 UL)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37716-51-11.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.717-00-00",
+    "title": "Rel-17 band combinations for SA NR supplementary uplink (SUL), NSA NR SUL, NSA NR SUL with UL sharing from the UE perspective (ULSUP)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37717-00-00.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.717-11-11",
+    "title": "Rel-17 Dual Connectivity (DC) of 1 LTE band (1DL/1UL) and 1 NR band (1DL/1UL)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37717-11-11.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.717-11-21",
+    "title": "Rel-17 Dual Connectivity (DC) of x bands (x=1,2,3,4) LTE inter-band CA (xDL/1UL) and 2 bands NR inter-band CA (2DL/1UL)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37717-11-21.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.717-11-31",
+    "title": "Rel-17 Dual Connectivity (DC) of x bands (x=1,2,3) LTE inter-band CA (xDL/1UL) and 3 bands NR inter-band CA (3DL/1UL)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37717-11-31.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.717-11-41",
+    "title": "Rel-17 Dual Connectivity (DC) of x bands (x=1,2) LTE inter-band CA (xDL/1UL) and 4 bands NR inter-band CA (4DL/1UL)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37717-11-41.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.717-21-11",
+    "title": "Rel-17 Dual Connectivity (DC) of 2 bands LTE inter-band CA (2DL/1UL) and 1 NR band (1DL/1UL)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37717-21-11.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.717-21-22",
+    "title": "Rel-17 Dual Connectivity (DC) of x bands (x=2,3,4) LTE inter-band CA (xDL/1UL) and 1 NR FR1 band (1DL/1UL) and 1 NR FR2 band (1DL/1UL)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37717-21-22.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.717-31-11",
+    "title": "Rel-17 Dual Connectivity (DC) of 3 bands LTE inter-band CA (3DL/1UL) and 1 NR band (1DL/1UL)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37717-31-11.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.717-33",
+    "title": "Rel-17 Dual Connectivity (DC) of x bands (x=1,2) LTE inter-band CA (xDL/xUL) and y bands (y=3-x) NR inter-band CA (yDL/yUL)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37717-33.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.717-41-11",
+    "title": "Rel-17 Dual Connectivity (DC) of 4 bands LTE inter-band CA (4DL/1UL) and 1 NR band (1DL/1UL)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37717-41-11.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.717-51-11",
+    "title": "Rel-17 Dual Connectivity (DC) of 5 bands LTE inter-band CA (5DL/1UL) and 1 NR band (1DL/1UL)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37717-51-11.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.718-00-00",
+    "title": "Rel-18 SUL Band combinations for SA NR Supplementary uplink (SUL), NSA NR SUL, NSA NR SUL with UL sharing from the UE perspective (ULSUP)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37718-00-00.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.718-11-11",
+    "title": "Rel-18 Dual Connectivity (DC) of 1 band LTE (1DL/1UL) and 1 NR band (1DL/1UL)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37718-11-11.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.718-11-21",
+    "title": "Rel-18 DC of x bands (x=1,2,3,4) LTE inter-band CA (xDL/1UL) and 2 bands NR inter-band CA (2DL/1UL)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37718-11-21.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.718-21-11",
+    "title": "Dual Connectivity of 2 bands LTE inter-band CA and 1 NR band",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37718-21-11.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.719-11-10",
+    "title": "Rel-19 Dual Connectivity of EN-DC and NE-DC configurations  with one or two NR Supplemental Uplink (SUL) band(s) and with/without UL sharing from the UE perspective (ULSUP)",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/37719-11-10.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.719-11-11",
+    "title": "Rel-19 Dual Connectivity of EN-DC and NE-DC configurations consisting of 2 different bands downlink (DL) with 2 different bands uplink (UL) (1 LTE band and 1 NR band)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37719-11-11.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.719-21-11",
+    "title": "Rel-19 Dual Connectivity of EN-DC and NE-DC configurations consisting of 2 bands LTE inter-band CA (2DL/1UL) and 1 band NR (1DL/1UL), or consisting of 1 band LTE (1DL/1UL) and 2 bands NR inter-band CA (2DL/1UL)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37719-21-11.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.720-11-11",
+    "title": "Rel-20 Dual Connectivity of EN-DC and NE-DC configurations consisting of 2 different bands downlink (DL) with 2 different bands uplink (UL) (1 LTE band and 1 NR band)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37720-11-11.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.720-21-11",
+    "title": "Rel-20 Dual Connectivity of EN-DC and NE-DC configurations consisting of 2 bands LTE inter-band CA (2DL/1UL) and 1 band NR (1DL/1UL), or consisting of 1 band LTE (1DL/1UL) and 2 bands NR inter-band CA (2DL/1UL)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37720-21-11.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.801",
+    "title": "UMTS-LTE 3500 MHz Work Item Technical Repor",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37801.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.802",
+    "title": "Multi-standard radio Base Station (BS) Radio Frequency (RF) requirements for non-contiguous spectrum deployments",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37802.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.803",
+    "title": "Universal Mobile Telecommunications System (UMTS) and LTE; Mobility enhancements for Home Node B (HNB) and Home enhanced Node B (HeNB)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37803.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.804",
+    "title": "Study on UMTS/LTE in 900 MHz band and coexistence with 850 MHz band",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37804.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.805",
+    "title": "Study on HSPA and LTE Joint Operation",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37805.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.806",
+    "title": "Extending 850 MHz study Technical Report",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37806.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.807",
+    "title": "RF Requirements for PSBB B14 HPUE",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/37807.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.808",
+    "title": "Passive Intermodulation (PIM) handling for Base Stations (BS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37808.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.809",
+    "title": "Evolved Universal Terrestrial Radio Access  (E-UTRA) medium range and Multi-Standard Radio (MSR)  medium range / local area Base Station (BS) class requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37809.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.810",
+    "title": "Study of Base Station (BS) specification structure",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37810.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.811",
+    "title": "New BS specification structure",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/37811.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.812",
+    "title": "Radio Frequency (RF) requirements for Multi-band and Multi-standard radio (MB-MSR) Base Station (BS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37812.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.813",
+    "title": "Evolved Universal Terrestrial Radio Access Network (E-UTRAN); Study on LTE - High Rate Packet Data in 3GPP2 (HRPD) Inter-Radio-Access-Technology (RAT) self-configuring and self-optimizing network (SON) use cases and solutions",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37813.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.814",
+    "title": "Universal Terrestrial Radio Access (UTRA) and Evolved Universal Terrestrial Radio Access (E-UTRA); L-band for Supplemental Downlink",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37814.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.815",
+    "title": "Study on high power User Equipment (UE) (power class 2) for E-UTRA (Evolved Universal Terrestrial Radio Access) - NR Dual Connectivity (EN-DC) (1 LTE FDD band + 1 NR TDD band)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37815.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.816",
+    "title": "Study on RAN-centric data collection and utilization for LTE and NR",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37816.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.817",
+    "title": "Study on enhancement for data collection for NR and ENDC",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37817.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.822",
+    "title": "Study on next generation Self-Optimizing Network (SON) for UTRAN and E-UTRAN",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37822.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.823",
+    "title": "Coexistence between LTE-MTC and NR",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37823.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.824",
+    "title": "Coexistence between NB-IoT and NR",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37824.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.825",
+    "title": "High power User Equipment (UE) (power class 2) for E-UTRA (Evolved Universal Terrestrial Radio Access) - NR Dual Connectivity (EN-DC) (1 LTE TDD band + 1 NR TDD band)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37825.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.826",
+    "title": "High power UE (power class 2) for EN-DC with 1 LTE band + 1 NR TDD band",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37826.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.827",
+    "title": "Rel-17 Power Class 2 for EN-DC with xLTE band + yNR DL with 1LTE+1(TDD) NR UL band (x= 2, 3, y=1; x=1, 2, y=2)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37827.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.828",
+    "title": "High-power UE operation for fixed-wireless/vehicle-mounted use cases in LTE bands and NR bands",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37828.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.829",
+    "title": "High-power UE operation for fixed-wireless/vehicle-mounted use cases in LTE bands and NR bands for Rel-18",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37829.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.834",
+    "title": "Study on Wireless Local Area Network (WLAN) - 3GPP radio interworking",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37834.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.840",
+    "title": "Study of Radio Frequency (RF) and Electromagnetic Compatibility (EMC) requirements for Active Antenna Array System (AAS) base station",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37840.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.842",
+    "title": "Evolved Universal Terrestrial Radio Access (E-UTRA) and Universal Terrestrial Radio Access (UTRA; Radio Frequency (RF) requirement background for Active Antenna System (AAS) Base Station (BS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37842.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.843",
+    "title": "Evolved Universal Terrestrial Radio Access (E-UTRA) and Universal Terrestrial Radio Access (UTRA); Radio Frequency (RF) requirement background for Active Antenna System (AAS) Base Station (BS) radiated requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37843.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.844",
+    "title": "User Equipment (UE) GSM, UTRA and E-UTRA over the air performance requirements",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/37844.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.846",
+    "title": "Study on 2GHz Frequency Division Duplex) FDD for Universal Terrestrial Radio Access (UTRA) and LTE in Region 1 (1980-2010 MHz and 2170-2200 MHz Bands)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37846.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.852",
+    "title": "RAN enhancements for UMTS/HSPA and LTE interworking",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37852.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.857",
+    "title": "Study on indoor positioning enhancements for UTRA and LTE",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37857.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.862",
+    "title": "Rel-19 adding channel bandwidth support to existing NR bands",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37862.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.863",
+    "title": "Dual connectivity (DC) band combinations of LTE 1DL/1UL + one NR band",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/37863.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.863-01-01",
+    "title": "E-UTRA (Evolved Universal Terrestrial Radio Access) - NR Dual Connectivity (EN-DC) of LTE 1 Down Link (DL) / 1 Up Link (UL) and 1 NR band",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37863-01-01.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.863-02-01",
+    "title": "E-UTRA (Evolved Universal Terrestrial Radio Access) - NR Dual Connectivity (EN-DC) of LTE 2 Down Link (DL) / 1 Up Link (UL) and 1 NR band",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37863-02-01.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.863-03-01",
+    "title": "E-UTRA (Evolved Universal Terrestrial Radio Access) - NR Dual Connectivity (EN-DC) of LTE 3 Down Link (DL) / 1 Up Link (UL) and 1 NR band",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37863-03-01.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.863-04-01",
+    "title": "E-UTRA (Evolved Universal Terrestrial Radio Access) - NR Dual Connectivity (EN-DC) of LTE 4 Down Link (DL) / 1 Up Link (UL) and 1 NR band",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37863-04-01.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.863-05-01",
+    "title": "E-UTRA (Evolved Universal Terrestrial Radio Access) - NR Dual Connectivity (EN-DC) of LTE 5 Down Link (DL) / 1 Up Link (UL) and 1 NR band",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37863-05-01.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.864-11-22",
+    "title": "E-UTRA (Evolved Universal Terrestrial Radio Access) - NR Dual Connectivity (EN-DC) of LTE 1 Down Link (DL) / 1 Up Link (UL) and inter- / intra-band NR 2 Down Link (DL) / 2 Up Link (UL) bands (Frequency Range 1 (FR1) + Frequency Range 2 (FR2))",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37864-11-22.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.864-41-21",
+    "title": "E-UTRA (Evolved Universal Terrestrial Radio Access) - NR Dual Connectivity (EN-DC) of LTE x Down Link (DL) / 1 Up Link (UL) (x=1, 2, 3, 4) and Inter-band NR 2 Down Link (DL) / 1 Up Link (UL)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37864-41-21.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.865-01-01",
+    "title": "NR Carrier Aggregation for intra-band (m Down Link (DL) / 1 Up Link (UL) bands) and inter-band (n Down Link (DL) / 1 Up Link (UL) bands)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37865-01-01.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.866-00-02",
+    "title": "NR Carrier Aggregation for inter-band n Down Link (DL) / 2 Up Link (UL) bands",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37866-00-02.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.867",
+    "title": "Downlink interruption for band combinations to conduct dynamic Tx Switching",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37867.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.868",
+    "title": "RAN Improvements for Machine-type Communications",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37868.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.869",
+    "title": "Study on enhancements to Machine-Type Communications (MTC) and other mobile data applications; Radio Access Network (RAN) aspects",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37869.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.870",
+    "title": "Study on Multi-RAT joint coordination",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37870.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.871",
+    "title": "E-UTRA, UTRA and GSM/EDGE; Multi-Band Base Station testing with three or more bands",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37871.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.872",
+    "title": "Supplementary uplink (SUL) and LTE-NR co-existence",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37872.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.873",
+    "title": "Study on optimizations of UE radio capability signalling; NR / Evolved Universal Terrestrial Radio Access Network (E-UTRAN) aspects",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37873.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.875",
+    "title": "Band combinations for Uu and V2X con-current operation",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37875.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.876",
+    "title": "Study on eNB(s) Architecture Evolution for E-UTRAN and NG-RAN",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37876.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.877",
+    "title": "Rel-18 downlink interruption for NR and EN-DC band combinations at dynamic Tx switching",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37877.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.878",
+    "title": "Rel-18 Band combinations for con-current operation of NR/LTE Uu bands/band combinations and one NR/LTE V2X PC5 band",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37878.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.880",
+    "title": "Study on high-power UE operation for fixed-wireless/vehicle-mounted use cases in LTE bands 5 and 12 and NR band n71",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37880.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.885",
+    "title": "Study on evaluation methodology of new Vehicle-to-Everything (V2X) use cases for LTE and NR",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37885.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.887",
+    "title": "Rel-19 downlink interruption for NR and EN-DC band combinations at dynamic Tx Switching in Uplink",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37887.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.890",
+    "title": "Feasibility Study on 6 GHz for LTE and NR in Licensed and Unlicensed Operations",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37890.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.898",
+    "title": "Rel-19 High power UE (power class 1.5 or 2) for Dual Connectivity (DC) combinations of LTE band(s) and NR band(s)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37898.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.900",
+    "title": "Radio Frequency (RF)  requirements for Multicarrier and Multiple Radio Access Technology (Multi-RAT) Base Station (BS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37900.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.901",
+    "title": "User Equipment (UE) application layer data throughput performance",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37901.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.901-5",
+    "title": "Study on 5G NR User Equipment (UE) application layer data throughput performance",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37901-5.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.902",
+    "title": "Measurements of User Equipment (UE) radio performances for LTE/UMTS terminals; Total Radiated Power (TRP) and Total Radiated Sensitivity (TRS) test methodology",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37902.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.905",
+    "title": "Evolved Universal Terrestrial Radio Access (E-UTRA) and Evolved Universal Terrestrial Radio Access Network (E-UTRAN); Derivation of test points for User Equipment (UE) radio transmission and reception conformance test cases",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/37905.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.910",
+    "title": "Study on self evaluation towards IMT-2020 submission",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37910.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.911",
+    "title": "Study on self-evaluation towards the IMT-2020 submission of the 3GPP Satellite Radio Interface Technology",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37911.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.941",
+    "title": "Radio Frequency (RF) conformance testing background for radiated Base Station (BS) requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37941.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.976",
+    "title": "Measurement of radiated performance for Multiple Input Multiple Output (MIMO) and multi-antenna reception for High Speed Packet Access (HSPA) and LTE terminals",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37976.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.977",
+    "title": "Universal Terrestrial Radio Access (UTRA) and Evolved Universal Terrestrial Radio Access (E-UTRA); Verification of radiated multi-antenna reception performance of User Equipment (UE)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37977.htm"
+  },
+  {
+    "type": "TR",
+    "no": "37.985",
+    "title": "Overall description of Radio Access Network (RAN) aspects for Vehicle-to-everything (V2X) based on LTE and NR",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37985.htm"
+  }
+]

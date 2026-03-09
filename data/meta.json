@@ -1,0 +1,141 @@
+{
+  "updated_at": "2026-03-09T15:22:44Z",
+  "series": [
+    {
+      "series": 21,
+      "desc": "Vocabulary & terminology",
+      "total": 33,
+      "ts": 12,
+      "tr": 21,
+      "withdrawn": 11
+    },
+    {
+      "series": 22,
+      "desc": "Service aspects (Stage 1)",
+      "total": 270,
+      "ts": 119,
+      "tr": 151,
+      "withdrawn": 41
+    },
+    {
+      "series": 23,
+      "desc": "Technical realization (Stage 2)",
+      "total": 520,
+      "ts": 188,
+      "tr": 332,
+      "withdrawn": 82
+    },
+    {
+      "series": 24,
+      "desc": "Signalling protocols – UE to network (Stage 3)",
+      "total": 215,
+      "ts": 194,
+      "tr": 21,
+      "withdrawn": 21
+    },
+    {
+      "series": 25,
+      "desc": "Radio Access Network (UMTS/WCDMA)",
+      "total": 266,
+      "ts": 101,
+      "tr": 165,
+      "withdrawn": 50
+    },
+    {
+      "series": 26,
+      "desc": "Codecs",
+      "total": 249,
+      "ts": 139,
+      "tr": 110,
+      "withdrawn": 19
+    },
+    {
+      "series": 27,
+      "desc": "Data",
+      "total": 15,
+      "ts": 12,
+      "tr": 3,
+      "withdrawn": 5
+    },
+    {
+      "series": 28,
+      "desc": "Telecom management (OAM)",
+      "total": 248,
+      "ts": 151,
+      "tr": 97,
+      "withdrawn": 16
+    },
+    {
+      "series": 29,
+      "desc": "Signalling protocols (MAP & related)",
+      "total": 331,
+      "ts": 263,
+      "tr": 68,
+      "withdrawn": 26
+    },
+    {
+      "series": 31,
+      "desc": "SIM / UICC",
+      "total": 42,
+      "ts": 32,
+      "tr": 10,
+      "withdrawn": 6
+    },
+    {
+      "series": 32,
+      "desc": "OAM&P & Charging",
+      "total": 467,
+      "ts": 388,
+      "tr": 79,
+      "withdrawn": 75
+    },
+    {
+      "series": 33,
+      "desc": "Security aspects",
+      "total": 275,
+      "ts": 89,
+      "tr": 186,
+      "withdrawn": 32
+    },
+    {
+      "series": 34,
+      "desc": "UE & SIM test specifications",
+      "total": 28,
+      "ts": 20,
+      "tr": 8,
+      "withdrawn": 3
+    },
+    {
+      "series": 35,
+      "desc": "Security algorithms",
+      "total": 41,
+      "ts": 34,
+      "tr": 7,
+      "withdrawn": 3
+    },
+    {
+      "series": 36,
+      "desc": "LTE (E-UTRA)",
+      "total": 313,
+      "ts": 90,
+      "tr": 223,
+      "withdrawn": 35
+    },
+    {
+      "series": 37,
+      "desc": "Multiple Radio Access Technology",
+      "total": 142,
+      "ts": 42,
+      "tr": 100,
+      "withdrawn": 8
+    },
+    {
+      "series": 38,
+      "desc": "NR (5G New Radio)",
+      "total": 269,
+      "ts": 96,
+      "tr": 173,
+      "withdrawn": 5
+    }
+  ]
+}

@@ -1,0 +1,1864 @@
+[
+  {
+    "type": "TS",
+    "no": "25.053",
+    "title": "Tandem Free Operation (TFO); Service description; Stage 2",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/25053.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.05",
+    "title": "UMTS Radio Aspects; Multiplexing and multiple access",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/2505U.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.101",
+    "title": "User Equipment (UE) radio transmission and reception (FDD)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25101.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.102",
+    "title": "User Equipment (UE) radio transmission and reception (TDD)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25102.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.103",
+    "title": "RF parameters in support of RRM",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/25103.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.104",
+    "title": "Base Station (BS) radio transmission and reception (FDD)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25104.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.105",
+    "title": "Base Station (BS) radio transmission and reception (TDD)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25105.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.106",
+    "title": "UTRA repeater radio transmission and reception",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25106.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.107",
+    "title": "UTRA Repeater; Conformance testing",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/25107.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.10",
+    "title": "UMTS Radio Aspects; Channel coding",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/2510U.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.111",
+    "title": "Location Measurement Unit (LMU) performance specification; User Equipment (UE) positioning in UTRAN",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25111.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.113",
+    "title": "Base station (BS) and repeater electromagnetic compatibility (EMC)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25113.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.116",
+    "title": "UTRA repeater radio transmission and reception (LCR TDD)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25116.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.123",
+    "title": "Requirements for support of radio resource management  (TDD)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25123.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.133",
+    "title": "Requirements for support of radio resource management  (FDD)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25133.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.141",
+    "title": "Base Station (BS) conformance testing (FDD)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25141.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.142",
+    "title": "Base Station (BS) conformance testing (TDD)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25142.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.143",
+    "title": "UTRA repeater conformance testing",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25143.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.144",
+    "title": "User Equipment (UE) and Mobile Station (MS) over the air performance requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25144.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.153",
+    "title": "UTRA repeater conformance testing (LCR TDD)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25153.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.15",
+    "title": "UMTS Radio Aspects; Modulation",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/2515U.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.171",
+    "title": "Requirements for support of Assisted Global Positioning System (A-GPS); Frequency Division Duplex (FDD)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25171.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.172",
+    "title": "Requirements for support of Assisted Galileo and Additional Navigation Satellite Systems (A-GANSS) Frequency Division Duplex (FDD)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25172.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.173",
+    "title": "Requirements for support of Assisted Galileo and Additional Navigation Satellite Systems (A-GANSS) Time Division Duplex (TDD)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25173.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.201",
+    "title": "Physical layer - general description",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25201.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.202",
+    "title": "7.68 Mcps Time Division Duplex (TDD) option; Overall description: Stage 2",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25202.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.20",
+    "title": "UMTS Radio Aspects; Transmission and reception",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/2520U.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.211",
+    "title": "Physical channels and mapping of transport channels onto physical channels (FDD)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25211.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.212",
+    "title": "Multiplexing and channel coding (FDD)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25212.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.213",
+    "title": "Spreading and modulation (FDD)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25213.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.214",
+    "title": "Physical layer procedures (FDD)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25214.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.215",
+    "title": "Physical layer; Measurements (FDD)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25215.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.221",
+    "title": "Physical channels and mapping of transport channels onto physical channels (TDD)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25221.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.222",
+    "title": "Multiplexing and channel coding  (TDD)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25222.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.223",
+    "title": "Spreading and modulation (TDD)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25223.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.224",
+    "title": "Physical layer procedures (TDD)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25224.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.225",
+    "title": "Physical layer; Measurements (TDD)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25225.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.231",
+    "title": "Physical layer - Measurements",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/25231.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.300",
+    "title": "Universal Terrestrial Radio Access Network (UTRAN); General description; Stage 2",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25300.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.301",
+    "title": "Radio interface protocol architecture",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25301.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.302",
+    "title": "Services provided by the physical layer",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25302.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.303",
+    "title": "Interlayer procedures in Connected Mode",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25303.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.304",
+    "title": "User Equipment (UE) procedures in idle mode and procedures for cell reselection in connected mode",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25304.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.305",
+    "title": "Stage 2 functional specification of User Equipment (UE) positioning in UTRAN",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25305.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.306",
+    "title": "UE Radio Access capabilities",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25306.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.307",
+    "title": "Requirements on User Equipments (UEs) supporting a release-independent frequency band",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25307.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.308",
+    "title": "High Speed Downlink Packet Access (HSDPA); Overall description; Stage 2",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25308.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.309",
+    "title": "FDD enhanced uplink; Overall description; Stage 2",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25309.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.317",
+    "title": "High Speed Packet Access (HSPA); Requirements on User Equipments (UEs) supporting a release-independent frequency band combination",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/25317.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.319",
+    "title": "Enhanced uplink; Overall description; Stage 2",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25319.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.321",
+    "title": "Medium Access Control (MAC) protocol specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25321.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.322",
+    "title": "Radio Link Control (RLC)  protocol specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25322.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.323",
+    "title": "Packet Data Convergence Protocol (PDCP) specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25323.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.324",
+    "title": "Broadcast/Multicast Control (BMC)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25324.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.327",
+    "title": "High Speed Packet Access (HSPA); Requirements on User Equipments (UEs) supporting a release-independent frequency band and multi-carrier configuration",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25327.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.331",
+    "title": "Radio Resource Control (RRC); Protocol specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25331.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.346",
+    "title": "Introduction of the Multimedia Broadcast/Multicast Service (MBMS) in the Radio Access Network (RAN); Stage 2",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25346.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.367",
+    "title": "Mobility procedures for Home Node B (HNB); Overall description; Stage 2",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25367.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.371",
+    "title": "LMU signalling",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/25371.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.401",
+    "title": "UTRAN overall description",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25401.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.402",
+    "title": "Synchronisation in UTRAN Stage 2",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25402.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.409",
+    "title": "Enhanced uplink UTRA FDD; Stage 3",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/25409.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.410",
+    "title": "UTRAN Iu interface: General aspects and principles",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25410.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.411",
+    "title": "UTRAN Iu interface layer 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25411.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.412",
+    "title": "UTRAN Iu interface signalling transport",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25412.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.413",
+    "title": "UTRAN Iu interface Radio Access Network Application Part (RANAP) signalling",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25413.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.414",
+    "title": "UTRAN Iu interface data transport and transport signalling",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25414.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.415",
+    "title": "UTRAN Iu interface user plane protocols",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25415.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.419",
+    "title": "UTRAN Iu-BC interface: Service Area Broadcast Protocol (SABP)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25419.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.420",
+    "title": "UTRAN Iur interface general aspects and principles",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25420.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.421",
+    "title": "UTRAN Iur interface layer 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25421.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.422",
+    "title": "UTRAN Iur interface signalling transport",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25422.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.423",
+    "title": "UTRAN Iur interface Radio Network Subsystem Application Part (RNSAP) signalling",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25423.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.424",
+    "title": "UTRAN Iur interface data transport & transport signalling for Common Transport Channel data streams",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25424.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.425",
+    "title": "UTRAN Iur interface user plane protocols for Common Transport Channel data streams",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25425.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.426",
+    "title": "UTRAN Iur and Iub interface data transport & transport signalling for DCH data streams",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25426.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.427",
+    "title": "UTRAN Iub/Iur interface user plane protocol for DCH data streams",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25427.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.430",
+    "title": "UTRAN Iub Interface: general aspects and principles",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25430.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.431",
+    "title": "UTRAN Iub interface Layer 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25431.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.432",
+    "title": "UTRAN Iub interface: signalling transport",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25432.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.433",
+    "title": "UTRAN Iub interface Node B Application Part (NBAP) signalling",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25433.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.434",
+    "title": "UTRAN Iub interface data transport and transport signalling for Common Transport Channel data streams",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25434.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.435",
+    "title": "UTRAN Iub interface user plane protocols for Common Transport Channel data streams",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25435.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.442",
+    "title": "UTRAN implementation-specific O&M transport",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25442.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.444",
+    "title": "Iuh data transport",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25444.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.446",
+    "title": "MBMS synchronisation protocol (SYNC)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25446.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.450",
+    "title": "UTRAN Iupc interface general aspects and principles",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25450.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.451",
+    "title": "UTRAN Iupc interface layer 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25451.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.452",
+    "title": "UTRAN Iupc interface: signalling transport",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25452.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.453",
+    "title": "UTRAN Iupc interface Positioning Calculation Application Part (PCAP) signalling",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25453.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.460",
+    "title": "UTRAN Iuant interface: General aspects and principles",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25460.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.461",
+    "title": "UTRAN Iuant interface: Layer 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25461.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.462",
+    "title": "UTRAN Iuant interface: Signalling transport",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25462.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.463",
+    "title": "UTRAN Iuant interface: Remote Electrical Tilting (RET) antennas Application Part (RETAP) signalling",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25463.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.466",
+    "title": "UTRAN Iuant interface: Application part",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25466.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.467",
+    "title": "UTRAN architecture for 3G Home Node B (HNB); Stage 2",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25467.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.468",
+    "title": "UTRAN Iuh Interface RANAP User Adaption (RUA) signalling",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25468.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.469",
+    "title": "UTRAN Iuh interface Home Node B (HNB) Application Part (HNBAP) signalling",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25469.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.470",
+    "title": "UTRAN Iuh Interface PCAP User Adaption (PUA) signalling",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25470.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.471",
+    "title": "UTRAN Iurh interface Radio Network Subsystem Application Part (RNSAP) User Adaption (RNA) signalling",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25471.htm"
+  },
+  {
+    "type": "TS",
+    "no": "25.484",
+    "title": "Automatic Neighbour Relation (ANR) for UTRAN; Stage 2",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25484.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.700",
+    "title": "Study on Further Enhanced Uplink (EUL) enhancements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25700.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.701",
+    "title": "Study on scalable UMTS Frequency Division Duplex (FDD) bandwidth",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25701.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.702",
+    "title": "Study on Dedicated Channel (DCH) enhancements for UMTS",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25702.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.703",
+    "title": "Universal Terrestrial Radio Access (E-UTRA); Study on Home Node B (HNB) emergency warning area",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25703.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.704",
+    "title": "Study on enhanced broadcast of system information",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25704.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.705",
+    "title": "Study on Small data transmission enhancements for UMTS",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25705.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.706",
+    "title": "Technical Report on Downlink Enhancements for UMTS",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25706.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.707",
+    "title": "Multi-carrier enhancements for UMTS",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25707.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.708",
+    "title": "Study on scheduling enhancements with carrier aggregation for UMTS",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25708.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.709",
+    "title": "Study on a simplified HS-SCCH for UMTS",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25709.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.756",
+    "title": "RAN sharing enhancements for UMTS",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25756.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.766",
+    "title": "Study on Network-Assisted Interference Cancellation and Suppression for UMTS",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25766.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.800",
+    "title": "Technical Report on UMTS Heterogeneous Networks",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25800.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.801",
+    "title": "Feasibility study for improved access to User Equipment (UE) measurement data for Controlling Radio Network Controller (CRNC) to support Time Division Duplex (TDD) Radio Resource Management (RRM)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25801.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.802",
+    "title": "Remote control of electrical tilting antennas",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25802.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.803",
+    "title": "S-CCPCH performance for Multimedia Broadcast/Multicast Service (MBMS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25803.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.804",
+    "title": "Feasibility study on uplink enhancements for UTRA TDD",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25804.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.805",
+    "title": "DS-CDMA introduction in the 800 MHz band",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/25805.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.806",
+    "title": "UMTS 1700/2100MHz Work Item",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25806.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.807",
+    "title": "Low output powers for general purpose Frequency Division Duplex (FDD) Base Station (BS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25807.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.808",
+    "title": "FDD enhanced uplink; Physical layer aspects",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25808.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.809",
+    "title": "7.68 Mcps TDD option: Physical layer",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25809.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.810",
+    "title": "UMTS 2.6 GHz (FDD) Work Item Technical Report",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25810.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.811",
+    "title": "UMTS 2.6 GHz TDD Work Item Technical Report",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25811.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.812",
+    "title": "Requirements for evolved Universal Terrestrial Radio Access (UTRA) and Universal Terrestrial Radio Access Network (UTRAN)",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/25812.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.813",
+    "title": "Evolved Universal Terrestrial Radio Access (E-UTRA) and Evolved Universal Terrestrial Radio Access Network (E-UTRAN); Radio interface protocol aspects",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25813.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.814",
+    "title": "Physical layer aspect for evolved Universal Terrestrial Radio Access (UTRA)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25814.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.815",
+    "title": "Signalling enhancements for Circuit Switched (CS) and Packet Switched (PS) connections; Analyses and recommendations",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25815.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.816",
+    "title": "UMTS 900 MHz Work Item technical teport",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25816.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.817",
+    "title": "UMTS 1700 Work item Technical Report",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25817.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.818",
+    "title": "UTRA tower mounted amplifier (FDD) study item technical report",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25818.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.819",
+    "title": "7.68 Mcps TDD option: Layer 2 and 3 protocol aspects",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/25819.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.820",
+    "title": "3G Home Node B (HNB) study item Technical Report",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25820.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.821",
+    "title": "UMTS1500 MHz work item technical report",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25821.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.822",
+    "title": "UMTS 700 MHz Work Item Technical Report",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/25822.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.823",
+    "title": "Feasibility study on synchronized E-DCH for UTRA FDD",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25823.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.824",
+    "title": "Scope of HighSpeed Packet Access (HSPA) Evolution for 1.28Mcps TDD",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25824.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.825",
+    "title": "Dual-cell High Speed Downlink Packet Access (HSDPA) operation",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/25825.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.826",
+    "title": "3.84 Mcps TDD enhanced uplink; Physical layer aspects",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25826.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.827",
+    "title": "1.28 Mcps TDD ehanced uplink; Physical layer aspects",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25827.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.828",
+    "title": "UMTS 2300 TDD Work Item Technical Report",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/25828.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.829",
+    "title": "7.68 Mcps TDD opption: RF transmission/reception, System performance requirements and conformance testing",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25829.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.830",
+    "title": "HS-PDSCH serving cell change procedure and performance",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/25830.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.831",
+    "title": "Study Items for future release",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/25831.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.832",
+    "title": "Manifestations of Handover and SRNS relocation",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25832.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.833",
+    "title": "Physical layer items not for inclusion in Release 99",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25833.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.834",
+    "title": "UTRA TDD low chip rate option; Radio protocol aspects",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25834.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.835",
+    "title": "Report on hybrid ARQ type II/III",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/25835.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.836",
+    "title": "Node B synchronization for TDD",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25836.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.837",
+    "title": "Hybrid ARQ Type II/III (Iub/Iur aspects)",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/25837.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.838",
+    "title": "Node B Synchronisation for TDD (Iub/Iur aspects)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25838.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.839",
+    "title": "Uplink Synchronous Transmission Scheme (USTS) (Iur/Iub aspects)",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/25839.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.840",
+    "title": "Terminal power saving features",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25840.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.841",
+    "title": "DSCH power control improvement in soft handover",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25841.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.842",
+    "title": "Smart antenna",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/25842.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.843",
+    "title": "1.28 Mcps TDD UE Radio Access Capabilities",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25843.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.844",
+    "title": "Radio acces bearer support enhancements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25844.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.845",
+    "title": "FDD RACH and AICH performance requirements",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/25845.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.846",
+    "title": "CPCH performance",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/25846.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.847",
+    "title": "UE positioning enhancements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25847.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.848",
+    "title": "Physical Layer Aspects of UTRA High Speed Downlink Packet Access",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25848.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.849",
+    "title": "DSCH power control improvement in soft handover",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25849.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.850",
+    "title": "UE positioning in UTRAN Iub/Iur protocol aspects",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25850.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.851",
+    "title": "RAB Quality of Service (QoS) Renegotiation over Iu",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25851.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.852",
+    "title": "Iu enhancements for IP Multimedia (IMS) support in UTRAN",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/25852.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.853",
+    "title": "Delay budget within the access stratum",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25853.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.854",
+    "title": "Uplink Synchronous Transmission Scheme (USTS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25854.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.855",
+    "title": "High Speed Downlink Packet Access (HSDPA); Overall UTRAN description",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/25855.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.856",
+    "title": "High Speed Downlink Packet Access (HSDPA); Layer 2 and 3 aspects",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/25856.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.857",
+    "title": "UE positioning enhancements",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/25857.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.858",
+    "title": "Physical layer aspects of UTRA High Speed Downlink Packet Access",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25858.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.859",
+    "title": "User Equipment (UE) positioning enhancements for 1.28 Mcps TDD",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25859.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.860",
+    "title": "Radio acces bearer support enhancements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25860.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.861",
+    "title": "RNC - SMLC location protocol",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/25861.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.862",
+    "title": "RAB support for IMS",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25862.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.863",
+    "title": "Universal Terrestrial Radio Access (UTRA); Uplink transmit diversity for High Speed Packet Access (HSPA)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25863.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.864",
+    "title": "Downlink configurations for Four-carrier High Speed Download Packet Access (4C-HSDPA)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25864.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.865",
+    "title": "Improvements of distributed antenna for 1.28 Mcps TDD",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25865.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.866",
+    "title": "1.28 Mcps TDD Home Node B (HNB) study item technical report",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25866.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.867",
+    "title": "Feasibility study for wideband distribution systems in 3rd generation networks",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/25867.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.868",
+    "title": "Node B synchronization for 1,28 Mcps TDD",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25868.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.869",
+    "title": "Transmitter diversity solutions for multiple antennas",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/25869.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.870",
+    "title": "Enhancement on the DSCH Hard Split mode",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25870.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.871",
+    "title": "Uplink Multiple Input Multiple Output (MIMO) for High Speed Packet Access (HSPA)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25871.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.872",
+    "title": "High Speed Packet Access (HSDPA) multipoint transmission",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25872.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.873",
+    "title": "UE Demodulation Performance Requirements Under Multiple-cell Scenario for 1.28Mcps TDD",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25873.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.874",
+    "title": "High Speed Packet Access (HSPA) feedback and signalling efficiency enhancements for Low Chip Rate (LCR) Time Division Duplex (TDD)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25874.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.875",
+    "title": "NAS node selector function",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25875.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.876",
+    "title": "Multiple Input Multiple Output (MIMO) antennae in UTRA",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25876.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.877",
+    "title": "High Speed Downlink Packet Access (HSDPA) - Iub/Iur Protocol Aspects",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25877.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.878",
+    "title": "RL timing adjustment",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25878.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.879",
+    "title": "Separation of resource reservation and radio link activation",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25879.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.880",
+    "title": "Re-arrangement of Iub transport bearers",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25880.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.881",
+    "title": "Improvement of Radio Resource Management (RRM) across RNS and RNS/BSS",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25881.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.882",
+    "title": "1,28 Mcps TDD option base station classification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25882.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.883",
+    "title": "Direct Transport Bearers Between SRNC and Node-B",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25883.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.884",
+    "title": "Iur Neighbouring cell reporting efficiency optimisation",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25884.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.885",
+    "title": "UMTS 1800 / 1900 MHz work items report",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/25885.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.886",
+    "title": "Small technical enhancements and improvements work item",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/25886.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.887",
+    "title": "Beamforming enhancements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25887.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.888",
+    "title": "Improvement of inter frequency and inter system measurement for 1,28 Mcps TDD",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25888.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.889",
+    "title": "Feasibility study considering the viable deployment of UTRA in additional and diverse spectrum arrangements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25889.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.890",
+    "title": "High Speed Downlink Packet Access (HSDPA); User Equipment (UE) radio transmission and reception (FDD)",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/25890.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.891",
+    "title": "Improvement of Radio Resource Management (RRM) across RNS and RNS/BSS post-Rel-5",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/25891.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.892",
+    "title": "Feasibility study for Orthogonal Frequency Division Multiplexing (OFDM) for UTRAN enhancement",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25892.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.893",
+    "title": "Radio access bearer scenarios",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/25893.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.894",
+    "title": "Enhanced UE positioning using software blanking",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/25894.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.895",
+    "title": "Analysis of higher chip rates for UTRA TDD evolution",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25895.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.896",
+    "title": "Feasibility study for enhanced uplink for UTRA FDD",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25896.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.897",
+    "title": "Feasibility study on the evolution of UTRAN architecture",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/25897.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.898",
+    "title": "Power control enhancements for UTRA",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/25898.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.899",
+    "title": "High Speed Downlink Packet Access (HSDPA) enhancements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25899.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.901",
+    "title": "Network Assisted Cell Change (NACC) from UTRAN to GERAN; Network side aspects",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25901.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.902",
+    "title": "Iub/Iur congestion control",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25902.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.903",
+    "title": "Continuous connectivity for packet data users",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25903.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.904",
+    "title": "Improved support of gaming over HSDPA/EDCH",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/25904.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.905",
+    "title": "Feasibility study on improvement of the Multimedia Broadcast/Multicast Service (MBMS) in UTRAN",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25905.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.906",
+    "title": "Dynamically reconfiguring a Frequency Division Duplex (FDD) User Equipment (UE) receiver to reduce power consumption when desired Quality of Service (QoS) is met",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25906.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.907",
+    "title": "Evaluation of path-loss technologies for Location Services (LCS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25907.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.909",
+    "title": "Enhanced uplink UTRA FDD; UTRAN Iub/Iur protocol aspects",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/25909.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.912",
+    "title": "Feasibility study for evolved Universal Terrestrial Radio Access (UTRA) and Universal Terrestrial Radio Access Network (UTRAN)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25912.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.913",
+    "title": "Requirements for Evolved UTRA (E-UTRA) and Evolved UTRAN (E-UTRAN)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25913.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.914",
+    "title": "Measurements of radio performances for UMTS terminals in speech mode",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25914.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.921",
+    "title": "Guidelines and principles for protocol description and error handling",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25921.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.922",
+    "title": "Radio resource management strategies",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25922.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.923",
+    "title": "Stage 2 Functional Specification of Location Services in UTRAN",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/25923.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.924",
+    "title": "Opportunity Driven Multiple Access (ODMA)",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/25924.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.925",
+    "title": "Radio Interface for Broadcast/Multicast Services",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25925.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.926",
+    "title": "UE Radio Access capabilities definition",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/25926.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.927",
+    "title": "Solutions for energy saving within UTRA Node B",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25927.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.928",
+    "title": "1,28 Mcps functionality for UTRA TDD physical layer",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25928.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.929",
+    "title": "Continuous connectivity for packet data users; 1.28 Mcps TDD",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25929.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.931",
+    "title": "UTRAN functions, examples on signalling procedures",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25931.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.932",
+    "title": "Delay budget within the access stratum",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/25932.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.933",
+    "title": "IP transport in UTRAN",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25933.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.934",
+    "title": "AAL2 QoS optimization",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25934.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.935",
+    "title": "RRM optimisation",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25935.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.936",
+    "title": "Handover for realtime services from PS-domain",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25936.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.937",
+    "title": "UTRAN TDD low chiprate",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25937.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.938",
+    "title": "Terminal power saving features",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/25938.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.941",
+    "title": "Document structure",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25941.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.942",
+    "title": "Radio Frequency (RF) system scenarios",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25942.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.943",
+    "title": "Deployment aspects",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25943.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.944",
+    "title": "Channel coding and multiplexing examples",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25944.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.945",
+    "title": "RF requirements for low chip rate TDD option",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25945.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.946",
+    "title": "RAB Quality of Service (QoS) Negotiation over Iu",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25946.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.950",
+    "title": "UTRA High Speed Downlink Packet Access (HSDPA)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25950.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.951",
+    "title": "FDD Base Station (BS) classification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25951.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.952",
+    "title": "TDD Base Station (BS) classification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25952.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.953",
+    "title": "TrFO/TFO",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25953.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.954",
+    "title": "Migration to modification procedure",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25954.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.956",
+    "title": "Universal Terrestrial Radio Access (UTRA) repeater planning guidelines and system analysis",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25956.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.963",
+    "title": "Feasibility study on interference cancellation for UTRA FDD User Equipment (UE)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25963.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.967",
+    "title": "Home Node B (HNB) Radio Frequency (RF) requirements (FDD)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25967.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.968",
+    "title": "1.28 Mcps TDD Home NodeB Radio Frequency (RF)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25968.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.990",
+    "title": "Vocabulary for UTRAN",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/25990.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.991",
+    "title": "Feasibility study on the mitigation of the effect of common pilot channel (CPICH) interference at the user equipment",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25991.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.992",
+    "title": "Multimedia Broadcast/Multicast Service (MBMS); UTRAN/GERAN requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25992.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.993",
+    "title": "Typical examples of Radio Access Bearers (RABs) and Radio Bearers (RBs) supported by Universal Terrestrial Radio Access (UTRA)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25993.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.994",
+    "title": "Measures employed by the UMTS Radio Access Network (UTRAN) to overcome early User Equipment (UE) implementation faults",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25994.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.995",
+    "title": "Measures employed by the UMTS Radio Access Network (RAN) to cater for legacy User Equipment (UE) which conforms to superseded versions of the RAN interface specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25995.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.996",
+    "title": "Spatial channel model for Multiple Input Multiple Output (MIMO) simulations",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25996.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.997",
+    "title": "(provisionally reserved for: Remote control of electrical tilting antennas) - TP-20: number not used, bacame 25.802.",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/25997.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.998",
+    "title": "UTRAN recommendation and UE allowance for non-essential corrections of a feature made only in a later release",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/25998.htm"
+  },
+  {
+    "type": "TR",
+    "no": "25.999",
+    "title": "High Speed Packet Access (HSPA) evolution; Frequency Division Duplex (FDD)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/25999.htm"
+  }
+]

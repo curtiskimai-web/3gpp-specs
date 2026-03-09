@@ -1,0 +1,2319 @@
+[
+  {
+    "type": "TS",
+    "no": "29.002",
+    "title": "Mobile Application Part (MAP) specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29002.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.004",
+    "title": "Interworking between the Public Land Mobile Network (PLMN) and the Circuit Switched Public Data Network (CSPDN)",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/29004.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.005",
+    "title": "Interworking between the Public Land Mobile Network (PLMN) and the Packet Switched Public Data Network (PSPDN) for Packet Assembly/Disassembly (PAD) facility access",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/29005.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.006",
+    "title": "Interworking between a PLMN and the ISDN or PSTN for support of Packet Switched data transmission services",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/29006.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.007",
+    "title": "General requirements on interworking between the Public Land Mobile Network (PLMN) and the Integrated Services Digital Network (ISDN) or Public Switched Telephone Network (PSTN)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29007.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.010",
+    "title": "Information element mapping between Mobile Station - Base Station System (MS - BSS) and Base Station System - Mobile-services Switching Centre (BSS - MSC); Signalling Procedures and the Mobile Application Part (MAP)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29010.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.011",
+    "title": "Signalling Interworking for supplementary services",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29011.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.013",
+    "title": "Signalling interworking between ISDN supplementary services; Application Service Element (ASE) and Mobile Application Part (MAP) protocols",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29013.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.016",
+    "title": "General Packet Radio Service (GPRS); Serving GPRS Support Node (SGSN) - Visitors Location Register (VLR); Gs interface network service specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29016.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.018",
+    "title": "General Packet Radio Service (GPRS); Serving GPRS Support Node (SGSN) - Visitors Location Register (VLR); Gs interface layer 3 specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29018.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.060",
+    "title": "General Packet Radio Service (GPRS); GPRS Tunnelling Protocol (GTP) across the Gn and Gp interface",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29060.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.061",
+    "title": "Interworking between the Public Land Mobile Network (PLMN) supporting packet based services and Packet Data Networks (PDN)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29061.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.078",
+    "title": "Customised Applications for Mobile network Enhanced Logic (CAMEL) Phase X; CAMEL Application Part (CAP) specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29078.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.079",
+    "title": "Optimal media routeing within the IP Multimedia Subsystem (IMS); Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29079.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.108",
+    "title": "Application of the Radio Access Network Application Part (RANAP) on the E-interface",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29108.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.109",
+    "title": "Generic Authentication Architecture (GAA); Zh and Zn Interfaces based on the Diameter protocol; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29109.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.116",
+    "title": "Representational state transfer over xMB reference point between content provider and BM-SC",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29116.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.118",
+    "title": "Mobility Management Entity (MME) - Visitor Location Register (VLR) SGs interface specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29118.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.119",
+    "title": "GPRS Tunnelling Protocol (GTP) specification for Gateway Location Register (GLR)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29119.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.120",
+    "title": "Mobile Application Part (MAP) specification for Gateway Location Register (GLR)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29120.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.122",
+    "title": "T8 reference point for Northbound APIs",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29122.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.125",
+    "title": "Policy and Charging Control (PCC) over S9 reference point",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/29125.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.128",
+    "title": "Mobility Management Entity (MME) and Serving GPRS Support Node (SGSN) interfaces for interworking with packet data networks and applications",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29128.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.139",
+    "title": "3GPP system - fixed broadband access network interworking; Home (e)Node B - security gateway interface",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29139.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.140",
+    "title": "Multimedia Messaging Service (MMS); MM10 interface based on Diameter protocol; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29140.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.153",
+    "title": "Service capability exposure functionality over Ns reference point",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29153.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.154",
+    "title": "Service capability exposure functionality over Nt reference point",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29154.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.155",
+    "title": "Traffic steering control; Representational State Transfer (REST) over St reference point",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29155.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.161",
+    "title": "Interworking between the Public Land Mobile Network (PLMN) supporting packet based services with Wireless Local Area Network (WLAN) access and Packet data Networks (PDN)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29161.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.162",
+    "title": "Interworking between the IM CN subsystem and IP networks",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29162.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.163",
+    "title": "Interworking between the IP Multimedia (IM) Core Network (CN) subsystem and Circuit Switched (CS) networks",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29163.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.164",
+    "title": "Interworking between the 3GPP CS domain with BICC or ISUP as signalling protocol and external SIP-I networks",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29164.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.165",
+    "title": "Inter-IMS Network to Network Interface (NNI)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29165.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.168",
+    "title": "Cell Broadcast Centre interfaces with the Evolved Packet Core;  Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29168.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.171",
+    "title": "Location Services (LCS); LCS Application Protocol (LCS-AP) between the Mobile Management Entity (MME) and Evolved Serving Mobile Location Centre (E-SMLC); SLs interface",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29171.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.172",
+    "title": "Location Services (LCS); Evolved Packet Core (EPC) LCS Protocol (ELP) between the Gateway Mobile Location Centre (GMLC) and the Mobile Management Entity (MME); SLg interface",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29172.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.173",
+    "title": "Location Services (LCS); Diameter-based SLh interface for Control Plane LCS",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29173.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.175",
+    "title": "IP Multimedia Subsystem (IMS) Application Server (AS) Services Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29175.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.176",
+    "title": "IP Multimedia Subsystems (IMS); Media Function (MF) Services; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29176.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.198",
+    "title": "Open Service Architecture (OSA) Application Programming Interface (API) - Part 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29198.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.198-01",
+    "title": "Open Service Access (OSA) Application Programming Interface (API); Part 1: Overview",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29198-01.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.198-02",
+    "title": "Open Service Access (OSA) Application Programming Interface (API); Part 2: Common data definitions",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29198-02.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.198-03",
+    "title": "Open Service Access (OSA) Application Programming Interface (API); Part 3: Framework",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29198-03.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.198-04",
+    "title": "Open Service Access (OSA) Application Programming Interface (API); Part 4: Call control Service Capability Feature (SCF)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29198-04.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.198-04-1",
+    "title": "Open Service Access (OSA) Application Programming Interface (API); Part 4: Call control; Subpart 1:  Call control common definitions",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29198-04-1.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.198-04-2",
+    "title": "Open Service Access (OSA) Application Programming Interface (API); Part 4: Call control; Subpart 2: Generic call control Service Capability Feature (SCF)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29198-04-2.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.198-04-3",
+    "title": "Open Service Access (OSA) Application Programming Interface (API); Part 4: Call control; Subpart 3: Multi-party call control Service Capability Feature (SCF)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29198-04-3.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.198-04-4",
+    "title": "Open Service Access (OSA) Application Programming Interface (API); Part 4: Call control; Subpart 4: Multimedia call control Service Capability Feature (SCF)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29198-04-4.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.198-04-5",
+    "title": "Open Service Access (OSA) Application Programming Interface (API); Part 4: Call control; Subpart 5: Conference call control Service Capability Feature (SCF)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29198-04-5.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.198-05",
+    "title": "Open Service Access (OSA) Application Programming Interface (API); Part 5: User interaction Service Capability Feature (SCF)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29198-05.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.198-06",
+    "title": "Open Service Access (OSA) Application Programming Interface (API); Part 6: Mobility Service Capability Feature (SCF)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29198-06.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.198-07",
+    "title": "Open Service Access (OSA) Application Programming Interface (API); Part 7: Terminal capabilities Service Capability Feature (SCF)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29198-07.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.198-08",
+    "title": "Open Service Access (OSA) Application Programming Interface (API); Part 8: Data session control Service Capability Feature (SCF)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29198-08.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.198-09",
+    "title": "Open Service Access (OSA) Application Programming Interface (API); Part 9: Generic messaging SCF",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/29198-09.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.198-10",
+    "title": "Open Service Access (OSA) Application Programming Interface (API); Part 10: Connectivity manager Service Capability Feature (SCF)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29198-10.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.198-11",
+    "title": "Open Service Access (OSA) Application Programming Interface (API); Part 11: Account management Service Capability Feature (SCF)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29198-11.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.198-12",
+    "title": "Open Service Access (OSA) Application Programming Interface (API); Part 12: Charging Service Capability Feature (SCF)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29198-12.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.198-13",
+    "title": "Open Service Access (OSA) Application Programming Interface (API); Part 13: Policy management Service Capability Feature (SCF)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29198-13.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.198-14",
+    "title": "Open Service Access (OSA) Application Programming Interface (API); Part 14: Presence and Availability Management (PAM) Service Capability Feature (SCF)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29198-14.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.198-15",
+    "title": "Open Service Access (OSA) Application Programming Interface (API); Part 15: Multi-media Messaging (MM) Service Capability Feature (SCF)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29198-15.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.198-16",
+    "title": "Open Service Access (OSA) Application Programming Interface (API); Part 16: Service broker Service Capability Feature (SCF)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29198-16.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.199",
+    "title": "Open Service Access (OSA); Web Services Application Programming Interface (API)  for OSA; Parlay X services",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/29199.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.199-01",
+    "title": "Open Service Access (OSA); Parlay X web services; Part 1: Common",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29199-01.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.199-02",
+    "title": "Open Service Access (OSA); Parlay X web services; Part 2: Third party call",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29199-02.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.199-03",
+    "title": "Open Service Access (OSA); Parlay X web services; Part 3: Call notification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29199-03.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.199-04",
+    "title": "Open Service Access (OSA); Parlay X web services; Part 4: Short messaging",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29199-04.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.199-05",
+    "title": "Open Service Access (OSA); Parlay X web services; Part 5: Multimedia messaging",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29199-05.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.199-06",
+    "title": "Open Service Access (OSA); Parlay X web services; Part 6: Payment",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29199-06.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.199-07",
+    "title": "Open Service Access (OSA); Parlay X web services; Part 7: Account management",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29199-07.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.199-08",
+    "title": "Open Service Access (OSA); Parlay X web services; Part 8: Terminal status",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29199-08.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.199-09",
+    "title": "Open Service Access (OSA); Parlay X web services; Part 9: Terminal location",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29199-09.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.199-10",
+    "title": "Open Service Access (OSA); Parlay X web services; Part 10: Call handling",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29199-10.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.199-11",
+    "title": "Open Service Access (OSA); Parlay X web services; Part 11: Audio call",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29199-11.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.199-12",
+    "title": "Open Service Access (OSA); Parlay X web services; Part 12: Multimedia conference",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29199-12.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.199-13",
+    "title": "Open Service Access (OSA); Parlay X web services; Part 13: Address list management",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29199-13.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.199-14",
+    "title": "Open Service Access (OSA); Parlay X web services; Part 14: Presence",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29199-14.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.199-15",
+    "title": "Open Service Access (OSA); Parlay X web services; Part 15: Message broadcast",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29199-15.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.199-16",
+    "title": "Open Service Access (OSA); Parlay X web services; Part 16: Geocoding",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29199-16.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.199-17",
+    "title": "Open Service Access (OSA); Parlay X web services; Part 17: Application-driven Quality of Service (QoS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29199-17.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.199-18",
+    "title": "Open Service Access (OSA); Parlay X web services; Part 18: Device capabilities and configuration",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29199-18.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.199-19",
+    "title": "Open Service Access (OSA); Parlay X web services; Part 19: Multimedia streaming control",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29199-19.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.199-20",
+    "title": "Open Service Access (OSA); Parlay X web services; Part 20: Multimedia multicast session management",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29199-20.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.199-21",
+    "title": "Open Service Access (OSA); Parlay X web services; Part 21: Content management",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29199-21.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.199-22",
+    "title": "Open Service Access (OSA); Parlay X web services; Part 22: Policy",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29199-22.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.200",
+    "title": "Signalling System No. 7; Mobile Application Part (MAP); Security signalling flows for the Ze interface",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/29200.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.201",
+    "title": "Representational State Transfer (REST) reference point between Application Function (AF) and Protocol Converter (PC)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29201.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.202",
+    "title": "Signalling System No. 7 (SS7) signalling transport in core network; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29202.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.203",
+    "title": "Feasibility study on SS7 signalling transportation in the core network with SCCP-User Adaptation (SUA)",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/29203.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.204",
+    "title": "Signalling System No. 7 (SS7) security gateway; Architecture, functional description and protocol details",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29204.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.205",
+    "title": "Application of Q.1900 series to bearer independent Circuit Switched (CS) core network architecture; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29205.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.207",
+    "title": "Policy control over Go interface",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29207.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.208",
+    "title": "End-to-end Quality of Service (QoS) signalling flows",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29208.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.209",
+    "title": "Policy control over Gq interface",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29209.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.210",
+    "title": "Charging rule provisioning over Gx interface",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29210.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.211",
+    "title": "Rx Interface and Rx/Gx signalling flows",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29211.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.212",
+    "title": "Policy and Charging Control (PCC); Reference points",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29212.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.213",
+    "title": "Policy and charging control signalling flows and Quality of Service (QoS) parameter mapping",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29213.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.214",
+    "title": "Policy and charging control over Rx reference point",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29214.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.215",
+    "title": "Policy and Charging Control (PCC) over S9 reference point; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29215.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.216",
+    "title": "3GPP EPS Sv interface (MME to MSC) for SRVCC",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/29216.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.217",
+    "title": "Policy and Charging Control (PCC); Congestion reporting over Np reference point",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29217.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.218",
+    "title": "Diameter based protocols for SMS service over SGs",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/29218.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.219",
+    "title": "Policy and charging control: Spending limit reporting over Sy reference point",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29219.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.222",
+    "title": "Common API Framework for 3GPP Northbound APIs",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29222.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.226",
+    "title": "reserved",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/29226.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.228",
+    "title": "IP Multimedia (IM) Subsystem Cx and Dx Interfaces; Signalling flows and message contents",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29228.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.229",
+    "title": "Cx and Dx interfaces based on the Diameter protocol; Protocol details",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29229.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.230",
+    "title": "Diameter applications; 3GPP specific codes and identifiers",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29230.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.231",
+    "title": "Application of SIP-I Protocols to Circuit Switched (CS) core network architecture; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29231.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.232",
+    "title": "Media Gateway Controller (MGC) - Media Gateway (MGW) interface; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29232.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.234",
+    "title": "3GPP system to Wireless Local Area Network (WLAN) interworking; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29234.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.235",
+    "title": "Interworking between SIP-I based circuit-switched core network and other networks",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29235.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.238",
+    "title": "Interconnection Border Control Functions (IBCF) - Transition Gateway (TrGW) interface, Ix interface; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29238.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.240",
+    "title": "3GPP Generic User Profile (GUP); Stage 3; Network",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29240.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.244",
+    "title": "Interface between the Control Plane and the User Plane nodes",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29244.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.250",
+    "title": "Nu reference point between SCEF and PFDF for sponsored data connectivity",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29250.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.251",
+    "title": "Gw and Gwn reference point for sponsored data connectivity",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29251.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.255",
+    "title": "Uncrewed Aerial System Service Supplier (USS) Services; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29255.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.256",
+    "title": "Uncrewed Aerial Systems Network Function (UAS-NF); Aerial Management Services; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29256.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.257",
+    "title": "Application layer support for Uncrewed Aerial System (UAS); UAS Application Enabler (UAE) Server Services; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29257.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.272",
+    "title": "Evolved Packet System (EPS); Mobility Management Entity (MME) and Serving GPRS Support Node (SGSN) related interfaces based on Diameter protocol",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29272.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.273",
+    "title": "Evolved Packet System (EPS); 3GPP EPS AAA interfaces",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29273.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.274",
+    "title": "3GPP Evolved Packet System (EPS); Evolved General Packet Radio Service (GPRS) Tunnelling Protocol for Control plane (GTPv2-C); Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29274.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.275",
+    "title": "Proxy Mobile IPv6 (PMIPv6) based Mobility and Tunnelling protocols; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29275.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.276",
+    "title": "3GPP Evolved Packet System (EPS); Optimized handover procedures and protocols between E-UTRAN access and cdma2000 HRPD Access; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29276.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.277",
+    "title": "Optimised handover procedures and protocol between EUTRAN access and non-3GPP accesses (S102); Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29277.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.278",
+    "title": "Customized Applications for Mobile network Enhanced Logic (CAMEL) Phase 4; CAMEL Application Part (CAP) specification for IP Multimedia Subsystems (IMS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29278.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.279",
+    "title": "Mobile IPv4 (MIPv4) based mobility protocols; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29279.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.280",
+    "title": "Evolved Packet System (EPS); 3GPP Sv interface (MME to MSC, and SGSN to MSC) for SRVCC",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29280.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.281",
+    "title": "General Packet Radio System (GPRS) Tunnelling Protocol User Plane (GTPv1-U)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29281.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.282",
+    "title": "Mobile IPv6 vendor specific option format and usage within 3GPP",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29282.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.283",
+    "title": "Diameter data management applications",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29283.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.292",
+    "title": "Interworking between the IP Multimedia (IM) Core Network (CN) subsystem (IMS) and MSC Server for IMS Centralized Services (ICS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29292.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.303",
+    "title": "Domain Name System Procedures; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29303.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.304",
+    "title": "Mobile IPv4 (MIPv4) based Mobility protocols; Stage 3",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/29304.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.305",
+    "title": "InterWorking Function (IWF) between MAP based and Diameter based interfaces",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29305.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.309",
+    "title": "Bootstrapping Server Function (GBA BSF) Services",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29309.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.311",
+    "title": "Service Level Interworking (SLI) for messaging services",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29311.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.328",
+    "title": "IP Multimedia (IM) Subsystem Sh interface; Signalling flows and message contents",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29328.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.329",
+    "title": "Sh interface based on the Diameter protocol; Protocol details",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29329.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.330",
+    "title": "IP Multimedia Subsystem (IMS); Sc Interface based on the Diameter protocol;",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29330.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.332",
+    "title": "Media Gateway Control Function (MGCF) - IM Media Gateway; Mn interface",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29332.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.333",
+    "title": "Multimedia Resource Function Controller (MRFC) - Multimedia Resource Function Processor (MRFP) Mp interface; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29333.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.334",
+    "title": "IMS Application Level Gateway (IMS-ALG) – IMS Access Gateway (IMS-AGW); Iq Interface; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29334.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.335",
+    "title": "User Data Convergence (UDC); User data repository access protocol over the Ud interface; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29335.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.336",
+    "title": "Home Subscriber Server (HSS) diameter interfaces for interworking with packet data networks and applications",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29336.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.337",
+    "title": "Diameter-based T4 Interface for communications with packet data networks and applications",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29337.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.338",
+    "title": "Diameter based protocols to support Short Message Service (SMS) capable Mobile Management Entities (MMEs)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29338.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.343",
+    "title": "Proximity-services (ProSe) function to ProSe application server aspects (PC2); Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29343.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.344",
+    "title": "Proximity-services (ProSe) function to Home Subscriber Server (HSS) aspects; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29344.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.345",
+    "title": "Inter-Proximity-services (Prose) function signalling aspects; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29345.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.364",
+    "title": "IP Multimedia Subsystem (IMS) Application Server (AS) service data descriptions for AS interoperability",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29364.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.368",
+    "title": "Tsp interface protocol between the MTC Interworking Function (MTC-IWF) and Service Capability Server (SCS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29368.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.369",
+    "title": "5G System; Ambient IoT Data Management Services; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29369.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.374",
+    "title": "GPRS Tunnelling Protocol for User Plane (GTPv1-U)",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/29374.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.379",
+    "title": "Mission Critical Push To Talk (MCPTT) call control interworking with Land Mobile Radio (LMR) systems; Stage-3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29379.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.380",
+    "title": "Mission Critical Push To Talk (MCPTT) media plane control interworking with Land Mobile Radio (LMR) systems; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29380.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.387",
+    "title": "V2X Control Function to V2X Application Server aspects (V2); Stage 3",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/29387.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.388",
+    "title": "V2X Control Function to Home Subscriber Server (HSS) aspects (V4); Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29388.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.389",
+    "title": "Inter-V2X Control Function Signalling aspects (V6); Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29389.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.392",
+    "title": "Application layer support for MMTel; MMTel Enabler Server Services; stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29392.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.405",
+    "title": "Nq and Nq' Application Protocol (Nq-AP); Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29405.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.412",
+    "title": "TISPAN; Interworking; Trunking Gateway Control Procedures for interworking between NGN and external CS networks",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29412.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.413",
+    "title": "Application of the NG Application Protocol (NGAP) to non-3GPP access",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29413.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.414",
+    "title": "Core network Nb data transport and transport signalling",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29414.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.415",
+    "title": "Core network Nb interface user plane protocols",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29415.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.421",
+    "title": "TISPAN; NGN Release 1; Endorsement of 3GPP TS 29.162 Interworking between IM CN Sub-system and IP networks",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29421.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.424",
+    "title": "TISPAN; H.248 Profile for controlling Trunking Media Gateways; Protocol specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29424.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.427",
+    "title": "TISPAN; Endorsement of the SIP-ISUP Interworking between the IP Multimedia (IM) Core Network (CN) subsystem and Circuit Switched CS) networks [3GPP TS 29.163 (Release 7), modified]",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29427.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.433",
+    "title": "TISPAN; IP Multimedia; Diameter based protocol for the interfaces between the Call Session Control Function and the User Profile Server Function/Subscription Locator Function; Signalling flows and protocol details [3GPP TS 29.228 and 29.229 modified]",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29433.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.435",
+    "title": "Service Enabler Architecture Layer for Verticals (SEAL);  Network Slice Capability Enablement (NSCE) Server Services",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29435.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.437",
+    "title": "Service Enabler Architecture Layer for Verticals (SEAL); Metaverse Enablement Services; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29437.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.458",
+    "title": "TISPAN; SIP Transfer of IP Multimedia Service Tariff Information; Protocol specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29458.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.468",
+    "title": "Group Communication System Enablers for LTE (GCSE_LTE); MB2 reference point; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29468.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.482",
+    "title": "Service Enabler Architecture Layer for Verticals (SEAL); Artificial Intelligence Machine Learning Enablement (AIMLE) Services; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29482.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.486",
+    "title": "V2X Application Enabler (VAE) Services; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29486.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.500",
+    "title": "5G System; Technical Realization of Service Based Architecture; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29500.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.501",
+    "title": "5G System; Principles and Guidelines for Services Definition; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29501.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.502",
+    "title": "5G System; Session Management Services; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29502.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.503",
+    "title": "5G System; Unified Data Management Services; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29503.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.504",
+    "title": "5G System; Unified Data Repository Services; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29504.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.505",
+    "title": "5G System; Usage of the Unified Data Repository services for Subscription Data; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29505.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.506",
+    "title": "5G System; Usage of the Unified Data Repository services for Ambient IoT Data; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29506.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.507",
+    "title": "5G System; Access and Mobility Policy Control Service; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29507.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.508",
+    "title": "5G System; Session Management Event Exposure Service; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29508.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.509",
+    "title": "5G System; Authentication Server Services; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29509.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.510",
+    "title": "5G System; Network function repository services; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29510.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.511",
+    "title": "5G System; Equipment Identity Register Services; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29511.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.512",
+    "title": "5G System; Session Management Policy Control Service; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29512.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.513",
+    "title": "5G System; Policy and Charging Control signalling flows and QoS parameter mapping; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29513.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.514",
+    "title": "5G System; Policy Authorization Service; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29514.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.515",
+    "title": "5G System; Gateway Mobile Location Services; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29515.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.516",
+    "title": "5G System; Interworking between 5G Network and external Data Networks; Stage 3",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/29516.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.517",
+    "title": "5G System; Application Function Event Exposure Service; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29517.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.518",
+    "title": "5G System; Access and Mobility Management Services; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29518.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.519",
+    "title": "5G System; Usage of the Unified Data Repository Service for Policy Data, Application Data and Structured Data for Exposure; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29519.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.520",
+    "title": "5G System; Network Data Analytics Services; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29520.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.521",
+    "title": "5G System; Binding Support Management Service; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29521.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.522",
+    "title": "5G System; Network Exposure Function Northbound APIs; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29522.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.523",
+    "title": "5G System; Policy Control Event Exposure Service; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29523.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.524",
+    "title": "5G System; Cause codes mapping between 5GC interfaces; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29524.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.525",
+    "title": "5G System; UE Policy Control Service; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29525.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.526",
+    "title": "5G System; Network Slice-Specific and SNPN  Authentication and Authorization services; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29526.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.527",
+    "title": "TISPAN; Endorsement of the SIP-ISUP Interworking between the IP Multimedia (IM) Core Network (CN) subsystem and Circuit Switched (CS) networks [3GPP TS 29.163 (Release 7), modified]",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29527.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.530",
+    "title": "5G System; Application Function Artificial Intelligence/Machine Learning (AI/ML) Services; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29530.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.531",
+    "title": "5G System; Network Slice Selection Services; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29531.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.532",
+    "title": "5G System; 5G Multicast-Broadcast Session Management Services; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29532.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.533",
+    "title": "TISPAN; IP Multimedia; Diameter based protocol for the interfaces between the Call Session Control Function and the User Profile Server Function/Subscription Locator Function; Signalling flows and protocol details [29.228, 29.229 modified]",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/29533.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.534",
+    "title": "5G System; Access and Mobility Policy Authorization Service; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29534.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.535",
+    "title": "5G System; AKMA Anchor Services; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29535.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.536",
+    "title": "5G System; Network Slice Admission Control Services; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29536.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.537",
+    "title": "5G System; Multicast/Broadcast Policy Control services; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29537.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.538",
+    "title": "Enabling MSGin5G Service; Application Programming Interfaces (API) specification; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29538.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.540",
+    "title": "5G System; SMS Services; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29540.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.541",
+    "title": "5G System; Network Exposure (NE) function services for Non-IP Data Delivery (NIDD) and Short Message Services (SMS); Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29541.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.542",
+    "title": "5G System; Session management services for Non-IP Data Delivery (NIDD); Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29542.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.543",
+    "title": "5G System; Data Transfer Policy Control Services; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29543.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.544",
+    "title": "5G System; Secured Packet Application Function (SP-AF) services; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29544.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.548",
+    "title": "Service Enabler Architecture Layer for Verticals (SEAL); SEAL Data Delivery (SEALDD) Server Services; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29548.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.549",
+    "title": "Service Enabler Architecture Layer for Verticals (SEAL); Application Programming Interface (API) specification; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29549.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.550",
+    "title": "5G System; Steering of roaming application function services; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29550.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.551",
+    "title": "5G System; Packet Flow Description Management Service; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29551.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.552",
+    "title": "5G System; Network Data Analytics signalling flows; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29552.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.553",
+    "title": "5G System; 5G ProSe Anchor Services; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29553.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.554",
+    "title": "5G System; Background Data Transfer Policy Control Service; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29554.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.555",
+    "title": "5G System; 5G Direct Discovery Name Management Services; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29555.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.556",
+    "title": "Edge Application Server Discovery Services; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29556.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.557",
+    "title": "5G System; Application Function ProSe Service; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29557.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.558",
+    "title": "Enabling Edge Applications; Application Programming Interface (API) specification; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29558.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.559",
+    "title": "5G System; 5G ProSe Key Management Services; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29559.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.561",
+    "title": "5G System; Interworking between 5G Network and external Data Networks; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29561.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.562",
+    "title": "5G System; Home Subscriber Server (HSS) services; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29562.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.563",
+    "title": "5G System; Home Subscriber Server (HSS) services for interworking with Unified Data Management (UDM); Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29563.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.564",
+    "title": "5G System; User Plane Function Services; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29564.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.565",
+    "title": "5G System; Time Sensitive Communication and Time Synchronization Function Services; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29565.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.566",
+    "title": "5G System; Energy Information Function Services; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29566.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.569",
+    "title": "5G System; Ambient IoT Function (AIOTF) Services; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29569.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.570",
+    "title": "5G System; Service Communication Proxy Services; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29570.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.571",
+    "title": "5G System; Common Data Types for Service Based Interfaces; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29571.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.572",
+    "title": "5G System; Location Management Services; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29572.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.573",
+    "title": "5G System; Public Land Mobile Network (PLMN) Interconnection; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29573.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.574",
+    "title": "5G System; Data Collection Coordination Services; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29574.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.575",
+    "title": "5G System; Analytics Data Repository Services; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29575.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.576",
+    "title": "5G System; Messaging Framework Adaptor Services; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29576.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.577",
+    "title": "5G System; IP Short Message Gateway and SMS Router For Short Message Services; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29577.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.578",
+    "title": "5G System; Mobile Number Portability Services; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29578.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.579",
+    "title": "5G System; Interworking MSC For Short Message Services; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29579.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.580",
+    "title": "5G System; Multicast/Broadcast Service Function services; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29580.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.581",
+    "title": "5G System; Multicast/Broadcast Service Transport Services; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29581.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.582",
+    "title": "Mission Critical Data (MCData)  interworking with Land Mobile Radio (LMR) systems; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29582.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.583",
+    "title": "Application layer support for Personal IoT Network (PINAPP); Personal IoT Network (PIN) server services",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29583.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.585",
+    "title": "5G System (5GS); Session Management Function (SMF) / Centralized User Configuration (CUC) to Access Network Talker Listener (AN-TL) and Core Network Talker Listener (CN-TL) protocol aspects; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29585.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.586",
+    "title": "5G System; SideLink Positioning Key Management Services; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29586.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.591",
+    "title": "5G System; Network Exposure Function Southbound Services; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29591.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.594",
+    "title": "5G System; Spending Limit Control Service; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29594.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.598",
+    "title": "Unstructured data storage services",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29598.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.612",
+    "title": "TISPAN; Interworking; Trunking Gateway Control Procedures for interworking between NGN and external CS networks",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/29612.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.624",
+    "title": "TISPAN; H.248 Profile for controlling Trunking Media Gateways; Protocol specification",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/29624.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.641",
+    "title": "3GPP Registry for Service Names and Port Numbers",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29641.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.658",
+    "title": "SIP Transfer of IP Multimedia Service Tariff Information; Protocol specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29658.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.673",
+    "title": "5G System; UE radio capability management services; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29673.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.674",
+    "title": "Interface between the UE radio Capability Management Function (UCMF) and the Mobility Management Entity (MME); Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29674.htm"
+  },
+  {
+    "type": "TS",
+    "no": "29.675",
+    "title": "User Equipment (UE) radio capability provisioning service; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29675.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.800",
+    "title": "Signalling System No. 7 (SS7) Security Gateway; Architecture, functional description and protocol details",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29800.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.801",
+    "title": "Feasibility study of using M2PA in 3GPP networks",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29801.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.802",
+    "title": "(G)MSC-S - (G)MSC-S Nc Interface based on the SIP-I protocol",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29802.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.803",
+    "title": "3GPP System Architecture Evolution (SAE): CT WG4 aspects",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/29803.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.804",
+    "title": "3GPP System Architecture Evolution (SAE): CT WG3 aspects",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29804.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.805",
+    "title": "InterWorking Function (IWF) between MAP based and Diameter based interfaces",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29805.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.806",
+    "title": "Study on IP Multimedia Subsystem (IMS) Proxy Call Session Control Function (P-CSCF) restoration procedures",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29806.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.807",
+    "title": "Study on General Packet Radio Service (GPRS) Tunnelling Protocol for Control plane (GTP-C) overload control mechanisms",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29807.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.808",
+    "title": "Study on the Nudsf Service Based Interface",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29808.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.809",
+    "title": "Study on Diameter overload control mechanisms",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29809.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.810",
+    "title": "Study on Diameter load control mechanisms",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29810.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.811",
+    "title": "Study on EPC signalling improvements for race scenarios",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29811.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.812",
+    "title": "Study on SCC AS Restoration",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29812.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.813",
+    "title": "Study on S6a/S6d Shared Data Update",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29813.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.814",
+    "title": "Bandwidth saving at Nb interface with IP transport",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29814.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.816",
+    "title": "Study on PCRF failure and restoration",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29816.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.817",
+    "title": "Study on eXtensible Markup Language (XML) based access of the Application Function (AF) to the Policy and Charging Rules Function (PCRF)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29817.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.818",
+    "title": "Study on the enhancement of protocols for SMS service over SGs",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/29818.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.819",
+    "title": "Study on impacts of the Diameter Base Protocol specification update.",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29819.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.820",
+    "title": "Study on Best Practice of PFCP",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29820.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.821",
+    "title": "Study on restoration of profiles related to UDR",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29821.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.826",
+    "title": "P-CSCF restoration enhancements for WLAN",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29826.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.827",
+    "title": "Study on Policy and Charging for Volume Based Charging",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29827.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.828",
+    "title": "Study on extended IP Multimedia Subsystem (IMS) media plane security features and Transmission Control Protocol (TCP) related Network Address Translation (NAT) traversal support; IMS H.248 profiles aspects",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29828.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.829",
+    "title": "Service-based support for SMS in 5GC",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29829.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.831",
+    "title": "Study on NRF API enhancements to avoid signalling and storing of redundant data",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29831.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.835",
+    "title": "Study on Port Allocation Alternatives for New 3GPP Interfaces",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29835.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.839",
+    "title": "3GPP system - fixed broadband access network interworking; Home (e)Node B - security gateway interface",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29839.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.843",
+    "title": "Study on Load and Overload Control of 5GC Service Based Interface",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29843.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.844",
+    "title": "Study on Control and User Plane Separation of EPC Nodes",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29844.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.846",
+    "title": "Multimedia Broadcast/Multicast Service (MBMS); CN1 procedure description",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29846.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.847",
+    "title": "Conferencing based on SIP, SDP, and other protocols; Functional models, information flows and protocol details",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29847.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.854",
+    "title": "Study on shared data update for multiple subscribers",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29854.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.857",
+    "title": "Study on Reducing Information Exposure over SBI",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29857.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.863",
+    "title": "Feasibility Study for the multimedia inter-working between the IP Multimedia Core Network (CN) Subsystem (IMS) and Circuit Switched (CS) networks",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29863.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.864",
+    "title": "Study on IMS Application Server (AS) service data descriptions for AS interoperability",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29864.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.865",
+    "title": "Inter-IMS network to network interface",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29865.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.866",
+    "title": "Study on IMS Disaster Prevention and Restoration Enhancement",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29866.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.867",
+    "title": "Study on IMS resiliency",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29867.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.875",
+    "title": "Interworking Proxy between GTP based and PMIP based interfaces",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/29875.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.882",
+    "title": "Customized Alerting Tone (CAT) in 3G CS domain",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29882.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.889",
+    "title": "Study on Protocol for AI Data Collection from UPF",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29889.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.890",
+    "title": "CT WG3 aspects of 5G System Phase 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29890.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.891",
+    "title": "5G System - Phase 1 CT WG4 Aspects",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29891.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.892",
+    "title": "Study on User Plane Protocol in 5GC",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29892.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.893",
+    "title": "Study on IETF QUIC Transport for 5GC Service Based Interfaces",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29893.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.903",
+    "title": "Feasibility Study on SS7 signalling transport in the core network with SCCP-User Adaptation  (SUA) layer",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29903.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.909",
+    "title": "Diameter-based protocols usage and recommendations in 3GPP",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29909.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.935",
+    "title": "Study on User Data Convergence (UDC) data model",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29935.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.941",
+    "title": "Guidelines on Port Allocation for New 3GPP Interfaces",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29941.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.949",
+    "title": "Study on technical aspects on roaming end-to-end scenarios with Voice over LTE (VoLTE) IP Multimedia Subsystem (IMS) and other networks",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29949.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.962",
+    "title": "Signalling interworking between the 3GPP profile of the Session Initiation Protocol (SIP) and non-3GPP SIP usage",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29962.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.993",
+    "title": "Modifications to be incorporated in equipment to cater for errors in the standards",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/29993.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.994",
+    "title": "Recommended infrastructure measures to overcome specific Mobile Station (MS) and User Equipment (UE) faults",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29994.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.998",
+    "title": "Open Services Architecture (OSA) Application Programming Interface (API) part 2",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29998.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.998-01",
+    "title": "Open Service Access (OSA); Application Programming Interface (API) mapping for OSA; Part 1: General issues on API mapping",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29998-01.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.998-04-1",
+    "title": "Open Service Access (OSA); Application Programming Interface (API) Mapping for Open Service Access; Part 4: Call Control Service Mapping; Subpart 1: API to CAP Mapping",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29998-04-1.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.998-04-2",
+    "title": "Open Service Access (OSA) Application Programming Interface (API) Mapping for Open Service Access; Part 4: Call Control Service Mapping; Subpart 2: INAP",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/29998-04-2.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.998-04-3",
+    "title": "Open Service Access (OSA) Application Programming Interface (API) Mapping for Open Service Access; Part 4: Call Control Service Mapping; Subpart 3: MEGACO mapping",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/29998-04-3.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.998-04-4",
+    "title": "Open Service Access (OSA); Application Programming Interface (API) Mapping for Open Service Access; Part 4: Call Control Service Mapping; Subpart 4: Multiparty Call Control ISC",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29998-04-4.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.998-05-1",
+    "title": "Open Service Access (OSA); Application Programming Interface (API) Mapping for Open Service Access; Part 5: User Interaction Service Mapping; Subpart 1: API to CAP Mapping",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29998-05-1.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.998-05-2",
+    "title": "Open Service Access (OSA) Application Programming Interface (API) Mapping for Open Service Access; Part 5: User Interaction Service Mapping; Subpart 2: INAP mapping",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/29998-05-2.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.998-05-3",
+    "title": "Open Service Access (OSA) Application Programming Interface (API) Mapping for Open Service Access; Part 5: User Interaction Service Mapping; Subpart 3: MEGACO mapping",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/29998-05-3.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.998-05-4",
+    "title": "Open Service Access (OSA); Application Programming Interface (API) Mapping for Open Service Access; Part 5: User Interaction Service Mapping; Subpart 4: API to SMS Mapping",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29998-05-4.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.998-06",
+    "title": "Open Service Access (OSA); Application Programming Interface (API) Mapping for Open Service Access; Part 6: User Location and User Status Service Mapping to MAP",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29998-06.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.998-06-1",
+    "title": "Open Service Access (OSA); Application Programming Interface (API) Mapping for Open Service Access; Part 6: User location - user status service mapping; Subpart 1: Mapping to Mobile Application Part (MAP)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29998-06-1.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.998-06-2",
+    "title": "Open Service Access (OSA);  Application Programming Interface (API)  Mapping for Open Service Access;  Part 6: User location - user status service mapping; Subpart 2: Mapping to Session Initiation Protocol (SIP)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29998-06-2.htm"
+  },
+  {
+    "type": "TR",
+    "no": "29.998-08",
+    "title": "Open Service Access (OSA); Application Programming Interface (API) Mapping for Open Service Access; Part 8: Data Session Control Service Mapping to CAP",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29998-08.htm"
+  }
+]

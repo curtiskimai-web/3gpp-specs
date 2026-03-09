@@ -1,0 +1,233 @@
+[
+  {
+    "type": "TS",
+    "no": "21.010",
+    "title": "reserved",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/21010.htm"
+  },
+  {
+    "type": "TR",
+    "no": "21.01",
+    "title": "Requirements for the UMTS Terrestrial Radio Access (UTRA) system",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/2101U.htm"
+  },
+  {
+    "type": "TR",
+    "no": "21.02",
+    "title": "High level requirements relevant for the definition of the UMTS Terrestrial Radio Access UTRA concept",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/2102U.htm"
+  },
+  {
+    "type": "TR",
+    "no": "21.04",
+    "title": "Requirements for the support of data services in UMTS",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/2104U.htm"
+  },
+  {
+    "type": "TR",
+    "no": "21.06",
+    "title": "O&M requirements for the UMTS",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/2106U.htm"
+  },
+  {
+    "type": "TS",
+    "no": "21.100",
+    "title": "3G specification handling procedures",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/21100.htm"
+  },
+  {
+    "type": "TS",
+    "no": "21.101",
+    "title": "Technical Specifications and Technical Reports for a UTRAN-based 3GPP system",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/21101.htm"
+  },
+  {
+    "type": "TS",
+    "no": "21.102",
+    "title": "3rd Generation mobile system Release 4 specifications",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/21102.htm"
+  },
+  {
+    "type": "TS",
+    "no": "21.103",
+    "title": "3rd Generation mobile system Release 5 specifications",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/21103.htm"
+  },
+  {
+    "type": "TS",
+    "no": "21.104",
+    "title": "Technical Specifications and Technical Reports for a UTRAN-based 3GPP system (Rel-6)",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/21104.htm"
+  },
+  {
+    "type": "TS",
+    "no": "21.111",
+    "title": "USIM and IC card requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/21111.htm"
+  },
+  {
+    "type": "TS",
+    "no": "21.133",
+    "title": "3G security; Security threats and requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/21133.htm"
+  },
+  {
+    "type": "TS",
+    "no": "21.201",
+    "title": "Technical Specifications and Technical Reports for an Evolved Packet System (EPS) based 3GPP system",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/21201.htm"
+  },
+  {
+    "type": "TS",
+    "no": "21.202",
+    "title": "Technical Specifications and Technical Reports relating to the Common IP Multimedia Subsystem (IMS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/21202.htm"
+  },
+  {
+    "type": "TS",
+    "no": "21.205",
+    "title": "Technical Specifications and Technical Reports for a 5G based 3GPP system",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/21205.htm"
+  },
+  {
+    "type": "TR",
+    "no": "21.801",
+    "title": "Specification drafting rules",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/21801.htm"
+  },
+  {
+    "type": "TR",
+    "no": "21.802",
+    "title": "Study on Modernization of Specification Format and Procedures for 6G",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/21802.htm"
+  },
+  {
+    "type": "TR",
+    "no": "21.810",
+    "title": "Report on multi-mode UE issues; ongoing work and identified additional work",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/21810.htm"
+  },
+  {
+    "type": "TR",
+    "no": "21.866",
+    "title": "Study on Energy Efficiency Aspects of 3GPP Standards",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/21866.htm"
+  },
+  {
+    "type": "TR",
+    "no": "21.877",
+    "title": "Radio optimization impacts on the Packet Switched (PS) domain architecture",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/21877.htm"
+  },
+  {
+    "type": "TR",
+    "no": "21.900",
+    "title": "Technical Specification Group working methods",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/21900.htm"
+  },
+  {
+    "type": "TR",
+    "no": "21.902",
+    "title": "Evolution of 3GPP system",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/21902.htm"
+  },
+  {
+    "type": "TR",
+    "no": "21.904",
+    "title": "User Equipment (UE) capability requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/21904.htm"
+  },
+  {
+    "type": "TR",
+    "no": "21.905",
+    "title": "Vocabulary for 3GPP Specifications",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/21905.htm"
+  },
+  {
+    "type": "TS",
+    "no": "21.906",
+    "title": "reserved",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/21906.htm"
+  },
+  {
+    "type": "TR",
+    "no": "21.910",
+    "title": "Multi-mode UE issues; categories, principles and procedures",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/21910.htm"
+  },
+  {
+    "type": "TR",
+    "no": "21.914",
+    "title": "Release 14 Description; Summary of Rel-14 Work Items",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/21914.htm"
+  },
+  {
+    "type": "TR",
+    "no": "21.915",
+    "title": "Release 15 Description; Summary of Rel-15 Work Items",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/21915.htm"
+  },
+  {
+    "type": "TR",
+    "no": "21.916",
+    "title": "Release 16 Description; Summary of Rel-16 Work Items",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/21916.htm"
+  },
+  {
+    "type": "TR",
+    "no": "21.917",
+    "title": "Release 17 Description; Summary of Rel-17 Work Items",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/21917.htm"
+  },
+  {
+    "type": "TR",
+    "no": "21.918",
+    "title": "Release 18 Description; Summary of Rel-18 Work Items",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/21918.htm"
+  },
+  {
+    "type": "TR",
+    "no": "21.919",
+    "title": "Release 19 Description; Summary of Rel-19 Work Items",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/21919.htm"
+  },
+  {
+    "type": "TR",
+    "no": "21.978",
+    "title": "Feasibility Technical Report; CAMEL Control of VoIP Services",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/21978.htm"
+  }
+]

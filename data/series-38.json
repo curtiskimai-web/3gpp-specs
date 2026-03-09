@@ -1,0 +1,1885 @@
+[
+  {
+    "type": "TS",
+    "no": "38.101",
+    "title": "NR; User Equipment (UE) radio transmission and reception",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/38101.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.101-1",
+    "title": "NR; User Equipment (UE) radio transmission and reception; Part 1: Range 1 Standalone",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38101-1.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.101-2",
+    "title": "NR; User Equipment (UE) radio transmission and reception; Part 2: Range 2 Standalone",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38101-2.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.101-3",
+    "title": "NR; User Equipment (UE) radio transmission and reception; Part 3: Range 1 and Range 2 Interworking operation with other radios",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38101-3.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.101-4",
+    "title": "NR; User Equipment (UE) radio transmission and reception; Part 4: Performance requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38101-4.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.101-5",
+    "title": "NR; User Equipment (UE) radio transmission and reception; Part 5: Satellite access Radio Frequency (RF) and performance requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38101-5.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.104",
+    "title": "NR; Base Station (BS) radio transmission and reception",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38104.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.106",
+    "title": "NR repeater radio transmission and reception",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38106.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.108",
+    "title": "NR; Satellite Access Node radio transmission and reception",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38108.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.113",
+    "title": "NR; Base Station (BS) ElectroMagnetic Compatibility (EMC)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38113.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.114",
+    "title": "NR; Repeaters ElectroMagnetic Compatibility (EMC)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38114.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.115-1",
+    "title": "NR; Repeater conformance testing - Part 1: Conducted conformance testing",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38115-1.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.115-2",
+    "title": "NR; Repeater conformance testing - Part 2: Radiated conformance testing",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38115-2.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.124",
+    "title": "NR; Electromagnetic compatibility (EMC) requirements for mobile terminals and ancillary equipment",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38124.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.133",
+    "title": "NR; Requirements for support of radio resource management",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38133.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.141",
+    "title": "NR; Base Station (BS) conformance testing",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/38141.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.141-1",
+    "title": "NR; Base Station (BS) conformance testing Part 1: Conducted conformance testing",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38141-1.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.141-2",
+    "title": "NR; Base Station (BS) conformance testing Part 2: Radiated conformance testing",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38141-2.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.151",
+    "title": "NR; User Equipment (UE)  Multiple Input Multiple Output (MIMO) Over-the-Air (OTA) performance requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38151.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.161",
+    "title": "NR; User Equipment (UE)  TRP (Total Radiated Power) and TRS (Total Radiated Sensitivity) requirements; Range 1 Standalone and Range 1 Interworking operation with other radios",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38161.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.171",
+    "title": "NR; Requirements for support of Assisted Global Navigation Satellite System (A-GNSS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38171.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.173",
+    "title": "TDD operating band in Band n48",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/38173.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.174",
+    "title": "NR; Integrated Access and Backhaul (IAB) radio transmission and reception",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38174.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.175",
+    "title": "NR; Integrated Access and Backhaul (IAB) Electromagnetic Compatibility (EMC)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38175.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.176-1",
+    "title": "NR; Integrated Access and Backhaul (IAB) conformance testing; Part 1: Conducted conformance testing",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38176-1.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.176-2",
+    "title": "NR; Integrated Access and Backhaul (IAB) conformance testing; Part 2: Radiated conformance testing",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38176-2.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.181",
+    "title": "NR; Satellite Access Node conformance testing",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38181.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.191",
+    "title": "NR; Ambient IoT device radio transmission and reception",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38191.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.194",
+    "title": "NR; Ambient IoT Base Station (BS) and Carrier-Wave (CW) node radio transmission and reception",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38194.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.195",
+    "title": "NR; Ambient IoT Base Station (BS) and Carrier-Wave (CW) node conformance testing",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38195.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.201",
+    "title": "NR; Physical layer; General description",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38201.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.202",
+    "title": "NR; Services provided by the physical layer",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38202.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.211",
+    "title": "NR; Physical channels and modulation",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38211.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.212",
+    "title": "NR; Multiplexing and channel coding",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38212.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.213",
+    "title": "NR; Physical layer procedures for control",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38213.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.214",
+    "title": "NR; Physical layer procedures for data",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38214.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.215",
+    "title": "NR; Physical layer measurements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38215.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.291",
+    "title": "NR; Ambient IoT Physical layer",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38291.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.300",
+    "title": "NR; NR and NG-RAN Overall description; Stage-2",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38300.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.304",
+    "title": "NR; User Equipment (UE) procedures in Idle mode and in RRC Inactive state",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38304.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.305",
+    "title": "NG Radio Access Network (NG-RAN); Stage 2 functional specification of User Equipment (UE) positioning in NG-RAN",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38305.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.306",
+    "title": "NR; User Equipment (UE) radio access capabilities",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38306.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.307",
+    "title": "NR; Requirements on User Equipments (UEs) supporting a release-independent frequency band",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38307.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.314",
+    "title": "NR; Layer 2 measurements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38314.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.321",
+    "title": "NR; Medium Access Control (MAC) protocol specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38321.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.322",
+    "title": "NR; Radio Link Control (RLC) protocol specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38322.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.323",
+    "title": "NR; Packet Data Convergence Protocol (PDCP) specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38323.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.331",
+    "title": "NR; Radio Resource Control (RRC); Protocol specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38331.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.340",
+    "title": "NR; Backhaul Adaptation Protocol (BAP) specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38340.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.351",
+    "title": "NR; Sidelink Relay Adaptation Protocol (SRAP) Specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38351.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.355",
+    "title": "NR; Sidelink Positioning Protocol (SLPP); Protocol Specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38355.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.391",
+    "title": "NR; Ambient IoT Medium Access Control (MAC) protocol",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38391.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.401",
+    "title": "NG-RAN; Architecture description",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38401.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.410",
+    "title": "NG-RAN; NG general aspects and principles",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38410.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.411",
+    "title": "NG-RAN; NG layer 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38411.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.412",
+    "title": "NG-RAN; NG signalling transport",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38412.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.413",
+    "title": "NG-RAN; NG Application Protocol (NGAP)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38413.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.414",
+    "title": "NG-RAN; NG data transport",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38414.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.415",
+    "title": "NG-RAN; PDU session user plane protocol",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38415.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.420",
+    "title": "NG-RAN; Xn general aspects and principles",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38420.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.421",
+    "title": "NG-RAN; Xn layer 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38421.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.422",
+    "title": "NG-RAN; Xn signalling transport",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38422.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.423",
+    "title": "NG-RAN; Xn Application Protocol (XnAP)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38423.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.424",
+    "title": "NG-RAN; Xn data transport",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38424.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.425",
+    "title": "NG-RAN; NR user plane protocol",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38425.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.455",
+    "title": "NG-RAN; NR Positioning Protocol A (NRPPa)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38455.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.460",
+    "title": "NG-RAN; E1 general aspects and principles",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38460.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.461",
+    "title": "NG-RAN; E1 layer 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38461.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.462",
+    "title": "NG-RAN; E1 signalling transport",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38462.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.463",
+    "title": "NG-RAN; E1 Application Protocol (E1AP)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38463.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.470",
+    "title": "NG-RAN; F1 general aspects and principles",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38470.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.471",
+    "title": "NG-RAN; F1 layer 1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38471.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.472",
+    "title": "NG-RAN; F1 signalling transport",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38472.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.473",
+    "title": "NG-RAN; F1 Application Protocol (F1AP)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38473.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.474",
+    "title": "NG-RAN; F1 data transport",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38474.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.475",
+    "title": "NG-RAN; F1 interface user plane protocol",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/38475.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.508-1",
+    "title": "5GS; User Equipment (UE) conformance specification; Part 1: Common test environment",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38508-1.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.508-2",
+    "title": "5GS; User Equipment (UE) conformance specification; Part 2: Common Implementation Conformance Statement (ICS) proforma",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38508-2.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.509",
+    "title": "5GS; Special conformance testing functions for User Equipment (UE)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38509.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.521-1",
+    "title": "NR; User Equipment (UE) conformance specification;  Radio transmission and reception; Part 1: Range 1 standalone",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38521-1.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.521-2",
+    "title": "NR; User Equipment (UE) conformance specification;  Radio transmission and reception; Part 2: Range 2 standalone",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38521-2.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.521-3",
+    "title": "NR; User Equipment (UE) conformance specification; Radio transmission and reception; Part 3: Range 1 and Range 2 Interworking operation with other radios",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38521-3.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.521-4",
+    "title": "NR; User Equipment (UE) conformance specification; Radio transmission and reception; Part 4: Performance",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38521-4.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.521-5",
+    "title": "NR; User Equipment (UE) conformance specification; Radio transmission and reception; Part 5: Satellite access Radio Frequency (RF) and performance",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38521-5.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.522",
+    "title": "NR; User Equipment (UE) conformance specification; Applicability of radio transmission, radio reception and radio resource management test cases",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38522.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.523-1",
+    "title": "5GS; User Equipment (UE) conformance specification; Part 1: Protocol",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38523-1.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.523-2",
+    "title": "5GS; User Equipment (UE) conformance specification; Part 2: Applicability of protocol test cases",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38523-2.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.523-3",
+    "title": "5GS; User Equipment (UE) conformance specification; Part 3: Protocol Test Suites",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38523-3.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.533",
+    "title": "NR; User Equipment (UE) conformance specification; Radio Resource Management (RRM)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38533.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.551",
+    "title": "NR; User Equipment (UE) Multiple Input Multiple Output (MIMO) Over-the-Air (OTA) performance; Conformance testing",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38551.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.561",
+    "title": "NR; User Equipment (UE) conformance specification; UE TRP (Total Radiated Power) and TRS (Total Radiated Sensitivity) requirements and test methodologies for FR1 (NR SA and EN-DC)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38561.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.591-1",
+    "title": "5GS; Ambient IoT device conformance specification; Part 1: Common test environment",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38591-1.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.591-2",
+    "title": "NR; Ambient IoT device conformance specification; Part 2: Radio transmission and reception",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38591-2.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.591-3",
+    "title": "5GS; Ambient IoT device conformance specification; Part 3: Protocol",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38591-3.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.591-4",
+    "title": "5GS; Ambient IoT device conformance specification; Part 4: Applicability of radio transmission, radio reception, radio resource management, protocol test cases and Common Implementation Conformance Statement (ICS) proforma",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38591-4.htm"
+  },
+  {
+    "type": "TS",
+    "no": "38.591-5",
+    "title": "5GS; Ambient IoT device conformance specification; Part 5: Protocol Test Suites",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38591-5.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.716-01-01",
+    "title": "NR intra band Carrier Aggregation (CA) Rel-16 for xCC Down Link (DL) / yCC Up Link (UL) including contiguous and non-contiguous spectrum (x >= y)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38716-01-01.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.716-02-00",
+    "title": "NR inter-band Carrier Aggregation (CA) / Dual Connectivity (DC) Rel-16 for 2 bands Down Link (DL) / x bands Up Link (UL) (x = 1, 2)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38716-02-00.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.716-03-01",
+    "title": "NR inter-band Carrier Aggregation (CA) / Dual Connectivity (DC) Rel-16 for 3 bands Down Link (DL) / 1 bands Up Link (UL)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38716-03-01.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.716-03-02",
+    "title": "NR inter-band Carrier Aggregation (CA) / Dual Connectivity (DC) Rel-16 for 3 bands Down Link (DL) / 2 bands Up Link (UL)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38716-03-02.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.716-04-01",
+    "title": "NR inter-band Carrier Aggregation (CA) Rel-16 for 4 bands Down Link (DL) / 1 bands Up Link (UL)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38716-04-01.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.717-01-01",
+    "title": "Rel-17 NR intra band Carrier Aggregation for xCC DL/yCC UL including contiguous and non-contiguous spectrum (x>=y)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38717-01-01.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.717-02-01",
+    "title": "Rel-17 NR Inter-band Carrier Aggregation/Dual Connectivity for 2 bands DL with x bands UL (x=1,2)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38717-02-01.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.717-03-01",
+    "title": "Rel-17 NR inter-band Carrier Aggregation for 3 bands DL with 1 band UL",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38717-03-01.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.717-03-02",
+    "title": "Rel-17 NR inter-band Carrier Aggregation/Dual Connectivity for 3 bands DL with 2 bands UL",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38717-03-02.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.717-04-01",
+    "title": "Rel-17 NR inter-band Carrier Aggregation for 4 bands DL with 1 band UL",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38717-04-01.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.717-04-02",
+    "title": "Rel-17 NR inter-band Carrier Aggregation/Dual connectivity for DL 4 bands and 2UL bands",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38717-04-02.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.717-05-01",
+    "title": "Rel-17 NR inter-band Carrier Aggregation for 5 bands DL with x bands UL (x=1, 2)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38717-05-01.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.718-00-02",
+    "title": "NR Carrier Aggregation band combinations with two SUL cells",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38718-00-02.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.718-01-01",
+    "title": "Rel-18 NR intra band Carrier Aggregation for xCC DL/yCC UL including contiguous and non-contiguous spectrum (x>=y)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38718-01-01.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.718-02-01",
+    "title": "NR inter-band Carrier Aggregation/Dual connectivity for 2 bands DL with x bands UL (x=1,2)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38718-02-01.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.718-03-01",
+    "title": "NR inter-band Carrier Aggregation/Dual Connectivity for 3 bands DL with x bands UL(x=1,2)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38718-03-01.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.719-00-00",
+    "title": "Rel-19 SUL configurations and CA band combinations with SUL(s)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38719-00-00.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.719-01-01",
+    "title": "Rel-19 NR intra-band CA combinations",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38719-01-01.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.719-02-01",
+    "title": "Rel-19 NR inter-band CA/DC configurations including inter band CA for 2 different bands DL with up to 2 different bands UL",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38719-02-01.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.719-03-01",
+    "title": "Rel-19 NR inter-band CA/DC configurations including inter band CA for 3 different bands DL with x different bands UL(x=1,2)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38719-03-01.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.720-00-00",
+    "title": "Rel-20 SUL configurations and CA band combinations with SUL(s)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38720-00-00.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.720-01-01",
+    "title": "Rel-20 NR intra-band CA combinations",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38720-01-01.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.720-02-01",
+    "title": "Rel-20 NR inter-band CA/DC configurations including inter band CA for 2 different bands DL with up to 2 different bands UL",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38720-02-01.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.720-03-01",
+    "title": "Rel-20 NR inter-band CA/DC configurations including inter band CA for 3 different bands DL with x different bands UL(x=1,2)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38720-03-01.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.733",
+    "title": "Earth Exploration Satellite Service (EESS) protection and PC1 for NR band(s) at 40GHz",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38733.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.741",
+    "title": "Non-Terrestrial Networks (NTN) L-/S-band for NR",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38741.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.742",
+    "title": "Study on GNSS (Global Navigation Satellite System) resilient NR-NTN (Non-Terrestrial Networks) operation",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38742.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.743",
+    "title": "Study on enhancements for Artificial Intelligence (AI)/Machine Learning (ML) for NG-RAN",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38743.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.744",
+    "title": "Study on Artificial Intelligence (AI)/Machine Learning (ML) for mobility in NR",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38744.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.745",
+    "title": "Study on Artificial Intelligence (AI)/Machine Learning (ML) for NG-RAN Phase 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38745.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.746",
+    "title": "High power UE (power class 1.5 or 2) for NR Inter-band Carrier Aggregation (CA)/Dual Connectivity (DC) with/without Supplementary Uplink  (SUL) with high power on TDD band(s)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38746.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.747",
+    "title": "Rel-20 High power UE (power class 1.5 or 2) for NR Carrier Aggregation (CA)/Dual connectivity (DC) band combinations with/without NR Supplementary uplink (SUL)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38747.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.748",
+    "title": "NR; SBFD (Subband Full Duplex) BS to SBFD BS adjacent channel co-existence",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38748.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.749",
+    "title": "Protection of Earth Exploration Satellite Service (EESS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38749.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.750",
+    "title": "High power UE (power class 2) for NR Inter-band Carrier Aggregation (CA)/Dual Connectivity (DC) with high power on FDD band(s)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38750.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.751",
+    "title": "UE RF requirement for NR frequency range 2 (FR2) multi-Rx chain DL reception",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38751.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.753",
+    "title": "Study on spatial channel model for demodulation performance requirements for NR",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38753.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.755",
+    "title": "Study on NR FR1 DL fragmented carriers",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38755.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.760-1",
+    "title": "Study on 6G Radio RAN1 aspects",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38760-1.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.760-2",
+    "title": "Study on 6G Radio RAN2 aspects",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38760-2.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.760-3",
+    "title": "Study on 6G Radio RAN3 aspects",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38760-3.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.760-4",
+    "title": "Study on 6G Radio RAN4 aspects",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38760-4.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.761",
+    "title": "Measurements of Multiple Input Multiple Output (MIMO) Over-the-Air (OTA) performance of User Equipment (UE)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38761.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.762",
+    "title": "Multiple Input Multiple Output (MIMO) Over-the-Air (OTA) dynamic test methodology for FR1 UEs",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38762.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.763",
+    "title": "OTA test methods for NR NTN above 10GHz",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38763.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.764",
+    "title": "NTN DL CA and HD-FDD NTN",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38764.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.765",
+    "title": "Study on Integrated Sensing And Communication (ISAC) for NR",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38765.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.766",
+    "title": "Co-existence study on High Power UE (HPUE) with up to 32 dBm maximum output power",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38766.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.768",
+    "title": "Low NR band carrier aggregation via switching",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38768.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.769",
+    "title": "Study on solutions for Ambient IoT (Internet of Things) in NR",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38769.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.771",
+    "title": "Study on NR frequency range 2 (FR2) OTA (Over the Air) testing Phase 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38771.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.774",
+    "title": "Radio Frequency (RF) requirements for Low-Power Wake-up Signal and Receiver",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38774.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.785",
+    "title": "User Equipment (UE) radio transmission and reception for enhanced NR sidelink",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38785.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.786",
+    "title": "User Equipment (UE) radio transmission and reception for NR sidelink evolution",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38786.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.787",
+    "title": "User Equipment (UE) radio transmission and reception for NR Sidelink supporting intra-band CA in ITS band",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38787.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.792",
+    "title": "High power UE (power class 1.5) for NR Inter-band Carrier Aggregation (CA)/Dual connectivity (DC) with high power on both FDD and TDD bands",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38792.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.793",
+    "title": "Requirements for simultaneous Rx/Tx band combinations for NR CA/DC, NR SUL and LTE/NR DC",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38793.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.794",
+    "title": "High power UE (power class 1.5 or 2) for NR Intra-band Carrier Aggregation (CA) with high power on FDD or TDD band",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38794.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.795",
+    "title": "Rel-19 High power UE (power class 1.5, and 2) for NR FR1 TDD single band for handheld/FWA UEs and high power UE operation (power class 2, 1.5 and 1) for FWVM (fixed-wireless/vehicle-mounted) use case in a single NR TDD band",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38795.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.796",
+    "title": "Rel-19 High power UE (power class 2) for NR FR1 FDD single band for handheld/FWA UEs and high power UE operation (power class 2 and 1) for FWVM (fixed-wireless/vehicle-mounted) use cases in a single NR FDD band",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38796.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.799",
+    "title": "Study on Additional Topological Enhancements for NR",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38799.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.801",
+    "title": "Study on new radio access technology: Radio access architecture and interfaces",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38801.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.802",
+    "title": "Study on new radio access technology Physical layer aspects",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38802.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.803",
+    "title": "Study on new radio access technology: Radio Frequency (RF) and co-existence aspects",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38803.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.804",
+    "title": "Study on new radio access technology Radio interface protocol aspects",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38804.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.805",
+    "title": "Study on new radio access technology; 60 GHz unlicensed spectrum",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38805.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.806",
+    "title": "Study of separation of NR Control Plane (CP) and User Plane (UP) for split option 2",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38806.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.807",
+    "title": "Study on requirements for NR beyond 52.6 GHz",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38807.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.808",
+    "title": "Study on supporting NR from 52.6 GHz to 71 GHz",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38808.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.809",
+    "title": "NR; Background for integrated access and backhaul radio transmission and reception",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38809.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.810",
+    "title": "NR; Study on test methods",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38810.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.811",
+    "title": "Study on New Radio (NR) to support non-terrestrial networks",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38811.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.812",
+    "title": "Study on Non-Orthogonal Multiple Access (NOMA) for NR",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38812.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.813",
+    "title": "New frequency range for NR (3.3-4.2 GHz)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38813.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.814",
+    "title": "New frequency range for NR (4.4-5.0 GHz)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38814.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.815",
+    "title": "New frequency range for NR (24.25-29.5 GHz)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38815.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.816",
+    "title": "Study on Central Unit (CU) - Distributed Unit (DU) lower layer split for NR",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38816.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.817-01",
+    "title": "General aspects for User Equipment (UE) Radio Frequency (RF) for NR",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38817-01.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.817-02",
+    "title": "General aspects for Base Station (BS) Radio Frequency (RF) for NR",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38817-02.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.818",
+    "title": "General aspects for Radio Resource Management (RRM) and demodulation for NR",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38818.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.819",
+    "title": "LTE Band 65 for NR (n65)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38819.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.820",
+    "title": "Study on the 7 to 24 GHz frequency range for NR",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38820.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.821",
+    "title": "Solutions for NR to support Non-Terrestrial Networks (NTN)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38821.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.822",
+    "title": "NR; User Equipment (UE) feature list",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38822.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.823",
+    "title": "Study of further enhancement for disaggregated gNB",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38823.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.824",
+    "title": "Study on physical layer enhancements for NR ultra-reliable and low latency case (URLLC)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38824.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.825",
+    "title": "Study on NR industrial Internet of Things (IoT)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38825.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.826",
+    "title": "Study on evaluation for 2 receiver exception in Rel-15 vehicle mounted User Equipment (UE) for NR",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38826.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.827",
+    "title": "Study on radiated metrics and test methodology for the verification of multi-antenna reception performance of NR User Equipment (UE)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38827.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.828",
+    "title": "Cross Link Interference (CLI) handling and Remote Interference Management (RIM) for NR",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38828.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.829",
+    "title": "Study on Narrow-Band Internet of Things (NB-IoT) / enhanced Machine Type Communication (eMTC) support for Non-Terrestrial Networks (NTN)",
+    "withdrawn": true,
+    "link": "https://www.3gpp.org/dynareport/38829.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.830",
+    "title": "Study on NR coverage enhancements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38830.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.831",
+    "title": "User Equipment (UE) Radio Frequency (RF) requirements for Frequency Range 2 (FR2)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38831.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.832",
+    "title": "NR; Study on enhancement of Radio Access Network (RAN) slicing",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38832.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.833",
+    "title": "Further enhancement on NR demodulation performance",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38833.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.834",
+    "title": "Measurements of User Equipment (UE) Over-the-Air (OTA) performance for NR FR1; Total Radiated Power (TRP) and Total Radiated Sensitivity (TRS) test methodology",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38834.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.835",
+    "title": "Study on XR enhancements for NR",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38835.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.836",
+    "title": "Study on NR sidelink relay",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38836.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.837",
+    "title": "UE RF Requirements for Transparent Tx Diversity (TxD) for NR",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38837.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.838",
+    "title": "Study on XR (Extended Reality) evaluations for NR",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38838.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.839",
+    "title": "Principles and requirements for simultaneous Rx/Tx band combinations for NR CA/DC, NR SUL and LTE/NR DC",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38839.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.840",
+    "title": "Study on User Equipment (UE) power saving in NR",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38840.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.841",
+    "title": "High power UE for NR inter-band Carrier Aggregation with 2 bands downlink and x bands uplink (x =1,2)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38841.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.842",
+    "title": "High power User Equipment (UE) (power class 2) for NR inter-band Carrier Aggregation (CA) and Supplementary Uplink (SUL) configurations with x (x>2) bands DL and y (y=1, 2) bands UL",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38842.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.843",
+    "title": "Study on Artificial Intelligence (AI)/Machine Learning (ML) for NR air interface",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38843.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.844",
+    "title": "Study on Efficient utilization of licensed spectrum that is not aligned with existing NR channel bandwidth",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38844.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.845",
+    "title": "Study on scenarios and requirements of in-coverage, partial coverage, and out-of-coverage NR positioning use cases",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38845.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.846",
+    "title": "Study on simplification of band combination specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38846.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.847",
+    "title": "New frequency range for NR (47.2 – 48.2 GHz)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38847.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.848",
+    "title": "Study on Ambient IoT (Internet of Things) in RAN",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38848.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.849",
+    "title": "Introduction of 6GHz NR unlicensed operation",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38849.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.850",
+    "title": "Rel-18 High power UE (power class 2) for FR1 NR FDD band in UL of NR inter-band CA/DC combinations with y bands downlink (y=2,3,4,5,6) and x bands uplink (x=1)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38850.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.851",
+    "title": "User Equipment (UE) Further enhancements of NR RF requirements for frequency range 2 (FR2)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38851.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.852",
+    "title": "Introduction of 1900MHz NR band for Europe for Rail Mobile Radio (RMR)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38852.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.853",
+    "title": "Introduction of 900MHz NR band for Europe for Rail Mobile Radio (RMR)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38853.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.854",
+    "title": "NR support for high speed train scenario in frequency range 2 (FR2)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38854.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.855",
+    "title": "Study on NR positioning support",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38855.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.856",
+    "title": "Study on local NR positioning in NG-RAN",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38856.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.857",
+    "title": "Study on NR positioning enhancements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38857.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.858",
+    "title": "Study on evolution of NR duplex operation",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38858.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.859",
+    "title": "Study on expanded and improved NR positioning",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38859.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.860",
+    "title": "Study on extended 600MHz NR band",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38860.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.861",
+    "title": "Study on high power UE (power class 2) for one NR FDD band",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38861.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.862",
+    "title": "Study on band combination handling in RAN4",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38862.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.863",
+    "title": "Non-terrestrial networks (NTN) related RF and co-existence aspects",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38863.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.864",
+    "title": "Study on network energy savings for NR",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38864.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.865",
+    "title": "Study on further NR RedCap UE complexity reduction",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38865.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.866",
+    "title": "Study on remote interference management for NR",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38866.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.867",
+    "title": "Study on NR Network-controlled Repeaters",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38867.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.868",
+    "title": "Study on optimizations of pi/2 BPSK uplink power in NR",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38868.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.869",
+    "title": "Study on low-power Wake-up Signal and Receiver for NR",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38869.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.870",
+    "title": "Enhanced Over-the-Air (OTA) test methods for NR FR1 Total Radiated Power (TRP) and Total Radiated Sensitivity (TRS)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38870.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.871",
+    "title": "Study on NR frequency range 2 (FR2) Over-the-Air (OTA) testing enhancements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38871.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.872",
+    "title": "Study on enhancement for 700/800/900MHz band combinations",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38872.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.873",
+    "title": "Time Division Duplex (TDD) operating band in Band n48",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38873.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.874",
+    "title": "NR; Study on integrated access and backhaul",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38874.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.875",
+    "title": "Study on support of reduced capability NR devices",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38875.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.876",
+    "title": "Air-to-ground network for NR",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38876.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.877",
+    "title": "Study on NR mmWave MB-BS",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38877.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.878",
+    "title": "NR demodulation performance evolution",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38878.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.879",
+    "title": "Study on enhancement for Resiliency of gNB-CU-CP",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38879.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.880",
+    "title": "UE requirements for 3Tx inter-band UL CA and EN-DC",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38880.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.881",
+    "title": "Lower MSD for inter-band CA/EN-DC/DC combinations",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38881.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.882",
+    "title": "Study on requirements and use cases for network verified UE location for Non-Terrestrial-Networks (NTN) in NR",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38882.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.883",
+    "title": "Study on support of NR downlink 256 Quadrature Amplitude Modulation (QAM) for frequency range 2 (FR2)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38883.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.884",
+    "title": "Study on enhanced test methods for Frequency Range 2 (FR2) NR User Equipment (UE)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38884.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.885",
+    "title": "Study on NR Vehicle-to-Everything (V2X)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38885.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.886",
+    "title": "V2X Services based on NR; User Equipment (UE) radio transmission and reception",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38886.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.887",
+    "title": "TDD operating band in Band n259",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38887.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.888",
+    "title": "Adding wider channel bandwidth in NR band n28",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38888.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.889",
+    "title": "Study on NR-based access to unlicensed spectrum",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38889.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.890",
+    "title": "Study on NR QoE (Quality of Experience) management and optimizations for diverse services",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38890.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.891",
+    "title": "User Equipment (UE) Further enhancements of NR RF requirements for frequency range 2 (FR2) for Rel-18",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38891.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.892",
+    "title": "APT 600 MHz NR band",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38892.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.893",
+    "title": "Study on UE support of regionally-defined subsets of an NR band",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38893.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.894",
+    "title": "Requirements for simultaneous Rx/Tx band combinations for NR CA/DC, NR SUL and LTE/NR DC",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38894.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.895",
+    "title": "High power UE (power class 1.5) for NR FR1 TDD single band",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38895.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.896",
+    "title": "High power for FR1 for FDD single band(s) with power class 2",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38896.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.897",
+    "title": "High power UE for NR TDD intra-band carrier aggregation in frequency range FR1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38897.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.898",
+    "title": "High power UE for FR1 for DC_R18_xBLTE_yBNR_zDLnUL with power class m (x= 1, 2, 3, 4; y=1, 2; m<3)",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38898.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.899",
+    "title": "High power UE for FR1 NR inter-band CA/DC or NR SUL (supplementary uplink) band combination with y bands downlink (1",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38899.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.900",
+    "title": "Study on channel model for frequency spectrum above 6 GHz",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38900.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.901",
+    "title": "Study on channel model for frequencies from 0.5 to 100 GHz",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38901.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.903",
+    "title": "NR; Derivation of test tolerances and measurement uncertainty for User Equipment (UE) conformance test cases",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38903.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.905",
+    "title": "NR; Derivation of test points for radio transmission and reception User Equipment (UE) conformance test cases",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38905.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.908",
+    "title": "Protection of fixed satellite service (FSS) UL within 6425 to 7125 MHz",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38908.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.912",
+    "title": "Study on New Radio (NR) access technology",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38912.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.913",
+    "title": "Study on scenarios and requirements for next generation access technologies",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38913.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.914",
+    "title": "Study on 6G Scenarios and requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38914.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.918",
+    "title": "Study on 5G NR User Equipment (UE) full stack testing for Network Slicing",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38918.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.921",
+    "title": "Study on International Mobile Telecommunications (IMT) parameters for 6.425 - 7.025 GHz, 7.025 - 7.125 GHz and 10.0 - 10.5 GHz",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38921.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.922",
+    "title": "Study on International Mobile Telecommunications (IMT) parameters for 4400 - 4800 MHz, 7125 - 8400 MHz and 14800 - 15350 MHz",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38922.htm"
+  },
+  {
+    "type": "TR",
+    "no": "38.960",
+    "title": "Study on 6G Radio",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38960.htm"
+  }
+]
