@@ -219,6 +219,13 @@
     }
     .spec-link:hover { text-decoration: underline; }
 
+    mark {
+      background: #fef08a;
+      color: inherit;
+      border-radius: 2px;
+      padding: 0 1px;
+    }
+
     .withdrawn-label {
       font-size: 10px;
       color: #ef4444;
@@ -353,14 +360,23 @@ async function loadSeries(n) {
 
 // ── 테이블 렌더링 (검색 + 필터 적용)
 function renderTable() {
-  const query = document.getElementById('search').value.toLowerCase();
+  const raw = document.getElementById('search').value.trim();
+  const titleMatch = raw.match(/^title:(.+)/i);
+  const noMatch    = raw.match(/^no:(.+)/i);
+  const query      = titleMatch ? titleMatch[1].toLowerCase()
+                   : noMatch    ? noMatch[1].toLowerCase()
+                   : raw.toLowerCase();
   const showWithdrawn = document.getElementById('show-withdrawn').checked;
 
   let rows = currentData.filter(s => {
     if (!showWithdrawn && s.withdrawn) return false;
     if (filterTs && s.type !== 'TS') return false;
     if (filterTr && s.type !== 'TR') return false;
-    if (query && !s.no.toLowerCase().includes(query) && !s.title.toLowerCase().includes(query)) return false;
+    if (query) {
+      if (titleMatch && !s.title.toLowerCase().includes(query)) return false;
+      else if (noMatch && !s.no.toLowerCase().includes(query)) return false;
+      else if (!titleMatch && !noMatch && !s.no.toLowerCase().includes(query) && !s.title.toLowerCase().includes(query)) return false;
+    }
     return true;
   });
 
@@ -382,10 +398,11 @@ function renderTable() {
       ? `<a class="spec-link" href="${s.link}" target="_blank" rel="noopener">${s.no}</a>`
       : `<span class="spec-link">${s.no}</span>`;
     const wLabel = s.withdrawn ? `<span class="withdrawn-label">WITHDRAWN</span>` : '';
+    const hlTerm = (titleMatch || (!titleMatch && !noMatch)) ? query : '';
     return `<tr class="${s.withdrawn ? 'withdrawn' : ''}">
       <td><span class="badge ${badgeClass}">${s.type}</span></td>
       <td>${specNoHtml}</td>
-      <td>${escHtml(s.title)}${wLabel}</td>
+      <td>${highlight(s.title, hlTerm)}${wLabel}</td>
     </tr>`;
   }).join('');
 }
@@ -420,6 +437,13 @@ async function loadMeta() {
 
 function escHtml(s) {
   return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+}
+
+function highlight(text, term) {
+  if (!term) return escHtml(text);
+  const escaped = escHtml(text);
+  const escapedTerm = term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  return escaped.replace(new RegExp(escapedTerm, 'gi'), m => `<mark>${m}</mark>`);
 }
 
 // ── 초기화
