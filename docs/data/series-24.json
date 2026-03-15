@@ -21,7 +21,7 @@
     "title": "Mobile radio interface signalling layer 3; General Aspects",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/24007.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.007/24007-j40.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.007/24007-j50.zip"
   },
   {
     "type": "TS",
@@ -341,7 +341,7 @@
     "title": "3GPP IMS Management Object (MO); Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/24167.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.167/24167-j00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.167/24167-j10.zip"
   },
   {
     "type": "TS",
@@ -397,7 +397,7 @@
     "title": "IMS Data Channel applications; Protocol specification",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/24186.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.186/24186-j50.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.186/24186-j60.zip"
   },
   {
     "type": "TS",
@@ -565,7 +565,7 @@
     "title": "Mission Critical Video (MCVideo) signalling control; Protocol specification",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/24281.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.281/24281-j40.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.281/24281-j50.zip"
   },
   {
     "type": "TS",
@@ -573,7 +573,7 @@
     "title": "Mission Critical Data (MCData) signalling control; Protocol specification",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/24282.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.282/24282-j50.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.282/24282-j60.zip"
   },
   {
     "type": "TS",
@@ -629,7 +629,7 @@
     "title": "Non-Access-Stratum (NAS) protocol for Evolved Packet System (EPS); Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/24301.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.301/24301-j50.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.301/24301-j60.zip"
   },
   {
     "type": "TS",
@@ -749,7 +749,7 @@
     "title": "Ambient IoT Non-Access-Stratum (AIoT NAS) protocol for 5G System (5GS); Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/24369.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.369/24369-j00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.369/24369-j10.zip"
   },
   {
     "type": "TS",
@@ -765,7 +765,7 @@
     "title": "Mission Critical Push To Talk (MCPTT) call control; Protocol specification",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/24379.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.379/24379-j50.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.379/24379-j60.zip"
   },
   {
     "type": "TS",
@@ -1285,7 +1285,7 @@
     "title": "Digital asset, Spatial mapping and Spatial anchors server - Service Enabler Architecture Layer for Verticals (SEAL); Protocol specification;",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/24550.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.550/24550-j00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.550/24550-j10.zip"
   },
   {
     "type": "TS",
@@ -1325,7 +1325,7 @@
     "title": "Artificial Intelligence Machine Learning (AIML) Services - Service Enabler Architecture Layer for Verticals (SEAL); Protocol Specification; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/24560.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.560/24560-j00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.560/24560-j10.zip"
   },
   {
     "type": "TS",
