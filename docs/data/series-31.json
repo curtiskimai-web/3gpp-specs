@@ -149,7 +149,7 @@
     "title": "Mobile Equipment (ME) conformance test specification; Universal Subscriber Identity Module Application Toolkit (USAT) conformance test specification",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/31124.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/31_series/31.124/31124-i50.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/31_series/31.124/31124-i60.zip"
   },
   {
     "type": "TS",
@@ -165,7 +165,7 @@
     "title": "(U)SIM Application Programming Interface (API); (U)SIM API for Java™ Card",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/31130.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/31_series/31.130/31130-j10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/31_series/31.130/31130-j20.zip"
   },
   {
     "type": "TS",
@@ -197,7 +197,7 @@
     "title": "Test specification for (U)SIM; Application Programming Interface (API) for Java Card™",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/31213.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/31_series/31.213/31213-i30.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/31_series/31.213/31213-i40.zip"
   },
   {
     "type": "TS",

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-15T04:30:45Z",
+  "updated_at": "2026-03-22T04:18:23Z",
   "series": [
     {
       "series": 21,
@@ -22,11 +22,11 @@
     {
       "series": 23,
       "desc": "Technical realization (Stage 2)",
-      "total": 520,
-      "ts": 188,
+      "total": 521,
+      "ts": 189,
       "tr": 332,
       "withdrawn": 82,
-      "ftp_found": 430
+      "ftp_found": 431
     },
     {
       "series": 24,
@@ -133,8 +133,8 @@
       "total": 313,
       "ts": 90,
       "tr": 223,
-      "withdrawn": 35,
-      "ftp_found": 277
+      "withdrawn": 37,
+      "ftp_found": 275
     },
     {
       "series": 37,
@@ -151,7 +151,7 @@
       "total": 269,
       "ts": 96,
       "tr": 173,
-      "withdrawn": 5,
+      "withdrawn": 6,
       "ftp_found": 252
     }
   ]

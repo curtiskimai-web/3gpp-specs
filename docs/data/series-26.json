@@ -565,7 +565,7 @@
     "title": "Transparent end-to-end Packet-switched Streaming Service (PSS); Progressive Download and Dynamic Adaptive Streaming over HTTP (3GP-DASH)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26247.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.247/26247-j00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.247/26247-j10.zip"
   },
   {
     "type": "TS",
@@ -1173,7 +1173,7 @@
     "title": "Study on usage of dynamically changing traffic characteristics and enhanced QoS support in 5GS for media applications and services",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26823.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.823/26823-020.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.823/26823-031.zip"
   },
   {
     "type": "TR",
@@ -1205,7 +1205,7 @@
     "title": "Study on QUIC-based media delivery solutions for real-time communication",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26836.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.836/26836-010.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.836/26836-011.zip"
   },
   {
     "type": "TR",

@@ -13,7 +13,7 @@
     "title": "Numbering, addressing and identification",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23003.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.003/23003-j50.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.003/23003-j60.zip"
   },
   {
     "type": "TS",
@@ -545,6 +545,14 @@
   },
   {
     "type": "TS",
+    "no": "23.137",
+    "title": "Integrated Sensing and Communication; Stage 2",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/23137.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.137/23137-010.zip"
+  },
+  {
+    "type": "TS",
     "no": "23.139",
     "title": "3GPP system - fixed broadband access network interworking; Stage 2",
     "withdrawn": false,
@@ -813,7 +821,7 @@
     "title": "IP Multimedia Subsystem (IMS); Stage 2",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23228.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.228/23228-j50.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.228/23228-j60.zip"
   },
   {
     "type": "TS",
@@ -957,7 +965,7 @@
     "title": "5G System (5GS) Location Services (LCS); Stage 2",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23273.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.273/23273-j50.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.273/23273-j60.zip"
   },
   {
     "type": "TS",
@@ -1037,7 +1045,7 @@
     "title": "Architecture enhancements for 5G System (5GS) to support Vehicle-to-Everything (V2X) services",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23287.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.287/23287-j00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.287/23287-j10.zip"
   },
   {
     "type": "TS",
@@ -1045,7 +1053,7 @@
     "title": "Architecture enhancements for 5G System (5GS) to support network data analytics services",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23288.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.288/23288-j50.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.288/23288-k00.zip"
   },
   {
     "type": "TS",
@@ -1149,7 +1157,7 @@
     "title": "Architecture support for Ambient power-enabled Internet of Things; Stage 2",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23369.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.369/23369-j20.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.369/23369-j30.zip"
   },
   {
     "type": "TS",
@@ -1293,7 +1301,7 @@
     "title": "System architecture for the 5G System (5GS)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23501.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.501/23501-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.501/23501-k10.zip"
   },
   {
     "type": "TS",
@@ -1301,7 +1309,7 @@
     "title": "Procedures for the 5G System (5GS)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23502.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.502/23502-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.502/23502-k10.zip"
   },
   {
     "type": "TS",
@@ -1309,7 +1317,7 @@
     "title": "Policy and charging control framework for the 5G System (5GS); Stage 2",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23503.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.503/23503-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.503/23503-k10.zip"
   },
   {
     "type": "TS",
@@ -1461,7 +1469,7 @@
     "title": "User data interworking, coexistence and migration; Stage 2",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23632.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.632/23632-j10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.632/23632-j20.zip"
   },
   {
     "type": "TS",
@@ -1501,7 +1509,7 @@
     "title": "Study on Core Network Enhanced Support for Artificial Intelligence (AI) / Machine Learning (ML); Phase 2",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23700-04.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-04/23700-04-200.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-04/23700-04-k00.zip"
   },
   {
     "type": "TR",
@@ -1578,10 +1586,10 @@
   {
     "type": "TR",
     "no": "23.700-14",
-    "title": "Study on Stage 2 for Integrated Sensing and Communication",
+    "title": "Study on Integrated Sensing and Communication; Stage 2",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23700-14.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-14/23700-14-210.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-14/23700-14-k00.zip"
   },
   {
     "type": "TR",
@@ -1709,7 +1717,7 @@
     "title": "Study on Architecture support of Ambient power-enabled Internet of Things (AIoT); Phase 2",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23700-30.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-30/23700-30-200.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-30/23700-30-k00.zip"
   },
   {
     "type": "TR",
@@ -1909,7 +1917,7 @@
     "title": "Study on system architecture enhancement for next generation real time communication; Phase 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23700-56.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-56/23700-56-200.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-56/23700-56-k00.zip"
   },
   {
     "type": "TR",
@@ -1981,7 +1989,7 @@
     "title": "Study on Short Message Service to Emergency Response Centre",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23700-65.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-65/23700-65-200.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-65/23700-65-k00.zip"
   },
   {
     "type": "TR",
