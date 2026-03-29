@@ -13,7 +13,7 @@
     "title": "NR; User Equipment (UE) radio transmission and reception; Part 1: Range 1 Standalone",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38101-1.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.101-1/38101-1-j40.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.101-1/38101-1-j50.zip"
   },
   {
     "type": "TS",
@@ -21,7 +21,7 @@
     "title": "NR; User Equipment (UE) radio transmission and reception; Part 2: Range 2 Standalone",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38101-2.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.101-2/38101-2-j30.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.101-2/38101-2-j40.zip"
   },
   {
     "type": "TS",
@@ -29,7 +29,7 @@
     "title": "NR; User Equipment (UE) radio transmission and reception; Part 3: Range 1 and Range 2 Interworking operation with other radios",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38101-3.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.101-3/38101-3-j40.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.101-3/38101-3-j50.zip"
   },
   {
     "type": "TS",
@@ -37,7 +37,7 @@
     "title": "NR; User Equipment (UE) radio transmission and reception; Part 4: Performance requirements",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38101-4.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.101-4/38101-4-j10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.101-4/38101-4-j20.zip"
   },
   {
     "type": "TS",
@@ -45,7 +45,7 @@
     "title": "NR; User Equipment (UE) radio transmission and reception; Part 5: Satellite access Radio Frequency (RF) and performance requirements",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38101-5.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.101-5/38101-5-j30.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.101-5/38101-5-j40.zip"
   },
   {
     "type": "TS",
@@ -53,7 +53,7 @@
     "title": "NR; Base Station (BS) radio transmission and reception",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38104.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.104/38104-j30.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.104/38104-j40.zip"
   },
   {
     "type": "TS",
@@ -61,7 +61,7 @@
     "title": "NR repeater radio transmission and reception",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38106.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.106/38106-j30.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.106/38106-j40.zip"
   },
   {
     "type": "TS",
@@ -69,7 +69,7 @@
     "title": "NR; Satellite Access Node radio transmission and reception",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38108.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.108/38108-j30.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.108/38108-j40.zip"
   },
   {
     "type": "TS",
@@ -77,7 +77,7 @@
     "title": "NR; Base Station (BS) ElectroMagnetic Compatibility (EMC)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38113.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.113/38113-j10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.113/38113-j20.zip"
   },
   {
     "type": "TS",
@@ -93,7 +93,7 @@
     "title": "NR; Repeater conformance testing - Part 1: Conducted conformance testing",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38115-1.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.115-1/38115-1-j30.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.115-1/38115-1-j40.zip"
   },
   {
     "type": "TS",
@@ -101,7 +101,7 @@
     "title": "NR; Repeater conformance testing - Part 2: Radiated conformance testing",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38115-2.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.115-2/38115-2-j10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.115-2/38115-2-j20.zip"
   },
   {
     "type": "TS",
@@ -117,7 +117,7 @@
     "title": "NR; Requirements for support of radio resource management",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38133.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.133/38133-j30.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.133/38133-j40.zip"
   },
   {
     "type": "TS",
@@ -133,7 +133,7 @@
     "title": "NR; Base Station (BS) conformance testing Part 1: Conducted conformance testing",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38141-1.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.141-1/38141-1-j30.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.141-1/38141-1-j40.zip"
   },
   {
     "type": "TS",
@@ -141,7 +141,7 @@
     "title": "NR; Base Station (BS) conformance testing Part 2: Radiated conformance testing",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38141-2.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.141-2/38141-2-j30.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.141-2/38141-2-j40.zip"
   },
   {
     "type": "TS",
@@ -149,7 +149,7 @@
     "title": "NR; User Equipment (UE)  Multiple Input Multiple Output (MIMO) Over-the-Air (OTA) performance requirements",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38151.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.151/38151-j00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.151/38151-j10.zip"
   },
   {
     "type": "TS",
@@ -157,7 +157,7 @@
     "title": "NR; User Equipment (UE)  TRP (Total Radiated Power) and TRS (Total Radiated Sensitivity) requirements; Range 1 Standalone and Range 1 Interworking operation with other radios",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38161.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.161/38161-j20.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.161/38161-j30.zip"
   },
   {
     "type": "TS",
@@ -205,7 +205,7 @@
     "title": "NR; Integrated Access and Backhaul (IAB) conformance testing; Part 2: Radiated conformance testing",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38176-2.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.176-2/38176-2-j30.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.176-2/38176-2-j40.zip"
   },
   {
     "type": "TS",
@@ -213,7 +213,7 @@
     "title": "NR; Satellite Access Node conformance testing",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38181.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.181/38181-j20.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.181/38181-j30.zip"
   },
   {
     "type": "TS",
@@ -221,7 +221,7 @@
     "title": "NR; Ambient IoT device radio transmission and reception",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38191.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.191/38191-j10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.191/38191-j20.zip"
   },
   {
     "type": "TS",
@@ -229,7 +229,7 @@
     "title": "NR; Ambient IoT Base Station (BS) and Carrier-Wave (CW) node radio transmission and reception",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38194.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.194/38194-j10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.194/38194-j20.zip"
   },
   {
     "type": "TS",
@@ -237,7 +237,7 @@
     "title": "NR; Ambient IoT Base Station (BS) and Carrier-Wave (CW) node conformance testing",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38195.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.195/38195-100.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.195/38195-j00.zip"
   },
   {
     "type": "TS",
@@ -317,7 +317,7 @@
     "title": "NR; User Equipment (UE) procedures in Idle mode and in RRC Inactive state",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38304.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.304/38304-j10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.304/38304-j20.zip"
   },
   {
     "type": "TS",
@@ -341,7 +341,7 @@
     "title": "NR; Requirements on User Equipments (UEs) supporting a release-independent frequency band",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38307.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.307/38307-j30.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.307/38307-j40.zip"
   },
   {
     "type": "TS",
@@ -613,7 +613,7 @@
     "title": "5GS; User Equipment (UE) conformance specification; Part 1: Common test environment",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38508-1.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.508-1/38508-1-j20.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.508-1/38508-1-j30.zip"
   },
   {
     "type": "TS",
@@ -621,7 +621,7 @@
     "title": "5GS; User Equipment (UE) conformance specification; Part 2: Common Implementation Conformance Statement (ICS) proforma",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38508-2.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.508-2/38508-2-j30.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.508-2/38508-2-j31.zip"
   },
   {
     "type": "TS",
@@ -645,7 +645,7 @@
     "title": "NR; User Equipment (UE) conformance specification;  Radio transmission and reception; Part 2: Range 2 standalone",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38521-2.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.521-2/38521-2-j10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.521-2/38521-2-j20.zip"
   },
   {
     "type": "TS",
@@ -653,7 +653,7 @@
     "title": "NR; User Equipment (UE) conformance specification; Radio transmission and reception; Part 3: Range 1 and Range 2 Interworking operation with other radios",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38521-3.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.521-3/38521-3-j30.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.521-3/38521-3-j40.zip"
   },
   {
     "type": "TS",
@@ -661,7 +661,7 @@
     "title": "NR; User Equipment (UE) conformance specification; Radio transmission and reception; Part 4: Performance",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38521-4.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.521-4/38521-4-i90.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.521-4/38521-4-j00.zip"
   },
   {
     "type": "TS",
@@ -669,7 +669,7 @@
     "title": "NR; User Equipment (UE) conformance specification; Radio transmission and reception; Part 5: Satellite access Radio Frequency (RF) and performance",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38521-5.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.521-5/38521-5-j00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.521-5/38521-5-j10.zip"
   },
   {
     "type": "TS",
@@ -677,7 +677,7 @@
     "title": "NR; User Equipment (UE) conformance specification; Applicability of radio transmission, radio reception and radio resource management test cases",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38522.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.522/38522-j20.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.522/38522-j30.zip"
   },
   {
     "type": "TS",
@@ -685,7 +685,7 @@
     "title": "5GS; User Equipment (UE) conformance specification; Part 1: Protocol",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38523-1.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.523-1/38523-1-j30.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.523-1/38523-1-j40.zip"
   },
   {
     "type": "TS",
@@ -709,7 +709,7 @@
     "title": "NR; User Equipment (UE) conformance specification; Radio Resource Management (RRM)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38533.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.533/38533-j10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.533/38533-j20.zip"
   },
   {
     "type": "TS",
@@ -741,7 +741,7 @@
     "title": "NR; Ambient IoT device conformance specification; Part 2: Radio transmission and reception",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38591-2.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.591-2/38591-2-010.zip"
   },
   {
     "type": "TS",
@@ -749,7 +749,7 @@
     "title": "5GS; Ambient IoT device conformance specification; Part 3: Protocol",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38591-3.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.591-3/38591-3-001.zip"
   },
   {
     "type": "TS",
@@ -757,7 +757,7 @@
     "title": "5GS; Ambient IoT device conformance specification; Part 4: Applicability of radio transmission, radio reception, radio resource management, protocol test cases and Common Implementation Conformance Statement (ICS) proforma",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38591-4.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.591-4/38591-4-010.zip"
   },
   {
     "type": "TS",
@@ -925,7 +925,7 @@
     "title": "Rel-19 NR inter-band CA/DC configurations including inter band CA for 3 different bands DL with x different bands UL(x=1,2)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38719-03-01.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.719-03-01/38719-03-01-j00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.719-03-01/38719-03-01-j10.zip"
   },
   {
     "type": "TR",
@@ -933,7 +933,7 @@
     "title": "Rel-20 SUL configurations and CA band combinations with SUL(s)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38720-00-00.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.720-00-00/38720-00-00-001.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.720-00-00/38720-00-00-010.zip"
   },
   {
     "type": "TR",
@@ -941,7 +941,7 @@
     "title": "Rel-20 NR intra-band CA combinations",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38720-01-01.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.720-01-01/38720-01-01-000.zip"
   },
   {
     "type": "TR",
@@ -949,7 +949,7 @@
     "title": "Rel-20 NR inter-band CA/DC configurations including inter band CA for 2 different bands DL with up to 2 different bands UL",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38720-02-01.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.720-02-01/38720-02-01-000.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.720-02-01/38720-02-01-010.zip"
   },
   {
     "type": "TR",
@@ -957,7 +957,7 @@
     "title": "Rel-20 NR inter-band CA/DC configurations including inter band CA for 3 different bands DL with x different bands UL(x=1,2)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38720-03-01.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.720-03-01/38720-03-01-001.zip"
   },
   {
     "type": "TR",
@@ -1005,7 +1005,7 @@
     "title": "Study on Artificial Intelligence (AI)/Machine Learning (ML) for NG-RAN Phase 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38745.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.745/38745-200.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.745/38745-k00.zip"
   },
   {
     "type": "TR",
@@ -1065,6 +1065,14 @@
   },
   {
     "type": "TR",
+    "no": "38.754",
+    "title": "Rel-20 Adding channel bandwidth support to existing NR bands",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38754.htm",
+    "ftp_latest": null
+  },
+  {
+    "type": "TR",
     "no": "38.755",
     "title": "Study on NR FR1 DL fragmented carriers",
     "withdrawn": false,
@@ -1085,7 +1093,7 @@
     "title": "Study on 6G Radio RAN2 aspects",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38760-2.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.760-2/38760-2-002.zip"
   },
   {
     "type": "TR",
@@ -1093,7 +1101,7 @@
     "title": "Study on 6G Radio RAN3 aspects",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38760-3.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.760-3/38760-3-040.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.760-3/38760-3-041.zip"
   },
   {
     "type": "TR",
@@ -1109,7 +1117,7 @@
     "title": "Measurements of Multiple Input Multiple Output (MIMO) Over-the-Air (OTA) performance of User Equipment (UE)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38761.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.761/38761-i30.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.761/38761-j00.zip"
   },
   {
     "type": "TR",
@@ -1125,7 +1133,7 @@
     "title": "OTA test methods for NR NTN above 10GHz",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38763.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.763/38763-001.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.763/38763-010.zip"
   },
   {
     "type": "TR",
@@ -1153,11 +1161,19 @@
   },
   {
     "type": "TR",
+    "no": "38.767",
+    "title": "Uncrewed aerial vehicle (UAV) for NR",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38767.htm",
+    "ftp_latest": null
+  },
+  {
+    "type": "TR",
     "no": "38.768",
     "title": "Low NR band carrier aggregation via switching",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38768.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.768/38768-j10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.768/38768-j20.zip"
   },
   {
     "type": "TR",
@@ -1181,7 +1197,7 @@
     "title": "Radio Frequency (RF) requirements for Low-Power Wake-up Signal and Receiver",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38774.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.774/38774-j10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.774/38774-j20.zip"
   },
   {
     "type": "TR",
@@ -1246,6 +1262,14 @@
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38796.htm",
     "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.796/38796-j00.zip"
+  },
+  {
+    "type": "TR",
+    "no": "38.797",
+    "title": "Rel-20 High power UE for NR FR1 single band for handheld/FWA UEs and high power UE operation for FWVM (fixed-wireless/vehicle-mounted) use case in a single NR band",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/38797.htm",
+    "ftp_latest": null
   },
   {
     "type": "TR",
@@ -1765,7 +1789,7 @@
     "title": "Non-terrestrial networks (NTN) related RF and co-existence aspects",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38863.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.863/38863-j20.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.863/38863-j30.zip"
   },
   {
     "type": "TR",
@@ -1821,7 +1845,7 @@
     "title": "Enhanced Over-the-Air (OTA) test methods for NR FR1 Total Radiated Power (TRP) and Total Radiated Sensitivity (TRS)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38870.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.870/38870-j30.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.870/38870-j40.zip"
   },
   {
     "type": "TR",

@@ -5,7 +5,7 @@
     "title": "Evolved Universal Terrestrial Radio Access (E-UTRA); User Equipment (UE) radio transmission and reception",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/36101.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.101/36101-j40.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.101/36101-j50.zip"
   },
   {
     "type": "TS",
@@ -13,7 +13,7 @@
     "title": "Evolved Universal Terrestrial Radio Access (E-UTRA); User Equipment (UE) radio transmission and reception for satellite access",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/36102.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.102/36102-j20.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.102/36102-j30.zip"
   },
   {
     "type": "TS",
@@ -37,7 +37,7 @@
     "title": "Evolved Universal Terrestrial Radio Access (E-UTRA); Satellite Access Node radio transmission and reception",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/36108.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.108/36108-j20.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.108/36108-j30.zip"
   },
   {
     "type": "TS",
@@ -93,7 +93,7 @@
     "title": "Evolved Universal Terrestrial Radio Access (E-UTRA); Requirements for support of radio resource management",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/36133.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.133/36133-j30.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.133/36133-j40.zip"
   },
   {
     "type": "TS",
@@ -133,7 +133,7 @@
     "title": "Evolved Universal Terrestrial Radio Access (E-UTRA); Satellite Access Node conformance testing",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/36181.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.181/36181-j20.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.181/36181-j30.zip"
   },
   {
     "type": "TS",
@@ -237,7 +237,7 @@
     "title": "Evolved Universal Terrestrial Radio Access (E-UTRA); Requirements on User Equipments (UEs) supporting a release-independent frequency band",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/36307.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.307/36307-j10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.307/36307-j20.zip"
   },
   {
     "type": "TS",
@@ -253,7 +253,7 @@
     "title": "Evolved Universal Terrestrial Radio Access (E-UTRA); Medium Access Control (MAC) protocol specification",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/36321.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.321/36321-j10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.321/36321-j20.zip"
   },
   {
     "type": "TS",
@@ -277,7 +277,7 @@
     "title": "Evolved Universal Terrestrial Radio Access (E-UTRA); Radio Resource Control (RRC); Protocol specification",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/36331.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.331/36331-j20.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.331/36331-j21.zip"
   },
   {
     "type": "TS",
@@ -565,7 +565,7 @@
     "title": "Evolved Universal Terrestrial Radio Access (E-UTRA); User Equipment (UE) conformance specification; Radio transmission and reception; Part 1: Conformance testing",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/36521-1.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.521-1/36521-1-j00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.521-1/36521-1-j10.zip"
   },
   {
     "type": "TS",
@@ -581,7 +581,7 @@
     "title": "Evolved Universal Terrestrial Radio Access (E-UTRA); User Equipment (UE) conformance specification; Radio transmission and reception; Part 3: Radio Resource Management (RRM) conformance testing",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/36521-3.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.521-3/36521-3-j00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.521-3/36521-3-j10.zip"
   },
   {
     "type": "TS",
@@ -589,7 +589,7 @@
     "title": "Evolved Universal Terrestrial Radio Access (E-UTRA); User Equipment (UE) conformance specification; Radio transmission and reception; Part 4: Satellite access Radio Frequency (RF) and performance Conformance Testing",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/36521-4.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.521-4/36521-4-j00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.521-4/36521-4-j10.zip"
   },
   {
     "type": "TS",

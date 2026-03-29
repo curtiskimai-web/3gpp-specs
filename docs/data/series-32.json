@@ -389,7 +389,7 @@
     "title": "Telecommunication management; Fixed Mobile Convergence (FMC) model repertoire",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/32156.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/32_series/32.156/32156-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/32_series/32.156/32156-k10.zip"
   },
   {
     "type": "TS",
@@ -405,7 +405,7 @@
     "title": "Management and orchestration;Design rules for REpresentational State Transfer (REST) Solution Sets (SS)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/32158.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/32_series/32.158/32158-j10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/32_series/32.158/32158-k00.zip"
   },
   {
     "type": "TS",
@@ -581,7 +581,7 @@
     "title": "Telecommunication management; Charging management; 5G data connectivity domain charging; Stage 2",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/32255.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/32_series/32.255/32255-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/32_series/32.255/32255-k10.zip"
   },
   {
     "type": "TS",
@@ -1525,7 +1525,7 @@
     "title": "Telecommunication management; Subscriber and equipment trace; Trace control and configuration management",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/32422.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/32_series/32.422/32422-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/32_series/32.422/32422-k10.zip"
   },
   {
     "type": "TS",

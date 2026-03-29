@@ -5,7 +5,7 @@
     "title": "NR, E-UTRA, UTRA and GSM/EDGE; Multi-Standard Radio (MSR) Base Station (BS) radio transmission and reception",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/37104.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/37_series/37.104/37104-j20.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/37_series/37.104/37104-j30.zip"
   },
   {
     "type": "TS",
@@ -13,7 +13,7 @@
     "title": "Active Antenna System (AAS) Base Station (BS) transmission and reception",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/37105.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/37_series/37.105/37105-j20.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/37_series/37.105/37105-j30.zip"
   },
   {
     "type": "TS",
@@ -53,7 +53,7 @@
     "title": "NR, E-UTRA, UTRA and GSM/EDGE; Multi-Standard Radio (MSR) Base Station (BS) conformance testing",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/37141.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/37_series/37.141/37141-j20.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/37_series/37.141/37141-j30.zip"
   },
   {
     "type": "TS",
@@ -85,7 +85,7 @@
     "title": "Active Antenna System (AAS) Base Station (BS) conformance testing;  Part 1: conducted conformance testing",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/37145-1.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/37_series/37.145-1/37145-1-j20.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/37_series/37.145-1/37145-1-j30.zip"
   },
   {
     "type": "TS",
@@ -93,7 +93,7 @@
     "title": "Active Antenna System (AAS) Base Station (BS) conformance testing;  Part 2: radiated conformance testing",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/37145-2.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/37_series/37.145-2/37145-2-j30.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/37_series/37.145-2/37145-2-j40.zip"
   },
   {
     "type": "TS",
@@ -253,7 +253,7 @@
     "title": "User Equipment (UE) conformance specification for UE positioning; Part 1: Conformance test specification",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/37571-1.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/37_series/37.571-1/37571-1-i40.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/37_series/37.571-1/37571-1-j00.zip"
   },
   {
     "type": "TS",
@@ -285,7 +285,7 @@
     "title": "User Equipment (UE) conformance specification for UE positioning; Part 5: Test scenarios and assistance data",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/37571-5.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/37_series/37.571-5/37571-5-i20.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/37_series/37.571-5/37571-5-j00.zip"
   },
   {
     "type": "TS",
@@ -565,7 +565,7 @@
     "title": "Rel-20 Dual Connectivity of EN-DC and NE-DC configurations consisting of 2 bands LTE inter-band CA (2DL/1UL) and 1 band NR (1DL/1UL), or consisting of 1 band LTE (1DL/1UL) and 2 bands NR inter-band CA (2DL/1UL)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/37720-21-11.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/37_series/37.720-21-11/37720-21-11-000.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/37_series/37.720-21-11/37720-21-11-010.zip"
   },
   {
     "type": "TR",
@@ -1109,7 +1109,7 @@
     "title": "Radio Frequency (RF) conformance testing background for radiated Base Station (BS) requirements",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/37941.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/37_series/37.941/37941-j10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/37_series/37.941/37941-j20.zip"
   },
   {
     "type": "TR",

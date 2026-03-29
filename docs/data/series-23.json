@@ -553,6 +553,14 @@
   },
   {
     "type": "TS",
+    "no": "23.138",
+    "title": "Use of sensing results for Vertical Applications",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/23138.htm",
+    "ftp_latest": null
+  },
+  {
+    "type": "TS",
     "no": "23.139",
     "title": "3GPP system - fixed broadband access network interworking; Stage 2",
     "withdrawn": false,
@@ -1145,6 +1153,14 @@
   },
   {
     "type": "TS",
+    "no": "23.366",
+    "title": "Functional architecture and information flows for Energy Saving Enablement Service",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/23366.htm",
+    "ftp_latest": null
+  },
+  {
+    "type": "TS",
     "no": "23.368",
     "title": "Service requirements for Machine-Type Communications (MTC); Stage 2",
     "withdrawn": true,
@@ -1158,6 +1174,14 @@
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23369.htm",
     "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.369/23369-j30.zip"
+  },
+  {
+    "type": "TS",
+    "no": "23.370",
+    "title": "Application enablement for Ambient IoT services",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/23370.htm",
+    "ftp_latest": null
   },
   {
     "type": "TS",
@@ -3046,6 +3070,14 @@
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23801-02.htm",
     "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.801-02/23801-02-010.zip"
+  },
+  {
+    "type": "TR",
+    "no": "23.801-03",
+    "title": "Study on MC architecture evolution and 6G capabilities for MC services",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/23801-03.htm",
+    "ftp_latest": null
   },
   {
     "type": "TR",

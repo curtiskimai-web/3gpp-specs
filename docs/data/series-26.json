@@ -149,7 +149,7 @@
     "title": "Real-Time Media Communication; Protocols and APIs",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26113.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.113/26113-j10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.113/26113-j20.zip"
   },
   {
     "type": "TS",
@@ -157,7 +157,7 @@
     "title": "IP Multimedia Subsystem (IMS); Multimedia Telephony; Media handling and interaction",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26114.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.114/26114-j20.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.114/26114-j30.zip"
   },
   {
     "type": "TS",
@@ -181,7 +181,7 @@
     "title": "5G Media Streaming (5GMS); Speech and audio profiles",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26117.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.117/26117-j10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.117/26117-j20.zip"
   },
   {
     "type": "TS",
@@ -197,7 +197,7 @@
     "title": "Media Capabilities for Augmented Reality",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26119.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.119/26119-j00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.119/26119-j10.zip"
   },
   {
     "type": "TS",
@@ -605,7 +605,7 @@
     "title": "Codec for Immersive Voice and Audio Services (IVAS); Detailed Algorithmic Description including RTP payload format and SDP parameter definitions",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26253.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.253/26253-j10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.253/26253-j20.zip"
   },
   {
     "type": "TS",
@@ -669,7 +669,7 @@
     "title": "IMS-based AR Real-Time Communication",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26264.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.264/26264-j10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.264/26264-j20.zip"
   },
   {
     "type": "TS",
@@ -677,7 +677,7 @@
     "title": "Media Delivery: Video Capabilities and Operation Points",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26265.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.265/26265-j10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.265/26265-j20.zip"
   },
   {
     "type": "TS",
@@ -981,7 +981,7 @@
     "title": "5G multicast-broadcast services; User service architecture",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26502.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.502/26502-j30.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.502/26502-j40.zip"
   },
   {
     "type": "TS",
@@ -1013,7 +1013,7 @@
     "title": "5G Media Streaming (5GMS); Protocols",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26512.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.512/26512-j10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.512/26512-j20.zip"
   },
   {
     "type": "TS",
@@ -1136,7 +1136,7 @@
     "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.813/26813-j10.zip"
   },
   {
-    "type": "TS",
+    "type": "TR",
     "no": "26.814",
     "title": "Study on enhancements to IMS Data Channel",
     "withdrawn": false,
@@ -1197,10 +1197,10 @@
     "title": "Study on evaluation of QUIC-based streaming protocols for on-demand and live video services",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26835.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.835/26835-001.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.835/26835-100.zip"
   },
   {
-    "type": "TS",
+    "type": "TR",
     "no": "26.836",
     "title": "Study on QUIC-based media delivery solutions for real-time communication",
     "withdrawn": false,
@@ -1336,7 +1336,7 @@
     "ftp_latest": null
   },
   {
-    "type": "TS",
+    "type": "TR",
     "no": "26.870",
     "title": "Study on Media Aspects for 6G System",
     "withdrawn": false,
@@ -1376,7 +1376,7 @@
     "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.891/26891-g00.zip"
   },
   {
-    "type": "TS",
+    "type": "TR",
     "no": "26.892",
     "title": "Study on advanced image formats",
     "withdrawn": false,
@@ -1648,7 +1648,7 @@
     "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.933/26933-j00.zip"
   },
   {
-    "type": "TS",
+    "type": "TR",
     "no": "26.934",
     "title": "Test platform for media delivery technologies",
     "withdrawn": false,
@@ -1701,7 +1701,7 @@
     "title": "Study on Ultra Low Bit rate Speech Codecs",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26940.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.940/26940-051.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.940/26940-061.zip"
   },
   {
     "type": "TR",

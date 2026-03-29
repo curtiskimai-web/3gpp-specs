@@ -197,7 +197,7 @@
     "title": "Specification of the Snow 5G based 256-bits algorithm set: specification of the 256-NEA4 encryption, the 256-NIA4 integrity, and the 256-NCA4 authenticated encryption algorithm for 5G; Document 1: algorithm specification",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/35240.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/35_series/35.240/35240-j00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/35_series/35.240/35240-k00.zip"
   },
   {
     "type": "TS",
@@ -205,7 +205,7 @@
     "title": "Specification of the Snow 5G based 256-bits algorithm set: Specification of the 256-NEA4 encryption, the 256-NIA4 integrity algorithm, and the 256-NCA4 authenticated encryption algorithm for 5G; Document 2: implementation test data",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/35241.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/35_series/35.241/35241-j00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/35_series/35.241/35241-k00.zip"
   },
   {
     "type": "TS",
@@ -213,7 +213,7 @@
     "title": "Specification of the Snow 5G based 256-bits algorithm set: Specification of the 256-NEA4 encryption, the 256-NIA4 integrity, and the 256-NCA4 authenticated encryption algorithm for 5G; Document 3: design conformance test data",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/35242.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/35_series/35.242/35242-j00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/35_series/35.242/35242-k00.zip"
   },
   {
     "type": "TS",
@@ -221,7 +221,7 @@
     "title": "Specification of the AES based 256-bits algorithm set: Specification of the 256-NEA5 encryption, the 256-NIA5 integrity, and the 256-NCA5 authenticated encryption algorithm for 5G; Document 1: algorithm specification",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/35243.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/35_series/35.243/35243-j00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/35_series/35.243/35243-k00.zip"
   },
   {
     "type": "TS",
@@ -229,7 +229,7 @@
     "title": "Specification of the AES based 256-bits algorithm set: Specification of the 256-NEA5 encryption, the 256-NIA5 integrity, and the 256-NCA5 authenticated encryption algorithm for 5G; Document 2: implementation test data",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/35244.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/35_series/35.244/35244-j00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/35_series/35.244/35244-k00.zip"
   },
   {
     "type": "TS",
@@ -237,7 +237,7 @@
     "title": "Specification of the AES based 256-bits algorithm set: Specification of the 256-NEA5 encryption, the 256-NIA5 integrity, and the 256-NCA5 authenticated encryption algorithm for 5G; Document 3: design conformance test data",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/35245.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/35_series/35.245/35245-j00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/35_series/35.245/35245-k00.zip"
   },
   {
     "type": "TS",
@@ -245,7 +245,7 @@
     "title": "Specification of the ZUC based 256-bits algorithm set: Specification of the 256-NEA6 encryption, the 256-NIA6 integrity, and the 256-NCA6 authenticated encryption algorithm for 5G; Document 1: algorithm specification",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/35246.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/35_series/35.246/35246-j00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/35_series/35.246/35246-k00.zip"
   },
   {
     "type": "TS",
@@ -253,7 +253,7 @@
     "title": "Specification of the ZUC based 256-bits algorithm set: Specification of the 256-NEA6 encryption, the 256-NIA6 integrity, and the 256-NCA6 authenticated encryption algorithm for 5G; Document 2: implementation test data",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/35247.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/35_series/35.247/35247-j00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/35_series/35.247/35247-k00.zip"
   },
   {
     "type": "TS",
@@ -261,7 +261,7 @@
     "title": "Specification of the ZUC based 256-bits algorithm set: Specification of the 256-NEA6 encryption, the 256-NIA6 integrity, and the 256-NCA6 authenticated encryption algorithm for 5G; Document 3: design conformance test data",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/35248.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/35_series/35.248/35248-j00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/35_series/35.248/35248-k00.zip"
   },
   {
     "type": "TS",

@@ -69,7 +69,7 @@
     "title": "Security Assurance Specification (SCAS) for the MME network product class",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/33116.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.116/33116-j00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.116/33116-k00.zip"
   },
   {
     "type": "TS",
@@ -77,7 +77,7 @@
     "title": "Catalogue of general security assurance requirements",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/33117.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.117/33117-j20.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.117/33117-k00.zip"
   },
   {
     "type": "TS",
@@ -253,7 +253,7 @@
     "title": "Security Assurance Specification (SCAS) for the evolved Node B (eNB) network product class",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/33216.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.216/33216-j10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.216/33216-k00.zip"
   },
   {
     "type": "TS",
@@ -309,7 +309,7 @@
     "title": "Security assurance for IP Multimedia Subsystem (IMS)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/33226.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.226/33226-j00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.226/33226-k00.zip"
   },
   {
     "type": "TS",
@@ -429,7 +429,7 @@
     "title": "Security aspects of Ambient Internet of Things (AIoT) services for isolated private networks",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/33369.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.369/33369-j10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.369/33369-j20.zip"
   },
   {
     "type": "TS",
@@ -469,7 +469,7 @@
     "title": "Security architecture and procedures for 5G System",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/33501.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.501/33501-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.501/33501-k10.zip"
   },
   {
     "type": "TS",
@@ -477,7 +477,7 @@
     "title": "Security-related events handling",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/33502.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.502/33502-200.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.502/33502-k00.zip"
   },
   {
     "type": "TS",
@@ -493,7 +493,7 @@
     "title": "Security Assurance Specification (SCAS) for the next generation Node B (gNodeB) network product class",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/33511.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.511/33511-j30.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.511/33511-k00.zip"
   },
   {
     "type": "TS",
@@ -501,7 +501,7 @@
     "title": "5G Security Assurance Specification (SCAS); Access and Mobility management Function (AMF)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/33512.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.512/33512-j00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.512/33512-k00.zip"
   },
   {
     "type": "TS",
@@ -509,7 +509,7 @@
     "title": "5G Security Assurance Specification (SCAS); User Plane Function (UPF)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/33513.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.513/33513-j00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.513/33513-k00.zip"
   },
   {
     "type": "TS",
@@ -517,7 +517,7 @@
     "title": "5G Security Assurance Specification (SCAS) for the Unified Data Management (UDM) network product class",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/33514.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.514/33514-j10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.514/33514-k00.zip"
   },
   {
     "type": "TS",
@@ -525,7 +525,7 @@
     "title": "5G Security Assurance Specification (SCAS) for the Session Management Function (SMF) network product class",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/33515.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.515/33515-j00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.515/33515-k00.zip"
   },
   {
     "type": "TS",
@@ -541,7 +541,7 @@
     "title": "5G Security Assurance Specification (SCAS) for the Security Edge Protection Proxy (SEPP) network product class",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/33517.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.517/33517-j00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.517/33517-k00.zip"
   },
   {
     "type": "TS",
@@ -549,7 +549,7 @@
     "title": "5G Security Assurance Specification (SCAS) for  the Network Repository Function (NRF) network product class",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/33518.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.518/33518-j00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.518/33518-k00.zip"
   },
   {
     "type": "TS",
@@ -557,7 +557,7 @@
     "title": "5G Security Assurance Specification (SCAS) for the Network Exposure Function (NEF) network product class",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/33519.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.519/33519-j00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.519/33519-k00.zip"
   },
   {
     "type": "TS",
@@ -573,7 +573,7 @@
     "title": "5G Security Assurance Specification (SCAS);Network Data Analytics Function (NWDAF)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/33521.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.521/33521-j00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.521/33521-k00.zip"
   },
   {
     "type": "TS",
@@ -589,7 +589,7 @@
     "title": "5G Security Assurance Specification (SCAS); Split gNB product classes",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/33523.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.523/33523-j20.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.523/33523-k00.zip"
   },
   {
     "type": "TS",
@@ -1029,7 +1029,7 @@
     "title": "Study on security for core network enhanced support for Artificial Intelligence (AI) / Machine Learning (ML) phase 2",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/33785.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.785/33785-100.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.785/33785-k00.zip"
   },
   {
     "type": "TR",
@@ -2021,7 +2021,7 @@
     "title": "Security Assurance Specification (SCAS) threats and critical assets  in 3GPP network product classes",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/33926.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.926/33926-j40.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.926/33926-k00.zip"
   },
   {
     "type": "TR",

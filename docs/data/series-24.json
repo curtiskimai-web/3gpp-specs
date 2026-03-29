@@ -1069,7 +1069,7 @@
     "title": "Non-Access-Stratum (NAS) protocol for 5G System (5GS); Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/24501.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.501/24501-j61.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.501/24501-j62.zip"
   },
   {
     "type": "TS",
@@ -1638,6 +1638,14 @@
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/24841.htm",
     "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.841/24841-600.zip"
+  },
+  {
+    "type": "TR",
+    "no": "24.860",
+    "title": "Study on NAS protocol for 6G System",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24860.htm",
+    "ftp_latest": null
   },
   {
     "type": "TR",

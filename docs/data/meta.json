@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-22T04:18:23Z",
+  "updated_at": "2026-03-29T04:35:45Z",
   "series": [
     {
       "series": 21,
@@ -13,27 +13,27 @@
     {
       "series": 22,
       "desc": "Service aspects (Stage 1)",
-      "total": 270,
-      "ts": 119,
+      "total": 271,
+      "ts": 120,
       "tr": 151,
       "withdrawn": 41,
-      "ftp_found": 229
+      "ftp_found": 230
     },
     {
       "series": 23,
       "desc": "Technical realization (Stage 2)",
-      "total": 521,
-      "ts": 189,
-      "tr": 332,
+      "total": 525,
+      "ts": 192,
+      "tr": 333,
       "withdrawn": 82,
       "ftp_found": 431
     },
     {
       "series": 24,
       "desc": "Signalling protocols – UE to network (Stage 3)",
-      "total": 215,
+      "total": 216,
       "ts": 194,
-      "tr": 21,
+      "tr": 22,
       "withdrawn": 21,
       "ftp_found": 193
     },
@@ -50,8 +50,8 @@
       "series": 26,
       "desc": "Codecs",
       "total": 249,
-      "ts": 139,
-      "tr": 110,
+      "ts": 134,
+      "tr": 115,
       "withdrawn": 19,
       "ftp_found": 227
     },
@@ -76,9 +76,9 @@
     {
       "series": 29,
       "desc": "Signalling protocols (MAP & related)",
-      "total": 331,
+      "total": 334,
       "ts": 263,
-      "tr": 68,
+      "tr": 71,
       "withdrawn": 26,
       "ftp_found": 305
     },
@@ -148,11 +148,11 @@
     {
       "series": 38,
       "desc": "NR (5G New Radio)",
-      "total": 269,
+      "total": 272,
       "ts": 96,
-      "tr": 173,
+      "tr": 176,
       "withdrawn": 6,
-      "ftp_found": 252
+      "ftp_found": 258
     }
   ]
 }

@@ -2329,6 +2329,30 @@
   },
   {
     "type": "TR",
+    "no": "29.840",
+    "title": "Study on Control Plane Protocols in Core Network of the 6G System",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29840.htm",
+    "ftp_latest": null
+  },
+  {
+    "type": "TR",
+    "no": "29.841",
+    "title": "Study on Protocol aspects for User Plane in Core Network of 6G System",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29841.htm",
+    "ftp_latest": null
+  },
+  {
+    "type": "TR",
+    "no": "29.842",
+    "title": "Study on Resilience and Reliability in Core Network of the 6G System",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29842.htm",
+    "ftp_latest": null
+  },
+  {
+    "type": "TR",
     "no": "29.843",
     "title": "Study on Load and Overload Control of 5GC Service Based Interface",
     "withdrawn": false,

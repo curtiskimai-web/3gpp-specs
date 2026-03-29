@@ -61,7 +61,7 @@
     "title": "Management and orchestration; Artificial Intelligence/ Machine Learning (AI/ML) management",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/28105.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.105/28105-j40.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.105/28105-j50.zip"
   },
   {
     "type": "TS",
@@ -69,7 +69,7 @@
     "title": "Management and orchestration; Fault management (FM)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/28111.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.111/28111-j40.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.111/28111-j50.zip"
   },
   {
     "type": "TS",
@@ -197,7 +197,7 @@
     "title": "Management and orchestration; Intent driven management services for mobile networks",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/28312.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.312/28312-j40.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.312/28312-j50.zip"
   },
   {
     "type": "TS",
@@ -213,7 +213,7 @@
     "title": "Management and orchestration; Plug and Connect; Concepts and requirements",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/28314.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.314/28314-j10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.314/28314-k00.zip"
   },
   {
     "type": "TS",
@@ -221,7 +221,7 @@
     "title": "Management and orchestration; Plug and Connect; Procedure flows",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/28315.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.315/28315-j00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.315/28315-k00.zip"
   },
   {
     "type": "TS",
@@ -461,7 +461,7 @@
     "title": "Management and orchestration; Provisioning",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/28531.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.531/28531-j20.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.531/28531-k00.zip"
   },
   {
     "type": "TS",
@@ -501,7 +501,7 @@
     "title": "Management and orchestration; Management capabilities",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/28537.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.537/28537-j40.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.537/28537-k00.zip"
   },
   {
     "type": "TS",
@@ -517,7 +517,7 @@
     "title": "Management and orchestration; 5G Network Resource Model (NRM); Stage 1",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/28540.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.540/28540-k10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.540/28540-k20.zip"
   },
   {
     "type": "TS",
@@ -525,7 +525,7 @@
     "title": "Management and orchestration; 5G Network Resource Model (NRM); Stage 2 and stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/28541.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.541/28541-k10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.541/28541-k20.zip"
   },
   {
     "type": "TS",
@@ -573,7 +573,7 @@
     "title": "Management and orchestration; Performance assurance",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/28550.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.550/28550-j20.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.550/28550-j30.zip"
   },
   {
     "type": "TS",
@@ -589,7 +589,7 @@
     "title": "Management and orchestration; 5G performance measurements",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/28552.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.552/28552-k10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.552/28552-k20.zip"
   },
   {
     "type": "TS",
@@ -605,7 +605,7 @@
     "title": "Management and orchestration; 5G end to end Key Performance Indicators (KPI)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/28554.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.554/28554-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.554/28554-k10.zip"
   },
   {
     "type": "TS",
@@ -653,7 +653,7 @@
     "title": "Management and orchestration; Management aspects of Network Digital Twins",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/28561.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.561/28561-j11.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.561/28561-k00.zip"
   },
   {
     "type": "TS",
@@ -661,7 +661,7 @@
     "title": "Management and orchestration; Management Aspects of Closed Control Loops",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/28567.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.567/28567-j11.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.567/28567-j20.zip"
   },
   {
     "type": "TS",
@@ -677,7 +677,7 @@
     "title": "Management and orchestration; Management of planned configurations",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/28572.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.572/28572-j10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.572/28572-j20.zip"
   },
   {
     "type": "TS",
@@ -757,7 +757,7 @@
     "title": "Telecommunication management; Generic Network Resource Model (NRM) Integration Reference Point (IRP); Information Service (IS)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/28622.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.622/28622-k10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.622/28622-k20.zip"
   },
   {
     "type": "TS",
@@ -765,7 +765,7 @@
     "title": "Telecommunication management; Generic Network Resource Model (NRM) Integration Reference Point (IRP); Solution Set (SS) definitions",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/28623.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.623/28623-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.623/28623-k10.zip"
   },
   {
     "type": "TS",
@@ -1765,7 +1765,7 @@
     "title": "Study on intent driven management service for mobile network phase 4",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/28881.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.881/28881-200.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.881/28881-k00.zip"
   },
   {
     "type": "TR",
@@ -1781,7 +1781,7 @@
     "title": "Study on management aspects of Network Digital Twin phase 2",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/28883.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.883/28883-100.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.883/28883-k00.zip"
   },
   {
     "type": "TR",
@@ -1797,7 +1797,7 @@
     "title": "Study on energy efficiency and energy saving aspects of 5G Advanced networks",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/28885.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.885/28885-100.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.885/28885-k00.zip"
   },
   {
     "type": "TR",
@@ -1805,7 +1805,7 @@
     "title": "Study on Management Data Analytics (MDA) phase 4",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/28886.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.886/28886-100.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.886/28886-k00.zip"
   },
   {
     "type": "TR",

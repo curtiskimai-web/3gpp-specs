@@ -725,7 +725,7 @@
     "title": "Service requirements for the 5G system",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/22261.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/22_series/22.261/22261-k50.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/22_series/22.261/22261-k60.zip"
   },
   {
     "type": "TS",
@@ -750,6 +750,14 @@
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/22268.htm",
     "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/22_series/22.268/22268-k10.zip"
+  },
+  {
+    "type": "TS",
+    "no": "22.270",
+    "title": "6G System Requirements",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22270.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/22_series/22.270/22270-000.zip"
   },
   {
     "type": "TS",
@@ -781,7 +789,7 @@
     "title": "Mission Critical Services Common Requirements (MCCoRe); Stage 1",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/22280.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/22_series/22.280/22280-k10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/22_series/22.280/22280-k20.zip"
   },
   {
     "type": "TS",
