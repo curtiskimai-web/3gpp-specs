@@ -637,7 +637,7 @@
     "title": "Codec for Immersive Voice and Audio Services (IVAS); C code (floating-point)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26258.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.258/26258-j10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.258/26258-j20.zip"
   },
   {
     "type": "TS",
@@ -1133,7 +1133,7 @@
     "title": "Avatar Representation and Communication",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26813.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.813/26813-j10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.813/26813-j20.zip"
   },
   {
     "type": "TR",
@@ -1341,7 +1341,7 @@
     "title": "Study on Media Aspects for 6G System",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26870.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.870/26870-021.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.870/26870-022.zip"
   },
   {
     "type": "TR",
@@ -1973,7 +1973,7 @@
     "title": "Codec for Immersive Voice and Audio Services (IVAS); Performance characterization",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26997.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.997/26997-j00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.997/26997-j10.zip"
   },
   {
     "type": "TR",

@@ -733,7 +733,7 @@
     "title": "5GS; Ambient IoT device conformance specification; Part 1: Common test environment",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38591-1.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.591-1/38591-1-001.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.591-1/38591-1-002.zip"
   },
   {
     "type": "TS",
@@ -1021,7 +1021,7 @@
     "title": "Rel-20 High power UE (power class 1.5 or 2) for NR Carrier Aggregation (CA)/Dual connectivity (DC) band combinations with/without NR Supplementary uplink (SUL)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38747.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.747/38747-001.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.747/38747-002.zip"
   },
   {
     "type": "TR",
@@ -1085,7 +1085,7 @@
     "title": "Study on 6G Radio RAN1 aspects",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38760-1.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.760-1/38760-1-010.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.760-1/38760-1-020.zip"
   },
   {
     "type": "TR",
@@ -1165,7 +1165,7 @@
     "title": "Uncrewed aerial vehicle (UAV) for NR",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38767.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.767/38767-001.zip"
   },
   {
     "type": "TR",
@@ -1269,7 +1269,7 @@
     "title": "Rel-20 High power UE for NR FR1 single band for handheld/FWA UEs and high power UE operation for FWVM (fixed-wireless/vehicle-mounted) use case in a single NR band",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38797.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.797/38797-001.zip"
   },
   {
     "type": "TR",

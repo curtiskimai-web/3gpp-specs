@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-29T04:35:45Z",
+  "updated_at": "2026-04-05T04:35:34Z",
   "series": [
     {
       "series": 21,
@@ -67,11 +67,11 @@
     {
       "series": 28,
       "desc": "Telecom management (OAM)",
-      "total": 248,
+      "total": 249,
       "ts": 151,
-      "tr": 97,
+      "tr": 98,
       "withdrawn": 16,
-      "ftp_found": 230
+      "ftp_found": 231
     },
     {
       "series": 29,
@@ -80,7 +80,7 @@
       "ts": 263,
       "tr": 71,
       "withdrawn": 26,
-      "ftp_found": 305
+      "ftp_found": 306
     },
     {
       "series": 31,
@@ -103,9 +103,9 @@
     {
       "series": 33,
       "desc": "Security aspects",
-      "total": 275,
+      "total": 276,
       "ts": 89,
-      "tr": 186,
+      "tr": 187,
       "withdrawn": 32,
       "ftp_found": 240
     },
@@ -134,7 +134,7 @@
       "ts": 90,
       "tr": 223,
       "withdrawn": 37,
-      "ftp_found": 275
+      "ftp_found": 276
     },
     {
       "series": 37,
@@ -152,7 +152,7 @@
       "ts": 96,
       "tr": 176,
       "withdrawn": 6,
-      "ftp_found": 258
+      "ftp_found": 260
     }
   ]
 }

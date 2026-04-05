@@ -973,7 +973,7 @@
     "title": "LTE REL-19 CA for x bands (1<=x<=6)DL with y bands (y=1,2) UL",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/36719-01-01.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.719-01-01/36719-01-01-100.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.719-01-01/36719-01-01-j00.zip"
   },
   {
     "type": "TR",
@@ -981,7 +981,7 @@
     "title": "LTE REL-20 CA for x bands (1<=x<=6) DL with y bands (y=1,2) UL",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/36720-01-01.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.720-01-01/36720-01-01-000.zip"
   },
   {
     "type": "TR",

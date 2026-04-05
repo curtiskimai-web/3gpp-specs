@@ -637,7 +637,7 @@
     "title": "Security Assurance Specification (SCAS) for the Common API Framework (CAPIF) core function",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/33531.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.531/33531-100.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.531/33531-101.zip"
   },
   {
     "type": "TS",
@@ -1014,6 +1014,14 @@
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/33778.htm",
     "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.778/33778-030.zip"
+  },
+  {
+    "type": "TR",
+    "no": "33.779",
+    "title": "Study on mission critical security next generation",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/33779.htm",
+    "ftp_latest": null
   },
   {
     "type": "TR",
