@@ -589,7 +589,7 @@
     "title": "Evolved Universal Terrestrial Radio Access (E-UTRA); User Equipment (UE) conformance specification; Radio transmission and reception; Part 4: Satellite access Radio Frequency (RF) and performance Conformance Testing",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/36521-4.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.521-4/36521-4-j10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.521-4/36521-4-j11.zip"
   },
   {
     "type": "TS",
@@ -597,7 +597,7 @@
     "title": "Evolved Universal Terrestrial Radio Access (E-UTRA) and Evolved Packet Core (EPC); User Equipment (UE) conformance specification; Part 1: Protocol conformance specification",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/36523-1.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.523-1/36523-1-j10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.523-1/36523-1-j20.zip"
   },
   {
     "type": "TS",

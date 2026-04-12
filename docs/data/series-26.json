@@ -1173,7 +1173,7 @@
     "title": "Study on usage of dynamically changing traffic characteristics and enhanced QoS support in 5GS for media applications and services",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26823.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.823/26823-031.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.823/26823-032.zip"
   },
   {
     "type": "TR",
@@ -1381,7 +1381,7 @@
     "title": "Study on advanced image formats",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26892.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.892/26892-010.zip"
   },
   {
     "type": "TR",
@@ -1653,7 +1653,7 @@
     "title": "Test platform for media delivery technologies",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26934.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.934/26934-001.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.934/26934-010.zip"
   },
   {
     "type": "TR",

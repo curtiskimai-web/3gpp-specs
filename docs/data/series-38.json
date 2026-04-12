@@ -637,7 +637,7 @@
     "title": "NR; User Equipment (UE) conformance specification;  Radio transmission and reception; Part 1: Range 1 standalone",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38521-1.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.521-1/38521-1-j30.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.521-1/38521-1-j40.zip"
   },
   {
     "type": "TS",
@@ -677,7 +677,7 @@
     "title": "NR; User Equipment (UE) conformance specification; Applicability of radio transmission, radio reception and radio resource management test cases",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38522.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.522/38522-j30.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.522/38522-j31.zip"
   },
   {
     "type": "TS",
