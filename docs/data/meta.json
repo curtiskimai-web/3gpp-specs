@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-12T04:45:11Z",
+  "updated_at": "2026-04-19T04:49:15Z",
   "series": [
     {
       "series": 21,
@@ -22,9 +22,9 @@
     {
       "series": 23,
       "desc": "Technical realization (Stage 2)",
-      "total": 525,
+      "total": 526,
       "ts": 192,
-      "tr": 333,
+      "tr": 334,
       "withdrawn": 82,
       "ftp_found": 431
     },

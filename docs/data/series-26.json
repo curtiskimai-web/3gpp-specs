@@ -1141,7 +1141,7 @@
     "title": "Study on enhancements to IMS Data Channel",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26814.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.814/26814-001.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.814/26814-020.zip"
   },
   {
     "type": "TR",
@@ -1173,7 +1173,7 @@
     "title": "Study on usage of dynamically changing traffic characteristics and enhanced QoS support in 5GS for media applications and services",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26823.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.823/26823-032.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.823/26823-041.zip"
   },
   {
     "type": "TR",
@@ -1205,7 +1205,7 @@
     "title": "Study on QUIC-based media delivery solutions for real-time communication",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26836.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.836/26836-011.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.836/26836-022.zip"
   },
   {
     "type": "TR",
@@ -1341,7 +1341,7 @@
     "title": "Study on Media Aspects for 6G System",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26870.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.870/26870-022.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.870/26870-030.zip"
   },
   {
     "type": "TR",
@@ -1381,7 +1381,7 @@
     "title": "Study on advanced image formats",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26892.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.892/26892-010.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.892/26892-020.zip"
   },
   {
     "type": "TR",
@@ -1653,7 +1653,7 @@
     "title": "Test platform for media delivery technologies",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26934.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.934/26934-010.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.934/26934-020.zip"
   },
   {
     "type": "TR",
@@ -1701,7 +1701,7 @@
     "title": "Study on Ultra Low Bit rate Speech Codecs",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26940.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.940/26940-061.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.940/26940-070.zip"
   },
   {
     "type": "TR",
@@ -1837,7 +1837,7 @@
     "title": "Study on 3D Gaussian splats for mobile",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26958.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.958/26958-020.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.958/26958-030.zip"
   },
   {
     "type": "TR",

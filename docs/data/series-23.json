@@ -3081,6 +3081,14 @@
   },
   {
     "type": "TR",
+    "no": "23.801-04",
+    "title": "Study on IMS Architecture Enhancement",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/23801-04.htm",
+    "ftp_latest": null
+  },
+  {
+    "type": "TR",
     "no": "23.802",
     "title": "Architectural enhancements for end-to-end Quality of Service (QoS)",
     "withdrawn": false,
