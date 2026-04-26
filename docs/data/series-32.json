@@ -3133,7 +3133,7 @@
     "title": "Study on 6G Management and Orchestration",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/32801-01.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/32_series/32.801-01/32801-01-010.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/32_series/32.801-01/32801-01-020.zip"
   },
   {
     "type": "TR",
@@ -3141,7 +3141,7 @@
     "title": "Study on Charging Aspects of 6G System",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/32801-02.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/32_series/32.801-02/32801-02-030.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/32_series/32.801-02/32801-02-040.zip"
   },
   {
     "type": "TR",
@@ -3701,7 +3701,7 @@
     "title": "Study on 5GA roaming charging reliability enhancement",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/32872.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/32_series/32.872/32872-100.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/32_series/32.872/32872-110.zip"
   },
   {
     "type": "TR",

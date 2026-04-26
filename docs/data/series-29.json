@@ -325,7 +325,7 @@
     "title": "Open Service Access (OSA) Application Programming Interface (API); Part 1: Overview",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29198-01.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.198-01/29198-01-900.zip"
+    "ftp_latest": null
   },
   {
     "type": "TS",
@@ -333,7 +333,7 @@
     "title": "Open Service Access (OSA) Application Programming Interface (API); Part 2: Common data definitions",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29198-02.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.198-02/29198-02-900.zip"
+    "ftp_latest": null
   },
   {
     "type": "TS",
@@ -341,7 +341,7 @@
     "title": "Open Service Access (OSA) Application Programming Interface (API); Part 3: Framework",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29198-03.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.198-03/29198-03-900.zip"
+    "ftp_latest": null
   },
   {
     "type": "TS",
@@ -357,7 +357,7 @@
     "title": "Open Service Access (OSA) Application Programming Interface (API); Part 4: Call control; Subpart 1:  Call control common definitions",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29198-04-1.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.198-04-1/29198-04-1-900.zip"
+    "ftp_latest": null
   },
   {
     "type": "TS",
@@ -365,7 +365,7 @@
     "title": "Open Service Access (OSA) Application Programming Interface (API); Part 4: Call control; Subpart 2: Generic call control Service Capability Feature (SCF)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29198-04-2.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.198-04-2/29198-04-2-900.zip"
+    "ftp_latest": null
   },
   {
     "type": "TS",
@@ -373,7 +373,7 @@
     "title": "Open Service Access (OSA) Application Programming Interface (API); Part 4: Call control; Subpart 3: Multi-party call control Service Capability Feature (SCF)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29198-04-3.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.198-04-3/29198-04-3-900.zip"
+    "ftp_latest": null
   },
   {
     "type": "TS",

@@ -1181,7 +1181,7 @@
     "title": "Application enablement for Ambient IoT services",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23370.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.370/23370-010.zip"
   },
   {
     "type": "TS",
@@ -1653,7 +1653,7 @@
     "title": "Study on Integration of satellite components in the 5G architecture; Phase 4",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23700-19.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-19/23700-19-140.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-19/23700-19-150.zip"
   },
   {
     "type": "TR",
@@ -1813,7 +1813,7 @@
     "title": "Study on logging and recording of mission critical services, Phase2",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23700-39.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-39/23700-39-100.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-39/23700-39-110.zip"
   },
   {
     "type": "TR",
@@ -1837,7 +1837,7 @@
     "title": "Study on application user consent",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23700-42.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-42/23700-42-111.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-42/23700-42-120.zip"
   },
   {
     "type": "TR",
@@ -3077,7 +3077,7 @@
     "title": "Study on MC architecture evolution and 6G capabilities for MC services",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23801-03.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.801-03/23801-03-010.zip"
   },
   {
     "type": "TR",

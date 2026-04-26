@@ -669,7 +669,7 @@
     "title": "Management of security-related events  (Stage 1, stage 2, and stage 3)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/28570.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.570/28570-000.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.570/28570-010.zip"
   },
   {
     "type": "TS",
@@ -1773,7 +1773,7 @@
     "title": "Study on Artificial Intelligence / Machine Learning (AI/ML) management enhancements",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/28882.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.882/28882-030.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.882/28882-040.zip"
   },
   {
     "type": "TR",
@@ -1789,7 +1789,7 @@
     "title": "Study on Service Based Management Architecture enhancement phase 4",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/28884.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.884/28884-100.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.884/28884-110.zip"
   },
   {
     "type": "TR",
@@ -1813,7 +1813,7 @@
     "title": "Study for Data management phase 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/28887.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.887/28887-040.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.887/28887-050.zip"
   },
   {
     "type": "TR",
@@ -1821,7 +1821,7 @@
     "title": "Study on enhanced exposure of management services",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/28888.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.888/28888-100.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.888/28888-110.zip"
   },
   {
     "type": "TR",
@@ -1845,7 +1845,7 @@
     "title": "Study on Charging Aspects for CAPIF Phase 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/28891.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.891/28891-030.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.891/28891-040.zip"
   },
   {
     "type": "TR",
@@ -1853,7 +1853,7 @@
     "title": "Study on unified Management interface for multi-RAT support",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/28892.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.892/28892-020.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.892/28892-030.zip"
   },
   {
     "type": "TR",
@@ -1861,7 +1861,7 @@
     "title": "Study on 5G Advanced (5GA ) charging aspects of integrated sensing and communication",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/28893.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.893/28893-010.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.893/28893-020.zip"
   },
   {
     "type": "TR",
@@ -1869,7 +1869,7 @@
     "title": "Study on charging aspects of satellite access phase 4",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/28894.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.894/28894-010.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.894/28894-020.zip"
   },
   {
     "type": "TR",
@@ -1877,7 +1877,7 @@
     "title": "Study on management aspects of integrated sensing and communication",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/28895.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.895/28895-010.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.895/28895-020.zip"
   },
   {
     "type": "TR",
@@ -1885,7 +1885,7 @@
     "title": "Study on management enhancements related to NR MIMO",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/28896.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.896/28896-000.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.896/28896-010.zip"
   },
   {
     "type": "TR",
