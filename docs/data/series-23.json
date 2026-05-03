@@ -549,7 +549,7 @@
     "title": "Integrated Sensing and Communication; Stage 2",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23137.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.137/23137-010.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.137/23137-020.zip"
   },
   {
     "type": "TS",
@@ -557,7 +557,7 @@
     "title": "Use of sensing results for Vertical Applications",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23138.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.138/23138-000.zip"
   },
   {
     "type": "TS",
@@ -1157,7 +1157,7 @@
     "title": "Functional architecture and information flows for Energy Saving Enablement Service",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23366.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.366/23366-010.zip"
   },
   {
     "type": "TS",
@@ -1517,7 +1517,7 @@
     "title": "Study of application enablement for satellite access enabled 5G services Phase 4",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23700-02.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-02/23700-02-100.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-02/23700-02-110.zip"
   },
   {
     "type": "TR",
@@ -3061,7 +3061,7 @@
     "title": "Study on Architecture for 6G System; Stage 2",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23801-01.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.801-01/23801-01-040.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.801-01/23801-01-050.zip"
   },
   {
     "type": "TR",
@@ -3069,7 +3069,7 @@
     "title": "Study on 6G Application Enablement",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23801-02.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.801-02/23801-02-010.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.801-02/23801-02-020.zip"
   },
   {
     "type": "TR",
@@ -4077,7 +4077,7 @@
     "title": "Guidelines for 3GPP Application Enablement usage",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23947.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.947/23947-110.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.947/23947-120.zip"
   },
   {
     "type": "TR",

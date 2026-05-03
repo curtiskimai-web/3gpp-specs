@@ -637,7 +637,7 @@
     "title": "Security Assurance Specification (SCAS) for the Common API Framework (CAPIF) core function",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/33531.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.531/33531-101.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.531/33531-110.zip"
   },
   {
     "type": "TS",
@@ -685,7 +685,7 @@
     "title": "Security Assurance Specification (SCAS) for NR Femto",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/33546.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.546/33546-020.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.546/33546-030.zip"
   },
   {
     "type": "TS",
@@ -693,7 +693,7 @@
     "title": "Security Assurance Specification (SCAS) for NR femto Security Gateway (SeGW)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/33547.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.547/33547-100.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.547/33547-110.zip"
   },
   {
     "type": "TS",
@@ -717,7 +717,7 @@
     "title": "Study on security aspects of CAPIF phase 4",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/33700-23.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.700-23/33700-23-030.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.700-23/33700-23-040.zip"
   },
   {
     "type": "TR",
@@ -741,7 +741,7 @@
     "title": "Study on security aspects of satellite access in 5G phase 4",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/33700-30.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.700-30/33700-30-030.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.700-30/33700-30-040.zip"
   },
   {
     "type": "TR",
@@ -781,7 +781,7 @@
     "title": "Study on transitioning to Post Quantum Cryptography (PQC) in 3GPP",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/33703.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.703/33703-040.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.703/33703-050.zip"
   },
   {
     "type": "TR",
@@ -789,7 +789,7 @@
     "title": "Study on enhanced security management service about security configuration execution",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/33704.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.704/33704-010.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.704/33704-020.zip"
   },
   {
     "type": "TR",
@@ -805,7 +805,7 @@
     "title": "Study on security aspects of ambient IoT services phase 2",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/33714.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.714/33714-030.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.714/33714-040.zip"
   },
   {
     "type": "TR",
@@ -821,7 +821,7 @@
     "title": "Study on security aspects of WAB nodes for NR",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/33724.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.724/33724-030.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.724/33724-040.zip"
   },
   {
     "type": "TR",
@@ -837,7 +837,7 @@
     "title": "Study on Security Assurance Specification (SCAS) for container-based products",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/33730.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.730/33730-110.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.730/33730-120.zip"
   },
   {
     "type": "TR",
@@ -909,7 +909,7 @@
     "title": "Study on security aspects for NR Femto phase2",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/33746.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.746/33746-040.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.746/33746-050.zip"
   },
   {
     "type": "TR",
@@ -933,7 +933,7 @@
     "title": "Study on best security practices for the Service-Based Architecture (SBA)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/33755.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.755/33755-030.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.755/33755-040.zip"
   },
   {
     "type": "TR",
@@ -949,7 +949,7 @@
     "title": "Study on security for PLMN hosting a NPN phase2",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/33758.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.758/33758-020.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.758/33758-030.zip"
   },
   {
     "type": "TR",
@@ -989,7 +989,7 @@
     "title": "Study on supporting AEAD algorithms",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/33771.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.771/33771-030.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.771/33771-040.zip"
   },
   {
     "type": "TR",
@@ -1005,7 +1005,7 @@
     "title": "Study on security and privacy aspects of integrated sensing and communication",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/33777.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.777/33777-040.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.777/33777-050.zip"
   },
   {
     "type": "TR",
@@ -1013,7 +1013,7 @@
     "title": "Study on providing PSK for MPQUIC/TLS",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/33778.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.778/33778-030.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.778/33778-040.zip"
   },
   {
     "type": "TR",
@@ -1021,7 +1021,7 @@
     "title": "Study on mission critical security next generation",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/33779.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.779/33779-010.zip"
   },
   {
     "type": "TR",
@@ -1045,7 +1045,7 @@
     "title": "Study on AIMLE service security",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/33786.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.786/33786-100.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.786/33786-110.zip"
   },
   {
     "type": "TR",
@@ -1085,7 +1085,7 @@
     "title": "Study on Security for the 6G system",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/33801-01.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.801-01/33801-01-030.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.801-01/33801-01-040.zip"
   },
   {
     "type": "TR",

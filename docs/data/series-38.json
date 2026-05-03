@@ -789,7 +789,7 @@
     "title": "NR inter-band Carrier Aggregation (CA) / Dual Connectivity (DC) Rel-16 for 3 bands Down Link (DL) / 1 bands Up Link (UL)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38716-03-01.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.716-03-01/38716-03-01-g00.zip"
   },
   {
     "type": "TR",
@@ -933,7 +933,7 @@
     "title": "Rel-20 SUL configurations and CA band combinations with SUL(s)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38720-00-00.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.720-00-00/38720-00-00-010.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.720-00-00/38720-00-00-020.zip"
   },
   {
     "type": "TR",
@@ -949,7 +949,7 @@
     "title": "Rel-20 NR inter-band CA/DC configurations including inter band CA for 2 different bands DL with up to 2 different bands UL",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38720-02-01.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.720-02-01/38720-02-01-010.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.720-02-01/38720-02-01-020.zip"
   },
   {
     "type": "TR",
@@ -957,7 +957,7 @@
     "title": "Rel-20 NR inter-band CA/DC configurations including inter band CA for 3 different bands DL with x different bands UL(x=1,2)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38720-03-01.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.720-03-01/38720-03-01-001.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.720-03-01/38720-03-01-010.zip"
   },
   {
     "type": "TR",
@@ -1133,7 +1133,7 @@
     "title": "OTA test methods for NR NTN above 10GHz",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38763.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.763/38763-010.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.763/38763-020.zip"
   },
   {
     "type": "TR",
@@ -1445,7 +1445,7 @@
     "title": "Study on the 7 to 24 GHz frequency range for NR",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38820.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.820/38820-g10.zip"
   },
   {
     "type": "TR",
@@ -1453,7 +1453,7 @@
     "title": "Solutions for NR to support Non-Terrestrial Networks (NTN)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38821.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.821/38821-g20.zip"
   },
   {
     "type": "TR",
@@ -1461,7 +1461,7 @@
     "title": "NR; User Equipment (UE) feature list",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38822.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.822/38822-j00.zip"
   },
   {
     "type": "TR",
@@ -1469,7 +1469,7 @@
     "title": "Study of further enhancement for disaggregated gNB",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38823.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.823/38823-g00.zip"
   },
   {
     "type": "TR",
@@ -1477,7 +1477,7 @@
     "title": "Study on physical layer enhancements for NR ultra-reliable and low latency case (URLLC)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38824.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.824/38824-g00.zip"
   },
   {
     "type": "TR",
@@ -1485,7 +1485,7 @@
     "title": "Study on NR industrial Internet of Things (IoT)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38825.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.825/38825-g00.zip"
   },
   {
     "type": "TR",
