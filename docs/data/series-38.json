@@ -1069,7 +1069,7 @@
     "title": "Rel-20 Adding channel bandwidth support to existing NR bands",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38754.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.754/38754-001.zip"
   },
   {
     "type": "TR",
@@ -1085,7 +1085,7 @@
     "title": "Study on 6G Radio RAN1 aspects",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38760-1.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.760-1/38760-1-020.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.760-1/38760-1-030.zip"
   },
   {
     "type": "TR",
@@ -1101,7 +1101,7 @@
     "title": "Study on 6G Radio RAN3 aspects",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38760-3.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.760-3/38760-3-041.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.760-3/38760-3-051.zip"
   },
   {
     "type": "TR",
@@ -1165,7 +1165,7 @@
     "title": "Uncrewed aerial vehicle (UAV) for NR",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38767.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.767/38767-001.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.767/38767-002.zip"
   },
   {
     "type": "TR",

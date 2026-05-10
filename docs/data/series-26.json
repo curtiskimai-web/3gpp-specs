@@ -1301,7 +1301,7 @@
     "title": "Study on APIs for 3GPP Speech and Audio Codecs",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26858.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.858/26858-100.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.858/26858-101.zip"
   },
   {
     "type": "TR",
@@ -1653,7 +1653,7 @@
     "title": "Test platform for media delivery technologies",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26934.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.934/26934-020.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.934/26934-021.zip"
   },
   {
     "type": "TR",
