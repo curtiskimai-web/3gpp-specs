@@ -949,7 +949,7 @@
     "title": "Rel-20 NR inter-band CA/DC configurations including inter band CA for 2 different bands DL with up to 2 different bands UL",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38720-02-01.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.720-02-01/38720-02-01-020.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.720-02-01/38720-02-01-030.zip"
   },
   {
     "type": "TR",
@@ -957,7 +957,7 @@
     "title": "Rel-20 NR inter-band CA/DC configurations including inter band CA for 3 different bands DL with x different bands UL(x=1,2)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38720-03-01.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.720-03-01/38720-03-01-010.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.720-03-01/38720-03-01-020.zip"
   },
   {
     "type": "TR",
@@ -981,7 +981,7 @@
     "title": "Study on GNSS (Global Navigation Satellite System) resilient NR-NTN (Non-Terrestrial Networks) operation",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38742.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.742/38742-100.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.742/38742-120.zip"
   },
   {
     "type": "TR",

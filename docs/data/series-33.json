@@ -125,7 +125,7 @@
     "title": "Security Assurance Specification for 3GPP Lawful Interception Functions; Common Baseline",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/33129-1.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.129-1/33129-1-00a.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.129-1/33129-1-00b.zip"
   },
   {
     "type": "TS",
@@ -133,7 +133,7 @@
     "title": "Security Assurance Specification for 3GPP Lawful Interception Functions; NF Embedded LI Functions",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/33129-2.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.129-2/33129-2-00c.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.129-2/33129-2-00d.zip"
   },
   {
     "type": "TS",
@@ -829,7 +829,7 @@
     "title": "Lawful Intercept Handling  of Protected Services",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/33727.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.727/33727-200.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.727/33727-201.zip"
   },
   {
     "type": "TR",
@@ -1093,7 +1093,7 @@
     "title": "Study on Lawful Interception for 6G",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/33801-06.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.801-06/33801-06-001.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.801-06/33801-06-002.zip"
   },
   {
     "type": "TR",
@@ -2061,7 +2061,7 @@
     "title": "Lawful Interception (LI) implementation guidance; LI for IMS based services",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/33929-1.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.929-1/33929-1-001.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.929-1/33929-1-00c.zip"
   },
   {
     "type": "TR",

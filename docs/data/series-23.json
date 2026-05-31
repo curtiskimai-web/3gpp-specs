@@ -557,7 +557,7 @@
     "title": "Use of sensing results for Vertical Applications",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23138.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.138/23138-000.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.138/23138-010.zip"
   },
   {
     "type": "TS",
@@ -1157,7 +1157,7 @@
     "title": "Functional architecture and information flows for Energy Saving Enablement Service",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23366.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.366/23366-010.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.366/23366-020.zip"
   },
   {
     "type": "TS",
@@ -1181,7 +1181,7 @@
     "title": "Application enablement for Ambient IoT services",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23370.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.370/23370-011.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.370/23370-020.zip"
   },
   {
     "type": "TS",
@@ -1813,7 +1813,7 @@
     "title": "Study on logging and recording of mission critical services, Phase2",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23700-39.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-39/23700-39-110.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-39/23700-39-120.zip"
   },
   {
     "type": "TR",
@@ -1837,7 +1837,7 @@
     "title": "Study on application user consent",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23700-42.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-42/23700-42-120.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-42/23700-42-130.zip"
   },
   {
     "type": "TR",
@@ -3077,7 +3077,7 @@
     "title": "Study on MC architecture evolution and 6G capabilities for MC services",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23801-03.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.801-03/23801-03-010.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.801-03/23801-03-020.zip"
   },
   {
     "type": "TR",
@@ -3085,7 +3085,7 @@
     "title": "Study on IMS Architecture Enhancement",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23801-04.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.801-04/23801-04-010.zip"
   },
   {
     "type": "TR",
