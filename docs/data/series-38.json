@@ -981,7 +981,7 @@
     "title": "Study on GNSS (Global Navigation Satellite System) resilient NR-NTN (Non-Terrestrial Networks) operation",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38742.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.742/38742-120.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.742/38742-200.zip"
   },
   {
     "type": "TR",
@@ -1133,7 +1133,7 @@
     "title": "OTA test methods for NR NTN above 10GHz",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38763.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.763/38763-020.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.763/38763-030.zip"
   },
   {
     "type": "TR",
@@ -1149,7 +1149,7 @@
     "title": "Study on Integrated Sensing And Communication (ISAC) for NR",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38765.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.765/38765-100.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.765/38765-110.zip"
   },
   {
     "type": "TR",

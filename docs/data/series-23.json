@@ -549,7 +549,7 @@
     "title": "Integrated Sensing and Communication; Stage 2",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23137.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.137/23137-020.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.137/23137-030.zip"
   },
   {
     "type": "TS",
@@ -1157,7 +1157,7 @@
     "title": "Functional architecture and information flows for Energy Saving Enablement Service",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23366.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.366/23366-020.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.366/23366-100.zip"
   },
   {
     "type": "TS",
@@ -1181,7 +1181,7 @@
     "title": "Application enablement for Ambient IoT services",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23370.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.370/23370-020.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.370/23370-100.zip"
   },
   {
     "type": "TS",
@@ -1813,7 +1813,7 @@
     "title": "Study on logging and recording of mission critical services, Phase2",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23700-39.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-39/23700-39-120.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-39/23700-39-200.zip"
   },
   {
     "type": "TR",
@@ -3061,7 +3061,7 @@
     "title": "Study on Architecture for 6G System; Stage 2",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23801-01.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.801-01/23801-01-050.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.801-01/23801-01-060.zip"
   },
   {
     "type": "TR",
@@ -4077,7 +4077,7 @@
     "title": "Guidelines for 3GPP Application Enablement usage",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23947.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.947/23947-120.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.947/23947-200.zip"
   },
   {
     "type": "TR",
