@@ -405,7 +405,7 @@
     "title": "Service aspects; Charging and billing",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/22115.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/22_series/22.115/22115-j00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/22_series/22.115/22115-j10.zip"
   },
   {
     "type": "TS",
@@ -509,7 +509,7 @@
     "title": "Mobile Metaverse Services",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/22156.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/22_series/22.156/22156-j10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/22_series/22.156/22156-j20.zip"
   },
   {
     "type": "TS",
@@ -589,7 +589,7 @@
     "title": "Service requirements for enhanced V2X scenarios",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/22186.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/22_series/22.186/22186-j00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/22_series/22.186/22186-j10.zip"
   },
   {
     "type": "TS",
@@ -725,7 +725,7 @@
     "title": "Service requirements for the 5G system",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/22261.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/22_series/22.261/22261-k60.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/22_series/22.261/22261-k70.zip"
   },
   {
     "type": "TS",
@@ -749,7 +749,7 @@
     "title": "Public Warning System (PWS) requirements",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/22268.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/22_series/22.268/22268-k10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/22_series/22.268/22268-k20.zip"
   },
   {
     "type": "TS",

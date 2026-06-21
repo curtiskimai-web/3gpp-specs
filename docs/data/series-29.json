@@ -165,7 +165,7 @@
     "title": "T8 reference point for Northbound APIs",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29122.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.122/29122-j60.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.122/29122-k00.zip"
   },
   {
     "type": "TS",
@@ -310,6 +310,14 @@
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29176.htm",
     "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.176/29176-j50.zip"
+  },
+  {
+    "type": "TS",
+    "no": "29.177",
+    "title": "IP Multimedia Subsystem (IMS); Data Channel Signalling Function (DCSF) Services; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29177.htm",
+    "ftp_latest": null
   },
   {
     "type": "TS",
@@ -829,7 +837,7 @@
     "title": "Common API Framework for 3GPP Northbound APIs",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29222.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.222/29222-j60.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.222/29222-j70.zip"
   },
   {
     "type": "TS",
@@ -941,7 +949,7 @@
     "title": "Uncrewed Aerial System Service Supplier (USS) Services; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29255.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.255/29255-j30.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.255/29255-k00.zip"
   },
   {
     "type": "TS",
@@ -957,7 +965,7 @@
     "title": "Application layer support for Uncrewed Aerial System (UAS); UAS Application Enabler (UAE) Server Services; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29257.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.257/29257-j50.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.257/29257-k00.zip"
   },
   {
     "type": "TS",
@@ -1285,7 +1293,7 @@
     "title": "Application layer support for MMTel; MMTel Enabler Server Services; stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29392.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.392/29392-j10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.392/29392-k00.zip"
   },
   {
     "type": "TS",
@@ -1365,7 +1373,7 @@
     "title": "Service Enabler Architecture Layer for Verticals (SEAL);  Network Slice Capability Enablement (NSCE) Server Services",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29435.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.435/29435-j31.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.435/29435-k00.zip"
   },
   {
     "type": "TS",
@@ -1373,7 +1381,7 @@
     "title": "Service Enabler Architecture Layer for Verticals (SEAL); Metaverse Enablement Services; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29437.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.437/29437-j11.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.437/29437-k00.zip"
   },
   {
     "type": "TS",
@@ -1397,7 +1405,7 @@
     "title": "Service Enabler Architecture Layer for Verticals (SEAL); Artificial Intelligence Machine Learning Enablement (AIMLE) Services; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29482.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.482/29482-j11.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.482/29482-k00.zip"
   },
   {
     "type": "TS",
@@ -1469,7 +1477,7 @@
     "title": "5G System; Access and Mobility Policy Control Service; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29507.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.507/29507-j60.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.507/29507-k00.zip"
   },
   {
     "type": "TS",
@@ -1477,7 +1485,7 @@
     "title": "5G System; Session Management Event Exposure Service; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29508.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.508/29508-j60.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.508/29508-k00.zip"
   },
   {
     "type": "TS",
@@ -1509,7 +1517,7 @@
     "title": "5G System; Session Management Policy Control Service; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29512.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.512/29512-j60.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.512/29512-k00.zip"
   },
   {
     "type": "TS",
@@ -1525,7 +1533,7 @@
     "title": "5G System; Policy Authorization Service; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29514.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.514/29514-j60.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.514/29514-k00.zip"
   },
   {
     "type": "TS",
@@ -1549,7 +1557,7 @@
     "title": "5G System; Application Function Event Exposure Service; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29517.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.517/29517-j60.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.517/29517-k00.zip"
   },
   {
     "type": "TS",
@@ -1565,7 +1573,7 @@
     "title": "5G System; Usage of the Unified Data Repository Service for Policy Data, Application Data and Structured Data for Exposure; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29519.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.519/29519-j60.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.519/29519-k00.zip"
   },
   {
     "type": "TS",
@@ -1573,7 +1581,7 @@
     "title": "5G System; Network Data Analytics Services; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29520.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.520/29520-j61.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.520/29520-k00.zip"
   },
   {
     "type": "TS",
@@ -1581,7 +1589,7 @@
     "title": "5G System; Binding Support Management Service; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29521.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.521/29521-j60.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.521/29521-k00.zip"
   },
   {
     "type": "TS",
@@ -1589,7 +1597,7 @@
     "title": "5G System; Network Exposure Function Northbound APIs; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29522.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.522/29522-j60.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.522/29522-k00.zip"
   },
   {
     "type": "TS",
@@ -1597,7 +1605,7 @@
     "title": "5G System; Policy Control Event Exposure Service; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29523.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.523/29523-j40.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.523/29523-k00.zip"
   },
   {
     "type": "TS",
@@ -1613,7 +1621,7 @@
     "title": "5G System; UE Policy Control Service; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29525.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.525/29525-j60.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.525/29525-k00.zip"
   },
   {
     "type": "TS",
@@ -1637,7 +1645,7 @@
     "title": "5G System; Application Function Artificial Intelligence/Machine Learning (AI/ML) Services; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29530.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.530/29530-j10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.530/29530-k00.zip"
   },
   {
     "type": "TS",
@@ -1669,7 +1677,7 @@
     "title": "5G System; Access and Mobility Policy Authorization Service; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29534.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.534/29534-j30.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.534/29534-k00.zip"
   },
   {
     "type": "TS",
@@ -1677,7 +1685,7 @@
     "title": "5G System; AKMA Anchor Services; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29535.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.535/29535-j50.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.535/29535-k00.zip"
   },
   {
     "type": "TS",
@@ -1693,7 +1701,7 @@
     "title": "5G System; Multicast/Broadcast Policy Control services; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29537.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.537/29537-j20.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.537/29537-k00.zip"
   },
   {
     "type": "TS",
@@ -1701,7 +1709,7 @@
     "title": "Enabling MSGin5G Service; Application Programming Interfaces (API) specification; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29538.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.538/29538-j40.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.538/29538-k00.zip"
   },
   {
     "type": "TS",
@@ -1733,7 +1741,7 @@
     "title": "5G System; Data Transfer Policy Control Services; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29543.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.543/29543-j30.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.543/29543-k00.zip"
   },
   {
     "type": "TS",
@@ -1745,11 +1753,19 @@
   },
   {
     "type": "TS",
+    "no": "29.545",
+    "title": "5G System; Integrated Sensing and Communication; Sensing Function Services; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29545.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.545/29545-010.zip"
+  },
+  {
+    "type": "TS",
     "no": "29.548",
     "title": "Service Enabler Architecture Layer for Verticals (SEAL); SEAL Data Delivery (SEALDD) Server Services; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29548.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.548/29548-j50.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.548/29548-k00.zip"
   },
   {
     "type": "TS",
@@ -1757,7 +1773,7 @@
     "title": "Service Enabler Architecture Layer for Verticals (SEAL); Application Programming Interface (API) specification; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29549.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.549/29549-j60.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.549/29549-k00.zip"
   },
   {
     "type": "TS",
@@ -1773,7 +1789,7 @@
     "title": "5G System; Packet Flow Description Management Service; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29551.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.551/29551-j40.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.551/29551-k00.zip"
   },
   {
     "type": "TS",
@@ -1797,7 +1813,7 @@
     "title": "5G System; Background Data Transfer Policy Control Service; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29554.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.554/29554-j21.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.554/29554-k00.zip"
   },
   {
     "type": "TS",
@@ -1829,7 +1845,7 @@
     "title": "Enabling Edge Applications; Application Programming Interface (API) specification; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29558.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.558/29558-j60.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.558/29558-j70.zip"
   },
   {
     "type": "TS",
@@ -1877,7 +1893,7 @@
     "title": "5G System; Time Sensitive Communication and Time Synchronization Function Services; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29565.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.565/29565-j60.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.565/29565-k00.zip"
   },
   {
     "type": "TS",
@@ -1885,7 +1901,23 @@
     "title": "5G System; Energy Information Function Services; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29566.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.566/29566-j10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.566/29566-k00.zip"
+  },
+  {
+    "type": "TS",
+    "no": "29.567",
+    "title": "Service Enabler Architecture Layer for Verticals (SEAL); SEAL Energy Saving Enablement (ESE) Server Services; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29567.htm",
+    "ftp_latest": null
+  },
+  {
+    "type": "TS",
+    "no": "29.568",
+    "title": "Application layer support for Ambient IoT (AIoT); AIoT Enablement (AIOTE) Server Services; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29568.htm",
+    "ftp_latest": null
   },
   {
     "type": "TS",
@@ -1893,7 +1925,7 @@
     "title": "5G System; Ambient IoT Function (AIOTF) Services; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29569.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.569/29569-j20.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.569/29569-k00.zip"
   },
   {
     "type": "TS",
@@ -1933,7 +1965,7 @@
     "title": "5G System; Data Collection Coordination Services; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29574.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.574/29574-j60.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.574/29574-k00.zip"
   },
   {
     "type": "TS",
@@ -1941,7 +1973,7 @@
     "title": "5G System; Analytics Data Repository Services; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29575.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.575/29575-j60.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.575/29575-k00.zip"
   },
   {
     "type": "TS",
@@ -1949,7 +1981,7 @@
     "title": "5G System; Messaging Framework Adaptor Services; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29576.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.576/29576-j60.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.576/29576-k00.zip"
   },
   {
     "type": "TS",
@@ -1981,7 +2013,7 @@
     "title": "5G System; Multicast/Broadcast Service Function services; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29580.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.580/29580-j50.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.580/29580-j60.zip"
   },
   {
     "type": "TS",
@@ -2029,7 +2061,7 @@
     "title": "5G System; Network Exposure Function Southbound Services; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29591.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.591/29591-j60.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.591/29591-k00.zip"
   },
   {
     "type": "TS",
@@ -2305,11 +2337,35 @@
   },
   {
     "type": "TR",
+    "no": "29.830",
+    "title": "CT WG3 Aspects of protocol study of the 6G System; 3GPP Network Capability Exposure",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29830.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.830/29830-010.zip"
+  },
+  {
+    "type": "TR",
     "no": "29.831",
     "title": "Study on NRF API enhancements to avoid signalling and storing of redundant data",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29831.htm",
     "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.831/29831-i00.zip"
+  },
+  {
+    "type": "TR",
+    "no": "29.832",
+    "title": "Study on the Protocol for Artificial Intelligence in 6G",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29832.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.832/29832-010.zip"
+  },
+  {
+    "type": "TR",
+    "no": "29.833",
+    "title": "Study on CT aspects of 6G Network Interworking with External Data Networks",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29833.htm",
+    "ftp_latest": null
   },
   {
     "type": "TR",
@@ -2366,6 +2422,14 @@
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29844.htm",
     "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.844/29844-e00.zip"
+  },
+  {
+    "type": "TR",
+    "no": "29.845",
+    "title": "Study on Protocol aspects for Data Framework in Core Network of 6G System",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/29845.htm",
+    "ftp_latest": null
   },
   {
     "type": "TR",

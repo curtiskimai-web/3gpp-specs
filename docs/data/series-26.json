@@ -1049,6 +1049,46 @@
   },
   {
     "type": "TS",
+    "no": "26.540",
+    "title": "Ultra Low Bitrate Speech Codec (ULBC); General description",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/26540.htm",
+    "ftp_latest": null
+  },
+  {
+    "type": "TS",
+    "no": "26.541",
+    "title": "Ultra Low Bitrate Speech Codec (ULBC); C reference software and model formats",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/26541.htm",
+    "ftp_latest": null
+  },
+  {
+    "type": "TS",
+    "no": "26.542",
+    "title": "Ultra Low Bitrate Speech Codec (ULBC); Conformance testing",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/26542.htm",
+    "ftp_latest": null
+  },
+  {
+    "type": "TS",
+    "no": "26.543",
+    "title": "Ultra Low Bitrate Speech Codec (ULBC); RTP payload format and SDP parameters",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/26543.htm",
+    "ftp_latest": null
+  },
+  {
+    "type": "TS",
+    "no": "26.544",
+    "title": "Ultra Low Bitrate Speech Codec (ULBC); DTX framework including VAD and CNG",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/26544.htm",
+    "ftp_latest": null
+  },
+  {
+    "type": "TS",
     "no": "26.565",
     "title": "Split Rendering Media Service Enabler",
     "withdrawn": false,
@@ -1854,6 +1894,14 @@
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26962.htm",
     "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.962/26962-j00.zip"
+  },
+  {
+    "type": "TR",
+    "no": "26.965",
+    "title": "Ultra Low Bitrate Speech Codec (ULBC); Characterisation results",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/26965.htm",
+    "ftp_latest": null
   },
   {
     "type": "TR",

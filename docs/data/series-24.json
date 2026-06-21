@@ -449,6 +449,14 @@
   },
   {
     "type": "TS",
+    "no": "24.230",
+    "title": "IP multimedia call control protocol based on binary-encoded signalling",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24230.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.230/24230-010.zip"
+  },
+  {
+    "type": "TS",
     "no": "24.234",
     "title": "3GPP system to Wireless Local Area Network (WLAN) interworking; WLAN User Equipment (WLAN UE) to network protocols; Stage 3",
     "withdrawn": false,
@@ -1577,6 +1585,14 @@
   },
   {
     "type": "TR",
+    "no": "24.804",
+    "title": "Study on the Protocol Enhancements for Emergency Call Robustness",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24804.htm",
+    "ftp_latest": null
+  },
+  {
+    "type": "TR",
     "no": "24.811",
     "title": "Study on the support for minimization of service interruption",
     "withdrawn": false,
@@ -1646,6 +1662,22 @@
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/24860.htm",
     "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.860/24860-020.zip"
+  },
+  {
+    "type": "TS",
+    "no": "24.861",
+    "title": "Study on Miscellaneous functions and services for 6G System",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24861.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.861/24861-010.zip"
+  },
+  {
+    "type": "TR",
+    "no": "24.862",
+    "title": "Study on Network selection aspects of the 6G System",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/24862.htm",
+    "ftp_latest": null
   },
   {
     "type": "TR",

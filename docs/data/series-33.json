@@ -109,7 +109,7 @@
     "title": "Lawful Interception (LI) architecture and functions",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/33127.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.127/33127-j60.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.127/33127-j70.zip"
   },
   {
     "type": "TS",
@@ -117,7 +117,7 @@
     "title": "Security; Protocol and procedures for Lawful Interception (LI); Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/33128.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.128/33128-j60.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.128/33128-j70.zip"
   },
   {
     "type": "TS",
@@ -829,7 +829,7 @@
     "title": "Lawful Interception Handling of Protected Services",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/33727.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.727/33727-201.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.727/33727-j00.zip"
   },
   {
     "type": "TR",
@@ -2045,7 +2045,7 @@
     "title": "ADMF logic for provisioning Lawful Interception (LI)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/33928.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.928/33928-j10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.928/33928-j20.zip"
   },
   {
     "type": "TR",

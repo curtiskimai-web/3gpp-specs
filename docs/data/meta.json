@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T06:36:53Z",
+  "updated_at": "2026-06-21T06:48:35Z",
   "series": [
     {
       "series": 21,
@@ -22,20 +22,20 @@
     {
       "series": 23,
       "desc": "Technical realization (Stage 2)",
-      "total": 526,
-      "ts": 192,
+      "total": 527,
+      "ts": 193,
       "tr": 334,
       "withdrawn": 82,
-      "ftp_found": 436
+      "ftp_found": 437
     },
     {
       "series": 24,
       "desc": "Signalling protocols – UE to network (Stage 3)",
-      "total": 216,
-      "ts": 194,
-      "tr": 22,
+      "total": 220,
+      "ts": 196,
+      "tr": 24,
       "withdrawn": 21,
-      "ftp_found": 194
+      "ftp_found": 196
     },
     {
       "series": 25,
@@ -49,9 +49,9 @@
     {
       "series": 26,
       "desc": "Codecs",
-      "total": 249,
-      "ts": 134,
-      "tr": 115,
+      "total": 255,
+      "ts": 139,
+      "tr": 116,
       "withdrawn": 19,
       "ftp_found": 228
     },
@@ -76,11 +76,11 @@
     {
       "series": 29,
       "desc": "Signalling protocols (MAP & related)",
-      "total": 334,
-      "ts": 263,
-      "tr": 71,
+      "total": 342,
+      "ts": 267,
+      "tr": 75,
       "withdrawn": 26,
-      "ftp_found": 308
+      "ftp_found": 311
     },
     {
       "series": 31,
