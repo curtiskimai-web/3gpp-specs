@@ -93,7 +93,7 @@
     "title": "Interworking between the Public Land Mobile Network (PLMN) supporting packet based services and Packet Data Networks (PDN)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29061.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.061/29061-j10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.061/29061-k00.zip"
   },
   {
     "type": "TS",
@@ -837,7 +837,7 @@
     "title": "Common API Framework for 3GPP Northbound APIs",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29222.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.222/29222-j70.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.222/29222-k00.zip"
   },
   {
     "type": "TS",
@@ -925,7 +925,7 @@
     "title": "Interface between the Control Plane and the User Plane nodes",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29244.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.244/29244-j50.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.244/29244-k00.zip"
   },
   {
     "type": "TS",
@@ -1173,7 +1173,7 @@
     "title": "Home Subscriber Server (HSS) diameter interfaces for interworking with packet data networks and applications",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29336.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.336/29336-j10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.336/29336-k00.zip"
   },
   {
     "type": "TS",
@@ -1205,7 +1205,7 @@
     "title": "Proximity-services (ProSe) function to Home Subscriber Server (HSS) aspects; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29344.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.344/29344-j00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.344/29344-j10.zip"
   },
   {
     "type": "TS",
@@ -1277,7 +1277,7 @@
     "title": "V2X Control Function to Home Subscriber Server (HSS) aspects (V4); Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29388.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.388/29388-j00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.388/29388-j10.zip"
   },
   {
     "type": "TS",
@@ -1421,7 +1421,7 @@
     "title": "5G System; Technical Realization of Service Based Architecture; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29500.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.500/29500-j60.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.500/29500-j70.zip"
   },
   {
     "type": "TS",
@@ -1525,7 +1525,7 @@
     "title": "5G System; Policy and Charging Control signalling flows and QoS parameter mapping; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29513.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.513/29513-j60.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.513/29513-k00.zip"
   },
   {
     "type": "TS",
@@ -1613,7 +1613,7 @@
     "title": "5G System; Cause codes mapping between 5GC interfaces; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29524.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.524/29524-j00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.524/29524-k00.zip"
   },
   {
     "type": "TS",
@@ -1797,7 +1797,7 @@
     "title": "5G System; Network Data Analytics signalling flows; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29552.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.552/29552-j60.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.552/29552-k00.zip"
   },
   {
     "type": "TS",
@@ -1861,7 +1861,7 @@
     "title": "5G System; Interworking between 5G Network and external Data Networks; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29561.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.561/29561-j50.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.561/29561-k00.zip"
   },
   {
     "type": "TS",

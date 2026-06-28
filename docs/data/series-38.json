@@ -261,7 +261,7 @@
     "title": "NR; Physical channels and modulation",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38211.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.211/38211-j30.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.211/38211-j40.zip"
   },
   {
     "type": "TS",
@@ -269,7 +269,7 @@
     "title": "NR; Multiplexing and channel coding",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38212.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.212/38212-j30.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.212/38212-j40.zip"
   },
   {
     "type": "TS",
@@ -277,7 +277,7 @@
     "title": "NR; Physical layer procedures for control",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38213.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.213/38213-j30.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.213/38213-j40.zip"
   },
   {
     "type": "TS",
@@ -285,7 +285,7 @@
     "title": "NR; Physical layer procedures for data",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38214.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.214/38214-j30.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.214/38214-j40.zip"
   },
   {
     "type": "TS",
@@ -293,7 +293,7 @@
     "title": "NR; Physical layer measurements",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38215.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.215/38215-j20.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.215/38215-j30.zip"
   },
   {
     "type": "TS",
@@ -309,7 +309,7 @@
     "title": "NR; NR and NG-RAN Overall description; Stage-2",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38300.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.300/38300-j20.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.300/38300-j30.zip"
   },
   {
     "type": "TS",
@@ -333,7 +333,7 @@
     "title": "NR; User Equipment (UE) radio access capabilities",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38306.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.306/38306-j20.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.306/38306-j30.zip"
   },
   {
     "type": "TS",
@@ -357,7 +357,7 @@
     "title": "NR; Medium Access Control (MAC) protocol specification",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38321.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.321/38321-j20.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.321/38321-j30.zip"
   },
   {
     "type": "TS",
@@ -381,7 +381,7 @@
     "title": "NR; Radio Resource Control (RRC); Protocol specification",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38331.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.331/38331-j20.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.331/38331-j30.zip"
   },
   {
     "type": "TS",
@@ -421,7 +421,7 @@
     "title": "NG-RAN; Architecture description",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38401.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.401/38401-j20.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.401/38401-j30.zip"
   },
   {
     "type": "TS",
@@ -453,7 +453,7 @@
     "title": "NG-RAN; NG Application Protocol (NGAP)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38413.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.413/38413-j20.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.413/38413-j30.zip"
   },
   {
     "type": "TS",
@@ -501,7 +501,7 @@
     "title": "NG-RAN; Xn Application Protocol (XnAP)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38423.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.423/38423-j20.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.423/38423-j30.zip"
   },
   {
     "type": "TS",
@@ -525,7 +525,7 @@
     "title": "NG-RAN; NR Positioning Protocol A (NRPPa)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38455.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.455/38455-j10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.455/38455-j20.zip"
   },
   {
     "type": "TS",
@@ -565,7 +565,7 @@
     "title": "NG-RAN; F1 general aspects and principles",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38470.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.470/38470-j10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.470/38470-j20.zip"
   },
   {
     "type": "TS",
@@ -589,7 +589,7 @@
     "title": "NG-RAN; F1 Application Protocol (F1AP)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38473.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.473/38473-j20.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.473/38473-j30.zip"
   },
   {
     "type": "TS",
@@ -613,7 +613,7 @@
     "title": "5GS; User Equipment (UE) conformance specification; Part 1: Common test environment",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38508-1.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.508-1/38508-1-j30.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.508-1/38508-1-j40.zip"
   },
   {
     "type": "TS",
@@ -645,7 +645,7 @@
     "title": "NR; User Equipment (UE) conformance specification;  Radio transmission and reception; Part 2: Range 2 standalone",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38521-2.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.521-2/38521-2-j20.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.521-2/38521-2-j30.zip"
   },
   {
     "type": "TS",
@@ -653,7 +653,7 @@
     "title": "NR; User Equipment (UE) conformance specification; Radio transmission and reception; Part 3: Range 1 and Range 2 Interworking operation with other radios",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38521-3.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.521-3/38521-3-j40.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.521-3/38521-3-j50.zip"
   },
   {
     "type": "TS",
@@ -677,7 +677,7 @@
     "title": "NR; User Equipment (UE) conformance specification; Applicability of radio transmission, radio reception and radio resource management test cases",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38522.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.522/38522-j31.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.522/38522-j40.zip"
   },
   {
     "type": "TS",
@@ -701,7 +701,7 @@
     "title": "5GS; User Equipment (UE) conformance specification; Part 3: Protocol Test Suites",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38523-3.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.523-3/38523-3-i60.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.523-3/38523-3-j00.zip"
   },
   {
     "type": "TS",
@@ -717,7 +717,7 @@
     "title": "NR; User Equipment (UE) Multiple Input Multiple Output (MIMO) Over-the-Air (OTA) performance; Conformance testing",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38551.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.551/38551-i60.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.551/38551-j00.zip"
   },
   {
     "type": "TS",
@@ -725,7 +725,7 @@
     "title": "NR; User Equipment (UE) conformance specification; UE TRP (Total Radiated Power) and TRS (Total Radiated Sensitivity) requirements and test methodologies for FR1 (NR SA and EN-DC)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38561.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.561/38561-j00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.561/38561-j10.zip"
   },
   {
     "type": "TS",
@@ -981,7 +981,7 @@
     "title": "Study on GNSS (Global Navigation Satellite System) resilient NR-NTN (Non-Terrestrial Networks) operation",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38742.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.742/38742-200.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.742/38742-k00.zip"
   },
   {
     "type": "TR",
@@ -1101,7 +1101,7 @@
     "title": "Study on 6G Radio RAN3 aspects",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38760-3.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.760-3/38760-3-051.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.760-3/38760-3-060.zip"
   },
   {
     "type": "TR",
@@ -1149,7 +1149,7 @@
     "title": "Study on Integrated Sensing And Communication (ISAC) for NR",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38765.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.765/38765-110.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.765/38765-k00.zip"
   },
   {
     "type": "TR",
@@ -2093,7 +2093,7 @@
     "title": "Study on channel model for frequencies from 0.5 to 100 GHz",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38901.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.901/38901-j30.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.901/38901-j40.zip"
   },
   {
     "type": "TR",
@@ -2101,7 +2101,7 @@
     "title": "NR; Derivation of test tolerances and measurement uncertainty for User Equipment (UE) conformance test cases",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38903.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.903/38903-j20.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.903/38903-j30.zip"
   },
   {
     "type": "TR",
@@ -2109,7 +2109,7 @@
     "title": "NR; Derivation of test points for radio transmission and reception User Equipment (UE) conformance test cases",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38905.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.905/38905-j30.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.905/38905-j40.zip"
   },
   {
     "type": "TR",

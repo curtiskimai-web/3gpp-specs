@@ -165,7 +165,7 @@
     "title": "Evolved Universal Terrestrial Radio Access (E-UTRA); Physical layer procedures",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/36213.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.213/36213-j30.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.213/36213-j40.zip"
   },
   {
     "type": "TS",
@@ -277,7 +277,7 @@
     "title": "Evolved Universal Terrestrial Radio Access (E-UTRA); Radio Resource Control (RRC); Protocol specification",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/36331.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.331/36331-j21.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.331/36331-j30.zip"
   },
   {
     "type": "TS",
@@ -341,7 +341,7 @@
     "title": "Evolved Universal Terrestrial Radio Access Network (E-UTRAN); S1 Application Protocol (S1AP)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/36413.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.413/36413-j10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.413/36413-j20.zip"
   },
   {
     "type": "TS",
@@ -549,7 +549,7 @@
     "title": "Evolved Universal Terrestrial Radio Access (E-UTRA) and Evolved Packet Core (EPC); Common test environments for User Equipment (UE) conformance testing",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/36508.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.508/36508-j10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.508/36508-j20.zip"
   },
   {
     "type": "TS",
@@ -573,7 +573,7 @@
     "title": "Evolved Universal Terrestrial Radio Access (E-UTRA); User Equipment (UE) conformance specification; Radio transmission and reception; Part 2: Implementation Conformance Statement (ICS)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/36521-2.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.521-2/36521-2-j10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.521-2/36521-2-j20.zip"
   },
   {
     "type": "TS",
@@ -581,7 +581,7 @@
     "title": "Evolved Universal Terrestrial Radio Access (E-UTRA); User Equipment (UE) conformance specification; Radio transmission and reception; Part 3: Radio Resource Management (RRM) conformance testing",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/36521-3.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.521-3/36521-3-j10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.521-3/36521-3-j20.zip"
   },
   {
     "type": "TS",
@@ -605,7 +605,7 @@
     "title": "Evolved Universal Terrestrial Radio Access (E-UTRA) and Evolved Packet Core (EPC); User Equipment (UE) conformance specification; Part 2: Implementation Conformance Statement (ICS) proforma specification",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/36523-2.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.523-2/36523-2-j20.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.523-2/36523-2-j30.zip"
   },
   {
     "type": "TS",
@@ -613,7 +613,7 @@
     "title": "Evolved Universal Terrestrial Radio Access (E-UTRA) and Evolved Packet Core (EPC); User Equipment (UE) conformance specification; Part 3: Test suites",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/36523-3.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.523-3/36523-3-ib0.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.523-3/36523-3-j00.zip"
   },
   {
     "type": "TS",

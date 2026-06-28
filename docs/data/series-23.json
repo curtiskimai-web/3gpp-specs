@@ -13,7 +13,7 @@
     "title": "Numbering, addressing and identification",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23003.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.003/23003-j60.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.003/23003-k00.zip"
   },
   {
     "type": "TS",
@@ -621,7 +621,7 @@
     "title": "IP Multimedia Subsystem (IMS) emergency sessions",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23167.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.167/23167-j11.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.167/23167-k00.zip"
   },
   {
     "type": "TS",
@@ -717,7 +717,7 @@
     "title": "Policy and charging control architecture",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23203.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.203/23203-j20.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.203/23203-k00.zip"
   },
   {
     "type": "TS",
@@ -829,7 +829,7 @@
     "title": "IP Multimedia Subsystem (IMS); Stage 2",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23228.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.228/23228-j60.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.228/23228-k00.zip"
   },
   {
     "type": "TS",
@@ -965,7 +965,7 @@
     "title": "Circuit Switched (CS) fallback in Evolved Packet System (EPS); Stage 2",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23272.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.272/23272-j10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.272/23272-k00.zip"
   },
   {
     "type": "TS",
@@ -973,7 +973,7 @@
     "title": "5G System (5GS) Location Services (LCS); Stage 2",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23273.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.273/23273-j60.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.273/23273-j70.zip"
   },
   {
     "type": "TS",
@@ -1061,7 +1061,7 @@
     "title": "Architecture enhancements for 5G System (5GS) to support network data analytics services",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23288.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.288/23288-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.288/23288-k10.zip"
   },
   {
     "type": "TS",
@@ -1093,7 +1093,7 @@
     "title": "Proximity based Services (ProSe) in the 5G System (5GS)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23304.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.304/23304-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.304/23304-k10.zip"
   },
   {
     "type": "TS",
@@ -1181,7 +1181,7 @@
     "title": "Architecture support for Ambient power-enabled Internet of Things; Stage 2",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23369.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.369/23369-j30.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.369/23369-k00.zip"
   },
   {
     "type": "TS",
@@ -1205,7 +1205,7 @@
     "title": "IMS Restoration Procedures",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23380.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.380/23380-j10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.380/23380-k00.zip"
   },
   {
     "type": "TS",
@@ -1221,7 +1221,7 @@
     "title": "General Packet Radio Service (GPRS) enhancements for Evolved Universal Terrestrial Radio Access Network (E-UTRAN) access",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23401.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.401/23401-j50.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.401/23401-k00.zip"
   },
   {
     "type": "TS",
@@ -1333,7 +1333,7 @@
     "title": "System architecture for the 5G System (5GS)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23501.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.501/23501-k10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.501/23501-k20.zip"
   },
   {
     "type": "TS",
@@ -1341,7 +1341,7 @@
     "title": "Procedures for the 5G System (5GS)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23502.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.502/23502-k10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.502/23502-k20.zip"
   },
   {
     "type": "TS",
@@ -1349,7 +1349,7 @@
     "title": "Policy and charging control framework for the 5G System (5GS); Stage 2",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23503.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.503/23503-k10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.503/23503-k20.zip"
   },
   {
     "type": "TS",
@@ -1421,7 +1421,7 @@
     "title": "5G System; Restoration procedures",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23527.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.527/23527-j50.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.527/23527-k00.zip"
   },
   {
     "type": "TS",
@@ -1453,7 +1453,7 @@
     "title": "5G System Enhancements for Edge Computing; Stage 2",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23548.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.548/23548-j50.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.548/23548-k00.zip"
   },
   {
     "type": "TS",
@@ -1501,7 +1501,7 @@
     "title": "User data interworking, coexistence and migration; Stage 2",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23632.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.632/23632-j20.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.632/23632-k00.zip"
   },
   {
     "type": "TS",
@@ -3077,7 +3077,7 @@
     "title": "Study on 6G Application Enablement",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23801-02.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.801-02/23801-02-030.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.801-02/23801-02-031.zip"
   },
   {
     "type": "TR",
@@ -3094,6 +3094,14 @@
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23801-04.htm",
     "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.801-04/23801-04-010.zip"
+  },
+  {
+    "type": "TR",
+    "no": "23.801-05",
+    "title": "Study on Improvements on Capability Exposure",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/23801-05.htm",
+    "ftp_latest": null
   },
   {
     "type": "TR",

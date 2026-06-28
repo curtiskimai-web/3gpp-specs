@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T06:48:35Z",
+  "updated_at": "2026-06-28T06:14:36Z",
   "series": [
     {
       "series": 21,
@@ -22,9 +22,9 @@
     {
       "series": 23,
       "desc": "Technical realization (Stage 2)",
-      "total": 527,
+      "total": 528,
       "ts": 193,
-      "tr": 334,
+      "tr": 335,
       "withdrawn": 82,
       "ftp_found": 437
     },
@@ -103,9 +103,9 @@
     {
       "series": 33,
       "desc": "Security aspects",
-      "total": 276,
-      "ts": 89,
-      "tr": 187,
+      "total": 279,
+      "ts": 91,
+      "tr": 188,
       "withdrawn": 32,
       "ftp_found": 241
     },
