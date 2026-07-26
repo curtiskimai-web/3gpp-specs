@@ -2085,7 +2085,7 @@
     "title": "Lawful Interception (LI) implementation guidance; LI for IMS based services",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/33929-1.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.929-1/33929-1-00c.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.929-1/33929-1-00d.zip"
   },
   {
     "type": "TR",
@@ -2093,7 +2093,7 @@
     "title": "Lawful Interception (LI) implementation guidance; LI for IMS based STIR/SHAKEN",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/33929-2.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.929-2/33929-2-001.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.929-2/33929-2-002.zip"
   },
   {
     "type": "TR",
@@ -2101,7 +2101,7 @@
     "title": "Lawful Interception (LI) implementation guidance; LI for messaging services",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/33929-3.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.929-3/33929-3-001.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.929-3/33929-3-002.zip"
   },
   {
     "type": "TR",
@@ -2109,7 +2109,7 @@
     "title": "Lawful Interception (LI) implementation guidance; LI for data in 5G core",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/33929-4.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.929-4/33929-4-002.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.929-4/33929-4-003.zip"
   },
   {
     "type": "TR",
@@ -2117,7 +2117,7 @@
     "title": "Lawful Interception (LI) implementation guidance; LI for ID association caching",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/33929-5.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.929-5/33929-5-002.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.929-5/33929-5-003.zip"
   },
   {
     "type": "TR",
@@ -2125,7 +2125,7 @@
     "title": "Lawful Interception (LI) implementation guidance; LI for IMS based RCS",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/33929-6.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.929-6/33929-6-002.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.929-6/33929-6-003.zip"
   },
   {
     "type": "TR",
@@ -2133,7 +2133,7 @@
     "title": "Lawful Interception (LI) implementation guidance; LI location acquisition capabilities",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/33929-7.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.929-7/33929-7-002.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.929-7/33929-7-003.zip"
   },
   {
     "type": "TR",
@@ -2141,7 +2141,7 @@
     "title": "Lawful Interception (LI) implementation guidance; LI for MMS",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/33929-8.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.929-8/33929-8-002.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.929-8/33929-8-003.zip"
   },
   {
     "type": "TR",
@@ -2149,7 +2149,7 @@
     "title": "Lawful Interception (LI) implementation guidance; LI for PTC",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/33929-9.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.929-9/33929-9-002.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.929-9/33929-9-003.zip"
   },
   {
     "type": "TR",

@@ -1045,7 +1045,7 @@
     "title": "Application layer support for Vehicle-to-Everything (V2X) services; Functional architecture and information flows",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23286.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.286/23286-j10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.286/23286-k00.zip"
   },
   {
     "type": "TS",
@@ -1165,7 +1165,7 @@
     "title": "System architecture for application energy consumption information collection and reporting; Stage 2",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23367.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.367/23367-001.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.367/23367-010.zip"
   },
   {
     "type": "TS",
