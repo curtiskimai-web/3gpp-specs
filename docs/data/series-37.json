@@ -297,11 +297,27 @@
   },
   {
     "type": "TS",
+    "no": "37.579-10",
+    "title": "Mission Critical (MC) services; Server application common test environment",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37579-10.htm",
+    "ftp_latest": null
+  },
+  {
+    "type": "TS",
     "no": "37.579-2",
     "title": "Mission Critical (MC) services; Part 2: Mission Critical Push To Talk (MCPTT) User Equipment (UE) Protocol conformance specification",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/37579-2.htm",
     "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/37_series/37.579-2/37579-2-i00.zip"
+  },
+  {
+    "type": "TS",
+    "no": "37.579-3",
+    "title": "Mission Critical (MC) services; Mission Critical Push To Talk (MCPTT) server application conformance specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37579-3.htm",
+    "ftp_latest": null
   },
   {
     "type": "TS",
@@ -334,6 +350,22 @@
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/37579-7.htm",
     "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/37_series/37.579-7/37579-7-h60.zip"
+  },
+  {
+    "type": "TS",
+    "no": "37.579-8",
+    "title": "Mission Critical (MC) services; Mission Critical Video (MCVideo) server application conformance specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37579-8.htm",
+    "ftp_latest": null
+  },
+  {
+    "type": "TS",
+    "no": "37.579-9",
+    "title": "Mission Critical (MC) services; Mission Critical Data (MCData) server application conformance specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/37579-9.htm",
+    "ftp_latest": null
   },
   {
     "type": "TR",

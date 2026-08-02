@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-26T05:28:54Z",
+  "updated_at": "2026-08-02T05:23:51Z",
   "series": [
     {
       "series": 21,
@@ -139,8 +139,8 @@
     {
       "series": 37,
       "desc": "Multiple Radio Access Technology",
-      "total": 142,
-      "ts": 42,
+      "total": 146,
+      "ts": 46,
       "tr": 100,
       "withdrawn": 8,
       "ftp_found": 134
