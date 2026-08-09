@@ -837,7 +837,7 @@
     "title": "Common API Framework for 3GPP Northbound APIs",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29222.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.222/29222-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.222/29222-k01.zip"
   },
   {
     "type": "TS",
@@ -1405,7 +1405,7 @@
     "title": "Service Enabler Architecture Layer for Verticals (SEAL); Artificial Intelligence Machine Learning Enablement (AIMLE) Services; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29482.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.482/29482-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.482/29482-k01.zip"
   },
   {
     "type": "TS",

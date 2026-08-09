@@ -257,6 +257,14 @@
   },
   {
     "type": "TS",
+    "no": "28.320",
+    "title": "Software management for PNF",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/28320.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.320/28320-000.zip"
+  },
+  {
+    "type": "TS",
     "no": "28.390",
     "title": "Telecommunication management; Fixed Mobile Convergence (FMC); Interface Integration Reference Point (IRP) Solution Profiles (SPs)",
     "withdrawn": false,
@@ -1886,6 +1894,22 @@
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/28896.htm",
     "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.896/28896-k00.zip"
+  },
+  {
+    "type": "TR",
+    "no": "28.897",
+    "title": "Study on charging enhancements of Ambient power-enabled Internet of Things",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/28897.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.897/28897-000.zip"
+  },
+  {
+    "type": "TR",
+    "no": "28.898",
+    "title": "Study on Charging Aspects related to NWDAF Interacting with Untrusted AF",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/28898.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.898/28898-000.zip"
   },
   {
     "type": "TR",

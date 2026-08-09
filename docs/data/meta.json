@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T05:23:51Z",
+  "updated_at": "2026-08-09T03:37:55Z",
   "series": [
     {
       "series": 21,
@@ -67,11 +67,11 @@
     {
       "series": 28,
       "desc": "Telecom management (OAM)",
-      "total": 249,
-      "ts": 151,
-      "tr": 98,
+      "total": 252,
+      "ts": 152,
+      "tr": 100,
       "withdrawn": 16,
-      "ftp_found": 231
+      "ftp_found": 234
     },
     {
       "series": 29,
