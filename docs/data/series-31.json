@@ -241,6 +241,14 @@
   },
   {
     "type": "TS",
+    "no": "31.369",
+    "title": "UICC-AIoT device interface; Physical and logical characteristics",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/31369.htm",
+    "ftp_latest": null
+  },
+  {
+    "type": "TS",
     "no": "31.50",
     "title": "Essential requirements for UMTS Mobile Stations (ME) operating within frequency bands 1885-1980, 2010-2025 and 2110-2200 MHz",
     "withdrawn": true,

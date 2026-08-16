@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T03:37:55Z",
+  "updated_at": "2026-08-16T02:55:41Z",
   "series": [
     {
       "series": 21,
@@ -13,11 +13,11 @@
     {
       "series": 22,
       "desc": "Service aspects (Stage 1)",
-      "total": 271,
+      "total": 272,
       "ts": 120,
-      "tr": 151,
+      "tr": 152,
       "withdrawn": 41,
-      "ftp_found": 230
+      "ftp_found": 231
     },
     {
       "series": 23,
@@ -85,8 +85,8 @@
     {
       "series": 31,
       "desc": "SIM / UICC",
-      "total": 42,
-      "ts": 32,
+      "total": 43,
+      "ts": 33,
       "tr": 10,
       "withdrawn": 6,
       "ftp_found": 35

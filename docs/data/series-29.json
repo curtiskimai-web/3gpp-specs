@@ -1741,7 +1741,7 @@
     "title": "5G System; Data Transfer Policy Control Services; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29543.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.543/29543-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.543/29543-k01.zip"
   },
   {
     "type": "TS",
@@ -1773,7 +1773,7 @@
     "title": "Service Enabler Architecture Layer for Verticals (SEAL); Application Programming Interface (API) specification; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29549.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.549/29549-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.549/29549-k01.zip"
   },
   {
     "type": "TS",

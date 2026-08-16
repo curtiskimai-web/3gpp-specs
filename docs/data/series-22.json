@@ -1345,6 +1345,14 @@
   },
   {
     "type": "TR",
+    "no": "22.846",
+    "title": "Study on additional capabilities for emergency services",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/22846.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/22_series/22.846/22846-000.zip"
+  },
+  {
+    "type": "TR",
     "no": "22.847",
     "title": "Study on supporting tactile and multi-modality communication services",
     "withdrawn": false,

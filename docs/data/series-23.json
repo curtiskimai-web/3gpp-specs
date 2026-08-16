@@ -1213,7 +1213,7 @@
     "title": "Application enablement aspects for MMTel",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23392.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.392/23392-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.392/23392-k01.zip"
   },
   {
     "type": "TS",
@@ -1285,7 +1285,7 @@
     "title": "Functional architecture and information flows for Application Data Analytics Enablement Service",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23436.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.436/23436-k10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.436/23436-k11.zip"
   },
   {
     "type": "TS",
