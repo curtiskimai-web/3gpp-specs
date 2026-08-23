@@ -245,7 +245,7 @@
     "title": "UICC-AIoT device interface; Physical and logical characteristics",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/31369.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/31_series/31.369/31369-000.zip"
   },
   {
     "type": "TS",

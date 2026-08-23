@@ -1181,7 +1181,7 @@
     "title": "Study on enhancements to IMS Data Channel",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26814.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.814/26814-030.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.814/26814-035.zip"
   },
   {
     "type": "TR",
@@ -1213,7 +1213,7 @@
     "title": "Study on usage of dynamically changing traffic characteristics and enhanced QoS support in 5GS for media applications and services",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26823.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.823/26823-050.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.823/26823-051.zip"
   },
   {
     "type": "TR",
@@ -1245,7 +1245,7 @@
     "title": "Study on QUIC-based media delivery solutions for real-time communication",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26836.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.836/26836-030.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.836/26836-040.zip"
   },
   {
     "type": "TR",
