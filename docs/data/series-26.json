@@ -1181,7 +1181,7 @@
     "title": "Study on enhancements to IMS Data Channel",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26814.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.814/26814-035.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.814/26814-040.zip"
   },
   {
     "type": "TR",
@@ -1213,7 +1213,7 @@
     "title": "Study on usage of dynamically changing traffic characteristics and enhanced QoS support in 5GS for media applications and services",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26823.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.823/26823-051.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.823/26823-060.zip"
   },
   {
     "type": "TR",
@@ -1245,7 +1245,7 @@
     "title": "Study on QUIC-based media delivery solutions for real-time communication",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26836.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.836/26836-040.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.836/26836-051.zip"
   },
   {
     "type": "TR",
@@ -1381,7 +1381,7 @@
     "title": "Study on Media Aspects for 6G System",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26870.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.870/26870-051.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.870/26870-060.zip"
   },
   {
     "type": "TR",
@@ -1421,7 +1421,7 @@
     "title": "Study on advanced image formats",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26892.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.892/26892-101.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.892/26892-110.zip"
   },
   {
     "type": "TR",
@@ -1877,7 +1877,7 @@
     "title": "Study on 3D Gaussian splats for mobile",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26958.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.958/26958-040.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.958/26958-050.zip"
   },
   {
     "type": "TR",
