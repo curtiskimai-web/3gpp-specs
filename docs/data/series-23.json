@@ -277,7 +277,7 @@
     "title": "enhanced Multi-Level Precedence and Pre-emption Service (eMLPP); Stage 2",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23067.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.067/23067-j00.zip"
+    "ftp_latest": null
   },
   {
     "type": "TS",
@@ -341,7 +341,7 @@
     "title": "Line Identification supplementary services; Stage 2",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23081.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.081/23081-j00.zip"
+    "ftp_latest": null
   },
   {
     "type": "TS",
@@ -405,7 +405,7 @@
     "title": "Unstructured Supplementary Service Data (USSD); Stage 2",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23090.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.090/23090-j00.zip"
+    "ftp_latest": null
   },
   {
     "type": "TS",
@@ -421,7 +421,7 @@
     "title": "Technical realization of Completion of Calls to Busy Subscriber (CCBS); Stage 2",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23093.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.093/23093-j00.zip"
+    "ftp_latest": null
   },
   {
     "type": "TS",
@@ -469,7 +469,7 @@
     "title": "Mobile radio interface layer 3 specification, core network protocols; Stage 2",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23108.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.108/23108-j00.zip"
+    "ftp_latest": null
   },
   {
     "type": "TS",
@@ -485,7 +485,7 @@
     "title": "Universal Mobile Telecommunications System (UMTS) access stratum; Services and functions",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23110.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.110/23110-j00.zip"
+    "ftp_latest": null
   },
   {
     "type": "TS",
@@ -509,7 +509,7 @@
     "title": "Architectural requirements for Release 1999",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23121.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.121/23121-360.zip"
+    "ftp_latest": null
   },
   {
     "type": "TS",
@@ -557,7 +557,7 @@
     "title": "Use of sensing results for Vertical Applications",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23138.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.138/23138-010.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.138/23138-020.zip"
   },
   {
     "type": "TS",
@@ -589,7 +589,7 @@
     "title": "Value-added Services for SMS (VAS4SMS); Interface and signalling flow",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23142.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.142/23142-j00.zip"
+    "ftp_latest": null
   },
   {
     "type": "TS",
@@ -597,7 +597,7 @@
     "title": "Technical realization of facsimile Group 3 non-transparent",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23146.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.146/23146-j00.zip"
+    "ftp_latest": null
   },
   {
     "type": "TS",
@@ -677,7 +677,7 @@
     "title": "Mission critical services support in the Isolated Operation for Public Safety (IOPS) mode of operation",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23180.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.180/23180-j20.zip"
+    "ftp_latest": null
   },
   {
     "type": "TS",
@@ -1061,7 +1061,7 @@
     "title": "Architecture enhancements for 5G System (5GS) to support network data analytics services",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23288.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.288/23288-k10.zip"
+    "ftp_latest": null
   },
   {
     "type": "TS",
@@ -1093,7 +1093,7 @@
     "title": "Proximity based Services (ProSe) in the 5G System (5GS)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23304.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.304/23304-k10.zip"
+    "ftp_latest": null
   },
   {
     "type": "TS",
@@ -1157,7 +1157,7 @@
     "title": "Functional architecture and information flows for Energy Saving Enablement Service",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23366.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.366/23366-100.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.366/23366-110.zip"
   },
   {
     "type": "TS",
@@ -1165,7 +1165,7 @@
     "title": "System architecture for application energy consumption information collection and reporting; Stage 2",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23367.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.367/23367-020.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.367/23367-100.zip"
   },
   {
     "type": "TS",
@@ -1325,7 +1325,7 @@
     "title": "Functional architecture and information flows for AIML Enablement Service",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23482.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.482/23482-k20.zip"
+    "ftp_latest": null
   },
   {
     "type": "TS",
@@ -1597,7 +1597,7 @@
     "title": "Study on enhanced IP Multimedia Subsystem (IMS) to 5GC integration Phase 2; CT WG3 aspects",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23700-11.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-11/23700-11-h00.zip"
+    "ftp_latest": null
   },
   {
     "type": "TR",
@@ -1741,7 +1741,7 @@
     "title": "Study on integration of satellite components in the 5G architecture; Phase 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23700-29.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-29/23700-29-j00.zip"
+    "ftp_latest": null
   },
   {
     "type": "TR",
@@ -1765,7 +1765,7 @@
     "title": "Study on User Identities and Authentication Architecture",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23700-32.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-32/23700-32-j00.zip"
+    "ftp_latest": null
   },
   {
     "type": "TR",
@@ -1781,7 +1781,7 @@
     "title": "Study on SEAL data delivery enabler for vertical applications",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23700-34.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-34/23700-34-i10.zip"
+    "ftp_latest": null
   },
   {
     "type": "TR",
@@ -1805,7 +1805,7 @@
     "title": "Study on discreet listening and monitoring of mission critical services, Phase2",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23700-37.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-37/23700-37-050.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-37/23700-37-060.zip"
   },
   {
     "type": "TR",
@@ -1869,7 +1869,7 @@
     "title": "Study on System aspects of 5G NR Femto",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23700-45.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-45/23700-45-j00.zip"
+    "ftp_latest": null
   },
   {
     "type": "TR",
@@ -1877,7 +1877,7 @@
     "title": "Study on 5GS Deterministic Networking (DetNet) interworking",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23700-46.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-46/23700-46-i00.zip"
+    "ftp_latest": null
   },
   {
     "type": "TR",
@@ -1885,7 +1885,7 @@
     "title": "Study on architectural enhancements for 5G multicast-broadcast services; Phase 2",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23700-47.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-47/23700-47-i00.zip"
+    "ftp_latest": null
   },
   {
     "type": "TR",
@@ -2005,7 +2005,7 @@
     "title": "Study on UPF enhancement for Exposure and SBA; Phase 2",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23700-63.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-63/23700-63-j00.zip"
+    "ftp_latest": null
   },
   {
     "type": "TR",
@@ -2053,7 +2053,7 @@
     "title": "Study on architecture enhancement for Extended Reality and Media service (XRM); Phase 2",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23700-70.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-70/23700-70-j00.zip"
+    "ftp_latest": null
   },
   {
     "type": "TR",
@@ -2061,7 +2061,7 @@
     "title": "Study on enhancement to the 5GC LoCation Services (LCS); Phase 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23700-71.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-71/23700-71-i00.zip"
+    "ftp_latest": null
   },
   {
     "type": "TR",
@@ -2069,7 +2069,7 @@
     "title": "Study on enhanced application layer support for location services",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23700-72.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-72/23700-72-j00.zip"
+    "ftp_latest": null
   },
   {
     "type": "TR",
@@ -2605,7 +2605,7 @@
     "title": "Study on enhancement of network slicing",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23740.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.740/23740-g00.zip"
+    "ftp_latest": null
   },
   {
     "type": "TR",
@@ -2829,7 +2829,7 @@
     "title": "Study on system impacts of IP Multimedia Subsystem (IMS) emergency sessions over Wireless Local Area Network (WLAN)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23771.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.771/23771-d00.zip"
+    "ftp_latest": null
   },
   {
     "type": "TR",
@@ -2845,7 +2845,7 @@
     "title": "Study on group based enhancements in the network capability exposure functions",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23773.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.773/23773-e00.zip"
+    "ftp_latest": null
   },
   {
     "type": "TR",
@@ -2877,7 +2877,7 @@
     "title": "Study on Mission Critical services access aspects",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23778.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.778/23778-g00.zip"
+    "ftp_latest": null
   },
   {
     "type": "TR",
@@ -2893,7 +2893,7 @@
     "title": "Study on Multimedia Broadcast and Multicast Service (MBMS) usage for mission critical communication services",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23780.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.780/23780-e00.zip"
+    "ftp_latest": null
   },
   {
     "type": "TR",
@@ -2901,7 +2901,7 @@
     "title": "Study on migration and interconnection for mission critical services",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23781.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.781/23781-f00.zip"
+    "ftp_latest": null
   },
   {
     "type": "TR",
@@ -3085,7 +3085,7 @@
     "title": "Study on MC architecture evolution and 6G capabilities for MC services",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23801-03.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.801-03/23801-03-020.zip"
+    "ftp_latest": null
   },
   {
     "type": "TR",
@@ -3093,7 +3093,7 @@
     "title": "Study on IMS Architecture Enhancement",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23801-04.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.801-04/23801-04-010.zip"
+    "ftp_latest": null
   },
   {
     "type": "TR",
@@ -3101,7 +3101,7 @@
     "title": "Study on Improvements on Capability Exposure",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23801-05.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.801-05/23801-05-010.zip"
   },
   {
     "type": "TR",
@@ -3533,7 +3533,7 @@
     "title": "Enhancements for Multimedia Priority Service (MPS)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23854.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.854/23854-b00.zip"
+    "ftp_latest": null
   },
   {
     "type": "TR",
@@ -3541,7 +3541,7 @@
     "title": "Data Identification in Access Network Discovery and Selection Function (ANDSF) (DIDA)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23855.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.855/23855-b00.zip"
+    "ftp_latest": null
   },
   {
     "type": "TR",
@@ -3701,7 +3701,7 @@
     "title": "Support of Push service",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23875.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.875/23875-510.zip"
+    "ftp_latest": null
   },
   {
     "type": "TR",
@@ -3789,7 +3789,7 @@
     "title": "Feasibility Study of Single Radio Video Call Continuity (vSRVCC); Stage 2",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23886.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.886/23886-a00.zip"
+    "ftp_latest": null
   },
   {
     "type": "TR",

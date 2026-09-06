@@ -29,7 +29,7 @@
     "title": "NR; User Equipment (UE) radio transmission and reception; Part 3: Range 1 and Range 2 Interworking operation with other radios",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38101-3.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.101-3/38101-3-k00.zip"
+    "ftp_latest": null
   },
   {
     "type": "TS",
@@ -53,7 +53,7 @@
     "title": "NR; Base Station (BS) radio transmission and reception",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38104.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.104/38104-k00.zip"
+    "ftp_latest": null
   },
   {
     "type": "TS",
@@ -69,7 +69,7 @@
     "title": "NR; Satellite Access Node radio transmission and reception",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38108.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.108/38108-j40.zip"
+    "ftp_latest": null
   },
   {
     "type": "TS",
@@ -1701,7 +1701,7 @@
     "title": "Introduction of 1900MHz NR band for Europe for Rail Mobile Radio (RMR)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38852.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.852/38852-h50.zip"
+    "ftp_latest": null
   },
   {
     "type": "TR",
@@ -1773,7 +1773,7 @@
     "title": "Study on high power UE (power class 2) for one NR FDD band",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38861.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.861/38861-h00.zip"
+    "ftp_latest": null
   },
   {
     "type": "TR",
@@ -2165,7 +2165,7 @@
     "title": "Study on International Mobile Telecommunications (IMT) parameters for 4400 - 4800 MHz, 7125 - 8400 MHz and 14800 - 15350 MHz",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38922.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.922/38922-j30.zip"
+    "ftp_latest": null
   },
   {
     "type": "TR",

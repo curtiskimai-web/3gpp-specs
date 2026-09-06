@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T07:48:17Z",
+  "updated_at": "2026-09-06T06:48:04Z",
   "series": [
     {
       "series": 21,
@@ -8,7 +8,7 @@
       "ts": 12,
       "tr": 21,
       "withdrawn": 11,
-      "ftp_found": 21
+      "ftp_found": 20
     },
     {
       "series": 22,
@@ -17,7 +17,7 @@
       "ts": 120,
       "tr": 152,
       "withdrawn": 41,
-      "ftp_found": 231
+      "ftp_found": 200
     },
     {
       "series": 23,
@@ -26,16 +26,16 @@
       "ts": 193,
       "tr": 335,
       "withdrawn": 82,
-      "ftp_found": 437
+      "ftp_found": 402
     },
     {
       "series": 24,
       "desc": "Signalling protocols – UE to network (Stage 3)",
       "total": 220,
-      "ts": 196,
-      "tr": 24,
+      "ts": 195,
+      "tr": 25,
       "withdrawn": 21,
-      "ftp_found": 196
+      "ftp_found": 177
     },
     {
       "series": 25,
@@ -44,7 +44,7 @@
       "ts": 101,
       "tr": 165,
       "withdrawn": 50,
-      "ftp_found": 216
+      "ftp_found": 195
     },
     {
       "series": 26,
@@ -53,7 +53,7 @@
       "ts": 139,
       "tr": 116,
       "withdrawn": 19,
-      "ftp_found": 228
+      "ftp_found": 210
     },
     {
       "series": 27,
@@ -71,7 +71,7 @@
       "ts": 152,
       "tr": 100,
       "withdrawn": 16,
-      "ftp_found": 234
+      "ftp_found": 218
     },
     {
       "series": 29,
@@ -80,7 +80,7 @@
       "ts": 267,
       "tr": 75,
       "withdrawn": 26,
-      "ftp_found": 311
+      "ftp_found": 298
     },
     {
       "series": 31,
@@ -89,7 +89,7 @@
       "ts": 33,
       "tr": 10,
       "withdrawn": 6,
-      "ftp_found": 36
+      "ftp_found": 35
     },
     {
       "series": 32,
@@ -98,7 +98,7 @@
       "ts": 388,
       "tr": 79,
       "withdrawn": 75,
-      "ftp_found": 390
+      "ftp_found": 359
     },
     {
       "series": 33,
@@ -107,7 +107,7 @@
       "ts": 91,
       "tr": 188,
       "withdrawn": 32,
-      "ftp_found": 243
+      "ftp_found": 214
     },
     {
       "series": 34,
@@ -116,7 +116,7 @@
       "ts": 20,
       "tr": 8,
       "withdrawn": 3,
-      "ftp_found": 25
+      "ftp_found": 20
     },
     {
       "series": 35,
@@ -134,7 +134,7 @@
       "ts": 90,
       "tr": 223,
       "withdrawn": 37,
-      "ftp_found": 276
+      "ftp_found": 255
     },
     {
       "series": 37,
@@ -143,7 +143,7 @@
       "ts": 46,
       "tr": 100,
       "withdrawn": 8,
-      "ftp_found": 134
+      "ftp_found": 128
     },
     {
       "series": 38,
@@ -152,7 +152,7 @@
       "ts": 96,
       "tr": 176,
       "withdrawn": 6,
-      "ftp_found": 263
+      "ftp_found": 257
     }
   ]
 }

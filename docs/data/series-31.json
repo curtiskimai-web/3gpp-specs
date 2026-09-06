@@ -157,7 +157,7 @@
     "title": "UICC-terminal interaction; non-removable Universal Subscriber Identity Module (nrUSIM) application behavioural test specification",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/31127.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/31_series/31.127/31127-i50.zip"
+    "ftp_latest": null
   },
   {
     "type": "TS",
@@ -245,7 +245,7 @@
     "title": "UICC-AIoT device interface; Physical and logical characteristics",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/31369.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/31_series/31.369/31369-000.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/31_series/31.369/31369-011.zip"
   },
   {
     "type": "TS",

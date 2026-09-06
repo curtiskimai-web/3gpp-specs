@@ -133,7 +133,7 @@
     "title": "Representational state transfer over xMB reference point between content provider and BM-SC",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29116.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.116/29116-j00.zip"
+    "ftp_latest": null
   },
   {
     "type": "TS",
@@ -189,7 +189,7 @@
     "title": "3GPP system - fixed broadband access network interworking; Home (e)Node B - security gateway interface",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29139.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.139/29139-j00.zip"
+    "ftp_latest": null
   },
   {
     "type": "TS",
@@ -245,7 +245,7 @@
     "title": "Interworking between the IP Multimedia (IM) Core Network (CN) subsystem and Circuit Switched (CS) networks",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29163.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.163/29163-j00.zip"
+    "ftp_latest": null
   },
   {
     "type": "TS",
@@ -301,7 +301,7 @@
     "title": "IP Multimedia Subsystem (IMS) Application Server (AS) Services Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29175.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.175/29175-k00.zip"
+    "ftp_latest": null
   },
   {
     "type": "TS",
@@ -317,7 +317,7 @@
     "title": "IP Multimedia Subsystem (IMS); Data Channel Signalling Function (DCSF) Services; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29177.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.177/29177-010.zip"
   },
   {
     "type": "TS",
@@ -421,7 +421,7 @@
     "title": "Open Service Access (OSA) Application Programming Interface (API); Part 7: Terminal capabilities Service Capability Feature (SCF)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29198-07.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.198-07/29198-07-900.zip"
+    "ftp_latest": null
   },
   {
     "type": "TS",
@@ -485,7 +485,7 @@
     "title": "Open Service Access (OSA) Application Programming Interface (API); Part 15: Multi-media Messaging (MM) Service Capability Feature (SCF)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29198-15.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.198-15/29198-15-900.zip"
+    "ftp_latest": null
   },
   {
     "type": "TS",
@@ -493,7 +493,7 @@
     "title": "Open Service Access (OSA) Application Programming Interface (API); Part 16: Service broker Service Capability Feature (SCF)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29198-16.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.198-16/29198-16-900.zip"
+    "ftp_latest": null
   },
   {
     "type": "TS",
@@ -509,7 +509,7 @@
     "title": "Open Service Access (OSA); Parlay X web services; Part 1: Common",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29199-01.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.199-01/29199-01-900.zip"
+    "ftp_latest": null
   },
   {
     "type": "TS",
@@ -1309,7 +1309,7 @@
     "title": "TISPAN; Interworking; Trunking Gateway Control Procedures for interworking between NGN and external CS networks",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29412.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.412/29412-810.zip"
+    "ftp_latest": null
   },
   {
     "type": "TS",
@@ -1365,7 +1365,7 @@
     "title": "TISPAN; IP Multimedia; Diameter based protocol for the interfaces between the Call Session Control Function and the User Profile Server Function/Subscription Locator Function; Signalling flows and protocol details [3GPP TS 29.228 and 29.229 modified]",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29433.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.433/29433-811.zip"
+    "ftp_latest": null
   },
   {
     "type": "TS",
@@ -1469,7 +1469,7 @@
     "title": "5G System; Usage of the Unified Data Repository services for Ambient IoT Data; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29506.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.506/29506-k00.zip"
+    "ftp_latest": null
   },
   {
     "type": "TS",
@@ -1477,7 +1477,7 @@
     "title": "5G System; Access and Mobility Policy Control Service; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29507.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.507/29507-k00.zip"
+    "ftp_latest": null
   },
   {
     "type": "TS",
@@ -1757,7 +1757,7 @@
     "title": "5G System; Integrated Sensing and Communication; Sensing Function Services; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29545.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.545/29545-010.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.545/29545-020.zip"
   },
   {
     "type": "TS",
@@ -2221,7 +2221,7 @@
     "title": "Study on Diameter load control mechanisms",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29810.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.810/29810-d00.zip"
+    "ftp_latest": null
   },
   {
     "type": "TR",
@@ -2229,7 +2229,7 @@
     "title": "Study on EPC signalling improvements for race scenarios",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29811.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.811/29811-d00.zip"
+    "ftp_latest": null
   },
   {
     "type": "TR",
@@ -2389,7 +2389,7 @@
     "title": "Study on Control Plane Protocols in Core Network of the 6G System",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29840.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.840/29840-020.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.840/29840-031.zip"
   },
   {
     "type": "TR",
@@ -2405,7 +2405,7 @@
     "title": "Study on Resilience and Reliability in Core Network of the 6G System",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29842.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.842/29842-020.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.842/29842-030.zip"
   },
   {
     "type": "TR",
@@ -2429,7 +2429,7 @@
     "title": "Study on Protocol aspects for Data Framework in Core Network of 6G System",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29845.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.845/29845-010.zip"
   },
   {
     "type": "TR",
@@ -2501,7 +2501,7 @@
     "title": "Study on IMS resiliency",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29867.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.867/29867-100.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.867/29867-200.zip"
   },
   {
     "type": "TR",
@@ -2733,6 +2733,6 @@
     "title": "Open Service Access (OSA); Application Programming Interface (API) Mapping for Open Service Access; Part 8: Data Session Control Service Mapping to CAP",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29998-08.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.998-08/29998-08-900.zip"
+    "ftp_latest": null
   }
 ]

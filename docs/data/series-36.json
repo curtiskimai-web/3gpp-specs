@@ -549,7 +549,7 @@
     "title": "Evolved Universal Terrestrial Radio Access (E-UTRA) and Evolved Packet Core (EPC); Common test environments for User Equipment (UE) conformance testing",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/36508.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.508/36508-j20.zip"
+    "ftp_latest": null
   },
   {
     "type": "TS",
@@ -773,7 +773,7 @@
     "title": "Evolved Universal Terrestrial Radio Access (E-UTRA); LTE Advanced inter-band Carrier Aggregation (CA) Rel-14 for 3 Down Link (DL) / 3 Up Link (UL)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/36714-03-03.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.714-03-03/36714-03-03-e00.zip"
+    "ftp_latest": null
   },
   {
     "type": "TR",
@@ -789,7 +789,7 @@
     "title": "Evolved Universal Terrestrial Radio Access (E-UTRA); LTE Advanced inter-band Carrier Aggregation (CA) Rel-14 for 5 Down Link (DL) / 1 Up Link (UL)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/36714-05-01.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.714-05-01/36714-05-01-e10.zip"
+    "ftp_latest": null
   },
   {
     "type": "TR",
@@ -853,7 +853,7 @@
     "title": "Evolved Universal Terrestrial Radio Access (E-UTRA); LTE Advanced inter-band Carrier Aggregation (CA) Rel-15 for 4 Down Link (DL) / 1 Up Link (UL)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/36715-04-01.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.715-04-01/36715-04-01-f00.zip"
+    "ftp_latest": null
   },
   {
     "type": "TR",
@@ -869,7 +869,7 @@
     "title": "Evolved Universal Terrestrial Radio Access (E-UTRA); LTE Advanced inter-band Carrier Aggregation (CA) Rel-15 for 5 Down Link (DL) / 1 Up Link (UL)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/36715-05-01.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.715-05-01/36715-05-01-f00.zip"
+    "ftp_latest": null
   },
   {
     "type": "TR",
@@ -949,7 +949,7 @@
     "title": "Rel-17 LTE inter-band Carrier Aggregation for x bands DL (x= 3, 4, 5) with 2 bands UL",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/36717-03-02.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.717-03-02/36717-03-02-h00.zip"
+    "ftp_latest": null
   },
   {
     "type": "TR",
@@ -981,7 +981,7 @@
     "title": "LTE REL-20 CA for x bands (1<=x<=6) DL with y bands (y=1,2) UL",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/36720-01-01.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.720-01-01/36720-01-01-000.zip"
+    "ftp_latest": null
   },
   {
     "type": "TR",
@@ -1005,7 +1005,7 @@
     "title": "Study on Self-Organizing Networks (SON) for enhanced Coordinated Multi-Point (eCoMP)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/36742.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.742/36742-f00.zip"
+    "ftp_latest": null
   },
   {
     "type": "TR",
@@ -1037,7 +1037,7 @@
     "title": "Study on further enhancements to LTE Device to Device (D2D), UE to network relays for Internet of Things (IoT) and wearables",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/36746.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.746/36746-f11.zip"
+    "ftp_latest": null
   },
   {
     "type": "TR",
@@ -1085,7 +1085,7 @@
     "title": "Study of Narrow-Band Internet of Things (NB-IoT) Radio Frequency (RF) requirement to co-existence with Code Division Multiple Access (CDMA)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/36752.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.752/36752-e00.zip"
+    "ftp_latest": null
   },
   {
     "type": "TR",
@@ -1301,7 +1301,7 @@
     "title": "Summary of regulatory requirements on unwanted emissions for transmission over broadcast bands in UHF spectrum",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/36792.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.792/36792-i10.zip"
+    "ftp_latest": null
   },
   {
     "type": "TR",
@@ -1413,7 +1413,7 @@
     "title": "Evolved Universal Terrestrial Radio Access (E-UTRA); LTE L-Band Technical Report",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/36813.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.813/36813-a10.zip"
+    "ftp_latest": null
   },
   {
     "type": "TR",
@@ -1517,7 +1517,7 @@
     "title": "Evolved Universal Terrestrial Radio Access (E-UTRA); Relay radio transmission and reception",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/36826.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.826/36826-b30.zip"
+    "ftp_latest": null
   },
   {
     "type": "TR",
@@ -1613,7 +1613,7 @@
     "title": "Evolved Universal Terrestrial Radio Access (E-UTRA); LTE-Advanced intra-band contiguous Carrier Aggregation (CA) in Band 27",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/36833-1-27.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.833-1-27/36833-1-27-c00.zip"
+    "ftp_latest": null
   },
   {
     "type": "TR",
@@ -1653,7 +1653,7 @@
     "title": "Evolved Universal Terrestrial Radio Access (E-UTRA); LTE-Advanced intra-band non-contiguous Carrier Aggregation (CA) in Band 2",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/36833-2-02.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.833-2-02/36833-2-02-c00.zip"
+    "ftp_latest": null
   },
   {
     "type": "TR",
@@ -1693,7 +1693,7 @@
     "title": "Evolved Universal Terrestrial Radio Access (E-UTRA); LTE-Advanced intra-band non-contiguous Carrier Aggregation (CA) in Band 25",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/36833-2-25.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.833-2-25/36833-2-25-c10.zip"
+    "ftp_latest": null
   },
   {
     "type": "TR",
@@ -2277,7 +2277,7 @@
     "title": "Feasibility Study on Licensed-Assisted Access to Unlicensed Spectrum",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/36889.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.889/36889-d00.zip"
+    "ftp_latest": null
   },
   {
     "type": "TR",
@@ -2301,7 +2301,7 @@
     "title": "Evolved Universal Terrestrial Radio Access (E-UTRA); Introduction of 1447-1467MHz Band for TD-LTE in China",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/36892.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.892/36892-d00.zip"
+    "ftp_latest": null
   },
   {
     "type": "TR",
@@ -2341,7 +2341,7 @@
     "title": "Study on Elevation Beamforming/Full-Dimension (FD) MIMO for LTE",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/36897.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.897/36897-d00.zip"
+    "ftp_latest": null
   },
   {
     "type": "TR",
@@ -2349,7 +2349,7 @@
     "title": "Network Assistance for Network Synchronization",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/36898.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.898/36898-e00.zip"
+    "ftp_latest": null
   },
   {
     "type": "TR",
@@ -2381,7 +2381,7 @@
     "title": "Evolved Universal Terrestrial Radio Access (E-UTRA) and Evolved Universal Terrestrial Radio Access Network (E-UTRAN); Derivation of test tolerances for User Equipment (UE) radio reception conformance tests",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/36904.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.904/36904-j00.zip"
+    "ftp_latest": null
   },
   {
     "type": "TR",

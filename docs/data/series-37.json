@@ -493,7 +493,7 @@
     "title": "Rel-17 Dual Connectivity (DC) of x bands (x=2,3,4) LTE inter-band CA (xDL/1UL) and 1 NR FR1 band (1DL/1UL) and 1 NR FR2 band (1DL/1UL)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/37717-21-22.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/37_series/37.717-21-22/37717-21-22-h00.zip"
+    "ftp_latest": null
   },
   {
     "type": "TR",
@@ -509,7 +509,7 @@
     "title": "Rel-17 Dual Connectivity (DC) of x bands (x=1,2) LTE inter-band CA (xDL/xUL) and y bands (y=3-x) NR inter-band CA (yDL/yUL)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/37717-33.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/37_series/37.717-33/37717-33-h00.zip"
+    "ftp_latest": null
   },
   {
     "type": "TR",
@@ -661,7 +661,7 @@
     "title": "Passive Intermodulation (PIM) handling for Base Stations (BS)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/37808.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/37_series/37.808/37808-c00.zip"
+    "ftp_latest": null
   },
   {
     "type": "TR",
@@ -677,7 +677,7 @@
     "title": "Study of Base Station (BS) specification structure",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/37810.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/37_series/37.810/37810-c20.zip"
+    "ftp_latest": null
   },
   {
     "type": "TR",
@@ -853,7 +853,7 @@
     "title": "RAN enhancements for UMTS/HSPA and LTE interworking",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/37852.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/37_series/37.852/37852-c00.zip"
+    "ftp_latest": null
   },
   {
     "type": "TR",
@@ -869,7 +869,7 @@
     "title": "Rel-19 adding channel bandwidth support to existing NR bands",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/37862.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/37_series/37.862/37862-j00.zip"
+    "ftp_latest": null
   },
   {
     "type": "TR",
