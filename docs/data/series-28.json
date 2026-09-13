@@ -69,7 +69,7 @@
     "title": "Management and orchestration; Fault management (FM)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/28111.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.111/28111-j50.zip"
   },
   {
     "type": "TS",
@@ -101,7 +101,7 @@
     "title": "Charging management; Network slice-specific authentication and authorization charging in the 5G System (5GS)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/28204.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.204/28204-i11.zip"
   },
   {
     "type": "TS",
@@ -213,7 +213,7 @@
     "title": "Management and orchestration; Plug and Connect; Concepts and requirements",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/28314.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.314/28314-k00.zip"
   },
   {
     "type": "TS",
@@ -325,7 +325,7 @@
     "title": "Telecommunication management; Management concept, architecture and requirements for mobile networks that include virtualized network functions",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/28500.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.500/28500-j00.zip"
   },
   {
     "type": "TS",
@@ -773,7 +773,7 @@
     "title": "Telecommunication management; Generic Network Resource Model (NRM) Integration Reference Point (IRP); Solution Set (SS) definitions",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/28623.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.623/28623-k20.zip"
   },
   {
     "type": "TS",
@@ -869,7 +869,7 @@
     "title": "Telecommunication management; Universal Terrestrial Radio Access Network (UTRAN) Network Resource Model (NRM) Integration Reference Point (IRP); Solution Set (SS) definitions",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/28653.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.653/28653-j00.zip"
   },
   {
     "type": "TS",
@@ -877,7 +877,7 @@
     "title": "Telecommunication management; GSM/EDGE Radio Access Network (GERAN) Network Resource Model (NRM) Integration Reference Point (IRP); Requirements",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/28654.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.654/28654-j00.zip"
   },
   {
     "type": "TS",
@@ -933,7 +933,7 @@
     "title": "Telecommunication management; Generic Radio Access Network (RAN) Network Resource Model (NRM) Integration Reference Point (IRP); Information Service (IS)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/28662.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.662/28662-j20.zip"
   },
   {
     "type": "TS",
@@ -1005,7 +1005,7 @@
     "title": "Telecommunication management; Home Node B (HNB) Subsystem (HNS) Network Resource Model (NRM) Integration Reference Point (IRP); Information Service (IS)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/28672.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.672/28672-j00.zip"
   },
   {
     "type": "TS",
@@ -1373,7 +1373,7 @@
     "title": "Study on continuous integration continuous delivery support for 3GPP NFs",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/28819.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.819/28819-i00.zip"
   },
   {
     "type": "TR",
@@ -1469,7 +1469,7 @@
     "title": "Study on basic Service-Based Management Architecture (SBMA) enabler enhancements",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/28831.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.831/28831-i00.zip"
   },
   {
     "type": "TR",
@@ -1477,7 +1477,7 @@
     "title": "Study on management aspects of Ultra-Reliable and Low Latency Communications (URLLC)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/28832.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.832/28832-i01.zip"
   },
   {
     "type": "TR",
@@ -1597,7 +1597,7 @@
     "title": "Study on charging aspects of Common API Framework for Northbound APIs (CAPIF) phase 2",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/28849.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.849/28849-j10.zip"
   },
   {
     "type": "TR",
@@ -1605,7 +1605,7 @@
     "title": "Study on charging aspects of next generation real time communication services phase 2",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/28851.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.851/28851-j10.zip"
   },
   {
     "type": "TR",
@@ -1621,7 +1621,7 @@
     "title": "Study on Artificial Intelligence / Machine Learning (AI/ML) management phase 2",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/28858.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.858/28858-j00.zip"
   },
   {
     "type": "TR",
@@ -1677,7 +1677,7 @@
     "title": "Study on Cloud Aspects of Management and Orchestration",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/28869.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/28_series/28.869/28869-k00.zip"
   },
   {
     "type": "TR",

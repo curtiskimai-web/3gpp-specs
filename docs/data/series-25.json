@@ -269,7 +269,7 @@
     "title": "Multiplexing and channel coding  (TDD)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/25222.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/25_series/25.222/25222-j00.zip"
   },
   {
     "type": "TS",
@@ -293,7 +293,7 @@
     "title": "Physical layer; Measurements (TDD)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/25225.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/25_series/25.225/25225-j00.zip"
   },
   {
     "type": "TS",
@@ -325,7 +325,7 @@
     "title": "Services provided by the physical layer",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/25302.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/25_series/25.302/25302-j00.zip"
   },
   {
     "type": "TS",
@@ -413,7 +413,7 @@
     "title": "Radio Link Control (RLC)  protocol specification",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/25322.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/25_series/25.322/25322-j00.zip"
   },
   {
     "type": "TS",
@@ -421,7 +421,7 @@
     "title": "Packet Data Convergence Protocol (PDCP) specification",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/25323.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/25_series/25.323/25323-j00.zip"
   },
   {
     "type": "TS",
@@ -445,7 +445,7 @@
     "title": "Radio Resource Control (RRC); Protocol specification",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/25331.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/25_series/25.331/25331vIntermediate.zip"
   },
   {
     "type": "TS",
@@ -453,7 +453,7 @@
     "title": "Introduction of the Multimedia Broadcast/Multicast Service (MBMS) in the Radio Access Network (RAN); Stage 2",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/25346.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/25_series/25.346/25346-j00.zip"
   },
   {
     "type": "TS",
@@ -461,7 +461,7 @@
     "title": "Mobility procedures for Home Node B (HNB); Overall description; Stage 2",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/25367.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/25_series/25.367/25367-j00.zip"
   },
   {
     "type": "TS",
@@ -477,7 +477,7 @@
     "title": "UTRAN overall description",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/25401.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/25_series/25.401/25401-j00.zip"
   },
   {
     "type": "TS",
@@ -557,7 +557,7 @@
     "title": "UTRAN Iur interface general aspects and principles",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/25420.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/25_series/25.420/25420-j00.zip"
   },
   {
     "type": "TS",
@@ -565,7 +565,7 @@
     "title": "UTRAN Iur interface layer 1",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/25421.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/25_series/25.421/25421-j00.zip"
   },
   {
     "type": "TS",
@@ -581,7 +581,7 @@
     "title": "UTRAN Iur interface Radio Network Subsystem Application Part (RNSAP) signalling",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/25423.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/25_series/25.423/25423-j00.zip"
   },
   {
     "type": "TS",
@@ -637,7 +637,7 @@
     "title": "UTRAN Iub interface: signalling transport",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/25432.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/25_series/25.432/25432-j00.zip"
   },
   {
     "type": "TS",
@@ -645,7 +645,7 @@
     "title": "UTRAN Iub interface Node B Application Part (NBAP) signalling",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/25433.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/25_series/25.433/25433-j00.zip"
   },
   {
     "type": "TS",
@@ -1309,7 +1309,7 @@
     "title": "UE positioning in UTRAN Iub/Iur protocol aspects",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/25850.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/25_series/25.850/25850-430.zip"
   },
   {
     "type": "TR",
@@ -1829,7 +1829,7 @@
     "title": "Radio Interface for Broadcast/Multicast Services",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/25925.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/25_series/25.925/25925_310.zip"
   },
   {
     "type": "TR",
@@ -1845,7 +1845,7 @@
     "title": "Solutions for energy saving within UTRA Node B",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/25927.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/25_series/25.927/25927-e00.zip"
   },
   {
     "type": "TR",
@@ -1853,7 +1853,7 @@
     "title": "1,28 Mcps functionality for UTRA TDD physical layer",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/25928.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/25_series/25.928/25928-401.zip"
   },
   {
     "type": "TR",
@@ -1949,7 +1949,7 @@
     "title": "Deployment aspects",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/25943.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/25_series/25.943/25943-j00.zip"
   },
   {
     "type": "TR",
@@ -2037,7 +2037,7 @@
     "title": "Home Node B (HNB) Radio Frequency (RF) requirements (FDD)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/25967.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/25_series/25.967/25967-j00.zip"
   },
   {
     "type": "TR",
@@ -2061,7 +2061,7 @@
     "title": "Feasibility study on the mitigation of the effect of common pilot channel (CPICH) interference at the user equipment",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/25991.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/25_series/25.991/25991-510.zip"
   },
   {
     "type": "TR",

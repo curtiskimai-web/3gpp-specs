@@ -53,7 +53,7 @@
     "title": "User Equipment (UE) conformance specification; Radio transmission and reception (FDD); Part 2: Implementation Conformance Statement (ICS)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/34121-2.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/34_series/34.121-2/34121-2-f10.zip"
   },
   {
     "type": "TS",
@@ -93,7 +93,7 @@
     "title": "Electromagnetic compatibility (EMC) requirements for mobile terminals and ancillary equipment",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/34124.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/34_series/34.124/34124-j00.zip"
   },
   {
     "type": "TS",
@@ -109,7 +109,7 @@
     "title": "Terminal conformance specification; Assisted Global Positioning System (A-GPS); Frequency Division Duplex (FDD)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/34171.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/34_series/34.171/34171-940.zip"
   },
   {
     "type": "TS",
@@ -189,7 +189,7 @@
     "title": "Report on electrical safety requirements and regulations",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/34907.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/34_series/34.907/34907-300.zip"
   },
   {
     "type": "TR",
@@ -205,7 +205,7 @@
     "title": "Specific Absorption Rate (SAR) requirements and regulations in different regions",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/34925.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/34_series/34.925/34925-300.zip"
   },
   {
     "type": "TR",

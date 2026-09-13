@@ -69,7 +69,7 @@
     "title": "Location Services (LCS); Supplementary service operations; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/24030.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.030/24030-j00.zip"
   },
   {
     "type": "TS",
@@ -133,7 +133,7 @@
     "title": "Mobile radio interface layer 3 supplementary services specification; Formats and coding",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/24080.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.080/24080-j30.zip"
   },
   {
     "type": "TS",
@@ -165,7 +165,7 @@
     "title": "Multi Party (MPTY) supplementary service; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/24084.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.084/24084-j00.zip"
   },
   {
     "type": "TS",
@@ -293,7 +293,7 @@
     "title": "Multicall supplementary service; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/24135.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.135/24135-j00.zip"
   },
   {
     "type": "TS",
@@ -405,7 +405,7 @@
     "title": "5G System;Access Traffic Steering, Switching and Splitting (ATSSS); Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/24193.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.193/24193-k00.zip"
   },
   {
     "type": "TS",
@@ -1181,7 +1181,7 @@
     "title": "TISPAN; Common Basic Communication procedures; Protocol specification",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/24528.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.528/24528-830.zip"
   },
   {
     "type": "TS",
@@ -1245,7 +1245,7 @@
     "title": "Group Management - Service Enabler Architecture Layer for Verticals (SEAL); Protocol specification",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/24544.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.544/24544-j10.zip"
   },
   {
     "type": "TS",
@@ -1285,7 +1285,7 @@
     "title": "Network slice capability enablement- Service Enabler Architecture Layer for Verticals (SEAL); Protocol specification; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/24549.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.549/24549-j20.zip"
   },
   {
     "type": "TS",
@@ -1317,7 +1317,7 @@
     "title": "Enabling Edge Applications; Protocol specification",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/24558.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.558/24558-k00.zip"
   },
   {
     "type": "TS",
@@ -1325,7 +1325,7 @@
     "title": "Application Data Analytics Enablement Service (ADAES); Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/24559.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.559/24559-j41.zip"
   },
   {
     "type": "TS",
@@ -1349,7 +1349,7 @@
     "title": "5G System (5GS); Control plane Location Services (LCS) procedures; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/24571.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.571/24571-j40.zip"
   },
   {
     "type": "TS",
@@ -1357,7 +1357,7 @@
     "title": "5G System (5GS); User plane Location Services (LCS) protocols and procedures; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/24572.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.572/24572-k00.zip"
   },
   {
     "type": "TS",
@@ -1389,7 +1389,7 @@
     "title": "Mission Critical Video (MCVideo) media plane control; Protocol specification",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/24581.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.581/24581-j20.zip"
   },
   {
     "type": "TS",
@@ -1421,7 +1421,7 @@
     "title": "Vehicle-to-Everything (V2X) services in 5G System (5GS); User Equipment (UE) policies; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/24588.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.588/24588-j00.zip"
   },
   {
     "type": "TS",
@@ -1445,7 +1445,7 @@
     "title": "Message Waiting Indication (MWI) using IP Multimedia (IM) Core Network (CN) subsystem; Protocol specification",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/24606.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.606/24606-j00.zip"
   },
   {
     "type": "TS",
@@ -1517,7 +1517,7 @@
     "title": "Common Basic Communication procedures using IP Multimedia (IM) Core Network (CN) subsystem; Protocol specification",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/24628.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.628/24628-j00.zip"
   },
   {
     "type": "TS",
@@ -1549,7 +1549,7 @@
     "title": "Closed User Group (CUG) using IP Multimedia (IM) Core Network (CN) subsystem, Protocol Specification",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/24654.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.654/24654-j00.zip"
   },
   {
     "type": "TS",
@@ -1621,7 +1621,7 @@
     "title": "3GPP system to fixed broadband access network interworking",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/24820.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.820/24820-b00.zip"
   },
   {
     "type": "TR",
@@ -1645,7 +1645,7 @@
     "title": "IP Multimedia (IM) Core Network (CN) subsystem inter-UE transfer enhancements; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/24837.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.837/24837-a00.zip"
   },
   {
     "type": "TR",
@@ -1701,7 +1701,7 @@
     "title": "Mission Critical (MC) systems connection to  Land Mobile Radio (LMR) systems; Stage-3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/24883.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.883/24883-g00.zip"
   },
   {
     "type": "TR",
@@ -1741,7 +1741,7 @@
     "title": "Business trunking; Next Generation Corporate Network (NGCN) - Next Generation Network (NGN) interfaces implementation guide",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/24969.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.969/24969-j00.zip"
   },
   {
     "type": "TR",

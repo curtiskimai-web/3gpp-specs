@@ -13,7 +13,7 @@
     "title": "ANSI-C code for the Adaptive Multi Rate (AMR) speech codec",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26073.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.073/26073-j00.zip"
   },
   {
     "type": "TS",
@@ -37,7 +37,7 @@
     "title": "Minimum performance requirements for Noise Suppresser; Application to the Adaptive Multi-Rate (AMR) speech encoder",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26077.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.077/26077-j00.zip"
   },
   {
     "type": "TR",
@@ -85,7 +85,7 @@
     "title": "Mandatory speech codec speech processing functions; Adaptive Multi-Rate (AMR) speech codec; Voice Activity Detector (VAD)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26094.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.094/26094-j00.zip"
   },
   {
     "type": "TS",
@@ -101,7 +101,7 @@
     "title": "Mandatory speech codec; Adaptive Multi-Rate (AMR) speech codec; Interface to Iu, Uu and Nb",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26102.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.102/26102-j00.zip"
   },
   {
     "type": "TS",
@@ -629,7 +629,7 @@
     "title": "Codec for Immersive Voice and Audio Services (IVAS); Jitter Buffer Management",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26256.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.256/26256-j10.zip"
   },
   {
     "type": "TS",
@@ -717,7 +717,7 @@
     "title": "Audio codec processing functions; Extended Adaptive Multi-Rate - Wideband (AMR-WB+) speech codec; Conformance testing",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26274.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.274/26274-j00.zip"
   },
   {
     "type": "TS",
@@ -797,7 +797,7 @@
     "title": "General audio codec audio processing functions; Enhanced aacPlus general audio codec; Encoder specification; Advanced Audio Coding (AAC) part",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26403.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.403/26403-j00.zip"
   },
   {
     "type": "TS",
@@ -837,7 +837,7 @@
     "title": "General audio codec audio processing functions; Enhanced aacPlus general audio codec; Fixed-point ANSI-C code",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26411.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.411/26411-j00.zip"
   },
   {
     "type": "TS",
@@ -845,7 +845,7 @@
     "title": "Source code for 3GP file format",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26412.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.412/26412-j00.zip"
   },
   {
     "type": "TS",
@@ -877,7 +877,7 @@
     "title": "Codec for Enhanced Voice Services (EVS); ANSI C code (floating-point)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26443.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.443/26443-j00.zip"
   },
   {
     "type": "TS",
@@ -901,7 +901,7 @@
     "title": "Codec for Enhanced Voice Services (EVS); Adaptive Multi-Rate - Wideband (AMR-WB) backward compatible functions",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26446.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.446/26446-j00.zip"
   },
   {
     "type": "TS",
@@ -997,7 +997,7 @@
     "title": "Media delivery; interactions and APIs for provisioning and media session handling",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26510.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.510/26510-j20.zip"
   },
   {
     "type": "TS",
@@ -1005,7 +1005,7 @@
     "title": "5G Media Streaming (5GMS); Profiles, codecs and formats",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26511.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.511/26511-j00.zip"
   },
   {
     "type": "TS",
@@ -1301,7 +1301,7 @@
     "title": "Enhancements to Multimedia (EMM); Download Delivery Enhancements (DDE) and IMS-based PSS and MBMS streaming synchronization Enhancements (IPME) aspects",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26851.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.851/26851-b20.zip"
   },
   {
     "type": "TR",
@@ -1493,7 +1493,7 @@
     "title": "Study on improved streaming Quality of Experience (QoE) reporting in 3GPP services and networks",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26909.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.909/26909-j00.zip"
   },
   {
     "type": "TR",
@@ -1517,7 +1517,7 @@
     "title": "Codec for Circuit switched Multimedia Telephony Service; Quantitative performance evaluation of H.324 Annex C over 3G",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26912.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.912/26912-400.zip"
   },
   {
     "type": "TR",
@@ -1613,7 +1613,7 @@
     "title": "Multimedia telephony over IP Multimedia Subsystem (IMS); Study on improved end-to-end Quality of Service (QoS) handling for Multimedia Telephony Service for IMS (MTSI)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26924.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.924/26924-j00.zip"
   },
   {
     "type": "TR",
@@ -1621,7 +1621,7 @@
     "title": "Typical traffic characteristics of media services on 3GPP networks",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26925.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.925/26925-j00.zip"
   },
   {
     "type": "TR",
