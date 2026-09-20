@@ -1917,7 +1917,7 @@
     "title": "Application layer support for Ambient IoT (AIoT); AIoT Enablement (AIOTE) Server Services; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29568.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.568/29568-010.zip"
   },
   {
     "type": "TS",
@@ -2341,7 +2341,7 @@
     "title": "CT WG3 Aspects of protocol study of the 6G System; 3GPP Network Capability Exposure",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29830.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.830/29830-010.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.830/29830-020.zip"
   },
   {
     "type": "TR",
@@ -2357,7 +2357,7 @@
     "title": "Study on the Protocol for Artificial Intelligence in 6G",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29832.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.832/29832-010.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.832/29832-020.zip"
   },
   {
     "type": "TR",
@@ -2365,7 +2365,7 @@
     "title": "Study on CT aspects of 6G Network Interworking with External Data Networks",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29833.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.833/29833-010.zip"
   },
   {
     "type": "TR",

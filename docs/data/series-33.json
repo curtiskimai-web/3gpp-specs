@@ -125,7 +125,7 @@
     "title": "Security Assurance Specification for 3GPP Lawful Interception Functions; Common Baseline",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/33129-1.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.129-1/33129-1-00c.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.129-1/33129-1-010.zip"
   },
   {
     "type": "TS",
@@ -429,7 +429,7 @@
     "title": "Security aspects of Ambient Internet of Things (AIoT) services",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/33340.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.340/33340-010.zip"
   },
   {
     "type": "TS",
@@ -605,7 +605,7 @@
     "title": "Security Assurance Specification (SCAS) for the container-based product",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/33524.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.524/33524-010.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.524/33524-020.zip"
   },
   {
     "type": "TS",
@@ -805,7 +805,7 @@
     "title": "Study on enhanced security management service about security configuration execution",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/33704.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.704/33704-030.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.704/33704-040.zip"
   },
   {
     "type": "TR",
@@ -1037,7 +1037,7 @@
     "title": "Study on mission critical security next generation",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/33779.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.779/33779-010.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.779/33779-020.zip"
   },
   {
     "type": "TR",
@@ -2045,7 +2045,7 @@
     "title": "Security Assurance Specification (SCAS); threats and critical assets in 3GPP container-based products",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/33925.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.925/33925-000.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/33_series/33.925/33925-010.zip"
   },
   {
     "type": "TR",

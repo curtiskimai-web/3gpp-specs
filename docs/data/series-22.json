@@ -757,7 +757,7 @@
     "title": "6G Service Requirements",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/22270.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/22_series/22.270/22270-020.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/22_series/22.270/22270-030.zip"
   },
   {
     "type": "TS",
@@ -1349,7 +1349,7 @@
     "title": "Study on additional capabilities for emergency services",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/22846.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/22_series/22.846/22846-000.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/22_series/22.846/22846-010.zip"
   },
   {
     "type": "TR",

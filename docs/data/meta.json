@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T07:07:19Z",
+  "updated_at": "2026-09-20T07:24:05Z",
   "series": [
     {
       "series": 21,
@@ -44,7 +44,7 @@
       "ts": 101,
       "tr": 165,
       "withdrawn": 50,
-      "ftp_found": 216
+      "ftp_found": 215
     },
     {
       "series": 26,
@@ -80,7 +80,7 @@
       "ts": 267,
       "tr": 75,
       "withdrawn": 26,
-      "ftp_found": 313
+      "ftp_found": 315
     },
     {
       "series": 31,
@@ -107,7 +107,7 @@
       "ts": 91,
       "tr": 188,
       "withdrawn": 32,
-      "ftp_found": 243
+      "ftp_found": 244
     },
     {
       "series": 34,
@@ -143,7 +143,7 @@
       "ts": 46,
       "tr": 100,
       "withdrawn": 8,
-      "ftp_found": 134
+      "ftp_found": 138
     },
     {
       "series": 38,

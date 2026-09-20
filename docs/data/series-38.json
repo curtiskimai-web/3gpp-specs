@@ -733,7 +733,7 @@
     "title": "5GS; Ambient IoT device conformance specification; Part 1: Common test environment",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38591-1.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.591-1/38591-1-010.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.591-1/38591-1-020.zip"
   },
   {
     "type": "TS",
@@ -741,7 +741,7 @@
     "title": "NR; Ambient IoT device conformance specification; Part 2: Radio transmission and reception",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38591-2.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.591-2/38591-2-020.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.591-2/38591-2-030.zip"
   },
   {
     "type": "TS",
@@ -749,7 +749,7 @@
     "title": "5GS; Ambient IoT device conformance specification; Part 3: Protocol",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38591-3.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.591-3/38591-3-010.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.591-3/38591-3-020.zip"
   },
   {
     "type": "TS",
@@ -757,7 +757,7 @@
     "title": "5GS; Ambient IoT device conformance specification; Part 4: Applicability of radio transmission, radio reception, radio resource management, protocol test cases and Common Implementation Conformance Statement (ICS) proforma",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38591-4.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.591-4/38591-4-020.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.591-4/38591-4-030.zip"
   },
   {
     "type": "TS",
@@ -765,7 +765,7 @@
     "title": "5GS; Ambient IoT device conformance specification; Part 5: Protocol Test Suites",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38591-5.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.591-5/38591-5-001.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.591-5/38591-5-010.zip"
   },
   {
     "type": "TR",
