@@ -249,6 +249,22 @@
   },
   {
     "type": "TS",
+    "no": "31.370",
+    "title": "Characteristics of the AIoT Universal Subscriber Identity Module (USIM) application",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/31370.htm",
+    "ftp_latest": null
+  },
+  {
+    "type": "TS",
+    "no": "31.371",
+    "title": "AIoT USIM application test specification",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/31371.htm",
+    "ftp_latest": null
+  },
+  {
+    "type": "TS",
     "no": "31.50",
     "title": "Essential requirements for UMTS Mobile Stations (ME) operating within frequency bands 1885-1980, 2010-2025 and 2110-2200 MHz",
     "withdrawn": true,
@@ -302,6 +318,22 @@
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/31829.htm",
     "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/31_series/31.829/31829-d00.zip"
+  },
+  {
+    "type": "TR",
+    "no": "31.860",
+    "title": "CT6 aspects of 6G System",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/31860.htm",
+    "ftp_latest": null
+  },
+  {
+    "type": "TR",
+    "no": "31.861",
+    "title": "Study on dynamic identities and credentials management in UICC",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/31861.htm",
+    "ftp_latest": null
   },
   {
     "type": "TR",

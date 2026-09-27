@@ -589,7 +589,7 @@
     "title": "UTRAN Iur interface data transport & transport signalling for Common Transport Channel data streams",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/25424.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/25_series/25.424/25424-j00.zip"
   },
   {
     "type": "TS",

@@ -29,7 +29,7 @@
     "title": "Mobile radio interface Layer 3 specification; Core network protocols; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/24008.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.008/24008-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.008/24008-k10.zip"
   },
   {
     "type": "TS",
@@ -397,7 +397,7 @@
     "title": "IMS Data Channel applications; Protocol specification",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/24186.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.186/24186-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.186/24186-k10.zip"
   },
   {
     "type": "TS",
@@ -405,7 +405,7 @@
     "title": "5G System;Access Traffic Steering, Switching and Splitting (ATSSS); Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/24193.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.193/24193-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.193/24193-k10.zip"
   },
   {
     "type": "TS",
@@ -445,7 +445,7 @@
     "title": "IP multimedia call control protocol based on Session Initiation Protocol (SIP) and Session Description Protocol (SDP); Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/24229.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.229/24229-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.229/24229-k10.zip"
   },
   {
     "type": "TS",
@@ -517,7 +517,7 @@
     "title": "Messaging service using the IP Multimedia (IM) Core Network (CN) subsystem; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/24247.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.247/24247-j10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.247/24247-k00.zip"
   },
   {
     "type": "TS",
@@ -573,7 +573,7 @@
     "title": "Mission Critical Video (MCVideo) signalling control; Protocol specification",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/24281.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.281/24281-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.281/24281-k10.zip"
   },
   {
     "type": "TS",
@@ -581,7 +581,7 @@
     "title": "Mission Critical Data (MCData) signalling control; Protocol specification",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/24282.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.282/24282-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.282/24282-k10.zip"
   },
   {
     "type": "TS",
@@ -589,7 +589,7 @@
     "title": "Mission Critical Location Management (MCLoc); Protocol Specification",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/24283.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.283/24283-j20.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.283/24283-k00.zip"
   },
   {
     "type": "TS",
@@ -637,7 +637,7 @@
     "title": "Non-Access-Stratum (NAS) protocol for Evolved Packet System (EPS); Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/24301.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.301/24301-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.301/24301-k10.zip"
   },
   {
     "type": "TS",
@@ -749,7 +749,7 @@
     "title": "Non-Access Stratum (NAS) configuration Management Object (MO)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/24368.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.368/24368-j40.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.368/24368-k00.zip"
   },
   {
     "type": "TS",
@@ -757,7 +757,7 @@
     "title": "Ambient IoT Non-Access-Stratum (AIoT NAS) protocol for 5G System (5GS); Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/24369.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.369/24369-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.369/24369-k10.zip"
   },
   {
     "type": "TS",
@@ -773,7 +773,7 @@
     "title": "Mission Critical Push To Talk (MCPTT) call control; Protocol specification",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/24379.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.379/24379-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.379/24379-k10.zip"
   },
   {
     "type": "TS",
@@ -781,7 +781,7 @@
     "title": "Mission Critical Push To Talk (MCPTT) media plane control; Protocol specification",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/24380.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.380/24380-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.380/24380-k10.zip"
   },
   {
     "type": "TS",
@@ -837,7 +837,7 @@
     "title": "Unstructured Supplementary Service Data (USSD) using IP Multimedia (IM) Core Network (CN) subsystem IMS; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/24390.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.390/24390-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.390/24390-k10.zip"
   },
   {
     "type": "TS",
@@ -853,7 +853,7 @@
     "title": "Application enablement aspects for MMTel; Protocol specification",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/24392.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.392/24392-j00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.392/24392-k00.zip"
   },
   {
     "type": "TS",
@@ -1053,7 +1053,7 @@
     "title": "Mission Critical Services (MCS) Management Object (MO)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/24483.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.483/24483-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.483/24483-k10.zip"
   },
   {
     "type": "TS",
@@ -1061,7 +1061,7 @@
     "title": "Mission Critical Services (MCS) configuration management; Protocol specification",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/24484.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.484/24484-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.484/24484-k10.zip"
   },
   {
     "type": "TS",
@@ -1077,7 +1077,7 @@
     "title": "Non-Access-Stratum (NAS) protocol for 5G System (5GS); Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/24501.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.501/24501-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.501/24501-k10.zip"
   },
   {
     "type": "TS",
@@ -1173,7 +1173,7 @@
     "title": "User Equipment (UE) policies for 5G System (5GS); Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/24526.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.526/24526-j40.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.526/24526-k00.zip"
   },
   {
     "type": "TS",
@@ -1205,7 +1205,7 @@
     "title": "5G System (5GS); Device-Side Time Sensitive Networking (TSN) Translator (DS-TT) to Network-Side TSN Translator (NW-TT) protocol aspects; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/24535.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.535/24535-j10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.535/24535-j20.zip"
   },
   {
     "type": "TS",
@@ -1237,7 +1237,7 @@
     "title": "Data delivery management - Service Enabler Architecture Layer for Verticals (SEAL); Protocol Specification;",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/24543.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.543/24543-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.543/24543-k10.zip"
   },
   {
     "type": "TS",
@@ -1261,7 +1261,7 @@
     "title": "Configuration management - Service Enabler Architecture Layer for Verticals (SEAL); Protocol specification",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/24546.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.546/24546-j40.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.546/24546-j50.zip"
   },
   {
     "type": "TS",
@@ -1277,7 +1277,7 @@
     "title": "Network Resource Management - Service Enabler Architecture Layer for Verticals (SEAL); Protocol specification",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/24548.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.548/24548-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.548/24548-k10.zip"
   },
   {
     "type": "TS",
@@ -1293,7 +1293,7 @@
     "title": "Digital asset, Spatial mapping and Spatial anchors server - Service Enabler Architecture Layer for Verticals (SEAL); Protocol specification;",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/24550.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.550/24550-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.550/24550-k10.zip"
   },
   {
     "type": "TS",
@@ -1301,7 +1301,7 @@
     "title": "Proximity-services (ProSe) in 5G System (5GS) protocol aspects; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/24554.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.554/24554-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.554/24554-k10.zip"
   },
   {
     "type": "TS",
@@ -1309,7 +1309,7 @@
     "title": "Proximity-services (ProSe) in 5G System (5GS); User Equipment (UE) policies; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/24555.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.555/24555-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.555/24555-k10.zip"
   },
   {
     "type": "TS",
@@ -1333,7 +1333,7 @@
     "title": "Artificial Intelligence Machine Learning (AIML) Services - Service Enabler Architecture Layer for Verticals (SEAL); Protocol Specification; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/24560.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.560/24560-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.560/24560-k10.zip"
   },
   {
     "type": "TS",
@@ -1349,7 +1349,7 @@
     "title": "5G System (5GS); Control plane Location Services (LCS) procedures; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/24571.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.571/24571-j40.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.571/24571-j50.zip"
   },
   {
     "type": "TS",
@@ -1389,7 +1389,7 @@
     "title": "Mission Critical Video (MCVideo) media plane control; Protocol specification",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/24581.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.581/24581-j20.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.581/24581-j30.zip"
   },
   {
     "type": "TS",

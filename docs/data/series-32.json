@@ -389,7 +389,7 @@
     "title": "Telecommunication management; Fixed Mobile Convergence (FMC) model repertoire",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/32156.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/32_series/32.156/32156-k10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/32_series/32.156/32156-k20.zip"
   },
   {
     "type": "TS",
@@ -421,7 +421,7 @@
     "title": "Management and orchestration; Management service template",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/32160.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/32_series/32.160/32160-k10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/32_series/32.160/32160-k20.zip"
   },
   {
     "type": "TS",
@@ -533,7 +533,7 @@
     "title": "Telecommunication management; Charging management; Charging architecture and principles",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/32240.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/32_series/32.240/32240-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/32_series/32.240/32240-k10.zip"
   },
   {
     "type": "TS",
@@ -581,7 +581,7 @@
     "title": "Telecommunication management; Charging management; 5G data connectivity domain charging; Stage 2",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/32255.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/32_series/32.255/32255-k20.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/32_series/32.255/32255-k30.zip"
   },
   {
     "type": "TS",
@@ -589,7 +589,7 @@
     "title": "Charging management; 5G connection and mobility domain charging; Stage 2",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/32256.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/32_series/32.256/32256-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/32_series/32.256/32256-k10.zip"
   },
   {
     "type": "TS",
@@ -605,7 +605,7 @@
     "title": "Telecommunication management;Charging management;IP Multimedia Subsystem (IMS) charging",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/32260.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/32_series/32.260/32260-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/32_series/32.260/32260-k10.zip"
   },
   {
     "type": "TS",
@@ -717,7 +717,7 @@
     "title": "Telecommunication management; Charging management; 5G system; Services, operations and procedures of charging using Service Based Interface (SBI)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/32290.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/32_series/32.290/32290-j50.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/32_series/32.290/32290-k00.zip"
   },
   {
     "type": "TS",
@@ -725,7 +725,7 @@
     "title": "Telecommunication management; Charging management; 5G system, charging service; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/32291.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/32_series/32.291/32291-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/32_series/32.291/32291-k10.zip"
   },
   {
     "type": "TS",
@@ -773,7 +773,7 @@
     "title": "Telecommunication management; Charging management; Charging Data Record (CDR) parameter description",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/32298.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/32_series/32.298/32298-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/32_series/32.298/32298-k10.zip"
   },
   {
     "type": "TS",
@@ -1525,7 +1525,7 @@
     "title": "Telecommunication management; Subscriber and equipment trace; Trace control and configuration management",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/32422.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/32_series/32.422/32422-k20.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/32_series/32.422/32422-k30.zip"
   },
   {
     "type": "TS",
@@ -1533,7 +1533,7 @@
     "title": "Telecommunication management; Subscriber and equipment trace; Trace data definition and management",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/32423.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/32_series/32.423/32423-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/32_series/32.423/32423-k10.zip"
   },
   {
     "type": "TS",
