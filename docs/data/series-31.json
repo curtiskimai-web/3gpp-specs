@@ -21,7 +21,7 @@
     "title": "Characteristics of the Universal Subscriber Identity Module (USIM) application",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/31102.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/31_series/31.102/31102-j50.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/31_series/31.102/31102-k00.zip"
   },
   {
     "type": "TS",
@@ -29,7 +29,7 @@
     "title": "Characteristics of the IP Multimedia Services Identity Module (ISIM) application",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/31103.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/31_series/31.103/31103-j00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/31_series/31.103/31103-j10.zip"
   },
   {
     "type": "TS",
@@ -109,7 +109,7 @@
     "title": "Universal Subscriber Identity Module Application Toolkit (USAT) application behavioural test specification",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/31117.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/31_series/31.117/31117-j20.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/31_series/31.117/31117-j30.zip"
   },
   {
     "type": "TS",
@@ -125,7 +125,7 @@
     "title": "UICC-terminal interface; Universal Subscriber Identity Module (USIM) application test specification",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/31121.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/31_series/31.121/31121-i60.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/31_series/31.121/31121-j00.zip"
   },
   {
     "type": "TS",
@@ -133,7 +133,7 @@
     "title": "Universal Subscriber Identity Module (USIM) conformance test specification",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/31122.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/31_series/31.122/31122-i60.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/31_series/31.122/31122-j00.zip"
   },
   {
     "type": "TS",
@@ -149,7 +149,7 @@
     "title": "Mobile Equipment (ME) conformance test specification; Universal Subscriber Identity Module Application Toolkit (USAT) conformance test specification",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/31124.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/31_series/31.124/31124-i70.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/31_series/31.124/31124-j00.zip"
   },
   {
     "type": "TS",
@@ -157,7 +157,7 @@
     "title": "UICC-terminal interaction; non-removable Universal Subscriber Identity Module (nrUSIM) application behavioural test specification",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/31127.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/31_series/31.127/31127-i50.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/31_series/31.127/31127-j00.zip"
   },
   {
     "type": "TS",
@@ -197,7 +197,7 @@
     "title": "Test specification for (U)SIM; Application Programming Interface (API) for Java Card™",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/31213.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/31_series/31.213/31213-i40.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/31_series/31.213/31213-i50.zip"
   },
   {
     "type": "TS",

@@ -669,7 +669,7 @@
     "title": "IMS-based AR Real-Time Communication",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26264.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.264/26264-j30.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.264/26264-j40.zip"
   },
   {
     "type": "TS",
@@ -1030,6 +1030,14 @@
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26522.htm",
     "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.522/26522-j40.zip"
+  },
+  {
+    "type": "TS",
+    "no": "26.527",
+    "title": "Protocols, network APIs and data types for application energy consumption information collection and reporting; Stage 3",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/26527.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.527/26527-010.zip"
   },
   {
     "type": "TS",

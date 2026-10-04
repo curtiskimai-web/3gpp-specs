@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T07:32:09Z",
+  "updated_at": "2026-10-04T07:43:15Z",
   "series": [
     {
       "series": 21,
@@ -49,11 +49,11 @@
     {
       "series": 26,
       "desc": "Codecs",
-      "total": 255,
-      "ts": 139,
+      "total": 256,
+      "ts": 140,
       "tr": 116,
       "withdrawn": 19,
-      "ftp_found": 228
+      "ftp_found": 229
     },
     {
       "series": 27,
@@ -94,70 +94,65 @@
     {
       "series": 32,
       "desc": "OAM&P & Charging",
-      "total": 467,
-      "ts": 388,
+      "total": 468,
+      "ts": 389,
       "tr": 79,
       "withdrawn": 75,
-      "ftp_found": 390
+      "ftp_found": 391
     },
     {
       "series": 33,
       "desc": "Security aspects",
-      "total": 279,
+      "total": 280,
       "ts": 91,
-      "tr": 188,
-      "withdrawn": 32,
+      "tr": 189,
+      "withdrawn": 33,
       "ftp_found": 244
     },
     {
       "series": 34,
       "desc": "UE & SIM test specifications",
-      "total": 0,
-      "ts": 0,
-      "tr": 0,
-      "withdrawn": 0,
-      "ftp_found": 0,
-      "error": "500 Server Error: Internal Server Error for url: https://www.3gpp.org/dynareport?code=34-series.htm"
+      "total": 28,
+      "ts": 20,
+      "tr": 8,
+      "withdrawn": 3,
+      "ftp_found": 25
     },
     {
       "series": 35,
       "desc": "Security algorithms",
-      "total": 0,
-      "ts": 0,
-      "tr": 0,
-      "withdrawn": 0,
-      "ftp_found": 0,
-      "error": "500 Server Error: Internal Server Error for url: https://www.3gpp.org/dynareport?code=35-series.htm"
+      "total": 41,
+      "ts": 34,
+      "tr": 7,
+      "withdrawn": 3,
+      "ftp_found": 38
     },
     {
       "series": 36,
       "desc": "LTE (E-UTRA)",
-      "total": 0,
-      "ts": 0,
-      "tr": 0,
-      "withdrawn": 0,
-      "ftp_found": 0,
-      "error": "500 Server Error: Internal Server Error for url: https://www.3gpp.org/dynareport?code=36-series.htm"
+      "total": 313,
+      "ts": 90,
+      "tr": 223,
+      "withdrawn": 37,
+      "ftp_found": 276
     },
     {
       "series": 37,
       "desc": "Multiple Radio Access Technology",
-      "total": 0,
-      "ts": 0,
-      "tr": 0,
-      "withdrawn": 0,
-      "ftp_found": 0,
-      "error": "HTTPSConnectionPool(host='www.3gpp.org', port=443): Read timed out. (read timeout=30)"
+      "total": 146,
+      "ts": 46,
+      "tr": 100,
+      "withdrawn": 8,
+      "ftp_found": 138
     },
     {
       "series": 38,
       "desc": "NR (5G New Radio)",
-      "total": 0,
-      "ts": 0,
-      "tr": 0,
-      "withdrawn": 0,
-      "ftp_found": 0,
-      "error": "500 Server Error: Internal Server Error for url: https://www.3gpp.org/dynareport?code=38-series.htm"
+      "total": 277,
+      "ts": 101,
+      "tr": 176,
+      "withdrawn": 6,
+      "ftp_found": 270
     }
   ]
 }

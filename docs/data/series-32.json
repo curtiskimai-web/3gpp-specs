@@ -713,6 +713,14 @@
   },
   {
     "type": "TS",
+    "no": "32.283",
+    "title": "Charging aspects of integrated sensing and communications",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/32283.htm",
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/32_series/32.283/32283-000.zip"
+  },
+  {
+    "type": "TS",
     "no": "32.290",
     "title": "Telecommunication management; Charging management; 5G system; Services, operations and procedures of charging using Service Based Interface (SBI)",
     "withdrawn": false,

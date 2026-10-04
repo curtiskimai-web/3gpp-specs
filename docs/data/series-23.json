@@ -13,7 +13,7 @@
     "title": "Numbering, addressing and identification",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23003.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.003/23003-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.003/23003-k10.zip"
   },
   {
     "type": "TS",
@@ -805,7 +805,7 @@
     "title": "Common API Framework for 3GPP Northbound APIs",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23222.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.222/23222-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.222/23222-k10.zip"
   },
   {
     "type": "TS",
@@ -917,7 +917,7 @@
     "title": "Application layer support for Uncrewed Aerial System (UAS); Functional architecture and information flows;",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23255.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.255/23255-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.255/23255-k10.zip"
   },
   {
     "type": "TS",
@@ -997,7 +997,7 @@
     "title": "Common functional architecture to support mission critical services; Stage 2",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23280.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.280/23280-k40.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.280/23280-k50.zip"
   },
   {
     "type": "TS",
@@ -1005,7 +1005,7 @@
     "title": "Functional architecture and information flows to support Mission Critical Video (MCVideo); Stage 2",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23281.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.281/23281-k40.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.281/23281-k51.zip"
   },
   {
     "type": "TS",
@@ -1013,7 +1013,7 @@
     "title": "Functional architecture and information flows to support Mission Critical Data (MCData); Stage 2",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23282.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.282/23282-k20.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.282/23282-k30.zip"
   },
   {
     "type": "TS",
@@ -1045,7 +1045,7 @@
     "title": "Application layer support for Vehicle-to-Everything (V2X) services; Functional architecture and information flows",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23286.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.286/23286-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.286/23286-k10.zip"
   },
   {
     "type": "TS",
@@ -1069,7 +1069,7 @@
     "title": "Mission Critical services over 5G System; Stage 2",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23289.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.289/23289-k20.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.289/23289-k30.zip"
   },
   {
     "type": "TS",
@@ -1157,7 +1157,7 @@
     "title": "Functional architecture and information flows for Energy Saving Enablement Service",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23366.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.366/23366-200.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.366/23366-k00.zip"
   },
   {
     "type": "TS",
@@ -1189,7 +1189,7 @@
     "title": "Application enablement for Ambient IoT services",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23370.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.370/23370-200.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.370/23370-k00.zip"
   },
   {
     "type": "TS",
@@ -1205,7 +1205,7 @@
     "title": "Functional architecture and information flows to support Mission Critical Push To Talk (MCPTT); Stage 2",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23379.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.379/23379-k30.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.379/23379-k40.zip"
   },
   {
     "type": "TS",
@@ -1221,7 +1221,7 @@
     "title": "Application enablement aspects for MMTel",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23392.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.392/23392-k01.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.392/23392-k10.zip"
   },
   {
     "type": "TS",
@@ -1269,7 +1269,7 @@
     "title": "Service Enabler Architecture Layer for Verticals (SEAL); Data Delivery enabler for vertical applications",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23433.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.433/23433-k30.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.433/23433-k40.zip"
   },
   {
     "type": "TS",
@@ -1293,7 +1293,7 @@
     "title": "Functional architecture and information flows for Application Data Analytics Enablement Service",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23436.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.436/23436-k11.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.436/23436-k20.zip"
   },
   {
     "type": "TS",
@@ -1301,7 +1301,7 @@
     "title": "Service Enabler Architecture Layer for Verticals (SEAL); Spatial map and Spatial anchors;",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23437.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.437/23437-k30.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.437/23437-k40.zip"
   },
   {
     "type": "TS",
@@ -1333,7 +1333,7 @@
     "title": "Functional architecture and information flows for AIML Enablement Service",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23482.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.482/23482-k20.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.482/23482-k30.zip"
   },
   {
     "type": "TS",
@@ -1437,7 +1437,7 @@
     "title": "5G System: Technical realization of Service Based Short Message Service; Stage 2",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23540.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.540/23540-j20.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.540/23540-k00.zip"
   },
   {
     "type": "TS",
@@ -1445,7 +1445,7 @@
     "title": "Application layer support for Personal IoT Network",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23542.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.542/23542-k20.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.542/23542-k30.zip"
   },
   {
     "type": "TS",
@@ -1477,7 +1477,7 @@
     "title": "Architecture for enabling Edge Applications",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23558.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.558/23558-k20.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.558/23558-k30.zip"
   },
   {
     "type": "TS",
@@ -1829,7 +1829,7 @@
     "title": "Study on logging and recording of mission critical services, Phase2",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23700-39.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-39/23700-39-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-39/23700-39-k10.zip"
   },
   {
     "type": "TR",
@@ -4101,7 +4101,7 @@
     "title": "Guidelines for 3GPP Application Enablement usage",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23947.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.947/23947-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.947/23947-k10.zip"
   },
   {
     "type": "TR",
@@ -4117,7 +4117,7 @@
     "title": "SEAL services usage guidance",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23949.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.949/23949-k10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.949/23949-k20.zip"
   },
   {
     "type": "TR",

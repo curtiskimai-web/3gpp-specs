@@ -45,7 +45,7 @@
     "title": "Service accessibility",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/22011.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/22_series/22.011/22011-j60.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/22_series/22.011/22011-l00.zip"
   },
   {
     "type": "TS",
@@ -373,7 +373,7 @@
     "title": "Service aspects; Service principles",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/22101.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/22_series/22.101/22101-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/22_series/22.101/22101-l00.zip"
   },
   {
     "type": "TS",
@@ -461,7 +461,7 @@
     "title": "Integrated Sensing and Communication",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/22137.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/22_series/22.137/22137-j10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/22_series/22.137/22137-l00.zip"
   },
   {
     "type": "TS",
@@ -533,7 +533,7 @@
     "title": "IP Multimedia Core Network Subsystem (IMS) Multimedia Telephony Service and supplementary services; Stage 1",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/22173.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/22_series/22.173/22173-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/22_series/22.173/22173-l00.zip"
   },
   {
     "type": "TS",
@@ -557,7 +557,7 @@
     "title": "Mission Critical Push to Talk (MCPTT); Stage 1",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/22179.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/22_series/22.179/22179-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/22_series/22.179/22179-l00.zip"
   },
   {
     "type": "TS",
@@ -629,7 +629,7 @@
     "title": "Service requirements for the Internet Protocol (IP) multimedia core network subsystem (IMS); Stage 1",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/22228.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/22_series/22.228/22228-j00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/22_series/22.228/22228-l00.zip"
   },
   {
     "type": "TS",
@@ -725,7 +725,7 @@
     "title": "Service requirements for the 5G system",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/22261.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/22_series/22.261/22261-k70.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/22_series/22.261/22261-k80.zip"
   },
   {
     "type": "TS",
@@ -749,7 +749,7 @@
     "title": "Public Warning System (PWS) requirements",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/22268.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/22_series/22.268/22268-k21.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/22_series/22.268/22268-l00.zip"
   },
   {
     "type": "TS",
@@ -789,7 +789,7 @@
     "title": "Mission Critical Services Common Requirements (MCCoRe); Stage 1",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/22280.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/22_series/22.280/22280-k20.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/22_series/22.280/22280-l00.zip"
   },
   {
     "type": "TS",

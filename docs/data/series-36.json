@@ -5,7 +5,7 @@
     "title": "Evolved Universal Terrestrial Radio Access (E-UTRA); User Equipment (UE) radio transmission and reception",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/36101.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.101/36101-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.101/36101-k10.zip"
   },
   {
     "type": "TS",
@@ -13,7 +13,7 @@
     "title": "Evolved Universal Terrestrial Radio Access (E-UTRA); User Equipment (UE) radio transmission and reception for satellite access",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/36102.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.102/36102-j40.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.102/36102-k00.zip"
   },
   {
     "type": "TS",
@@ -37,7 +37,7 @@
     "title": "Evolved Universal Terrestrial Radio Access (E-UTRA); Satellite Access Node radio transmission and reception",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/36108.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.108/36108-j40.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.108/36108-k00.zip"
   },
   {
     "type": "TS",
@@ -93,7 +93,7 @@
     "title": "Evolved Universal Terrestrial Radio Access (E-UTRA); Requirements for support of radio resource management",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/36133.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.133/36133-j50.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.133/36133-j60.zip"
   },
   {
     "type": "TS",
@@ -165,7 +165,7 @@
     "title": "Evolved Universal Terrestrial Radio Access (E-UTRA); Physical layer procedures",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/36213.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.213/36213-j40.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.213/36213-j50.zip"
   },
   {
     "type": "TS",
@@ -213,7 +213,7 @@
     "title": "Evolved Universal Terrestrial Radio Access (E-UTRA); User Equipment (UE) procedures in idle mode",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/36304.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.304/36304-j20.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.304/36304-j30.zip"
   },
   {
     "type": "TS",
@@ -237,7 +237,7 @@
     "title": "Evolved Universal Terrestrial Radio Access (E-UTRA); Requirements on User Equipments (UEs) supporting a release-independent frequency band",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/36307.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.307/36307-j30.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.307/36307-k00.zip"
   },
   {
     "type": "TS",
@@ -277,7 +277,7 @@
     "title": "Evolved Universal Terrestrial Radio Access (E-UTRA); Radio Resource Control (RRC); Protocol specification",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/36331.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.331/36331-j30.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.331/36331-j40.zip"
   },
   {
     "type": "TS",
@@ -605,7 +605,7 @@
     "title": "Evolved Universal Terrestrial Radio Access (E-UTRA) and Evolved Packet Core (EPC); User Equipment (UE) conformance specification; Part 2: Implementation Conformance Statement (ICS) proforma specification",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/36523-2.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.523-2/36523-2-j31.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.523-2/36523-2-j40.zip"
   },
   {
     "type": "TS",
@@ -1181,7 +1181,7 @@
     "title": "LTE IoT NTN operating bands",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/36764.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.764/36764-j10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/36_series/36.764/36764-k00.zip"
   },
   {
     "type": "TR",

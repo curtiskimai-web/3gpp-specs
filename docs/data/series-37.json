@@ -13,7 +13,7 @@
     "title": "Active Antenna System (AAS) Base Station (BS) transmission and reception",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/37105.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/37_series/37.105/37105-j30.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/37_series/37.105/37105-j40.zip"
   },
   {
     "type": "TS",
@@ -85,7 +85,7 @@
     "title": "Active Antenna System (AAS) Base Station (BS) conformance testing;  Part 1: conducted conformance testing",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/37145-1.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/37_series/37.145-1/37145-1-j30.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/37_series/37.145-1/37145-1-j40.zip"
   },
   {
     "type": "TS",
@@ -93,7 +93,7 @@
     "title": "Active Antenna System (AAS) Base Station (BS) conformance testing;  Part 2: radiated conformance testing",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/37145-2.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/37_series/37.145-2/37145-2-j50.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/37_series/37.145-2/37145-2-j60.zip"
   },
   {
     "type": "TS",
@@ -117,7 +117,7 @@
     "title": "Radio measurement collection for Minimization of Drive Tests (MDT); Overall description; Stage 2",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/37320.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/37_series/37.320/37320-j30.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/37_series/37.320/37320-j40.zip"
   },
   {
     "type": "TS",
@@ -213,7 +213,7 @@
     "title": "E1 general aspects and principles",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/37480.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/37_series/37.480/37480-j00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/37_series/37.480/37480-j10.zip"
   },
   {
     "type": "TS",
@@ -237,7 +237,7 @@
     "title": "E1 Application Protocol (E1AP)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/37483.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/37_series/37.483/37483-j30.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/37_series/37.483/37483-j40.zip"
   },
   {
     "type": "TS",

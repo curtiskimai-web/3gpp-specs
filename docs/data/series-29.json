@@ -301,7 +301,7 @@
     "title": "IP Multimedia Subsystem (IMS) Application Server (AS) Services Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29175.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.175/29175-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.175/29175-k10.zip"
   },
   {
     "type": "TS",
@@ -309,7 +309,7 @@
     "title": "IP Multimedia Subsystems (IMS); Media Function (MF) Services; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29176.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.176/29176-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.176/29176-k10.zip"
   },
   {
     "type": "TS",
@@ -853,7 +853,7 @@
     "title": "IP Multimedia (IM) Subsystem Cx and Dx Interfaces; Signalling flows and message contents",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29228.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.228/29228-j20.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.228/29228-k00.zip"
   },
   {
     "type": "TS",
@@ -925,7 +925,7 @@
     "title": "Interface between the Control Plane and the User Plane nodes",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29244.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.244/29244-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.244/29244-k10.zip"
   },
   {
     "type": "TS",
@@ -957,7 +957,7 @@
     "title": "Uncrewed Aerial Systems Network Function (UAS-NF); Aerial Management Services; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29256.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.256/29256-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.256/29256-k10.zip"
   },
   {
     "type": "TS",
@@ -973,7 +973,7 @@
     "title": "Evolved Packet System (EPS); Mobility Management Entity (MME) and Serving GPRS Support Node (SGSN) related interfaces based on Diameter protocol",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29272.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.272/29272-j50.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.272/29272-j60.zip"
   },
   {
     "type": "TS",
@@ -989,7 +989,7 @@
     "title": "3GPP Evolved Packet System (EPS); Evolved General Packet Radio Service (GPRS) Tunnelling Protocol for Control plane (GTPv2-C); Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29274.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.274/29274-j60.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.274/29274-k00.zip"
   },
   {
     "type": "TS",
@@ -1077,7 +1077,7 @@
     "title": "Domain Name System Procedures; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29303.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.303/29303-j10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.303/29303-k00.zip"
   },
   {
     "type": "TS",
@@ -1117,7 +1117,7 @@
     "title": "IP Multimedia (IM) Subsystem Sh interface; Signalling flows and message contents",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29328.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.328/29328-j20.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.328/29328-k00.zip"
   },
   {
     "type": "TS",
@@ -1237,7 +1237,7 @@
     "title": "5G System; Ambient IoT Data Management Services; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29369.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.369/29369-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.369/29369-k10.zip"
   },
   {
     "type": "TS",
@@ -1421,7 +1421,7 @@
     "title": "5G System; Technical Realization of Service Based Architecture; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29500.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.500/29500-j70.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.500/29500-k00.zip"
   },
   {
     "type": "TS",
@@ -1437,7 +1437,7 @@
     "title": "5G System; Session Management Services; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29502.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.502/29502-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.502/29502-k10.zip"
   },
   {
     "type": "TS",
@@ -1445,7 +1445,7 @@
     "title": "5G System; Unified Data Management Services; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29503.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.503/29503-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.503/29503-k10.zip"
   },
   {
     "type": "TS",
@@ -1453,7 +1453,7 @@
     "title": "5G System; Unified Data Repository Services; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29504.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.504/29504-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.504/29504-k10.zip"
   },
   {
     "type": "TS",
@@ -1501,7 +1501,7 @@
     "title": "5G System; Network function repository services; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29510.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.510/29510-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.510/29510-k10.zip"
   },
   {
     "type": "TS",
@@ -1541,7 +1541,7 @@
     "title": "5G System; Gateway Mobile Location Services; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29515.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.515/29515-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.515/29515-k10.zip"
   },
   {
     "type": "TS",
@@ -1565,7 +1565,7 @@
     "title": "5G System; Access and Mobility Management Services; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29518.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.518/29518-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.518/29518-k10.zip"
   },
   {
     "type": "TS",
@@ -1629,7 +1629,7 @@
     "title": "5G System; Network Slice-Specific and SNPN  Authentication and Authorization services; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29526.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.526/29526-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.526/29526-k10.zip"
   },
   {
     "type": "TS",
@@ -1693,7 +1693,7 @@
     "title": "5G System; Network Slice Admission Control Services; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29536.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.536/29536-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.536/29536-k10.zip"
   },
   {
     "type": "TS",
@@ -1717,7 +1717,7 @@
     "title": "5G System; SMS Services; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29540.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.540/29540-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.540/29540-k10.zip"
   },
   {
     "type": "TS",
@@ -1869,7 +1869,7 @@
     "title": "5G System; Home Subscriber Server (HSS) services; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29562.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.562/29562-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.562/29562-k10.zip"
   },
   {
     "type": "TS",
@@ -1885,7 +1885,7 @@
     "title": "5G System; User Plane Function Services; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29564.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.564/29564-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.564/29564-k10.zip"
   },
   {
     "type": "TS",
@@ -1933,7 +1933,7 @@
     "title": "5G System; Service Communication Proxy Services; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29570.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.570/29570-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.570/29570-k10.zip"
   },
   {
     "type": "TS",
@@ -1941,7 +1941,7 @@
     "title": "5G System; Common Data Types for Service Based Interfaces; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29571.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.571/29571-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.571/29571-k10.zip"
   },
   {
     "type": "TS",
@@ -1949,7 +1949,7 @@
     "title": "5G System; Location Management Services; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29572.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.572/29572-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.572/29572-k10.zip"
   },
   {
     "type": "TS",
@@ -1957,7 +1957,7 @@
     "title": "5G System; Public Land Mobile Network (PLMN) Interconnection; Stage 3",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29573.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.573/29573-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.573/29573-k10.zip"
   },
   {
     "type": "TS",
@@ -2501,7 +2501,7 @@
     "title": "Study on IMS resiliency",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/29867.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.867/29867-200.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/29_series/29.867/29867-k00.zip"
   },
   {
     "type": "TR",

@@ -197,7 +197,7 @@
     "title": "Specification of the Snow 5G based 256-bits algorithm set: specification of the 256-NEA4 encryption, the 256-NIA4 integrity, and the 256-NCA4 authenticated encryption algorithm for 5G; Document 1: algorithm specification",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/35240.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/35_series/35.240/35240-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/35_series/35.240/35240-k10.zip"
   },
   {
     "type": "TS",
