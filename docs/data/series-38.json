@@ -653,7 +653,7 @@
     "title": "5GS; User Equipment (UE) conformance specification; Part 1: Common test environment",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38508-1.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.508-1/38508-1-j50.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.508-1/38508-1-k00.zip"
   },
   {
     "type": "TS",
@@ -669,7 +669,7 @@
     "title": "5GS; Special conformance testing functions for User Equipment (UE)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38509.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.509/38509-i10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.509/38509-j00.zip"
   },
   {
     "type": "TS",
@@ -677,7 +677,7 @@
     "title": "NR; User Equipment (UE) conformance specification;  Radio transmission and reception; Part 1: Range 1 standalone",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38521-1.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.521-1/38521-1-j51.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.521-1/38521-1-k00.zip"
   },
   {
     "type": "TS",
@@ -693,7 +693,7 @@
     "title": "NR; User Equipment (UE) conformance specification; Radio transmission and reception; Part 3: Range 1 and Range 2 Interworking operation with other radios",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38521-3.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.521-3/38521-3-j60.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.521-3/38521-3-k00.zip"
   },
   {
     "type": "TS",
@@ -717,7 +717,7 @@
     "title": "NR; User Equipment (UE) conformance specification; Applicability of radio transmission, radio reception and radio resource management test cases",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38522.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.522/38522-j50.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.522/38522-k00.zip"
   },
   {
     "type": "TS",
@@ -725,7 +725,7 @@
     "title": "5GS; User Equipment (UE) conformance specification; Part 1: Protocol",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38523-1.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.523-1/38523-1-j50.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.523-1/38523-1-j60.zip"
   },
   {
     "type": "TS",
@@ -741,7 +741,7 @@
     "title": "5GS; User Equipment (UE) conformance specification; Part 3: Protocol Test Suites",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38523-3.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.523-3/38523-3-j00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.523-3/38523-3-j10.zip"
   },
   {
     "type": "TS",
@@ -757,7 +757,7 @@
     "title": "NR; User Equipment (UE) Multiple Input Multiple Output (MIMO) Over-the-Air (OTA) performance; Conformance testing",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38551.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.551/38551-j00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.551/38551-j10.zip"
   },
   {
     "type": "TS",
@@ -765,7 +765,7 @@
     "title": "NR; User Equipment (UE) conformance specification; UE TRP (Total Radiated Power) and TRS (Total Radiated Sensitivity) requirements and test methodologies for FR1 (NR SA and EN-DC)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38561.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.561/38561-j10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.561/38561-j20.zip"
   },
   {
     "type": "TS",
@@ -2149,7 +2149,7 @@
     "title": "NR; Derivation of test points for radio transmission and reception User Equipment (UE) conformance test cases",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38905.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.905/38905-j42.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.905/38905-k01.zip"
   },
   {
     "type": "TR",
@@ -2181,7 +2181,7 @@
     "title": "Study on 6G Scenarios and requirements",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38914.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.914/38914-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.914/38914-k10.zip"
   },
   {
     "type": "TR",

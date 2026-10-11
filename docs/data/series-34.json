@@ -125,7 +125,7 @@
     "title": "Internet Protocol (IP) multimedia call control protocol based on Session Initiation Protocol (SIP) and Session Description Protocol (SDP); User Equipment (UE) conformance specification; Part 1: Protocol conformance specification",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/34229-1.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/34_series/34.229-1/34229-1-j60.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/34_series/34.229-1/34229-1-j70.zip"
   },
   {
     "type": "TS",
@@ -141,7 +141,7 @@
     "title": "Internet Protocol (IP) multimedia call control protocol based on Session Initiation Protocol (SIP) and Session Description Protocol (SDP); User Equipment (UE) conformance specification; Part 3: Abstract test suite (ATS)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/34229-3.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/34_series/34.229-3/34229-3-j40.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/34_series/34.229-3/34229-3-j50.zip"
   },
   {
     "type": "TS",
@@ -157,7 +157,7 @@
     "title": "Internet Protocol (IP) multimedia call control protocol based on Session Initiation Protocol (SIP) and Session Description Protocol (SDP); User Equipment (UE) conformance specification; Part 5: Protocol conformance specification using 5G System (5GS)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/34229-5.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/34_series/34.229-5/34229-5-j50.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/34_series/34.229-5/34229-5-j60.zip"
   },
   {
     "type": "TR",

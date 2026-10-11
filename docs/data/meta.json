@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T07:43:15Z",
+  "updated_at": "2026-10-11T08:14:15Z",
   "series": [
     {
       "series": 21,
@@ -98,7 +98,7 @@
       "ts": 389,
       "tr": 79,
       "withdrawn": 75,
-      "ftp_found": 391
+      "ftp_found": 390
     },
     {
       "series": 33,

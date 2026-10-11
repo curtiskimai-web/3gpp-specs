@@ -669,7 +669,7 @@
     "title": "IMS-based AR Real-Time Communication",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26264.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.264/26264-j40.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.264/26264-j41.zip"
   },
   {
     "type": "TS",
@@ -677,7 +677,7 @@
     "title": "Media Delivery: Video Capabilities and Operation Points",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26265.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.265/26265-j20.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.265/26265-j30.zip"
   },
   {
     "type": "TS",
@@ -973,7 +973,7 @@
     "title": "5G Media Streaming (5GMS); General description and architecture",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26501.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.501/26501-j40.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.501/26501-k00.zip"
   },
   {
     "type": "TS",
@@ -981,7 +981,7 @@
     "title": "5G multicast-broadcast services; User service architecture",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26502.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.502/26502-j50.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.502/26502-j60.zip"
   },
   {
     "type": "TS",
@@ -989,7 +989,7 @@
     "title": "5G Real-time Media Communication Architecture (Stage 2)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26506.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.506/26506-j20.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.506/26506-k00.zip"
   },
   {
     "type": "TS",
@@ -1021,7 +1021,7 @@
     "title": "5G Multicast-Broadcast User Services; Protocols and Formats",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26517.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.517/26517-j20.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.517/26517-j30.zip"
   },
   {
     "type": "TS",
@@ -1117,7 +1117,7 @@
     "title": "Split rendering over IMS",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26567.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.567/26567-j10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.567/26567-j20.zip"
   },
   {
     "type": "TR",
@@ -1149,7 +1149,7 @@
     "title": "Study on 5G media streaming extensions",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26804.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.804/26804-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.804/26804-k10.zip"
   },
   {
     "type": "TR",
@@ -1181,7 +1181,7 @@
     "title": "Avatar Representation and Communication",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26813.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.813/26813-j20.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.813/26813-k00.zip"
   },
   {
     "type": "TR",
@@ -1749,7 +1749,7 @@
     "title": "Study on Ultra Low Bit rate Speech Codecs",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26940.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.940/26940-k00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.940/26940-k10.zip"
   },
   {
     "type": "TR",
@@ -1757,7 +1757,7 @@
     "title": "Network Slicing Extensions for 5G media services",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26941.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.941/26941-j01.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.941/26941-k00.zip"
   },
   {
     "type": "TR",
@@ -1917,7 +1917,7 @@
     "title": "Evaluation of new HEVC coding tools",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26966.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.966/26966-j00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.966/26966-k00.zip"
   },
   {
     "type": "TR",

@@ -253,7 +253,7 @@
     "title": "User Equipment (UE) conformance specification for UE positioning; Part 1: Conformance test specification",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/37571-1.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/37_series/37.571-1/37571-1-j10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/37_series/37.571-1/37571-1-j20.zip"
   },
   {
     "type": "TS",
@@ -261,7 +261,7 @@
     "title": "User Equipment (UE) conformance specification for UE positioning; Part 2: Protocol conformance",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/37571-2.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/37_series/37.571-2/37571-2-j10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/37_series/37.571-2/37571-2-j20.zip"
   },
   {
     "type": "TS",
@@ -269,7 +269,7 @@
     "title": "User Equipment (UE) conformance specification for UE positioning; Part 3: Implementation Conformance Statement (ICS)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/37571-3.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/37_series/37.571-3/37571-3-j00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/37_series/37.571-3/37571-3-j10.zip"
   },
   {
     "type": "TS",
@@ -285,7 +285,7 @@
     "title": "User Equipment (UE) conformance specification for UE positioning; Part 5: Test scenarios and assistance data",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/37571-5.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/37_series/37.571-5/37571-5-j10.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/37_series/37.571-5/37571-5-j20.zip"
   },
   {
     "type": "TS",
@@ -293,7 +293,7 @@
     "title": "Mission Critical (MC) services; Part 1: Common test environment",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/37579-1.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/37_series/37.579-1/37579-1-i00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/37_series/37.579-1/37579-1-i10.zip"
   },
   {
     "type": "TS",
@@ -309,7 +309,7 @@
     "title": "Mission Critical (MC) services; Part 2: Mission Critical Push To Talk (MCPTT) User Equipment (UE) Protocol conformance specification",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/37579-2.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/37_series/37.579-2/37579-2-i00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/37_series/37.579-2/37579-2-i10.zip"
   },
   {
     "type": "TS",
@@ -325,7 +325,7 @@
     "title": "Mission Critical (MC) services; Part 4: Test Applicability and Implementation Conformance Statement (ICS) proforma specification",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/37579-4.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/37_series/37.579-4/37579-4-i00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/37_series/37.579-4/37579-4-i10.zip"
   },
   {
     "type": "TS",
@@ -333,7 +333,7 @@
     "title": "Mission Critical (MC) services; Part 5: Abstract test suite (ATS)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/37579-5.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/37_series/37.579-5/37579-5-j00.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/37_series/37.579-5/37579-5-j10.zip"
   },
   {
     "type": "TS",
@@ -341,7 +341,7 @@
     "title": "Mission Critical (MC) services; Part 6: Mission Critical Video (MCVideo) User Equipment (UE) Protocol conformance specification",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/37579-6.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/37_series/37.579-6/37579-6-h60.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/37_series/37.579-6/37579-6-i00.zip"
   },
   {
     "type": "TS",
@@ -349,7 +349,7 @@
     "title": "Mission Critical (MC) services; Part 7: Mission Critical Data (MCData) User Equipment (UE) Protocol conformance specification",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/37579-7.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/37_series/37.579-7/37579-7-h60.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/37_series/37.579-7/37579-7-h70.zip"
   },
   {
     "type": "TS",

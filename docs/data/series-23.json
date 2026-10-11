@@ -997,7 +997,7 @@
     "title": "Common functional architecture to support mission critical services; Stage 2",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23280.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.280/23280-k50.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.280/23280-k51.zip"
   },
   {
     "type": "TS",
@@ -1013,7 +1013,7 @@
     "title": "Functional architecture and information flows to support Mission Critical Data (MCData); Stage 2",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23282.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.282/23282-k30.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.282/23282-k31.zip"
   },
   {
     "type": "TS",
