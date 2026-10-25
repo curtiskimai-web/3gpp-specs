@@ -1197,7 +1197,7 @@
     "title": "AIoT network identification selection for AIoT devices",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23371.htm",
-    "ftp_latest": null
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.371/23371-000.zip"
   },
   {
     "type": "TS",
@@ -1813,7 +1813,7 @@
     "title": "Study on discreet listening and monitoring of mission critical services, Phase2",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23700-37.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-37/23700-37-060.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-37/23700-37-070.zip"
   },
   {
     "type": "TR",
@@ -3085,7 +3085,7 @@
     "title": "Study on 6G Application Enablement",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23801-02.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.801-02/23801-02-041.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.801-02/23801-02-050.zip"
   },
   {
     "type": "TR",
@@ -3093,7 +3093,7 @@
     "title": "Study on MC architecture evolution and 6G capabilities for MC services",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23801-03.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.801-03/23801-03-031.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.801-03/23801-03-040.zip"
   },
   {
     "type": "TR",
@@ -3109,7 +3109,7 @@
     "title": "Study on Improvements on Capability Exposure",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23801-05.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.801-05/23801-05-010.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.801-05/23801-05-020.zip"
   },
   {
     "type": "TR",

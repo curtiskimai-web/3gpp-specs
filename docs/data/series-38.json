@@ -645,7 +645,7 @@
     "title": "NG-RAN; Ns Application Protocol (NsAP)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38483.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.483/38483-000.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.483/38483-010.zip"
   },
   {
     "type": "TS",
@@ -1141,7 +1141,7 @@
     "title": "Study on 6G Radio RAN3 aspects",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38760-3.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.760-3/38760-3-070.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.760-3/38760-3-080.zip"
   },
   {
     "type": "TR",
