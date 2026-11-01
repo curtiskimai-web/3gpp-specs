@@ -453,7 +453,7 @@
     "title": "IP multimedia call control protocol based on binary-encoded signalling",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/24230.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.230/24230-020.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.230/24230-030.zip"
   },
   {
     "type": "TS",
@@ -1661,7 +1661,7 @@
     "title": "Study on NAS protocol for 6G System",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/24860.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.860/24860-030.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.860/24860-040.zip"
   },
   {
     "type": "TR",
@@ -1677,7 +1677,7 @@
     "title": "Study on Network selection aspects of the 6G System",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/24862.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.862/24862-010.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/24_series/24.862/24862-020.zip"
   },
   {
     "type": "TR",

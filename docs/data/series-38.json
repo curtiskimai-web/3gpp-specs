@@ -621,7 +621,7 @@
     "title": "NG-RAN; Ns General aspects and principles",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38480.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.480/38480-000.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.480/38480-010.zip"
   },
   {
     "type": "TS",
@@ -629,7 +629,7 @@
     "title": "NG-RAN; Ns Layer 1",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38481.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.481/38481-000.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.481/38481-010.zip"
   },
   {
     "type": "TS",
@@ -637,7 +637,7 @@
     "title": "NG-RAN; Ns Signalling transport",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38482.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.482/38482-000.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.482/38482-010.zip"
   },
   {
     "type": "TS",
@@ -685,7 +685,7 @@
     "title": "NR; User Equipment (UE) conformance specification;  Radio transmission and reception; Part 2: Range 2 standalone",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38521-2.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.521-2/38521-2-j40.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.521-2/38521-2-j41.zip"
   },
   {
     "type": "TS",
@@ -709,7 +709,7 @@
     "title": "NR; User Equipment (UE) conformance specification; Radio transmission and reception; Part 5: Satellite access Radio Frequency (RF) and performance",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38521-5.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.521-5/38521-5-j30.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.521-5/38521-5-j31.zip"
   },
   {
     "type": "TS",
@@ -989,7 +989,7 @@
     "title": "Rel-20 NR inter-band CA/DC configurations including inter band CA for 2 different bands DL with up to 2 different bands UL",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38720-02-01.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.720-02-01/38720-02-01-040.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.720-02-01/38720-02-01-050.zip"
   },
   {
     "type": "TR",
@@ -997,7 +997,7 @@
     "title": "Rel-20 NR inter-band CA/DC configurations including inter band CA for 3 different bands DL with x different bands UL(x=1,2)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38720-03-01.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.720-03-01/38720-03-01-030.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.720-03-01/38720-03-01-040.zip"
   },
   {
     "type": "TR",
@@ -1125,7 +1125,7 @@
     "title": "Study on 6G Radio RAN1 aspects",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38760-1.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.760-1/38760-1-060.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.760-1/38760-1-070.zip"
   },
   {
     "type": "TR",
@@ -1173,7 +1173,7 @@
     "title": "OTA test methods for NR NTN above 10GHz",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38763.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.763/38763-040.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.763/38763-050.zip"
   },
   {
     "type": "TR",
@@ -1181,7 +1181,7 @@
     "title": "NTN DL CA and HD-FDD NTN",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38764.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.764/38764-001.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.764/38764-002.zip"
   },
   {
     "type": "TR",
@@ -1205,7 +1205,7 @@
     "title": "Uncrewed aerial vehicle (UAV) for NR",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38767.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.767/38767-010.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.767/38767-020.zip"
   },
   {
     "type": "TR",

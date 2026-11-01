@@ -1057,6 +1057,14 @@
   },
   {
     "type": "TS",
+    "no": "26.533",
+    "title": "Diverse audio Capturing System for UEs",
+    "withdrawn": false,
+    "link": "https://www.3gpp.org/dynareport/26533.htm",
+    "ftp_latest": null
+  },
+  {
+    "type": "TS",
     "no": "26.540",
     "title": "Ultra Low Bitrate Speech Codec (ULBC); General description",
     "withdrawn": false,
@@ -1221,7 +1229,7 @@
     "title": "Study on usage of dynamically changing traffic characteristics and enhanced QoS support in 5GS for media applications and services",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26823.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.823/26823-100.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.823/26823-101.zip"
   },
   {
     "type": "TR",
@@ -1389,7 +1397,7 @@
     "title": "Study on Media Aspects for 6G System",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/26870.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.870/26870-062.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/26_series/26.870/26870-063.zip"
   },
   {
     "type": "TR",

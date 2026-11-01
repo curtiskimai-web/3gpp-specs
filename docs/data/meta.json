@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T07:13:51Z",
+  "updated_at": "2026-11-01T08:38:34Z",
   "series": [
     {
       "series": 21,
@@ -49,8 +49,8 @@
     {
       "series": 26,
       "desc": "Codecs",
-      "total": 256,
-      "ts": 140,
+      "total": 257,
+      "ts": 141,
       "tr": 116,
       "withdrawn": 19,
       "ftp_found": 229

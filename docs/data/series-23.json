@@ -557,7 +557,7 @@
     "title": "Use of sensing results for Vertical Applications",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23138.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.138/23138-100.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.138/23138-111.zip"
   },
   {
     "type": "TS",
@@ -1197,7 +1197,7 @@
     "title": "AIoT network identification selection for AIoT devices",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23371.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.371/23371-000.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.371/23371-010.zip"
   },
   {
     "type": "TS",
@@ -1853,7 +1853,7 @@
     "title": "Study on application user consent",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23700-42.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-42/23700-42-140.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-42/23700-42-150.zip"
   },
   {
     "type": "TR",
@@ -3077,7 +3077,7 @@
     "title": "Study on Architecture for 6G System; Stage 2",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23801-01.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.801-01/23801-01-090.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.801-01/23801-01-0a0.zip"
   },
   {
     "type": "TR",
@@ -3085,7 +3085,7 @@
     "title": "Study on 6G Application Enablement",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23801-02.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.801-02/23801-02-050.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.801-02/23801-02-051.zip"
   },
   {
     "type": "TR",
@@ -3101,7 +3101,7 @@
     "title": "Study on IMS Architecture Enhancement",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/23801-04.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.801-04/23801-04-020.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/23_series/23.801-04/23801-04-030.zip"
   },
   {
     "type": "TR",
