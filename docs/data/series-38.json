@@ -1061,7 +1061,7 @@
     "title": "Rel-20 High power UE (power class 1.5 or 2) for NR Carrier Aggregation (CA)/Dual connectivity (DC) band combinations with/without NR Supplementary uplink (SUL)",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38747.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.747/38747-002.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.747/38747-010.zip"
   },
   {
     "type": "TR",
@@ -1125,7 +1125,7 @@
     "title": "Study on 6G Radio RAN1 aspects",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38760-1.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.760-1/38760-1-070.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.760-1/38760-1-080.zip"
   },
   {
     "type": "TR",
@@ -1133,7 +1133,7 @@
     "title": "Study on 6G Radio RAN2 aspects",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38760-2.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.760-2/38760-2-020.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.760-2/38760-2-040.zip"
   },
   {
     "type": "TR",
@@ -1149,7 +1149,7 @@
     "title": "Study on 6G Radio RAN4 aspects",
     "withdrawn": false,
     "link": "https://www.3gpp.org/dynareport/38760-4.htm",
-    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.760-4/38760-4-001.zip"
+    "ftp_latest": "https://www.3gpp.org/ftp/Specs/archive/38_series/38.760-4/38760-4-010.zip"
   },
   {
     "type": "TR",
